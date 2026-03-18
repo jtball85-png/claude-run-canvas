@@ -1,104 +1,400 @@
 {
-  "course_name": "Test Business and Finance",
-  "course_code": "BUS-TEST",
-  "description": "Placeholder description — update in Chat before pushing to production.",
+  "course_name": "Business and Finance",
+  "course_code": "BUS-FIN",
+  "duration_weeks": 18,
   "modules": [
     {
-      "name": "Start Here",
+      "name": "Module 1: Foundations of business and the workplace",
       "position": 1,
+      "weeks": "1-3",
       "items": [
         {
-          "type": "page",
-          "title": "Welcome to the Course",
-          "body": "<h2>Welcome</h2><p>Placeholder welcome message. Update this with your program introduction.</p>"
+          "type": "Page",
+          "title": "Welcome and course overview",
+          "position": 1,
+          "body": "<h2>Welcome to Business and Finance</h2><p>This course is designed to help you understand how businesses work, manage your own money, and build the skills employers are looking for. Whether you are returning to the workforce, changing careers, or starting something new, this course connects what you learn to real jobs and real life.</p><h3>What you will learn</h3><ul><li>How businesses are organized and how they operate</li><li>How to manage personal finances, budgeting, and credit</li><li>Professional communication and workplace skills</li><li>Basic business finance and accounting</li><li>How to start or work in a small business</li><li>How to plan your next career step</li></ul><h3>What to expect</h3><p>Each module runs for about three weeks. You will read lessons, complete assignments, take quizzes, and participate in discussions. Assignments are practical — most ask you to apply what you learned to your own life or a realistic situation.</p><h3>How to reach your instructor</h3><p>Use Canvas messages to contact your instructor. Expect a response within 2 business days.</p>"
         },
         {
-          "type": "page",
-          "title": "Syllabus and Course Expectations",
-          "body": "<h2>Syllabus</h2><p>Placeholder syllabus. Paste full syllabus content here.</p>"
+          "type": "Page",
+          "title": "How businesses work: an introduction",
+          "position": 2,
+          "body": "<h2>How businesses work</h2><p>A business is any organization that provides a product or service in exchange for money. Businesses range from a single person selling handmade goods to corporations with thousands of employees.</p><h3>The basic parts of a business</h3><p>Every business — no matter how big or small — has a few things in common:</p><ul><li><strong>A product or service:</strong> Something people want to buy</li><li><strong>Customers:</strong> People or organizations who pay for it</li><li><strong>Revenue:</strong> The money coming in from sales</li><li><strong>Expenses:</strong> The money going out to run the business</li><li><strong>People:</strong> Employees, owners, or contractors who do the work</li></ul><h3>How roles connect</h3><p>In most businesses, different people handle different functions: sales brings in customers, operations delivers the product or service, finance tracks the money, and human resources manages the people. Even in a small business, all of these functions exist — sometimes handled by just one or two people.</p><h3>Why this matters for your career</h3><p>Understanding how a business works helps you be a better employee. When you know how your role connects to the bigger picture, you can make better decisions and stand out at work.</p>"
         },
         {
-          "type": "page",
-          "title": "How This Course Works",
-          "body": "<h2>Course Navigation</h2><p>Placeholder orientation page. Explain weekly workflow, how to submit work, how to contact instructor.</p>"
+          "type": "Discussion",
+          "title": "Your career goals",
+          "position": 3,
+          "message": "<p>Let's start by getting to know each other and why you're here.</p><p><strong>In your post, share:</strong></p><ul><li>Where you are right now (working, looking for work, thinking about a change)</li><li>What kind of work you're interested in</li><li>One thing you hope to get out of this course</li></ul><p>After you post, read two of your classmates' responses and leave an encouraging reply. You may find you have more in common than you think.</p>",
+          "requires_initial_post": true
+        },
+        {
+          "type": "Page",
+          "title": "Types of businesses and industries",
+          "position": 4,
+          "body": "<h2>Types of businesses</h2><p>Businesses are organized in different ways depending on who owns them and how they operate. Knowing the difference helps you understand job listings, news stories, and the places you might work.</p><h3>Sole proprietorship</h3><p>One person owns and runs the business. Common examples: freelancers, food vendors, independent contractors. Simple to start, but the owner is personally responsible for any debts.</p><h3>Partnership</h3><p>Two or more people share ownership. They split profits and responsibilities. A local law firm or family-owned restaurant might be organized this way.</p><h3>Corporation</h3><p>A business that is legally separate from its owners. Larger and more complex to set up, but owners are generally not personally responsible for business debts. Most large companies are corporations.</p><h3>Nonprofit organization</h3><p>Organized to serve a mission rather than make a profit. Any surplus money goes back into the organization. Schools, hospitals, and community organizations are often nonprofits.</p><h3>Industries in Ventura County</h3><p>Locally, major industries include agriculture, healthcare, retail, education, construction, and tourism. Each of these employs people in business and finance roles — from bookkeeping to office management to customer service.</p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Business profile: a local company",
+          "position": 5,
+          "description": "<h2>Assignment: Business profile</h2><p>For this assignment, you will research a real local business and write a short profile about it.</p><h3>Instructions</h3><ol><li>Choose any local business you are familiar with or curious about. It can be a store, restaurant, service company, or nonprofit.</li><li>Find out as much as you can about it — their website, social media, or a visit in person.</li><li>Write a one-page profile (roughly 300–400 words) that answers these questions:</li></ol><ul><li>What is the name of the business and what does it do?</li><li>What type of business is it (sole proprietorship, partnership, corporation, nonprofit)?</li><li>Who are its customers?</li><li>How long has it been operating?</li><li>What do you think makes it successful — or what challenges does it face?</li></ul><h3>What to submit</h3><p>Submit your profile as a Word document or PDF. There is no right or wrong answer here — the goal is to practice observing how a real business operates.</p>",
+          "points_possible": 20,
+          "submission_types": ["online_upload", "online_text_entry"]
         }
       ]
     },
     {
-      "name": "Module 1: Introduction to Business",
+      "name": "Module 2: Personal finance and money management",
       "position": 2,
+      "weeks": "4-6",
       "items": [
         {
-          "type": "page",
-          "title": "Module 1 Overview and Objectives",
-          "body": "<h2>What You Will Learn</h2><ul><li>Objective 1 — placeholder</li><li>Objective 2 — placeholder</li><li>Objective 3 — placeholder</li></ul>"
+          "type": "Page",
+          "title": "Building a personal budget",
+          "position": 1,
+          "body": "<h2>Building a personal budget</h2><p>A budget is a plan for your money. It tells your money where to go instead of wondering where it went. Building a budget is one of the most practical financial skills you can have.</p><h3>Step 1: Know your income</h3><p>Write down everything you earn in a month — wages, tips, benefits, side income. Use your take-home pay (after taxes), not your gross pay.</p><h3>Step 2: List your expenses</h3><p>Write down everything you spend money on. Separate them into two categories:</p><ul><li><strong>Fixed expenses:</strong> The same every month — rent, car payment, insurance</li><li><strong>Variable expenses:</strong> Changes month to month — groceries, gas, entertainment</li></ul><h3>Step 3: Subtract expenses from income</h3><p>If the number is positive, you have money left over. If it's negative, you're spending more than you earn — and that's important to know.</p><h3>Step 4: Adjust</h3><p>Look for places to reduce variable expenses first. Even small changes — like reducing dining out — can make a real difference over time.</p><h3>The 50/30/20 rule</h3><p>A popular guideline: put 50% of take-home pay toward needs (rent, food, utilities), 30% toward wants (entertainment, dining), and 20% toward savings and debt repayment. Adjust based on your situation — this is a starting point, not a rule.</p>"
         },
         {
-          "type": "page",
-          "title": "Module 1 Lesson",
-          "body": "<h2>Lesson Content</h2><p>Placeholder lesson text. Replace with actual instructional content.</p>"
+          "type": "Page",
+          "title": "Banking basics: accounts, statements, and fees",
+          "position": 2,
+          "body": "<h2>Banking basics</h2><p>Having and using a bank account is an important part of financial stability. If you don't have one, this lesson will help you understand your options. If you do, you'll learn how to use it more effectively.</p><h3>Checking vs. savings accounts</h3><p><strong>Checking accounts</strong> are for everyday spending — paying bills, making purchases, getting your paycheck deposited. Most come with a debit card.</p><p><strong>Savings accounts</strong> are for storing money you don't need right away. They typically earn a small amount of interest over time.</p><h3>How to read a bank statement</h3><p>Your bank statement shows every transaction in a given period. Review it monthly to:</p><ul><li>Confirm your balance is what you expect</li><li>Catch any errors or unauthorized charges</li><li>Track your spending patterns</li></ul><h3>Common fees to avoid</h3><ul><li><strong>Overdraft fee:</strong> Charged when you spend more than your balance — often $25–$35 per transaction</li><li><strong>Monthly maintenance fee:</strong> Some accounts charge just for having them — look for free checking options</li><li><strong>ATM fees:</strong> Using an out-of-network ATM can cost $3–$5 or more</li></ul><h3>Options if you don't have a bank account</h3><p>Credit unions often have lower fees than big banks. Many offer accounts with no minimum balance. Community banks and online banks are also worth comparing.</p>"
         },
         {
-          "type": "assignment",
-          "title": "Module 1 Discussion",
-          "description": "<p>Placeholder discussion prompt. Replace with actual question.</p>",
-          "points_possible": 10,
-          "submission_types": ["discussion_topic"]
+          "type": "Assignment",
+          "title": "My monthly budget plan",
+          "position": 3,
+          "description": "<h2>Assignment: My monthly budget plan</h2><p>In this assignment, you will create a real or realistic monthly budget using what you learned in the lesson.</p><h3>Instructions</h3><p>Download the budget worksheet attached to this assignment (or create your own using the format below). Fill it in using your actual income and expenses — or realistic estimates if you prefer to keep your personal finances private.</p><h3>Budget worksheet format</h3><p><strong>Monthly income (take-home pay):</strong> $______</p><p><strong>Fixed expenses:</strong></p><ul><li>Rent / mortgage: $______</li><li>Car payment: $______</li><li>Insurance: $______</li><li>Other: $______</li></ul><p><strong>Variable expenses:</strong></p><ul><li>Groceries: $______</li><li>Gas / transportation: $______</li><li>Utilities: $______</li><li>Phone: $______</li><li>Entertainment / dining: $______</li><li>Other: $______</li></ul><p><strong>Total expenses:</strong> $______</p><p><strong>Income minus expenses:</strong> $______</p><h3>Reflection (write 3–5 sentences)</h3><p>After filling in your budget: What surprised you? Is there anything you want to change? What is one financial goal you'd like to work toward?</p><h3>What to submit</h3><p>Submit your completed worksheet and reflection as one document.</p>",
+          "points_possible": 25,
+          "submission_types": ["online_upload", "online_text_entry"]
         },
         {
-          "type": "assignment",
-          "title": "Module 1 Quiz",
-          "description": "<p>Placeholder quiz. Replace or link to actual quiz.</p>",
+          "type": "Page",
+          "title": "Understanding credit and debt",
+          "position": 4,
+          "body": "<h2>Understanding credit and debt</h2><p>Credit is the ability to borrow money with a promise to pay it back. Used carefully, credit can help you build financial stability. Used carelessly, it can create serious problems.</p><h3>What is a credit score?</h3><p>A credit score is a number (usually between 300 and 850) that represents how reliably you've repaid borrowed money. Lenders, landlords, and even some employers check it.</p><h3>What affects your credit score</h3><ul><li><strong>Payment history (35%):</strong> Do you pay on time? This is the biggest factor.</li><li><strong>Credit utilization (30%):</strong> How much of your available credit are you using? Keeping it under 30% is recommended.</li><li><strong>Length of credit history (15%):</strong> How long have your accounts been open?</li><li><strong>New credit (10%):</strong> Have you applied for a lot of new credit recently?</li><li><strong>Credit mix (10%):</strong> Do you have different types of credit (card, loan, etc.)?</li></ul><h3>How to build or improve credit</h3><ul><li>Pay every bill on time — even minimum payments count</li><li>Keep credit card balances low</li><li>Don't open many new accounts at once</li><li>Check your credit report once a year at AnnualCreditReport.com (free)</li></ul><h3>Good debt vs. bad debt</h3><p>Not all debt is equally harmful. A mortgage or student loan can be an investment in your future. High-interest credit card debt or payday loans can trap you in a cycle that's hard to escape. The key is borrowing only what you can afford to repay.</p>"
+        },
+        {
+          "type": "Quiz",
+          "title": "Personal finance check-in",
+          "position": 5,
+          "description": "A 10-question quiz covering budgeting, banking, and credit concepts from Module 2.",
           "points_possible": 20,
-          "submission_types": ["online_quiz"]
+          "questions": [
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which type of expense stays the same every month?",
+              "answers": [
+                {"text": "Fixed expense", "weight": 100},
+                {"text": "Variable expense", "weight": 0},
+                {"text": "Discretionary expense", "weight": 0},
+                {"text": "Flexible expense", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "According to the 50/30/20 rule, what percentage of take-home pay should go toward savings and debt repayment?",
+              "answers": [
+                {"text": "50%", "weight": 0},
+                {"text": "30%", "weight": 0},
+                {"text": "20%", "weight": 100},
+                {"text": "10%", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the main purpose of a checking account?",
+              "answers": [
+                {"text": "To earn interest over time", "weight": 0},
+                {"text": "For everyday spending and bill payment", "weight": 100},
+                {"text": "To store money you won't need for years", "weight": 0},
+                {"text": "To apply for a loan", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "An overdraft fee is charged when:",
+              "answers": [
+                {"text": "You use an out-of-network ATM", "weight": 0},
+                {"text": "You close your account", "weight": 0},
+                {"text": "You spend more than your account balance", "weight": 100},
+                {"text": "You deposit a check", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the highest credit score possible on the standard scale?",
+              "answers": [
+                {"text": "650", "weight": 0},
+                {"text": "750", "weight": 0},
+                {"text": "800", "weight": 0},
+                {"text": "850", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which factor has the biggest impact on your credit score?",
+              "answers": [
+                {"text": "Length of credit history", "weight": 0},
+                {"text": "Payment history", "weight": 100},
+                {"text": "Credit mix", "weight": 0},
+                {"text": "Number of accounts", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where can you check your credit report for free once a year?",
+              "answers": [
+                {"text": "Your bank's website", "weight": 0},
+                {"text": "AnnualCreditReport.com", "weight": 100},
+                {"text": "The IRS website", "weight": 0},
+                {"text": "Experian only", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Keeping your credit utilization below what percentage is generally recommended?",
+              "answers": [
+                {"text": "10%", "weight": 0},
+                {"text": "30%", "weight": 100},
+                {"text": "50%", "weight": 0},
+                {"text": "75%", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is an example of 'good debt'?",
+              "answers": [
+                {"text": "A payday loan", "weight": 0},
+                {"text": "High-interest credit card balance", "weight": 0},
+                {"text": "A mortgage on a home", "weight": 100},
+                {"text": "A cash advance", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What should you do if you find an error on your bank statement?",
+              "answers": [
+                {"text": "Ignore it — it will resolve itself", "weight": 0},
+                {"text": "Wait until the next statement", "weight": 0},
+                {"text": "Contact your bank right away", "weight": 100},
+                {"text": "Close the account", "weight": 0}
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Module 2: Financial Foundations",
+      "name": "Module 3: Workplace skills and professional communication",
       "position": 3,
+      "weeks": "7-9",
       "items": [
         {
-          "type": "page",
-          "title": "Module 2 Overview and Objectives",
-          "body": "<h2>What You Will Learn</h2><ul><li>Objective 1 — placeholder</li><li>Objective 2 — placeholder</li><li>Objective 3 — placeholder</li></ul>"
+          "type": "Page",
+          "title": "Professional email and written communication",
+          "position": 1,
+          "body": "<h2>Professional email and written communication</h2><p>Email is still the primary way people communicate in most workplaces. A well-written email shows professionalism and gets results. A poorly written one can create confusion or leave a bad impression.</p><h3>The anatomy of a professional email</h3><ul><li><strong>Subject line:</strong> Clear and specific. 'Question about Friday's meeting' is better than 'Hi'.</li><li><strong>Greeting:</strong> Use 'Dear [Name]' or 'Hi [Name],' depending on how formal the relationship is.</li><li><strong>Opening sentence:</strong> State your purpose right away. Don't make the reader guess.</li><li><strong>Body:</strong> Keep it short. Use bullet points for lists. One topic per email when possible.</li><li><strong>Closing:</strong> Thank them if appropriate. 'Thank you,' 'Best regards,' or 'Sincerely' all work.</li><li><strong>Signature:</strong> Your full name, job title, and contact info.</li></ul><h3>Before and after example</h3><p><strong>Before (unclear):</strong><br><em>Hey, I wanted to ask about the thing we talked about. Let me know. Thanks.</em></p><p><strong>After (professional):</strong><br><em>Hi Maria, I wanted to follow up on our conversation about the scheduling change. Would Tuesday at 2pm work for a quick call? Thank you, James</em></p><h3>Quick rules</h3><ul><li>Reread before sending — catch errors before they reach someone else</li><li>Don't use all caps (it reads as shouting)</li><li>Avoid slang and abbreviations (LOL, IDK, etc.)</li><li>Reply within one business day when possible</li></ul>"
         },
         {
-          "type": "page",
-          "title": "Module 2 Lesson",
-          "body": "<h2>Lesson Content</h2><p>Placeholder lesson text. Replace with actual instructional content.</p>"
-        },
-        {
-          "type": "assignment",
-          "title": "Module 2 Discussion",
-          "description": "<p>Placeholder discussion prompt. Replace with actual question.</p>",
-          "points_possible": 10,
-          "submission_types": ["discussion_topic"]
-        },
-        {
-          "type": "assignment",
-          "title": "Module 2 Quiz",
-          "description": "<p>Placeholder quiz. Replace or link to actual quiz.</p>",
+          "type": "Assignment",
+          "title": "Write a workplace email",
+          "position": 2,
+          "description": "<h2>Assignment: Write a workplace email</h2><p>You will write a professional email responding to one of the scenarios below. Choose the one that feels most relevant to you.</p><h3>Scenario A — Requesting time off</h3><p>You need to request two days off next month for a personal matter. Write an email to your supervisor asking for the time off. Be professional, give enough notice, and offer to help cover your responsibilities while you're away.</p><h3>Scenario B — Following up on a job application</h3><p>You applied for an office assistant position two weeks ago and haven't heard back. Write a follow-up email to the hiring manager expressing your continued interest and asking about the status of your application.</p><h3>Scenario C — Reporting a workplace issue</h3><p>A piece of equipment you use daily has stopped working properly. Write an email to your supervisor or facilities contact explaining the problem clearly and asking for next steps.</p><h3>What your email should include</h3><ul><li>A clear subject line</li><li>A professional greeting</li><li>A clear opening sentence that states your purpose</li><li>A concise body (3–5 sentences)</li><li>A professional closing and your name</li></ul>",
           "points_possible": 20,
-          "submission_types": ["online_quiz"]
+          "submission_types": ["online_text_entry", "online_upload"]
+        },
+        {
+          "type": "Page",
+          "title": "Workplace relationships and professionalism",
+          "position": 3,
+          "body": "<h2>Workplace relationships and professionalism</h2><p>Technical skills get you hired. How you work with people determines how far you go. Employers consistently rank professionalism and interpersonal skills among their top priorities.</p><h3>Working with your supervisor</h3><ul><li>Show up on time and follow through on what you commit to</li><li>Ask questions when you're unsure — it's better than guessing wrong</li><li>Accept feedback without getting defensive — it's how you improve</li><li>Keep your supervisor informed; don't let them be surprised</li></ul><h3>Working with colleagues</h3><ul><li>Be reliable — do what you say you'll do</li><li>Offer help when you can; ask for help when you need it</li><li>Avoid gossip — it damages trust and your reputation</li><li>Respect differences in background, experience, and working style</li></ul><h3>Working with customers</h3><ul><li>Stay calm, especially when customers are frustrated</li><li>Listen before responding — make sure you understand the problem</li><li>Find solutions, not excuses</li></ul><h3>Handling conflict professionally</h3><p>Conflict happens in every workplace. The key is addressing it directly and calmly rather than avoiding it or escalating it. When there's a problem with a colleague, try to talk privately first. Use 'I' statements: 'I felt confused when...' is better than 'You always...' If the issue continues, involve your supervisor.</p>"
+        },
+        {
+          "type": "Discussion",
+          "title": "A workplace challenge",
+          "position": 4,
+          "message": "<p>Think of a real or imagined workplace situation that was — or could be — challenging. It could be a conflict with a coworker, a difficult customer, a mistake you made, or a time you had to speak up about something.</p><p><strong>In your post:</strong></p><ul><li>Describe the situation briefly (you don't need to use real names)</li><li>Explain what you did or what you think the right move would be</li><li>What did you learn from it — or what would you do differently?</li></ul><p>Reply to at least one classmate with a supportive response or a different perspective.</p>",
+          "requires_initial_post": true
+        },
+        {
+          "type": "Page",
+          "title": "Meetings, presentations, and speaking up at work",
+          "position": 5,
+          "body": "<h2>Meetings, presentations, and speaking up at work</h2><p>Many people find it uncomfortable to speak up in professional settings — especially early in a new job. But participating in meetings and communicating your ideas clearly is one of the fastest ways to build credibility at work.</p><h3>Getting the most out of meetings</h3><ul><li>Come prepared — know the agenda and have your updates ready</li><li>Listen actively — don't just wait for your turn to talk</li><li>Take notes and follow up on any action items assigned to you</li><li>If you don't understand something, ask — others probably have the same question</li></ul><h3>Giving a short update or presentation</h3><p>You don't need a slide deck for most workplace communication. For a short update, follow this simple structure:</p><ol><li><strong>What:</strong> What did you do or find out?</li><li><strong>So what:</strong> Why does it matter?</li><li><strong>Now what:</strong> What should happen next?</li></ol><h3>Speaking up constructively</h3><p>If you have an idea or a concern, say it. Use specific language: 'I noticed that...' or 'One thing that might help is...' Frame concerns as questions when possible: 'Have we considered...?' is easier to hear than a direct criticism.</p><h3>Virtual meetings</h3><p>Many workplaces use Zoom, Teams, or similar tools. The same rules apply: be on time, minimize distractions, mute when not speaking, and follow up in writing if something important was decided.</p>"
         }
       ]
     },
     {
-      "name": "Final Project",
+      "name": "Module 4: Business finance and accounting fundamentals",
       "position": 4,
+      "weeks": "10-12",
       "items": [
         {
-          "type": "page",
-          "title": "Final Project Instructions",
-          "body": "<h2>Final Project</h2><p>Placeholder final project instructions. Replace with actual deliverable details.</p>"
+          "type": "Page",
+          "title": "Revenue, expenses, and profit: the basics",
+          "position": 1,
+          "body": "<h2>Revenue, expenses, and profit</h2><p>Whether you work for a business or run one, understanding basic financial concepts will make you more valuable and more informed. These three terms are the foundation of all business finance.</p><h3>Revenue</h3><p>Revenue is all the money a business brings in from selling its products or services. Also called sales or gross income. If a coffee shop sells 100 cups of coffee at $4 each, its revenue for that period is $400.</p><h3>Expenses</h3><p>Expenses are everything the business spends to operate. This includes:</p><ul><li>Cost of goods sold (the materials to make the product)</li><li>Rent and utilities</li><li>Employee wages</li><li>Marketing and advertising</li><li>Equipment and supplies</li></ul><h3>Profit</h3><p>Profit is what's left after you subtract expenses from revenue.</p><p><strong>Revenue – Expenses = Profit</strong></p><p>If our coffee shop took in $400 in revenue but spent $300 on supplies, wages, and rent, its profit is $100.</p><h3>Why businesses track both</h3><p>A business can have high revenue and still lose money if its expenses are too high. This is why it's not enough to just look at sales — you have to understand costs too. In any business role, understanding this relationship helps you make smarter decisions.</p>"
         },
         {
-          "type": "assignment",
-          "title": "Final Project Submission",
-          "description": "<p>Placeholder final project submission. Replace with actual rubric and instructions.</p>",
-          "points_possible": 100,
+          "type": "Page",
+          "title": "Reading a basic income statement",
+          "position": 2,
+          "body": "<h2>Reading a basic income statement</h2><p>An income statement (also called a profit and loss statement, or P&amp;L) shows a business's revenue, expenses, and profit over a specific period — usually a month, quarter, or year.</p><h3>Sample income statement</h3><table border='1' cellpadding='8' style='border-collapse: collapse; width: 100%;'><tr><th style='text-align:left;'>Item</th><th style='text-align:right;'>Amount</th></tr><tr><td>Revenue (Sales)</td><td style='text-align:right;'>$50,000</td></tr><tr><td>Cost of Goods Sold</td><td style='text-align:right;'>($18,000)</td></tr><tr><td><strong>Gross Profit</strong></td><td style='text-align:right;'><strong>$32,000</strong></td></tr><tr><td>Rent</td><td style='text-align:right;'>($5,000)</td></tr><tr><td>Wages</td><td style='text-align:right;'>($12,000)</td></tr><tr><td>Marketing</td><td style='text-align:right;'>($2,000)</td></tr><tr><td>Utilities</td><td style='text-align:right;'>($1,500)</td></tr><tr><td><strong>Total Operating Expenses</strong></td><td style='text-align:right;'><strong>($20,500)</strong></td></tr><tr><td><strong>Net Profit</strong></td><td style='text-align:right;'><strong>$11,500</strong></td></tr></table><h3>How to read it</h3><ul><li><strong>Start at the top:</strong> Revenue is what came in</li><li><strong>Subtract cost of goods sold</strong> to get gross profit</li><li><strong>Subtract operating expenses</strong> to get net profit</li><li><strong>Numbers in parentheses</strong> are negative (money going out)</li></ul><p>Net profit is the bottom line — literally. A positive number means the business made money. A negative number means it lost money that period.</p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Analyze a sample business",
+          "position": 3,
+          "description": "<h2>Assignment: Analyze a sample business</h2><p>Below is a simplified income statement for a fictional small business called Coastal Cleaning Co. Review it carefully and answer the questions below.</p><h3>Coastal Cleaning Co. — Income Statement (Monthly)</h3><table border='1' cellpadding='6' style='border-collapse: collapse;'><tr><th>Item</th><th>Amount</th></tr><tr><td>Revenue</td><td>$22,000</td></tr><tr><td>Cleaning supplies</td><td>($3,200)</td></tr><tr><td>Employee wages</td><td>($11,000)</td></tr><tr><td>Vehicle expenses</td><td>($1,800)</td></tr><tr><td>Insurance</td><td>($900)</td></tr><tr><td>Marketing</td><td>($600)</td></tr><tr><td>Office expenses</td><td>($400)</td></tr></table><h3>Questions to answer</h3><ol><li>What is the total monthly expenses for Coastal Cleaning Co.?</li><li>Is the business profitable this month? Show your calculation.</li><li>What is the largest single expense? What might the owner do to reduce it?</li><li>If revenue dropped by 20% next month but expenses stayed the same, would the business still be profitable? Show your work.</li><li>Name one thing you would recommend the owner pay attention to and explain why.</li></ol><p>Write your answers in complete sentences where possible. Show any math you do.</p>",
+          "points_possible": 30,
+          "submission_types": ["online_text_entry", "online_upload"]
+        },
+        {
+          "type": "Page",
+          "title": "Invoices, payroll, and basic recordkeeping",
+          "position": 4,
+          "body": "<h2>Invoices, payroll, and basic recordkeeping</h2><p>In almost every business role, you will encounter invoices, payroll, or financial records. Understanding how these work — even if you're not the one managing them — makes you a more effective employee.</p><h3>Invoices</h3><p>An invoice is a document a business sends to request payment for goods or services delivered. A typical invoice includes:</p><ul><li>The seller's name and contact information</li><li>The buyer's name and contact information</li><li>A description of what was sold</li><li>The amount owed and payment due date</li><li>An invoice number for tracking</li></ul><p>When a business receives an invoice, it becomes an account payable — money owed to someone else. When it sends one, it's an account receivable — money owed to you.</p><h3>Payroll basics</h3><p>Payroll is the process of paying employees. It includes calculating hours worked, applying the pay rate, and deducting taxes and benefits. Key payroll terms:</p><ul><li><strong>Gross pay:</strong> Total earnings before deductions</li><li><strong>Net pay:</strong> Take-home pay after taxes and deductions</li><li><strong>W-2:</strong> Annual tax form showing what you earned and what was withheld</li></ul><h3>Why recordkeeping matters</h3><p>Businesses are required to keep financial records for tax and legal purposes. Good recordkeeping also helps a business understand its own performance and catch errors before they become problems. In any administrative, finance, or operations role, organized recordkeeping is a core responsibility.</p>"
+        },
+        {
+          "type": "Quiz",
+          "title": "Business finance vocabulary quiz",
+          "position": 5,
+          "description": "Tests key terms from Module 4: revenue, expense, profit, invoice, payroll, and income statement.",
+          "points_possible": 20,
+          "questions": [
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the formula for calculating profit?",
+              "answers": [
+                {"text": "Revenue + Expenses", "weight": 0},
+                {"text": "Revenue – Expenses", "weight": 100},
+                {"text": "Expenses – Revenue", "weight": 0},
+                {"text": "Revenue × Expenses", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What does an income statement show?",
+              "answers": [
+                {"text": "A list of business assets", "weight": 0},
+                {"text": "Revenue, expenses, and profit over a time period", "weight": 100},
+                {"text": "The business owner's personal income", "weight": 0},
+                {"text": "How many employees a business has", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is 'cost of goods sold'?",
+              "answers": [
+                {"text": "The price customers pay for products", "weight": 0},
+                {"text": "The total revenue of a business", "weight": 0},
+                {"text": "The direct costs of producing the product or service sold", "weight": 100},
+                {"text": "Employee wages and benefits", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is an invoice?",
+              "answers": [
+                {"text": "A document requesting payment for goods or services delivered", "weight": 100},
+                {"text": "A monthly bank statement", "weight": 0},
+                {"text": "A tax form sent by an employer", "weight": 0},
+                {"text": "A record of employee hours", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the difference between gross pay and net pay?",
+              "answers": [
+                {"text": "There is no difference", "weight": 0},
+                {"text": "Gross pay is after taxes; net pay is before taxes", "weight": 0},
+                {"text": "Gross pay is before deductions; net pay is take-home pay after deductions", "weight": 100},
+                {"text": "Net pay is always higher than gross pay", "weight": 0}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Module 5: Entrepreneurship and small business",
+      "position": 5,
+      "weeks": "13-15",
+      "items": [
+        {
+          "type": "Page",
+          "title": "Is entrepreneurship right for you?",
+          "position": 1,
+          "body": "<h2>Is entrepreneurship right for you?</h2><p>Owning a business is appealing to a lot of people — the freedom, the control, the potential income. But it's also demanding in ways that aren't always obvious. This lesson is about helping you think clearly about whether entrepreneurship fits your situation and goals.</p><h3>What entrepreneurs do</h3><p>Running a business means wearing many hats: selling, managing money, handling customers, dealing with problems, and making decisions constantly — often without anyone telling you what to do. That can be exciting or exhausting depending on the person.</p><h3>Realistic rewards</h3><ul><li>Freedom to set your own schedule (though many owners work more, not less)</li><li>Potential to earn more than a traditional job — if the business succeeds</li><li>Building something that's yours</li><li>Serving your community in a direct way</li></ul><h3>Realistic challenges</h3><ul><li>Unstable income, especially in the early years</li><li>Responsible for everything — including problems you didn't create</li><li>Need to learn business skills even if your expertise is elsewhere</li><li>Most small businesses struggle in the first few years</li></ul><h3>Questions to ask yourself</h3><ul><li>Do I have a specific idea for a product or service people need?</li><li>Can I handle financial uncertainty for 1–2 years?</li><li>Am I willing to learn skills outside my comfort zone?</li><li>Do I have support — family, savings, mentors?</li></ul><p>There's no right answer. Some people are built for it. Others find that working for a well-run business is a better fit. Both are valid paths.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "From idea to business: planning basics",
+          "position": 2,
+          "body": "<h2>From idea to business: planning basics</h2><p>A business plan doesn't have to be 30 pages long. For a small business, the most important thing is to think clearly through a few key questions before you spend any money.</p><h3>The core questions</h3><p><strong>1. What do you sell?</strong><br>Be specific. 'I want to do hair' is a starting point. 'I offer braiding and natural hair care for women in Ventura County, with home visits available' is a business.</p><p><strong>2. Who buys it?</strong><br>Describe your customer. How old are they? Where do they live? What problem are you solving for them? The more specific you are, the easier it is to reach them.</p><p><strong>3. How do you make money?</strong><br>What do you charge? How many customers do you need per month to cover your costs? This is basic but critical — many businesses fail because the math never worked.</p><p><strong>4. How do you reach customers?</strong><br>Word of mouth, social media, flyers, a website, a local market? You don't need to do everything — pick what fits your customer and your budget.</p><p><strong>5. What does it cost to start?</strong><br>List everything you need to buy or pay for before you can open. Then list your monthly operating costs. Compare that to what you expect to earn.</p><h3>Start small, learn fast</h3><p>You don't need everything perfect before you start. Many successful small businesses began as side projects. Test your idea with real customers before investing heavily.</p>"
+        },
+        {
+          "type": "Discussion",
+          "title": "Your business idea",
+          "position": 3,
+          "message": "<p>For this discussion, share a business idea — it can be something you've actually thought about, or something completely hypothetical.</p><p><strong>In your post, describe:</strong></p><ul><li>What the business does (product or service)</li><li>Who the customers would be</li><li>Why you think there's a need for it</li><li>One challenge you'd expect to face</li></ul><p>After you post, read two classmates' ideas and leave a thoughtful response. What do you like about their idea? What question would you ask before starting it?</p>",
+          "requires_initial_post": true
+        },
+        {
+          "type": "Assignment",
+          "title": "One-page business plan",
+          "position": 4,
+          "description": "<h2>Assignment: One-page business plan</h2><p>Using what you learned in this module, write a one-page business plan for a small business. This can be a real idea you have or a fictional one. The goal is to practice thinking through the key elements — not to write a perfect plan.</p><h3>Your one-page plan should include</h3><ol><li><strong>Business name and description</strong> — What is it? What does it do? (2–3 sentences)</li><li><strong>Product or service</strong> — What exactly are you selling? Be specific.</li><li><strong>Target customer</strong> — Who is your customer? Describe them.</li><li><strong>How you make money</strong> — What do you charge? How many customers do you need monthly to cover costs?</li><li><strong>How you reach customers</strong> — At least two ways you would find and attract customers.</li><li><strong>Startup costs</strong> — List at least three things you would need to spend money on to get started. Estimate amounts.</li><li><strong>Your biggest challenge</strong> — Be honest. What's the hardest part of making this work?</li></ol><h3>Format</h3><p>One page. Plain language. Bullet points are fine. This should be something a real person could read in 2 minutes and understand.</p>",
+          "points_possible": 30,
+          "submission_types": ["online_upload", "online_text_entry"]
+        },
+        {
+          "type": "Page",
+          "title": "Local resources for small business owners",
+          "position": 5,
+          "body": "<h2>Local resources for small business owners</h2><p>You don't have to figure out business ownership alone. There are free and low-cost resources available specifically for people in Ventura County who want to start or grow a small business.</p><h3>SBDC — Small Business Development Center</h3><p>The SBDC offers free one-on-one business advising and low-cost workshops on topics like business planning, financing, marketing, and accounting. The nearest office serves Ventura County entrepreneurs. Visit smbizventura.com or search 'Ventura County SBDC'.</p><h3>SCORE</h3><p>SCORE is a national nonprofit with local volunteer mentors — retired executives and business owners who offer free mentoring. Great for getting experienced feedback on your business idea. Visit score.org to find a local mentor.</p><h3>Ventura County Economic Development</h3><p>The county offers programs to support small businesses, including access to capital, technical assistance, and connections to other local resources. Visit ventura.org/oedb.</p><h3>Ventura Chamber of Commerce</h3><p>Good for networking, visibility, and connecting with other local business owners. Annual membership gives access to events, referrals, and community resources.</p><h3>Adult Education resources</h3><p>As a student in this program, you have access to additional support through the school. Talk to your instructor about career services, certification programs, or continuing education pathways that connect to business ownership.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Module 6: Career planning and next steps",
+      "position": 6,
+      "weeks": "16-18",
+      "items": [
+        {
+          "type": "Page",
+          "title": "Building a resume for business roles",
+          "position": 1,
+          "body": "<h2>Building a resume for business roles</h2><p>Your resume is often the first impression an employer has of you. It doesn't need to be perfect — it needs to be clear, honest, and relevant to the job you're applying for.</p><h3>What to include</h3><ul><li><strong>Contact information:</strong> Your name, phone number, email, and city (no need for full address)</li><li><strong>Summary (optional but useful):</strong> 2–3 sentences describing who you are and what you bring</li><li><strong>Work experience:</strong> Most recent job first. Include job title, employer, dates, and 2–3 bullet points describing what you did</li><li><strong>Education:</strong> School name, program or degree, year completed or in progress</li><li><strong>Skills:</strong> Relevant software (Excel, QuickBooks), languages, certifications</li></ul><h3>Writing strong bullet points</h3><p>Use action verbs and be specific. Quantify when you can.</p><ul><li>Weak: 'Helped customers'</li><li>Strong: 'Assisted 30+ customers daily with product questions and checkout in a fast-paced retail environment'</li></ul><h3>Common mistakes to avoid</h3><ul><li>Typos and grammatical errors — always proofread</li><li>Too long — one page is standard for most entry-level and mid-level roles</li><li>Generic objective statements — replace with a focused summary</li><li>Unexplained gaps — it's okay to address gaps briefly</li></ul><h3>Formatting tips</h3><p>Use a clean, readable font. Consistent spacing. Simple layout. Avoid tables, graphics, or unusual formatting — many companies use software to scan resumes before a human sees them.</p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Your resume draft",
+          "position": 2,
+          "description": "<h2>Assignment: Your resume draft</h2><p>Using the lesson on resume writing, create a resume draft that you could use to apply for a business or administrative role.</p><h3>Your resume should include</h3><ul><li>Your contact information</li><li>A brief professional summary (2–3 sentences)</li><li>At least one position in your work experience (paid, volunteer, or informal work counts)</li><li>Your education</li><li>A skills section with at least 3 relevant skills</li></ul><h3>If you have limited work experience</h3><p>That's okay. Include volunteer work, caregiving, community involvement, or any experience where you demonstrated responsibility, communication, or problem-solving. Life experience counts.</p><h3>What happens next</h3><p>Your instructor will review your draft and provide written feedback. You will have the opportunity to revise it before the course ends. The goal is to leave this course with a resume you can actually use.</p>",
+          "points_possible": 30,
           "submission_types": ["online_upload"]
+        },
+        {
+          "type": "Page",
+          "title": "Job searching in business and finance",
+          "position": 3,
+          "body": "<h2>Job searching in business and finance</h2><p>Finding a job takes strategy and persistence. Knowing where to look and how to apply gives you a real advantage.</p><h3>Where to look</h3><ul><li><strong>Indeed.com</strong> — The largest general job board. Search by role and location.</li><li><strong>LinkedIn</strong> — Good for office and professional roles. Also useful for networking.</li><li><strong>CalJOBS</strong> — California's official job search platform. Connects to local workforce development resources.</li><li><strong>Company websites</strong> — If there's a company you want to work for, go directly to their careers page.</li><li><strong>Your network</strong> — Tell people you're looking. Many jobs are filled through referrals before they're ever posted.</li></ul><h3>How to apply effectively</h3><ul><li>Tailor your resume for each job — use words from the job posting</li><li>Write a short, specific cover letter when one is requested</li><li>Apply to roles where you meet at least 70% of the requirements — don't self-select out</li><li>Keep a simple log of where you've applied and when</li></ul><h3>Following up</h3><p>If you haven't heard back within 1–2 weeks, it's appropriate to send a brief follow-up email. Express continued interest, reference your application, and ask politely about the timeline. One follow-up is professional. Multiple follow-ups can hurt your chances.</p><h3>Entry-level business roles to consider</h3><p>Office assistant, administrative coordinator, bookkeeping assistant, customer service representative, accounts payable/receivable clerk, receptionist, payroll assistant, data entry specialist.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Interviewing with confidence",
+          "position": 4,
+          "body": "<h2>Interviewing with confidence</h2><p>An interview is a conversation, not a test. The employer wants to know if you can do the job and if you'd be a good fit for their team. You're also deciding if this job is right for you.</p><h3>Before the interview</h3><ul><li>Research the company — know what they do and why you're interested</li><li>Review the job description — know what they're looking for</li><li>Prepare 3–5 examples from your experience that show relevant skills</li><li>Plan what you'll wear and how you'll get there</li></ul><h3>Common interview questions for business roles</h3><ul><li>'Tell me about yourself.' (Keep it professional and relevant — 2 minutes max)</li><li>'Why do you want to work here?'</li><li>'Tell me about a time you had to solve a problem at work.'</li><li>'How do you handle a stressful situation?'</li><li>'What are your strengths? What's something you're working to improve?'</li></ul><h3>The STAR method for behavioral questions</h3><p>When answering 'Tell me about a time...' questions, use STAR:</p><ul><li><strong>Situation:</strong> Set the context briefly</li><li><strong>Task:</strong> What was your responsibility?</li><li><strong>Action:</strong> What did you do?</li><li><strong>Result:</strong> What happened? What did you learn?</li></ul><h3>At the end of the interview</h3><p>Always have 1–2 questions ready to ask. Good options: 'What does success look like in this role in the first 90 days?' or 'What do you enjoy about working here?'</p><h3>After the interview</h3><p>Send a thank-you email within 24 hours. Brief and genuine — thank them for their time, restate your interest, and mention one specific thing from the conversation.</p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "My career action plan",
+          "position": 5,
+          "description": "<h2>Assignment: My career action plan</h2><p>This is your final assignment. It's a chance to pull together everything you've learned and connect it to where you want to go next.</p><h3>Your career action plan should include</h3><ol><li><strong>Where I want to be in 12 months</strong> — Describe the kind of work you want to be doing. Be specific: job title, type of company or industry, what a typical day looks like.</li><li><strong>What I have to offer</strong> — List 3–5 strengths, skills, or experiences that make you a strong candidate for that kind of work. Be honest and specific.</li><li><strong>My next 90 days</strong> — List at least 5 concrete actions you will take in the next 90 days to move toward your goal. Examples: update resume, apply to 3 jobs per week, attend a SCORE workshop, open a savings account, complete a certification.</li><li><strong>What I learned in this course</strong> — Write 3–5 sentences about the most useful things you learned. What changed in how you think about work, money, or business?</li><li><strong>One obstacle and how I'll handle it</strong> — Name one real challenge you expect to face in pursuing your goal, and how you plan to address it.</li></ol><h3>Format</h3><p>This can be written as a document or formatted as a simple plan — whatever is most useful to you. There are no wrong answers. The goal is to leave this course with a clear direction and concrete next steps.</p>",
+          "points_possible": 40,
+          "submission_types": ["online_upload", "online_text_entry"]
         }
       ]
     }
