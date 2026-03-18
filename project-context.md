@@ -5,19 +5,18 @@ Last updated: 2026-03-18 by Chat
 We are building a set of tools and scripts that allow Canvas LMS admins and instructors at Ventura Adult and Continuing Education to use Claude and the Canvas API to manage, build, and standardize courses. The project is for the admin team (starting with two contributors) and aims to bring consistency across 4–5 programs by creating shared course templates, reducing manual repetitive work, and giving instructors a smarter way to build and maintain their Canvas content.
 
 ## Current status
-Project is at zero. Kickoff complete. No code written yet. Next step is local folder setup, GitHub repo creation, and Canvas Developer Key creation.
+Foundation complete. Repo live on GitHub, Canvas API connection confirmed working. Ready to build first real script.
 
 ## Where we left off
-Last commit: none yet
+Last commit: d94668e — Add test_connection.py -- confirms Canvas API connection working
 In progress: none
-Branch: main (not yet initialized)
+Branch: main
 
 ## What's next
-- [ ] Create local folder: ~/Documents/Claude Run Canvas
-- [ ] Initialize as a git repo and connect to a new GitHub repository
-- [ ] Create a new Developer Key in Canvas Admin > Developer Keys for this project
-- [ ] Generate a personal access token and store it securely in a .env file
-- [ ] Write first API test script to confirm connection (pull account info)
+- [ ] Create folder structure: /scripts, /templates, /docs
+- [ ] Write first real script — pull list of courses from the account
+- [ ] Add Alex Kohanim as GitHub collaborator
+- [ ] Set git user name/email (currently auto-configured from hostname)
 
 ## File structure
 /Claude Run Canvas
@@ -68,3 +67,4 @@ Branch: main (not yet initialized)
 Auto-updated by Captain's Log at end of every Code session.
 On Cowork-heavy days, use project-context-updater.html instead.
 - 2026-03-18 — Project kickoff complete. Context doc created. — Source: Chat
+- 2026-03-18 — Repo initialized, .gitignore added, pushed to GitHub. Canvas API token stored in .env. test_connection.py confirmed working (Account ID 1, Ventura Adult and Continuing Education). — Source: Claude Code
