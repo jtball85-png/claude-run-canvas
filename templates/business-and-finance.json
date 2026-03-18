@@ -1,0 +1,106 @@
+{
+  "course_name": "Test Business and Finance",
+  "course_code": "BUS-TEST",
+  "description": "Placeholder description — update in Chat before pushing to production.",
+  "modules": [
+    {
+      "name": "Start Here",
+      "position": 1,
+      "items": [
+        {
+          "type": "page",
+          "title": "Welcome to the Course",
+          "body": "<h2>Welcome</h2><p>Placeholder welcome message. Update this with your program introduction.</p>"
+        },
+        {
+          "type": "page",
+          "title": "Syllabus and Course Expectations",
+          "body": "<h2>Syllabus</h2><p>Placeholder syllabus. Paste full syllabus content here.</p>"
+        },
+        {
+          "type": "page",
+          "title": "How This Course Works",
+          "body": "<h2>Course Navigation</h2><p>Placeholder orientation page. Explain weekly workflow, how to submit work, how to contact instructor.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Module 1: Introduction to Business",
+      "position": 2,
+      "items": [
+        {
+          "type": "page",
+          "title": "Module 1 Overview and Objectives",
+          "body": "<h2>What You Will Learn</h2><ul><li>Objective 1 — placeholder</li><li>Objective 2 — placeholder</li><li>Objective 3 — placeholder</li></ul>"
+        },
+        {
+          "type": "page",
+          "title": "Module 1 Lesson",
+          "body": "<h2>Lesson Content</h2><p>Placeholder lesson text. Replace with actual instructional content.</p>"
+        },
+        {
+          "type": "assignment",
+          "title": "Module 1 Discussion",
+          "description": "<p>Placeholder discussion prompt. Replace with actual question.</p>",
+          "points_possible": 10,
+          "submission_types": ["discussion_topic"]
+        },
+        {
+          "type": "assignment",
+          "title": "Module 1 Quiz",
+          "description": "<p>Placeholder quiz. Replace or link to actual quiz.</p>",
+          "points_possible": 20,
+          "submission_types": ["online_quiz"]
+        }
+      ]
+    },
+    {
+      "name": "Module 2: Financial Foundations",
+      "position": 3,
+      "items": [
+        {
+          "type": "page",
+          "title": "Module 2 Overview and Objectives",
+          "body": "<h2>What You Will Learn</h2><ul><li>Objective 1 — placeholder</li><li>Objective 2 — placeholder</li><li>Objective 3 — placeholder</li></ul>"
+        },
+        {
+          "type": "page",
+          "title": "Module 2 Lesson",
+          "body": "<h2>Lesson Content</h2><p>Placeholder lesson text. Replace with actual instructional content.</p>"
+        },
+        {
+          "type": "assignment",
+          "title": "Module 2 Discussion",
+          "description": "<p>Placeholder discussion prompt. Replace with actual question.</p>",
+          "points_possible": 10,
+          "submission_types": ["discussion_topic"]
+        },
+        {
+          "type": "assignment",
+          "title": "Module 2 Quiz",
+          "description": "<p>Placeholder quiz. Replace or link to actual quiz.</p>",
+          "points_possible": 20,
+          "submission_types": ["online_quiz"]
+        }
+      ]
+    },
+    {
+      "name": "Final Project",
+      "position": 4,
+      "items": [
+        {
+          "type": "page",
+          "title": "Final Project Instructions",
+          "body": "<h2>Final Project</h2><p>Placeholder final project instructions. Replace with actual deliverable details.</p>"
+        },
+        {
+          "type": "assignment",
+          "title": "Final Project Submission",
+          "description": "<p>Placeholder final project submission. Replace with actual rubric and instructions.</p>",
+          "points_possible": 100,
+          "submission_types": ["online_upload"]
+        }
+      ]
+    }
+  ]
+}
