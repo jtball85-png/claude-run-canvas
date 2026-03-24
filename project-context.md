@@ -1,5 +1,5 @@
 # Project: Claude Run Canvas
-Last updated: 2026-03-18 by Claude Code (session 2)
+Last updated: 2026-03-24 by Claude Code
 
 ## What this project is
 We are building a set of tools and scripts that allow Canvas LMS admins and instructors at Ventura Adult and Continuing Education to use Claude and the Canvas API to manage, build, and standardize courses. The project is for the admin team (starting with two contributors) and aims to bring consistency across 4–5 programs by creating shared course templates, reducing manual repetitive work, and giving instructors a smarter way to build and maintain their Canvas content.
@@ -8,7 +8,7 @@ We are building a set of tools and scripts that allow Canvas LMS admins and inst
 First real template complete and live. Business and Finance course (6 modules, 29 items) pushed to sandbox 301. push_course.py handles all item types: Page, Assignment, Discussion, Quiz with questions. Template pipeline is fully proven — ready to build next program template.
 
 ## Where we left off
-Last commit: fed86e2 — Add Discussion and Quiz support to push_course.py; push real Business and Finance template to sandbox 301
+Last commit: 183bdd5 — Update project-context.md -- Business and Finance template complete, session 2 wrap-up
 In progress: none
 Branch: main
 
@@ -73,8 +73,7 @@ Branch: main
 - Use project-context-updater.html on Cowork-heavy days
 
 ## Change log
-Auto-updated by Captain's Log at end of every Code session.
-On Cowork-heavy days, use project-context-updater.html instead.
+- 2026-03-24 — Session management system added: .claude/commands/ with /start-of-day, /end-of-day, /new-project; project-memory.md created — Source: Claude Code
 - 2026-03-18 — Project kickoff complete. Context doc created. — Source: Chat
 - 2026-03-18 — Repo initialized, .gitignore added, pushed to GitHub. Canvas API token stored in .env. test_connection.py confirmed working (Account ID 1, Ventura Adult and Continuing Education). — Source: Claude Code
 - 2026-03-18 — list_courses.py built and run — 178 courses found. push_course.py built. business-and-finance.json skeleton template created (4 modules, 13 items). Pipeline tested live against sandbox course 301 — all modules and pages created successfully. — Source: Claude Code
