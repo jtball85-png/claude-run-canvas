@@ -8,36 +8,158 @@
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 1 Overview: Getting Your First Look",
+          "title": "1.0 Chapter Introduction & Learning Objectives",
           "position": 1,
-          "body": "<h2>Getting Your First Look</h2><p>Welcome to Windows 11. This chapter covers the absolute basics you'll use every single day: logging in, finding your way around the Desktop, using the mouse, and shutting your computer down the right way.</p><h3>Learning objectives</h3><ul><li>Log in to the computer using a username and password</li><li>Describe the basic layout of the Windows Desktop screen</li><li>Use the mouse to right-click and drag</li><li>Work with the Start menu</li><li>Shut down the computer correctly</li></ul><h3>Logging in to Windows (Hands-On 1.1)</h3><p>Logging in means entering your username and password so the computer knows it's you and connects you to the network securely. A strong password mixes uppercase, lowercase, numbers, and symbols — never a name, birthday, or common word — and should never be shared. Password managers like 1Password, LastPass, RoboForm, or Avira can remember them for you.</p><ol><li>Turn on the computer and monitor, if necessary.</li><li>Click the lock screen to bring up the sign-in screen.</li><li>Click your username from the login screen (or the one your instructor provided).</li><li>Enter your password and click the arrow button to reach the Desktop.</li></ol><h3>The Windows Desktop</h3><p>Once logged in, you land on the Desktop — your primary work area. Key parts: the <strong>Start button</strong> (opens the Start menu), <strong>icons</strong> (shortcuts to apps and files), <strong>program windows</strong>, the <strong>taskbar</strong> with its <strong>notification area</strong> (clock, volume, network status, alerts), and the <strong>Show Desktop button</strong> in the far corner, which minimizes everything at once.</p><h3>Behind the Screen: basic computer components</h3><p>The <strong>processor (CPU)</strong> is the \"brain\" of the computer — it does all the processing, and its gigahertz (GHz) rating determines how many billions of operations it can do per second. The <strong>hard drive</strong> is permanent storage, like a filing cabinet for your files and programs; newer <strong>solid-state drives (SSDs)</strong> have no moving parts and load data much faster than traditional spinning drives. <strong>RAM</strong> is temporary working memory — much faster than the hard drive, but everything in it is lost the moment the computer loses power. A <strong>USB port</strong> is the small rectangular connector used to plug in flash drives, printers, and other equipment with a standardized cord.</p><h3>Using a mouse (Hands-On 1.2)</h3><p>Five basic mouse actions: <strong>Point</strong> (hold the pointer steady over something), <strong>Click</strong> (push the left button once), <strong>Double-click</strong> (click twice quickly to open a file or start a program), <strong>Drag</strong> (click, hold, and move to a new location), and <strong>Right-click</strong> (click the right button to display a pop-up menu).</p><ol><li>Point at the Recycle Bin icon on the Desktop, then point away from it.</li><li>Click the Recycle Bin (don't drag) and notice it becomes selected/highlighted, then click away to deselect it.</li><li>Drag the Recycle Bin to a new spot on the Desktop, then drag it back to its original location.</li></ol><h3>Passwords and account settings</h3><p>Click your user icon/name at the bottom of the Start menu to open the account menu: <strong>Change account settings</strong>, <strong>Lock</strong>, and <strong>Sign out</strong>. From Account Settings you can also review Sign-In Options, connect to a Work or School network, or — with administrator privileges — add Other Users to the computer.</p><h3>Signing out, switching users, and locking (Hands-On 1.3)</h3><p>Signing out closes your programs and removes your login information from memory, but leaves the computer running for the next person. Switching users keeps your session saved in RAM in the background while someone else logs in — handy when a computer is shared. Locking is different again: it hides and password-protects your open work without closing anything.</p><ol><li>Click the Start button, then click your user icon/name, then choose Lock.</li><li>Type your password and press Enter to unlock and return to the Desktop.</li></ol><h3>The Start menu (Hands-On 1.4-1.8)</h3><p>The Start menu is where most installed apps live. A <strong>command</strong> is a link that launches or opens a file, folder, or app — like a light switch for that object. The menu has two panes: <strong>Pinned</strong> (apps you've chosen to keep handy) on top, and <strong>Recommended</strong> (recently used documents and apps) below.</p><ul><li><strong>1.4 — Display and dismiss the Start menu:</strong> click the Start button (or press the Windows key) to open it; click it again (or press Windows again) to close it.</li><li><strong>1.5 — Launch a program:</strong> Start > All Apps > Calculator to open it, then close it with the X in the upper-right corner.</li><li><strong>1.6 — Pin and reorder an app:</strong> right-click an app in All Apps and choose Pin to Start; right-click it again in the Pinned section and choose Move to Front.</li><li><strong>1.7 — Add a folder:</strong> drag one Pinned icon onto another to create a folder, click the folder, then type a custom name (e.g. \"School\").</li><li><strong>1.8 — Delete a folder:</strong> drag the last icon out of a folder — once empty, the folder deletes itself automatically.</li></ul><h3>Shutting down correctly (Hands-On 1.9)</h3><p>There are three ways to end your session: <strong>Sleep</strong> (low-power mode — the computer slows down, the monitor turns off, and your work stays open; wake it with the mouse or Spacebar), <strong>Shut Down</strong> (closes all programs, logs you out, and powers off — always do this at the end of the day), and <strong>Restart</strong> (shuts down and immediately powers back on, often required after installing new software).</p><ol><li>Make sure all programs are closed, then click Start > Power.</li><li>Choose Sleep to pause, or Shut Down to fully power off (allow 15+ seconds).</li></ol><p><strong>Never</strong> hold down the physical Power button to turn off your computer — Windows needs time to close everything properly, and forcing it off can corrupt Windows or leave the computer unable to restart.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 1.1-1.9</strong> (above) — done together in class with instructor guidance</li><li><strong>Skill Builder 1.1: Organize the Start Menu</strong> — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builder 1.1: Pin an App to the Start Menu</strong> — graded homework, see the assignment in this module</li><li><strong>Chapter 1 Quiz</strong> — see the quiz in this module</li><li><strong>Try This at Home</strong> (optional, on your own computer): 1.1 Switch Users, 1.2 Change Your Password, 1.3 Shut Down</li></ul>"
+          "body": "<p><em>Book pages: 3 &middot; CBO Objective s: #1 (Log in to the computer using a username and password), #2 (Describe the basic layout of the Windows Desktop screen), #3 (Use the mouse to right-click and drag), #4 (Work with the Start menu), #5 (Shut down the computer correctly)</em></p><h2>Getting Your First Look</h2><p>Welcome to Windows 11. This chapter covers the absolute basics you'll use every single day: logging in, finding your way around the Desktop, using the mouse, and shutting your computer down the right way.</p><h3>Learning objectives</h3><ul><li>Log in to the computer using a username and password</li><li>Describe the basic layout of the Windows Desktop screen</li><li>Use the mouse to right-click and drag</li><li>Work with the Start menu</li><li>Shut down the computer correctly</li></ul>"
+        },
+        {
+          "type": "Page",
+          "title": "Logging In to Windows",
+          "position": 2,
+          "body": "<p><em>Book pages: 4-6 &middot; CBO Objective : #1 (Log in to the computer using a username and password)</em></p><h2>Logging In to Windows</h2><p>Most computer systems used in schools and businesses are networked, or connected. Keeping a network secure is an important part of making sure only authorized people can use it. Logging in to a computer is the process of entering your username and password to gain access to the computer and network.</p><h3>Passwords</h3><p>A strong password mixes uppercase, lowercase, numbers, and symbols &mdash; never a familiar name, birthday, or common word people could guess. Passwords should never be shared with anyone, including friends and family. Password managers such as 1Password, LastPass, RoboForm, or Avira can remember your passwords for you, so you only need to remember the one password for the manager itself.</p><h3>What happens during the startup process?</h3><p>From the moment you turn on the computer, the computer and Windows work together to get ready for you. Together they form the <strong>operating system</strong> &mdash; the collection of parts and pieces that we see and work with on the screen.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.1: Log In to Windows",
+          "position": 3,
+          "body": "<p><em>Book pages: 6 &middot; CBO Objective : #1 (Log in to the computer using a username and password)</em></p><h2>Hands-On 1.1: Log In to Windows</h2><p>In this exercise, you will log in to your computer using the login name and password provided by your instructor.</p><ol><li>If necessary, turn on the computer and monitor. (The computer may already be switched on if you are in a computer lab.) Ask your instructor for help if necessary.<br><em>After a pause, the computer begins starting up, which usually takes about a minute. When the startup process is complete, the lock screen appears.</em></li><li>Click the lock screen to bring up the sign-in screen.</li><li>Click the appropriate login from the lower-left corner of the screen. If you are the only person who uses your computer, your login may be the only one listed.</li><li>Enter the password you were given into the blank password line and click the arrow button. This will take you to the Desktop.</li></ol>"
+        },
+        {
+          "type": "Page",
+          "title": "The Windows Desktop",
+          "position": 4,
+          "body": "<p><em>Book pages: 7-8 &middot; CBO Objective : #2 (Describe the basic layout of the Windows Desktop screen)</em></p><h2>The Windows Desktop</h2><p>Once you have logged in to the computer, you will be looking at the Windows Desktop. The Desktop is the primary work area in Windows, and like your desk at school, all the apps you are working with are placed on the computer.</p><p>The Desktop has many unique features that help you to be more efficient when using the computer: the <strong>Start button</strong>, <strong>icons</strong>, the <strong>background</strong>, <strong>program windows</strong>, <strong>program buttons</strong>, the <strong>computer and internet search</strong> box, the <strong>notification area</strong>, and the <strong>Show Desktop button</strong>.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Behind the Screen: Basic Computer Components",
+          "position": 5,
+          "body": "<p><em>Book pages: 8-11 &middot; CBO Objective : background knowledge, not a listed CBO objective</em></p><h2>Behind the Screen: Basic Computer Components</h2><p>Your computer is a collection of hardware parts working together with Windows and other software applications. Knowing the name and function of these components gives you a better understanding of the computing process. This section is background computer literacy &mdash; it isn't one of this chapter's five listed CBO competencies, but it supports understanding the Desktop and how the computer works.</p><h3>Processor</h3><p>The processor is often referred to as the &quot;brain&quot; of the computer. The central processing unit (CPU) does all the processing that keeps programs running, moves the cards when you play Solitaire, and does the math in your spreadsheet programs. How quickly these processes are carried out is largely determined by the gigahertz (GHz) rating of the CPU &mdash; a larger GHz rating means the processor can handle significantly more processing cycles per second.</p><h3>Hard Drive</h3><p>The hard drive is the <strong>permanent storage</strong> device in the computer &mdash; think of it as a large filing cabinet where all the files and programs that run on the computer are stored. Traditional hard drives use spinning magnetic platters; they're inexpensive and store huge amounts of data. Newer hard drives are solid state (SSDs) &mdash; no moving parts, much quicker to load data. The newest SSDs are very small and are generally called NAND SSDs.</p><h3>Random Access Memory (RAM)</h3><p>Hard drives operate at a relatively slow speed, so the computer does not run programs directly from the hard drive. When a program is used, it is first loaded into RAM to be accessed by the CPU. As you edit a letter or make a drawing, the information is being stored in RAM. RAM is considered <strong>temporary memory</strong>, though &mdash; unlike the hard drive, when the computer is turned off, all of the data in RAM is lost.</p><h3>Universal Serial Bus (USB)</h3><p>A USB port or connector is a small rectangular port that allows you to connect various pieces of equipment to your computer using a single standardized cord and plug. Before USB, different equipment had special connectors and cables, and it was much more difficult for new users to set up their computers.</p><h3>Secure Digital (SD) Card</h3><p>An SD card is a type of storage device typically found on digital cameras and other portable devices. Many desktop and laptop computers now come with an SD card reader built in. Some devices use micro SD cards, which are about the size of your thumbnail.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Using a Mouse",
+          "position": 6,
+          "body": "<p><em>Book pages: 12-13 &middot; CBO Objective : #3 (Use the mouse to right-click and drag)</em></p><h2>Using a Mouse</h2><p>The mouse is your main tool for controlling programs on the Desktop. Moving the mouse with your hand controls the movements of the mouse pointer on the screen. With your mouse on a flat surface (a table or mouse pad), place your hand on the mouse so your index finger rests lightly on or above the left mouse button.</p><table><tr><th>Motion</th><th>Notes and How to Do It</th></tr><tr><td>Point</td><td>Hold the tip of the mouse pointer over an element on the screen. Keep the mouse steady.</td></tr><tr><td>Click (single-click)</td><td>Used to &quot;push&quot; an onscreen button. Point to an onscreen element and push the left mouse button one time. Hold the mouse still and click gently.</td></tr><tr><td>Drag</td><td>Used to move items around the screen, select text, and perform other tasks/commands. Point to an onscreen element, click and hold down the left mouse button, and move the onscreen element until it reaches the desired location. This is often called drag and drop.</td></tr><tr><td>Double-click</td><td>Used to start a program or open a file/folder. Point to an onscreen element and quickly click the left mouse button twice. Hold the mouse still and click gently.</td></tr><tr><td>Right-click</td><td>Used to display a pop-up menu of options that relate to the object. Point to an onscreen element and click the right mouse button once.</td></tr></table>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.2: Use the Mouse",
+          "position": 7,
+          "body": "<p><em>Book pages: 14 &middot; CBO Objective : #3 (Use the mouse to right-click and drag)</em></p><h2>Hands-On 1.2: Use the Mouse</h2><p>In this exercise, you will use the mouse to point at, click on, and drag the Recycle Bin around the Desktop.</p><ol><li>Point with the mouse over the Recycle Bin icon, then point away from the Recycle Bin.</li><li>Click (tap and release) with the left mouse button on the Recycle Bin icon (don't click away) and notice that the icon stays selected (highlighted).</li><li>Point at the Recycle Bin. Press the left mouse button, and while keeping it depressed, move the mouse to drag the Recycle Bin to the right. Release the mouse button at a new destination of your choice.</li><li>Drag the Recycle Bin back to its original location on the Desktop.</li></ol>"
+        },
+        {
+          "type": "Page",
+          "title": "Passwords and Account Settings",
+          "position": 8,
+          "body": "<p><em>Book pages: 15 &middot; CBO Objective : #1 (Log in to the computer using a username and password) — account management extends the login competency</em></p><h2>Passwords and Account Settings</h2><p>All Windows users have their own login and password that allow them to connect to their various personal settings for the computer, as well as to other online accounts they may have that are connected to Windows.</p><h3>Accessing Account Settings</h3><p>The circular &quot;person&quot; icon of the individual logged in to the computer is located at the bottom of the Start menu. This user icon/name button gives you the option to change account settings when clicked: your login account, password, user account picture, and options for syncing your computer with other devices.</p><ul><li><strong>Sign-In Options</strong>: change your password and set whether your computer requires a password again after sleep mode.</li><li><strong>Access Work or School</strong>: at work or school, you may be allowed to connect your personal computer to the network, if this is an option.</li><li><strong>Other Users</strong>: on a home computer, if you have administrator privileges, you can add other users to the computer. The &quot;Create One for a Child&quot; button allows you to add users with specific privileges.</li></ul>"
+        },
+        {
+          "type": "Page",
+          "title": "Signing Out, Switching Users, and Locking the Computer",
+          "position": 9,
+          "body": "<p><em>Book pages: 16-17 &middot; CBO Objective : #1 (Log in to the computer using a username and password) — session management extends the login competency; not separately listed in the CBO</em></p><h2>Signing Out and Switching Users</h2><p>Signing out of the computer is different from turning off the computer. Before signing out, you need to save your files to the hard drive, because the computer closes the programs you were using and removes login information and settings from memory so it is ready for a new user to log on.</p><p>Multiple users can be signed on to a single computer at the same time. When you sign out, when you simply switch users, the previous user's information, screen settings, and programs are set aside in the computer's RAM instead &mdash; so that person's session can be quickly reimplemented if that person signs back in.</p><h3>Locking the Computer</h3><p>Locking the computer protects your PC from unauthorized use when you leave your desk. Locking causes the lock screen to display. To see your screen and continue working, you must re-enter your password.</p><table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Log off Windows</td><td>Click the Start button. Click your user icon/name button at the top of the menu and then click Sign Out.</td></tr><tr><td>Switch users</td><td>Click the Start button. Click your user icon/name button and then choose the desired user from the list.</td></tr><tr><td>Lock/Unlock Windows</td><td>Click your user icon/name button and choose Lock. This will lock the computer and show the lock screen. To unlock the computer, click the lock screen, click your user icon/name button, and enter your password when it appears.</td></tr></table>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.3: Lock the Computer",
+          "position": 10,
+          "body": "<p><em>Book pages: 17 &middot; CBO Objective : #1 (Log in to the computer using a username and password) — session management extends the login competency</em></p><h2>Hands-On 1.3: Lock the Computer</h2><p>In this exercise, you will give the lock command and then log back in using your own username and password.</p><ol><li>Click the Start button.</li><li>Click the user icon/name button and choose Lock from the menu. There will be a pause as Windows prepares to display the lock screen. Wait for this screen to appear before continuing.</li><li>Click the lock screen.</li><li>Type your password in the password box and tap Enter.<br><em>After a pause, Windows returns you to the Desktop. You could just as easily have logged in as someone else by choosing their name from the corner of the login screen and entering their password.</em></li></ol>"
+        },
+        {
+          "type": "Page",
+          "title": "The Start Menu",
+          "position": 11,
+          "body": "<p><em>Book pages: 18-19 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>The Start Menu</h2><p>The Start menu is the one place you can go to launch most of the programs installed on your computer. Like all menus, the Start menu is a collection of <strong>commands</strong>, and these particular ones allow you to launch all of the programs that come with Windows. A command is a link that can launch (start or open) a file, folder, or app, or that can execute a variety of other tasks &mdash; you might compare a command to a light switch on a wall used to turn on a ceiling light.</p><h3>The Start Menu Panes</h3><p>The Start menu is divided into panes: the top pane shows a list of all pinned apps (you can add frequently used apps by pinning them to the Start menu), and the bottom pane lists recommended documents and apps &mdash; items you have recently used. The user icon/name button and Power options button are along the bottom of the menu.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.4: Display and Dismiss the Start Menu",
+          "position": 12,
+          "body": "<p><em>Book pages: 18 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Hands-On 1.4: Display and Dismiss the Start Menu</h2><p>In this exercise, you will display and dismiss the Start menu using both the mouse and the keyboard.</p><ol><li>Click the Start button to display the Start menu.<br><em>Note the upper and lower panes of the Start menu.</em></li><li>Click the Start button again to dismiss the Start menu.</li><li>Press the Windows key on the keyboard to display the Start menu.</li><li>Press the Windows key again to dismiss the Start menu.<br><em>It's easy to dismiss the Start menu if you pull it up by mistake.</em></li></ol>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.5: Launch a Program from the Start Menu",
+          "position": 13,
+          "body": "<p><em>Book pages: 20 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Hands-On 1.5: Launch a Program from the Start Menu</h2><p>In this exercise, you will launch the Calculator app from the Start menu.</p><ol><li>Click the Start button and then click the All Apps button.</li><li>Choose Calculator.<br><em>The Start menu collapses and the Calculator app opens.</em></li><li>Close the Calculator app by clicking the Close button (the &quot;X&quot;) in the upper-right corner.</li></ol>"
+        },
+        {
+          "type": "Page",
+          "title": "The Pinned and Recommended Lists",
+          "position": 14,
+          "body": "<p><em>Book pages: 21 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>The Pinned and Recommended Lists</h2><p>Windows 11 automatically adds commands for apps to the Pinned list in the Start menu. Sometimes an app is added to the list the first time you launch it; other times you may need to use a program twice to have it added to the list. When the Pinned list becomes full, the command for the app that has been unused the longest is removed. You can also add and delete apps to suit your needs. The Recommended section shows the documents and files you have opened most recently.</p><h3>Pinning Commands to the Start Menu</h3><p>Commands for any app can be easily pinned to the Start menu. You pin a command to the Start menu to make it easier to access.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.6: Customize the Start Menu — Pin and Move an App",
+          "position": 15,
+          "body": "<p><em>Book pages: 21-22 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Hands-On 1.6: Customize the Start Menu</h2><p>In this exercise, you will add and position an app on the Start menu.</p><ol><li>Click the Start menu, click the All Apps button, and find the Calculator app (but don't click it yet).</li><li>Right-click the Calculator icon and choose Pin to Start.</li><li>Click the Back button.<br><em>Notice that the Calculator icon appears at the bottom of the Pinned section. If you can't see the Calculator icon, use the down arrow on the keyboard to scroll down through the Pinned section.</em></li><li>Right-click the Calculator icon in the Pinned section and choose Move to Front.<br><em>The Calculator icon is now the first icon on the Pinned menu.</em></li></ol><h3>Moving Apps on the Start Menu</h3><p>You can move apps around on the Start menu as you like, and you can move an app straight to the top of the menu by right-clicking the app icon with the mouse to open a menu of commands. If you have many apps, there may be more than one screen that you can scroll through on the Start menu.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.7: Customize the Start Menu — Add a Folder",
+          "position": 16,
+          "body": "<p><em>Book pages: 22-23 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Hands-On 1.7: Customize the Start Menu</h2><p>In this exercise, you will add a folder to the Start menu and set a custom name for it.</p><ol><li>Click the Start button.</li><li>On the Start menu, click and drag the icon of your choice onto another icon and then release your mouse button.<br><em>Notice how a folder is created with both icons in it.</em></li><li>Click the folder you created and then the default title; type: School</li><li>Tap Enter to complete the name change.</li><li>Click outside the Start menu to close both the menu and the folder.</li><li>Click the Start button and verify that the folder has been renamed. Leave the folder open for the next exercise.</li></ol><h3>Adding Folders to the Start Menu</h3><p>You can add folders to the Start menu to organize apps and shortcuts. When you drag one icon onto another icon on the Start menu, this triggers the creation of a folder. More icons can then be added to the folder by dragging and dropping icons onto the folder. Folder names can be renamed to help with organization &mdash; for example, one folder for social media apps, another for games, and another for apps you use for school.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.8: Delete a Folder",
+          "position": 17,
+          "body": "<p><em>Book pages: 24 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Hands-On 1.8: Delete a Folder</h2><p>In this exercise, you will remove one of the icons from the folder you created to automatically delete the folder.</p><ol><li>Click the Start button to open the Start menu and then click your School folder.</li><li>Drag one of the icons out of the folder back into the Start menu.<br><em>The folder is automatically deleted, and the remaining icon is moved back to the Start menu.</em></li></ol><h3>Deleting a Start Menu Folder</h3><p>Deleting a menu folder is easy. The selected folder is deleted once there is only one icon or shortcut left in the folder. At this point the last icon or shortcut is placed back on the Start menu and the folder is automatically deleted.</p>"
+        },
+        {
+          "type": "Page",
+          "title": "Shutting Down",
+          "position": 18,
+          "body": "<p><em>Book pages: 24-25 &middot; CBO Objective : #5 (Shut down the computer correctly)</em></p><h2>Shutting Down</h2><p>Windows is a very large collection of programs. If it is not shut down properly, you may discover upon restarting your computer that error messages appear &mdash; or even worse, that Windows won't start at all. This is because Windows needs time to properly shut down all of its software parts and pieces correctly, and turning off the power doesn't allow enough time to do this.</p><p>There are three ways to shut down Windows, depending on what you want to do next. The following options are displayed via the Start button and the Power button menu: Sleep, Shut Down, and Restart.</p><h3>Sleep</h3><p>In sleep mode, the computer slows down and therefore uses a lot less energy. Any documents you are working on are saved, the processor works more slowly, the monitor is turned off, and other settings are triggered that allow the computer to save power. On most laptops, closing the lid will immediately cause the laptop to go into sleep mode.</p><h3>Shut Down</h3><p>This command closes all programs, logs you out of the computer, and turns off its power. When you are done with the computer for the day, it is important to turn it off using the Shut Down command.</p><p><strong>Never</strong> hold down the Power button to turn a computer off unless you have no other choice. Windows needs time to close its various parts and pieces down properly, and turning the power off abruptly can corrupt parts of the Windows software and can even cause the computer to not be able to restart.</p><h3>Restart</h3><p>The restart mode closes all open program windows, logs you out, and powers down the computer. The computer then restarts and Windows reloads. Sometimes Windows will ask you to restart the computer after a new program or program update has been installed, because the new program can't be used until the system restarts and the new software is integrated into Windows.</p><table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Shut down Windows and the computer</td><td>Close all open programs. Click the Shut Down button (on the Power button menu).</td></tr><tr><td>Go into sleep mode</td><td>Choose Sleep from the Power button menu.</td></tr><tr><td>Exit sleep mode</td><td>Move the mouse or tap the Spacebar on your keyboard.</td></tr></table>"
+        },
+        {
+          "type": "Page",
+          "title": "Hands-On 1.9: Use Sleep Mode and Shut Down",
+          "position": 19,
+          "body": "<p><em>Book pages: 26 &middot; CBO Objective : #5 (Shut down the computer correctly)</em></p><h2>Hands-On 1.9: Use Sleep Mode and Shut Down</h2><p>In this exercise, you will put the computer into sleep mode and then return it to working mode. Then you'll shut down Windows.</p><ol><li>Make sure all programs are closed and then click the Start button.</li><li>Click the Power button, then choose Sleep from the menu.<br><em>Moving forward, steps like these will be written as &quot;Click the Start button and then choose Power&rarr;Sleep.&quot;</em></li><li>Move the mouse or press the Spacebar to bring the computer out of sleep mode.</li><li>If the Start screen appears, click it. Enter your password when the login screen appears.<br><em>The computer is now ready to work again.</em></li><li>Make sure any open programs are closed.</li><li>Click the Start button and then choose Power&rarr;Shut Down.<br><em>It may take the computer 15 seconds or more to completely shut down.</em></li></ol>"
         },
         {
           "type": "File",
           "title": "Chapter 1 Presentation: Getting Your First Look",
-          "position": 2,
+          "position": 20,
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C01-PPT.pptx"
         },
         {
           "type": "Assignment",
           "title": "Skill Builder 1.1: Organize the Start Menu",
-          "position": 3,
-          "description": "<h2>Skill Builder 1.1: Organize the Start Menu</h2><p>In this exercise, you will add app icons to the Start menu and organize the menu.</p><h3>Instructions</h3><ol><li>Click the Start button and click All Apps.</li><li>Right-click the Clock app and choose Pin to Start.</li><li>Right-click the Windows Media Player Legacy app and choose Pin to Start.</li><li>Right-click the Clock app on the Pinned list and choose Move to Front. Do the same with the Windows Media Player Legacy app.</li><li>Move the Clock icon from the top Pinned row to the start of the second row.</li><li>Right-click the Windows Media Player Legacy app and choose Unpin from Start.</li><li>Right-click the Clock app and choose Unpin from Start.</li></ol><h3>What to submit</h3><p>A screenshot after step 5, showing the Clock and Windows Media Player Legacy icons pinned and reordered (before you unpin them in steps 6-7).</p>",
+          "position": 21,
+          "description": "<p><em>Book pages: 28 &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Skill Builder 1.1: Organize the Start Menu</h2><p>In this exercise, you will add app icons to the Start menu and organize the menu.</p><h3>Instructions</h3><ol><li>Click the Start button and click All Apps.</li><li>Right-click the Clock app and choose Pin to Start.</li><li>Right-click the Windows Media Player Legacy app and choose Pin to Start.</li><li>Right-click the Clock app on the Pinned list and choose Move to Front. Do the same with the Windows Media Player Legacy app.</li><li>Move the Clock icon from the top Pinned row to the start of the second row.</li><li>Right-click the Windows Media Player Legacy app and choose Unpin from Start.</li><li>Right-click the Clock app and choose Unpin from Start.</li></ol><h3>What to submit</h3><p>A screenshot after step 5, showing the Clock and Windows Media Player Legacy icons pinned and reordered (before you unpin them in steps 6-7).</p>",
           "points_possible": 5,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 1.1: Pin an App to the Start Menu",
-          "position": 4,
-          "description": "<h2>Additional Skill Builder 1.1: Pin an App to the Start Menu</h2><p>In this exercise, you will pin an app to the Start menu.</p><h3>Instructions</h3><ol><li>Click the <strong>Start</strong> button and then click <strong>All Apps</strong>.</li><li>Scroll down to <strong>Snipping Tool</strong>.</li><li>Right-click <strong>Snipping Tool</strong> and choose <strong>Pin to Start</strong>.</li><li>Notice the new Snipping Tool icon at the end of the Pinned menu.</li></ol><h3>What to submit</h3><p>A screenshot of your Start menu showing the Snipping Tool icon pinned in the Pinned section.</p>",
+          "position": 22,
+          "description": "<p><em>Book pages: not in the textbook &mdash; supplementary exercise &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Additional Skill Builder 1.1: Pin an App to the Start Menu</h2><p>In this exercise, you will pin an app to the Start menu.</p><h3>Instructions</h3><ol><li>Click the <strong>Start</strong> button and then click <strong>All Apps</strong>.</li><li>Scroll down to <strong>Snipping Tool</strong>.</li><li>Right-click <strong>Snipping Tool</strong> and choose <strong>Pin to Start</strong>.</li><li>Notice the new Snipping Tool icon at the end of the Pinned menu.</li></ol><h3>What to submit</h3><p>A screenshot of your Start menu showing the Snipping Tool icon pinned in the Pinned section.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Assignment",
+          "title": "Homework: Try This at Home",
+          "position": 23,
+          "description": "<p><em>Book pages: 29-30 &middot; CBO Objective s: #1 (Log in to the computer using a username and password), #4 (Work with the Start menu), #5 (Shut down the computer correctly) — optional take-home practice, done on your own computer</em></p><h2>Homework: Try This at Home</h2><p>These three exercises are meant to be done on your own computer at home, not in the lab &mdash; they involve settings and multi-user setups that aren't practical to test in a shared classroom.</p><h3>1.1 Switch Users (supports Objective #4: Work with the Start menu / Objective #1: Log in)</h3><p><em>Before you begin: skip this exercise if there is only one user listed on the Windows login screen. You need at least two user accounts to switch between users.</em></p><ol><li>Click the Start button.</li><li>Click the user icon/name button, then choose a different user from the list of users.<br><em>After a pause, Windows displays the lock screen.</em></li><li>Type your password and tap Enter.<br><em>Windows will now make the switch. This can take 15 seconds or more.</em></li><li>Switch back to your account by clicking the user icon/name button and choosing your login.</li><li>Type your password and tap Enter.</li></ol><h3>1.2 Change Your Password (supports Objective #1: Log in)</h3><p><em>Before you begin: keep in mind that you are changing the password to your online Microsoft Live account associated with this login. Write down your new password and keep it in a safe location. Check with your instructor if you aren't sure how to proceed.</em></p><ol><li>Click your user icon/name button at the bottom of the Start menu and then choose Change Account Settings from the menu that appears.</li><li>Choose Accounts&rarr;Sign-In Options from the menu.</li><li>Click Password to expand the menu and then click the Change button.</li><li>Enter your current password and click Sign In.</li><li>From the Password block, click Change Password.</li><li>Enter your current password (again) in the space marked Old Password.</li><li>Enter your new password in the space marked Create New Password and repeat in the space marked Confirm New Password. Write down your new password so you don't forget it &mdash; you will need it the next time you sign in.</li><li>Click the Submit button to complete the procedure.</li><li>Close the web browser window.</li></ol><h3>1.3 Shut Down (supports Objective #5: Shut down the computer correctly)</h3><p>In this exercise, you will shut down the computer properly.</p><ol><li>Make sure that all of your open apps are closed.</li><li>From the Start menu choose Power&rarr;Shut Down.<br><em>The computer will take a minute or two to complete its shutdown tasks. Be patient!</em></li><li>If the computer doesn't turn off the power automatically, you will need to manually power off the computer and the monitor.</li></ol><p><strong>Warning:</strong> sometimes Windows will hang up when closing and will stop responding. It is best to give the device a few minutes to correct the problem before turning the power off manually and overriding Windows.</p>",
+          "points_possible": 10,
+          "submission_types": [
+            "online_text_entry"
+          ]
         },
         {
           "type": "Quiz",
           "title": "Chapter 1 Quiz: Getting Your First Look",
-          "position": 5,
+          "position": 24,
           "description": "A 10-question quiz covering logging in, the Windows Desktop, mouse actions, the Start menu, and shutting down. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 10,
           "questions": [
@@ -45,88 +167,172 @@
               "question_type": "true_false_question",
               "question_text": "Logging in to the computer is the process of entering your username and password to gain access to the computer and network.",
               "answers": [
-                {"text": "True", "weight": 100},
-                {"text": "False", "weight": 0}
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Start button enables you to access most of the features of Windows.",
               "answers": [
-                {"text": "True", "weight": 100},
-                {"text": "False", "weight": 0}
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "RAM memory is the permanent storage for the operating system.",
               "answers": [
-                {"text": "True", "weight": 0},
-                {"text": "False", "weight": 100}
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Recommended pane in the Start menu shows you recently opened documents and apps.",
               "answers": [
-                {"text": "True", "weight": 100},
-                {"text": "False", "weight": 0}
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "Holding down the Power button on your computer is a recommended way to shut down the computer.",
               "answers": [
-                {"text": "True", "weight": 0},
-                {"text": "False", "weight": 100}
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "Windows may have you restart the computer after you install a new program.",
               "answers": [
-                {"text": "True", "weight": 100},
-                {"text": "False", "weight": 0}
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which item is NOT part of the Desktop?",
               "answers": [
-                {"text": "Close button", "weight": 100},
-                {"text": "Background", "weight": 0},
-                {"text": "Taskbar", "weight": 0},
-                {"text": "Start button", "weight": 0}
+                {
+                  "text": "Close button",
+                  "weight": 100
+                },
+                {
+                  "text": "Background",
+                  "weight": 0
+                },
+                {
+                  "text": "Taskbar",
+                  "weight": 0
+                },
+                {
+                  "text": "Start button",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Where can you find the notification area in Windows?",
               "answers": [
-                {"text": "On the Start menu", "weight": 0},
-                {"text": "In the Settings", "weight": 0},
-                {"text": "On the taskbar", "weight": 100},
-                {"text": "On the login screen", "weight": 0}
+                {
+                  "text": "On the Start menu",
+                  "weight": 0
+                },
+                {
+                  "text": "In the Settings",
+                  "weight": 0
+                },
+                {
+                  "text": "On the taskbar",
+                  "weight": 100
+                },
+                {
+                  "text": "On the login screen",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which of these is NOT a basic computer component?",
               "answers": [
-                {"text": "Hard drive", "weight": 0},
-                {"text": "Processor", "weight": 0},
-                {"text": "RAM", "weight": 0},
-                {"text": "Router", "weight": 100}
+                {
+                  "text": "Hard drive",
+                  "weight": 0
+                },
+                {
+                  "text": "Processor",
+                  "weight": 0
+                },
+                {
+                  "text": "RAM",
+                  "weight": 0
+                },
+                {
+                  "text": "Router",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "You can click Start > user icon/name button > Change Account Settings to ____.",
               "answers": [
-                {"text": "modify your sign-in options", "weight": 0},
-                {"text": "connect your work or school computer to the network", "weight": 0},
-                {"text": "add users to the computer", "weight": 0},
-                {"text": "All of these options", "weight": 100}
+                {
+                  "text": "modify your sign-in options",
+                  "weight": 0
+                },
+                {
+                  "text": "connect your work or school computer to the network",
+                  "weight": 0
+                },
+                {
+                  "text": "add users to the computer",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
               ]
             }
           ]
@@ -155,7 +361,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 2.1-2.3</h2><p>In-book Skill Builders for Chapter 2 — independent practice with less guidance than the Hands-On exercises. Refer to your textbook (Chapter 2, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>2.1 Resize and Move Apps</strong> — resize and move the Calculator app on the Desktop.</li><li><strong>2.2 Pin and Unpin Apps</strong> — pin two commands to the Start menu, use them to launch both apps, then unpin them.</li><li><strong>2.3 Multitask</strong> — practice multitasking using the window and taskbar controls from this chapter.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task (3 screenshots total).</p>",
           "points_possible": 15,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -163,7 +371,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 2.1: Using the Snap Feature with Multiple Apps Open</h2><p>In this exercise, you will use the Snap feature to display two programs side by side on the screen.</p><h3>Instructions</h3><ol><li>Start the Calculator, Notepad, and Paint apps.</li><li>Drag the Paint app so it snaps to the left side of the screen.</li><li>Notice that Windows displays the other two apps in miniature next to Paint.</li><li>Click on Notepad. Notice that it snaps to fill the right side of the screen.</li><li>Close all apps.</li></ol><h3>What to submit</h3><p>A screenshot showing Paint and Notepad snapped side by side.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -171,7 +381,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 2.2: Using the Show Desktop Button</h2><p>In this exercise, you will use the Show Desktop button to quickly minimize all open programs to see the Desktop.</p><h3>Instructions</h3><ol><li>Open the Notepad, Calculator, and Paint apps.</li><li>Carefully click the Show Desktop button on the far-right edge of the taskbar.</li><li>Notice how all the app windows are minimized.</li><li>Click the Show Desktop button again. Notice that the app windows are restored onto the Desktop.</li><li>Close all open apps.</li></ol><h3>What to submit</h3><p>A short written response describing what happened each time you clicked the Show Desktop button.</p>",
           "points_possible": 5,
-          "submission_types": ["online_text_entry"]
+          "submission_types": [
+            "online_text_entry"
+          ]
         },
         {
           "type": "Quiz",
@@ -180,21 +392,272 @@
           "description": "A 15-question quiz covering app windows, touch controls, the taskbar, and multitasking. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "The Maximize button enlarges an app to fill the entire Desktop.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Quick-sizing buttons are used to reconfigure or close an app.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "When you open multiple programs in Windows, they share the same window.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "When an app is opened, its app button is placed in the notification area.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The active window is always displayed in front of other windows when multiple programs are in use.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "You can only have one active app at a time.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The Action Center is a preinstalled sports app in Windows.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The Show Desktop button maximizes all open apps onto the Desktop.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following is NOT a function of the notification area?", "answers": [{"text": "It displays icons representing tasks and functions running in the background", "weight": 0}, {"text": "It displays local weather information", "weight": 100}, {"text": "It displays a system clock and current date", "weight": 0}, {"text": "It notifies the user about certain system events", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "The Minimize button ______.", "answers": [{"text": "closes the app", "weight": 0}, {"text": "shrinks the app from the desktop, leaving only the app button on the taskbar", "weight": 100}, {"text": "closes your app and automatically saves any unsaved work", "weight": 0}, {"text": "pauses your app", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "How can you tell if a program window is resizable?", "answers": [{"text": "A double-headed mouse pointer will appear when you point at the program window border", "weight": 100}, {"text": "The mouse pointer becomes a four-headed arrow when placed on a program window border", "weight": 0}, {"text": "The title bar will display Minimize and Maximize buttons", "weight": 0}, {"text": "Within Windows, all program windows are resizable", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "What command options are normally associated with the quick-sizing buttons in most program windows?", "answers": [{"text": "Maximize, Minimize, and Shut Down", "weight": 0}, {"text": "Restore Down, Close, Minimize, and Maximize", "weight": 100}, {"text": "Multitask, Flip, and Close", "weight": 0}, {"text": "Exit, Resize, Maximize, and Minimize", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "When selected, the Restore Down button _____.", "answers": [{"text": "shrinks the program window, leaving only the program button on the taskbar", "weight": 0}, {"text": "enlarges the program window to fill the entire Desktop", "weight": 0}, {"text": "returns the window back to its previous dimensions (if the window is minimized)", "weight": 0}, {"text": "resizes the window to the smaller size it was before it was last maximized", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "The title bar _____.", "answers": [{"text": "displays the name of an app", "weight": 0}, {"text": "may display the name of the document or object being edited", "weight": 0}, {"text": "provides a handle for moving the app", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following is NOT a touchpad control?", "answers": [{"text": "Opening the Task screen", "weight": 0}, {"text": "Showing the Desktop", "weight": 0}, {"text": "Quick accessing the Start menu", "weight": 100}, {"text": "Switching between open app windows", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Maximize button enlarges an app to fill the entire Desktop.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Quick-sizing buttons are used to reconfigure or close an app.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "When you open multiple programs in Windows, they share the same window.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "When an app is opened, its app button is placed in the notification area.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The active window is always displayed in front of other windows when multiple programs are in use.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can only have one active app at a time.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Action Center is a preinstalled sports app in Windows.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Show Desktop button maximizes all open apps onto the Desktop.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is NOT a function of the notification area?",
+              "answers": [
+                {
+                  "text": "It displays icons representing tasks and functions running in the background",
+                  "weight": 0
+                },
+                {
+                  "text": "It displays local weather information",
+                  "weight": 100
+                },
+                {
+                  "text": "It displays a system clock and current date",
+                  "weight": 0
+                },
+                {
+                  "text": "It notifies the user about certain system events",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "The Minimize button ______.",
+              "answers": [
+                {
+                  "text": "closes the app",
+                  "weight": 0
+                },
+                {
+                  "text": "shrinks the app from the desktop, leaving only the app button on the taskbar",
+                  "weight": 100
+                },
+                {
+                  "text": "closes your app and automatically saves any unsaved work",
+                  "weight": 0
+                },
+                {
+                  "text": "pauses your app",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How can you tell if a program window is resizable?",
+              "answers": [
+                {
+                  "text": "A double-headed mouse pointer will appear when you point at the program window border",
+                  "weight": 100
+                },
+                {
+                  "text": "The mouse pointer becomes a four-headed arrow when placed on a program window border",
+                  "weight": 0
+                },
+                {
+                  "text": "The title bar will display Minimize and Maximize buttons",
+                  "weight": 0
+                },
+                {
+                  "text": "Within Windows, all program windows are resizable",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What command options are normally associated with the quick-sizing buttons in most program windows?",
+              "answers": [
+                {
+                  "text": "Maximize, Minimize, and Shut Down",
+                  "weight": 0
+                },
+                {
+                  "text": "Restore Down, Close, Minimize, and Maximize",
+                  "weight": 100
+                },
+                {
+                  "text": "Multitask, Flip, and Close",
+                  "weight": 0
+                },
+                {
+                  "text": "Exit, Resize, Maximize, and Minimize",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "When selected, the Restore Down button _____.",
+              "answers": [
+                {
+                  "text": "shrinks the program window, leaving only the program button on the taskbar",
+                  "weight": 0
+                },
+                {
+                  "text": "enlarges the program window to fill the entire Desktop",
+                  "weight": 0
+                },
+                {
+                  "text": "returns the window back to its previous dimensions (if the window is minimized)",
+                  "weight": 0
+                },
+                {
+                  "text": "resizes the window to the smaller size it was before it was last maximized",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "The title bar _____.",
+              "answers": [
+                {
+                  "text": "displays the name of an app",
+                  "weight": 0
+                },
+                {
+                  "text": "may display the name of the document or object being edited",
+                  "weight": 0
+                },
+                {
+                  "text": "provides a handle for moving the app",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is NOT a touchpad control?",
+              "answers": [
+                {
+                  "text": "Opening the Task screen",
+                  "weight": 0
+                },
+                {
+                  "text": "Showing the Desktop",
+                  "weight": 0
+                },
+                {
+                  "text": "Quick accessing the Start menu",
+                  "weight": 100
+                },
+                {
+                  "text": "Switching between open app windows",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -222,12 +685,106 @@
           "description": "A 6-question quiz covering cloud computing, Microsoft accounts, and Office online apps. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 6,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "The term \"the cloud\" generally refers to the storage of apps and services on the Internet.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The OneDrive app launcher allows you to start apps that reside on your computer.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Office is a set of free apps provided on the Internet by Microsoft.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Your Microsoft account is only used to access your computer.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "The OneDrive app launcher enables you to _____.", "answers": [{"text": "view a list of all the Microsoft online apps", "weight": 100}, {"text": "start apps located on your computer", "weight": 0}, {"text": "quickly switch between open programs", "weight": 0}, {"text": "None of these options", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following is NOT a free app in Office?", "answers": [{"text": "Outlook", "weight": 0}, {"text": "Word", "weight": 0}, {"text": "Publisher", "weight": 100}, {"text": "Excel", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "The term \"the cloud\" generally refers to the storage of apps and services on the Internet.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The OneDrive app launcher allows you to start apps that reside on your computer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Office is a set of free apps provided on the Internet by Microsoft.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Your Microsoft account is only used to access your computer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "The OneDrive app launcher enables you to _____.",
+              "answers": [
+                {
+                  "text": "view a list of all the Microsoft online apps",
+                  "weight": 100
+                },
+                {
+                  "text": "start apps located on your computer",
+                  "weight": 0
+                },
+                {
+                  "text": "quickly switch between open programs",
+                  "weight": 0
+                },
+                {
+                  "text": "None of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is NOT a free app in Office?",
+              "answers": [
+                {
+                  "text": "Outlook",
+                  "weight": 0
+                },
+                {
+                  "text": "Word",
+                  "weight": 0
+                },
+                {
+                  "text": "Publisher",
+                  "weight": 100
+                },
+                {
+                  "text": "Excel",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -254,7 +811,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 4.1-4.2</h2><p>In-book Skill Builders for Chapter 4. Refer to your textbook (Chapter 4, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>4.1 Create and Save a Letter from Start to Finish</strong> — write and save a complete letter in Word Online.</li><li><strong>4.2 Create a Copy of Your Letter</strong> — copy your letter, address it to a new person, and save it as a PDF.</li></ol><h3>What to submit</h3><p>Both documents (or PDFs) you create.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -262,7 +821,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 4.1: Information Letter</h2><p>In this exercise, you will write and edit a basic letter asking for more information about educational opportunities.</p><h3>Instructions</h3><ol><li>Open Word Online and create a new Blank Document.</li><li>Type the letter: <br>TO: Smithsonian Institute<br>FROM: [Enter Your Name Here]<br>RE: Educational Opportunities<br><br>To Whom It May Concern;<br><br>I will be travelling to Washington DC in the coming months and will have a few days to explore the Smithsonian Institute.<br><br>Since I only have a few days, I was hoping you could send me information on what exhibits and educational opportunities a US History buff should partake in while at the Smithsonian.<br><br>Your help would be greatly appreciated.<br><br>Sincerely,<br><br>[Enter Your Name Here]</li><li>Select \"US History buff\" and replace with: <em>United States history enthusiast</em></li><li>Select all of the text and change the Font to Arial and the Font Size to 12.</li><li>Rename the document: <em>Information Letter</em></li><li>Close Word Online.</li></ol><h3>What to submit</h3><p>The finished \"Information Letter\" document.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -270,7 +831,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 4.2: Copy and Paste</h2><p>In this exercise, you will copy text from your Information Letter into a new letter. Complete Additional Skill Builder 4.1 first.</p><h3>Instructions</h3><ol><li>Start Word Online and create a new Blank Document.</li><li>In the new document, type: <br>TO: Library of Congress<br>FROM: [Insert Your Name Here]<br>RE: Educational Opportunities</li><li>Open your \"Information Letter\" document from OneDrive.</li><li>Select the text from \"To Whom It May Concern\" through the end of the letter, including your name.</li><li>Press Ctrl+C to copy the text.</li><li>Switch to your new document and position the insertion point on the blank line below \"RE: Educational Opportunities.\"</li><li>Press Ctrl+V to paste the text.</li><li>Replace \"Smithsonian Institute\" (2nd paragraph) and \"Smithsonian\" (3rd paragraph) with: <em>Library of Congress</em></li><li>Select all the text (Ctrl+A) and change the Font to Arial, Font Size 12.</li><li>Rename the document: <em>Information Letter 2</em></li><li>Close both documents.</li></ol><h3>What to submit</h3><p>The finished \"Information Letter 2\" document.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -279,21 +842,272 @@
           "description": "A 15-question quiz covering Ribbons, saving files, the work area, editing text, and cut/copy/paste. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "Most apps use the Ribbon system, which arranges tools by task.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The computer does NOT save your work unless you command it to do so.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The length of a filename can be up to 300 characters long.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Scroll bars are used when the app content is too large to be seen in the app window.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Text must be selected before you can edit or format it.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The Cut and Copy commands both place a copy of the original item in the Clipboard folder.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "You must download documents created online before they can be printed.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The cursor and the mouse pointer are different names for the same thing.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Where is your work stored within the computer before it is saved?", "answers": [{"text": "On a permanent storage device such as a hard drive or USB flash drive", "weight": 0}, {"text": "On the taskbar within the active app button", "weight": 0}, {"text": "In the microprocessor chip", "weight": 0}, {"text": "In the Random Access Memory (RAM), a temporary storage location", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What two things does Windows need to know when you first save your work?", "answers": [{"text": "What you want to call it and where you want to store it", "weight": 100}, {"text": "The time and date associated with the creation of the work", "weight": 0}, {"text": "Your username and password, so the work is saved in the correct user account", "weight": 0}, {"text": "The originating program name and the file type", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "How would you define the difference between a file and a folder?", "answers": [{"text": "A folder cannot reside on a USB storage device, whereas a file can", "weight": 0}, {"text": "A folder is a letter, drawing, or picture, whereas a file is a storage location", "weight": 0}, {"text": "A file can be deleted, whereas a folder cannot", "weight": 0}, {"text": "A file is a collection of data stored with a name, whereas a folder stores a collection of files", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements correctly describes the Save As command?", "answers": [{"text": "When used, a dialog box is not opened because Windows already knows the filename and location", "weight": 0}, {"text": "It lets you save a copy of an existing file with a different name and deletes the original", "weight": 0}, {"text": "It lets you save a copy of an existing file to another location", "weight": 100}, {"text": "Windows automatically uses Save As to store your work if there is a power failure", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "How would you locate the insertion point in a word-processing program?", "answers": [{"text": "It is located adjacent to the mouse pointer", "weight": 0}, {"text": "It always appears as a cursor at the end of the last word in the typing area", "weight": 0}, {"text": "Just look for the I-beam", "weight": 0}, {"text": "It appears as a blinking cursor in the typing area", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What type of editing is considered formatting?", "answers": [{"text": "Underlining and making the text green", "weight": 100}, {"text": "Deleting and spell-checking", "weight": 0}, {"text": "Capitalizing a word and changing the sentence structure", "weight": 0}, {"text": "Removing punctuation and adding a picture", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "When might you choose to use the Cut command rather than the Copy command?", "answers": [{"text": "When you want to duplicate an item", "weight": 0}, {"text": "When you want to remove the original item", "weight": 100}, {"text": "When you want to paste an item into a different program from its source", "weight": 0}, {"text": "When you don't want the item to be copied into the Clipboard folder", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "Most apps use the Ribbon system, which arranges tools by task.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The computer does NOT save your work unless you command it to do so.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The length of a filename can be up to 300 characters long.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Scroll bars are used when the app content is too large to be seen in the app window.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Text must be selected before you can edit or format it.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Cut and Copy commands both place a copy of the original item in the Clipboard folder.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You must download documents created online before they can be printed.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The cursor and the mouse pointer are different names for the same thing.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where is your work stored within the computer before it is saved?",
+              "answers": [
+                {
+                  "text": "On a permanent storage device such as a hard drive or USB flash drive",
+                  "weight": 0
+                },
+                {
+                  "text": "On the taskbar within the active app button",
+                  "weight": 0
+                },
+                {
+                  "text": "In the microprocessor chip",
+                  "weight": 0
+                },
+                {
+                  "text": "In the Random Access Memory (RAM), a temporary storage location",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What two things does Windows need to know when you first save your work?",
+              "answers": [
+                {
+                  "text": "What you want to call it and where you want to store it",
+                  "weight": 100
+                },
+                {
+                  "text": "The time and date associated with the creation of the work",
+                  "weight": 0
+                },
+                {
+                  "text": "Your username and password, so the work is saved in the correct user account",
+                  "weight": 0
+                },
+                {
+                  "text": "The originating program name and the file type",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How would you define the difference between a file and a folder?",
+              "answers": [
+                {
+                  "text": "A folder cannot reside on a USB storage device, whereas a file can",
+                  "weight": 0
+                },
+                {
+                  "text": "A folder is a letter, drawing, or picture, whereas a file is a storage location",
+                  "weight": 0
+                },
+                {
+                  "text": "A file can be deleted, whereas a folder cannot",
+                  "weight": 0
+                },
+                {
+                  "text": "A file is a collection of data stored with a name, whereas a folder stores a collection of files",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements correctly describes the Save As command?",
+              "answers": [
+                {
+                  "text": "When used, a dialog box is not opened because Windows already knows the filename and location",
+                  "weight": 0
+                },
+                {
+                  "text": "It lets you save a copy of an existing file with a different name and deletes the original",
+                  "weight": 0
+                },
+                {
+                  "text": "It lets you save a copy of an existing file to another location",
+                  "weight": 100
+                },
+                {
+                  "text": "Windows automatically uses Save As to store your work if there is a power failure",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How would you locate the insertion point in a word-processing program?",
+              "answers": [
+                {
+                  "text": "It is located adjacent to the mouse pointer",
+                  "weight": 0
+                },
+                {
+                  "text": "It always appears as a cursor at the end of the last word in the typing area",
+                  "weight": 0
+                },
+                {
+                  "text": "Just look for the I-beam",
+                  "weight": 0
+                },
+                {
+                  "text": "It appears as a blinking cursor in the typing area",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What type of editing is considered formatting?",
+              "answers": [
+                {
+                  "text": "Underlining and making the text green",
+                  "weight": 100
+                },
+                {
+                  "text": "Deleting and spell-checking",
+                  "weight": 0
+                },
+                {
+                  "text": "Capitalizing a word and changing the sentence structure",
+                  "weight": 0
+                },
+                {
+                  "text": "Removing punctuation and adding a picture",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "When might you choose to use the Cut command rather than the Copy command?",
+              "answers": [
+                {
+                  "text": "When you want to duplicate an item",
+                  "weight": 0
+                },
+                {
+                  "text": "When you want to remove the original item",
+                  "weight": 100
+                },
+                {
+                  "text": "When you want to paste an item into a different program from its source",
+                  "weight": 0
+                },
+                {
+                  "text": "When you don't want the item to be copied into the Clipboard folder",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -320,7 +1134,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 5.1-5.5</h2><p>In-book Skill Builders for Chapter 5. Refer to your textbook (Chapter 5, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>5.1 Save Files from Links</strong> — save images sent to you as links to your USB drive.</li><li><strong>5.2 Create a Gmail Email Account</strong> — create a free Gmail account.</li><li><strong>5.3 Send and Read Email in Gmail</strong></li><li><strong>5.4 Delete and Archive Emails in Gmail</strong></li><li><strong>5.5 Forward an Email</strong> — forward a message to a new recipient.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
           "points_possible": 25,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -328,7 +1144,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 5.1: Sending an Email with Multiple Address Lines</h2><p>In this exercise, you will create and send an email to multiple addresses.</p><h3>Instructions</h3><ol><li>Start Outlook.com.</li><li>Click New Mail to create a new message.</li><li>Type <code>dcampbell@lablearning.net</code> in the address line.</li><li>Click the Cc link and type <code>laura.smith@lablearning.net</code> in the Cc box.</li><li>Click the Bcc link and type <code>sholten@lablearning.net</code> in the Bcc box.</li><li>Type \"Thank you\" in the subject line.</li><li>Type in the message box: \"I just wanted to thank everyone for their help with my missing bobble-head doll. I appreciate the kind words and effort in solving the problem.\" followed by \"Thanks Again\"</li><li>Click Send.</li><li>Close Outlook.com.</li></ol><h3>What to submit</h3><p>A screenshot of the sent message showing the To, Cc, and Bcc fields.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -336,7 +1154,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 5.2: Organize Your Email with Folders</h2><p>In this exercise, you will create a folder in Outlook.com to organize your email messages. If you don't have any emails yet, send yourself three messages first.</p><h3>Instructions</h3><ol><li>Start Outlook.com.</li><li>Click Create New Folder on the Folders menu, type \"Messages to keep,\" and press Enter.</li><li>Drag the \"Messages to keep\" folder on top of the Inbox folder so it becomes a subfolder of the Inbox.</li><li>Click the Inbox folder.</li><li>Choose an email message and drag it onto the \"Messages to keep\" folder.</li><li>Click the \"Messages to keep\" folder and verify the email is there.</li><li>Close Outlook.com.</li></ol><h3>What to submit</h3><p>A screenshot showing the \"Messages to keep\" subfolder with a message inside it.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -345,21 +1165,272 @@
           "description": "A 15-question quiz covering email addresses, Outlook, sending/replying, and email threats. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "Multiple people can have the same email address; yours is not unique to you.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The domain piece of your email address defines the location of your electronic post office.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Outlook uses responsive design, and the screen layout changes based on the size of the app window.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The carbon copy (Cc) link enables you to set how many copies of an email to send.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Typing a message in Outlook works just like typing text into Word.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Only text files and images can be sent as attachments.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Emails you delete are permanently removed from Outlook after ten days.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Emails in Outlook can only be saved in the folders already created for you.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "When sending an email, which part of the message is optional?", "answers": [{"text": "The recipient's email address", "weight": 0}, {"text": "Attachments", "weight": 100}, {"text": "The message body text", "weight": 0}, {"text": "All of these options", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which is a type of response to an email?", "answers": [{"text": "Reply", "weight": 0}, {"text": "Reply All", "weight": 0}, {"text": "Forward", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "In Outlook, emails can be moved by _____.", "answers": [{"text": "dragging the message from the Inbox into the appropriate folder", "weight": 0}, {"text": "using the Send button on the menu bar", "weight": 0}, {"text": "using the Move To command", "weight": 0}, {"text": "both dragging the message from the Inbox to the appropriate folder and using the Move To command", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following is NOT a threat when using email?", "answers": [{"text": "Phishing", "weight": 0}, {"text": "Tacking", "weight": 100}, {"text": "Spoofing", "weight": 0}, {"text": "Advance Fee", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "If you suspect an email is fraudulent, you should _____.", "answers": [{"text": "reply to the email and see if anyone answers", "weight": 0}, {"text": "download any attachments", "weight": 0}, {"text": "delete the email", "weight": 100}, {"text": "forward it to all your friends as a warning", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "In Outlook you _____.", "answers": [{"text": "can create multiple folders for saving email messages", "weight": 100}, {"text": "can save emails only in the folders created for you", "weight": 0}, {"text": "can save emails only in the Inbox", "weight": 0}, {"text": "cannot save emails once they have been read", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "In Outlook, deleted email messages _____.", "answers": [{"text": "are moved to the Deleted folder where they are archived", "weight": 0}, {"text": "are immediately deleted and removed from Outlook", "weight": 0}, {"text": "are moved to the Deleted folder, where they stay for ten days before being permanently removed from Outlook", "weight": 100}, {"text": "None of these options", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "Multiple people can have the same email address; yours is not unique to you.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The domain piece of your email address defines the location of your electronic post office.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Outlook uses responsive design, and the screen layout changes based on the size of the app window.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The carbon copy (Cc) link enables you to set how many copies of an email to send.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Typing a message in Outlook works just like typing text into Word.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Only text files and images can be sent as attachments.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Emails you delete are permanently removed from Outlook after ten days.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Emails in Outlook can only be saved in the folders already created for you.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "When sending an email, which part of the message is optional?",
+              "answers": [
+                {
+                  "text": "The recipient's email address",
+                  "weight": 0
+                },
+                {
+                  "text": "Attachments",
+                  "weight": 100
+                },
+                {
+                  "text": "The message body text",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which is a type of response to an email?",
+              "answers": [
+                {
+                  "text": "Reply",
+                  "weight": 0
+                },
+                {
+                  "text": "Reply All",
+                  "weight": 0
+                },
+                {
+                  "text": "Forward",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "In Outlook, emails can be moved by _____.",
+              "answers": [
+                {
+                  "text": "dragging the message from the Inbox into the appropriate folder",
+                  "weight": 0
+                },
+                {
+                  "text": "using the Send button on the menu bar",
+                  "weight": 0
+                },
+                {
+                  "text": "using the Move To command",
+                  "weight": 0
+                },
+                {
+                  "text": "both dragging the message from the Inbox to the appropriate folder and using the Move To command",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is NOT a threat when using email?",
+              "answers": [
+                {
+                  "text": "Phishing",
+                  "weight": 0
+                },
+                {
+                  "text": "Tacking",
+                  "weight": 100
+                },
+                {
+                  "text": "Spoofing",
+                  "weight": 0
+                },
+                {
+                  "text": "Advance Fee",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "If you suspect an email is fraudulent, you should _____.",
+              "answers": [
+                {
+                  "text": "reply to the email and see if anyone answers",
+                  "weight": 0
+                },
+                {
+                  "text": "download any attachments",
+                  "weight": 0
+                },
+                {
+                  "text": "delete the email",
+                  "weight": 100
+                },
+                {
+                  "text": "forward it to all your friends as a warning",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "In Outlook you _____.",
+              "answers": [
+                {
+                  "text": "can create multiple folders for saving email messages",
+                  "weight": 100
+                },
+                {
+                  "text": "can save emails only in the folders created for you",
+                  "weight": 0
+                },
+                {
+                  "text": "can save emails only in the Inbox",
+                  "weight": 0
+                },
+                {
+                  "text": "cannot save emails once they have been read",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "In Outlook, deleted email messages _____.",
+              "answers": [
+                {
+                  "text": "are moved to the Deleted folder where they are archived",
+                  "weight": 0
+                },
+                {
+                  "text": "are immediately deleted and removed from Outlook",
+                  "weight": 0
+                },
+                {
+                  "text": "are moved to the Deleted folder, where they stay for ten days before being permanently removed from Outlook",
+                  "weight": 100
+                },
+                {
+                  "text": "None of these options",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -386,7 +1457,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 6.1-6.2</h2><p>In-book Skill Builders for Chapter 6. Refer to your textbook (Chapter 6, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>6.1 Find the Remaining Capacity of a Drive</strong> — explore your USB flash drive's properties to find used/free space.</li><li><strong>6.2 Search the Contents of Files</strong> — find files by searching for content within the file itself.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -394,7 +1467,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 6.1: Changing the View of the Folder Pane</h2><p>In this exercise, you will change how a Windows folder is viewed and sorted.</p><h3>Instructions</h3><ol><li>Start File Explorer.</li><li>In the Folders pane, click This PC.</li><li>Under Devices and Drives, double-click Local Disk (C:).</li><li>Double-click the Windows folder.</li><li>Change the layout to Large Icons. Notice how the view changes.</li><li>Change the layout to Small Icons.</li><li>Change the layout to Details.</li><li>Close File Explorer.</li></ol><h3>What to submit</h3><p>A screenshot of the Windows folder shown in Details view.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -402,7 +1477,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 6.2: Safely Removing a USB Flash Drive from a Computer</h2><p>In this exercise, you will practice removing your USB flash drive from the computer safely so you do not lose any data.</p><h3>Instructions</h3><ol><li>Start File Explorer.</li><li>Plug in your USB flash drive.</li><li>Use File Explorer to view the contents of your USB flash drive.</li><li>Close File Explorer.</li><li>When it's safe to do so, remove your USB from the computer.</li></ol><h3>What to submit</h3><p>A short written response describing how you determined it was safe to remove the drive.</p>",
           "points_possible": 5,
-          "submission_types": ["online_text_entry"]
+          "submission_types": [
+            "online_text_entry"
+          ]
         },
         {
           "type": "Quiz",
@@ -411,21 +1488,272 @@
           "description": "A 15-question quiz covering storage devices, File Explorer, and searching for files. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "Numerous storage drives can be connected to your computer at the same time.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "As long as the activity light is illuminated on a USB flash drive, you can safely remove the device from the computer.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The address bar displays the path (hierarchy) to the current open location.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The way a folder is displayed in File Explorer CANNOT be changed.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The icon used to identify a folder can tell you what type of information is stored in that folder.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The Folders pane enables you to select files from a more complete view of the folder \"tree\" (hierarchy).", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "By default, Windows' Search feature looks only within public folders.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The sort order of files in a folder can be changed.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Where are Windows and the apps that run on your computer commonly stored?", "answers": [{"text": "USB flash drive", "weight": 0}, {"text": "Network drive", "weight": 0}, {"text": "External hard drive", "weight": 0}, {"text": "Internal hard drive", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Why would you choose to use an external hard drive in addition to an internal hard drive?", "answers": [{"text": "You never need to use an external hard drive", "weight": 0}, {"text": "External hard drives are portable and can be used on multiple computers", "weight": 100}, {"text": "Internal hard drives have a low capacity and fill up quickly", "weight": 0}, {"text": "Windows needs to be stored externally", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "When viewing the available storage drives on a home computer, how can you identify the main hard drive?", "answers": [{"text": "It will always be the drive annotated with the last letter on the storage list", "weight": 0}, {"text": "It will be the only one displayed on the storage list", "weight": 0}, {"text": "It will always be labeled as \"Hard Drive\"", "weight": 0}, {"text": "It will be assigned the letter \"C\"", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Why would you use the Folders pane displayed in the File Explorer window?", "answers": [{"text": "To quickly access favorite websites", "weight": 0}, {"text": "To view all the drives and folders attached to your computer", "weight": 100}, {"text": "To view the files most regularly accessed", "weight": 0}, {"text": "To view everything in the drive or folder that has been selected", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is the purpose of the address bar on the folder window?", "answers": [{"text": "It displays a hierarchical path including all drives and folders", "weight": 100}, {"text": "It enables the user to create new folders", "weight": 0}, {"text": "It displays a list of files currently available", "weight": 0}, {"text": "It supplies details of the storage available on the hard drive", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "If your files and folders are neatly organized, why would you need to use Windows' Search command?", "answers": [{"text": "It saves time when trying to locate a photo or lost file among thousands", "weight": 100}, {"text": "If your files were organized, you would never need to use this feature", "weight": 0}, {"text": "It's the only way to navigate to files within a subfolder", "weight": 0}, {"text": "External storage devices do not register their files in the Folders window", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "The expand view button _____.", "answers": [{"text": "allows you to see the subfolders in that folder", "weight": 0}, {"text": "enables you to expand the folder to see the subfolders without changing what is shown in the View pane", "weight": 0}, {"text": "changes to point downward when the folder is expanded", "weight": 0}, {"text": "All of these options", "weight": 100}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "Numerous storage drives can be connected to your computer at the same time.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "As long as the activity light is illuminated on a USB flash drive, you can safely remove the device from the computer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The address bar displays the path (hierarchy) to the current open location.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The way a folder is displayed in File Explorer CANNOT be changed.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The icon used to identify a folder can tell you what type of information is stored in that folder.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Folders pane enables you to select files from a more complete view of the folder \"tree\" (hierarchy).",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "By default, Windows' Search feature looks only within public folders.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The sort order of files in a folder can be changed.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where are Windows and the apps that run on your computer commonly stored?",
+              "answers": [
+                {
+                  "text": "USB flash drive",
+                  "weight": 0
+                },
+                {
+                  "text": "Network drive",
+                  "weight": 0
+                },
+                {
+                  "text": "External hard drive",
+                  "weight": 0
+                },
+                {
+                  "text": "Internal hard drive",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Why would you choose to use an external hard drive in addition to an internal hard drive?",
+              "answers": [
+                {
+                  "text": "You never need to use an external hard drive",
+                  "weight": 0
+                },
+                {
+                  "text": "External hard drives are portable and can be used on multiple computers",
+                  "weight": 100
+                },
+                {
+                  "text": "Internal hard drives have a low capacity and fill up quickly",
+                  "weight": 0
+                },
+                {
+                  "text": "Windows needs to be stored externally",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "When viewing the available storage drives on a home computer, how can you identify the main hard drive?",
+              "answers": [
+                {
+                  "text": "It will always be the drive annotated with the last letter on the storage list",
+                  "weight": 0
+                },
+                {
+                  "text": "It will be the only one displayed on the storage list",
+                  "weight": 0
+                },
+                {
+                  "text": "It will always be labeled as \"Hard Drive\"",
+                  "weight": 0
+                },
+                {
+                  "text": "It will be assigned the letter \"C\"",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Why would you use the Folders pane displayed in the File Explorer window?",
+              "answers": [
+                {
+                  "text": "To quickly access favorite websites",
+                  "weight": 0
+                },
+                {
+                  "text": "To view all the drives and folders attached to your computer",
+                  "weight": 100
+                },
+                {
+                  "text": "To view the files most regularly accessed",
+                  "weight": 0
+                },
+                {
+                  "text": "To view everything in the drive or folder that has been selected",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the purpose of the address bar on the folder window?",
+              "answers": [
+                {
+                  "text": "It displays a hierarchical path including all drives and folders",
+                  "weight": 100
+                },
+                {
+                  "text": "It enables the user to create new folders",
+                  "weight": 0
+                },
+                {
+                  "text": "It displays a list of files currently available",
+                  "weight": 0
+                },
+                {
+                  "text": "It supplies details of the storage available on the hard drive",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "If your files and folders are neatly organized, why would you need to use Windows' Search command?",
+              "answers": [
+                {
+                  "text": "It saves time when trying to locate a photo or lost file among thousands",
+                  "weight": 100
+                },
+                {
+                  "text": "If your files were organized, you would never need to use this feature",
+                  "weight": 0
+                },
+                {
+                  "text": "It's the only way to navigate to files within a subfolder",
+                  "weight": 0
+                },
+                {
+                  "text": "External storage devices do not register their files in the Folders window",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "The expand view button _____.",
+              "answers": [
+                {
+                  "text": "allows you to see the subfolders in that folder",
+                  "weight": 0
+                },
+                {
+                  "text": "enables you to expand the folder to see the subfolders without changing what is shown in the View pane",
+                  "weight": 0
+                },
+                {
+                  "text": "changes to point downward when the folder is expanded",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            }
           ]
         }
       ]
@@ -452,7 +1780,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 7.1-7.3</h2><p>In-book Skill Builders for Chapter 7. Refer to your textbook (Chapter 7, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>7.1 Find and Copy Files</strong></li><li><strong>7.2 Open a File Directly from OneDrive</strong> — open and edit a Word document directly from OneDrive.</li><li><strong>7.3 Create a File and Upload to OneDrive</strong></li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
           "points_possible": 15,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -460,7 +1790,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 7.1: Downloading a File from OneDrive</h2><p>In this exercise, you will create a file on your OneDrive storage, download it to your computer, and then move it to your USB flash drive.</p><h3>Instructions</h3><ol><li>Start OneDrive and plug in your USB flash drive.</li><li>Click the + New button in OneDrive and choose Word Document.</li><li>Type \"test document\" on the blank page. Rename the document: Download file.</li><li>Close Word Online.</li><li>In OneDrive, select the \"Download file\" document and click Download.</li><li>When the Download Finished message appears, click Open Folder to view the Downloads folder in File Explorer.</li><li>Click in the document and press Ctrl+C to copy it.</li><li>Click your USB flash drive in the Folders pane, then press Ctrl+V to paste the file.</li><li>Close OneDrive and File Explorer, and safely remove your USB flash drive.</li></ol><h3>What to submit</h3><p>A screenshot showing the \"Download file\" document on your USB flash drive.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -468,7 +1800,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 7.2: Dragging a Folder from the Desktop to Your USB Flash Drive</h2><p>In this exercise, you will create a folder on the Desktop and drag it onto your USB flash drive.</p><h3>Instructions</h3><ol><li>Right-click on the Desktop and choose New > Folder. Name it: Take Home.</li><li>Plug in your USB flash drive and open File Explorer.</li><li>Select your USB flash drive in File Explorer.</li><li>Position File Explorer on the Desktop so you can see the Take Home folder (resize as needed).</li><li>Drag the Take Home folder onto the View pane in File Explorer and release. Windows copies the folder; the original stays on the Desktop.</li><li>Delete the original folder on the Desktop.</li><li>Close File Explorer.</li></ol><h3>What to submit</h3><p>A screenshot showing the \"Take Home\" folder on your USB flash drive.</p>",
           "points_possible": 10,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -477,21 +1811,272 @@
           "description": "A 15-question quiz covering folders, moving/copying files, deleting/restoring, and OneDrive. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "You CANNOT have two folders with identical names, even if they are in different locations.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The Cut command deletes a selected file or folder only after a copy of that file or folder has been pasted into a new location.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "If a file is deleted from a hard drive, it is normally recoverable from the Recycle Bin.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Like filenames, folder names can be up to 255 characters in length.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Windows creates a subfolder in the Users folder for each new user added to a computer.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Subfolders can have subfolders.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Files deleted from a USB flash drive are moved to the Recycle Bin.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "OneDrive can be used ONLY from your primary computer.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Why would you want to create additional folders when Windows already provides folders for storage?", "answers": [{"text": "One folder can only store a limited amount of data", "weight": 0}, {"text": "There isn't a dedicated folder for music", "weight": 0}, {"text": "Doing so when you have similar file types and categories can help you be better organized", "weight": 100}, {"text": "More folders means less additional storage space is required", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Why would you use the right-click method to create a folder on the Desktop?", "answers": [{"text": "No pop-up menus are available", "weight": 0}, {"text": "The menu bar is absent", "weight": 100}, {"text": "A right-click takes you directly to Windows Explorer", "weight": 0}, {"text": "None of these options", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements is true?", "answers": [{"text": "You cannot undo a Paste command with the Undo command", "weight": 0}, {"text": "Once cut, a file or folder can be pasted numerous times", "weight": 0}, {"text": "You can paste only once if you copy a file or folder", "weight": 0}, {"text": "You can paste only once if you cut a file or folder", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What precaution does Windows put in place to help eliminate accidental deletions?", "answers": [{"text": "There is no precaution other than the safety of the Recycle Bin", "weight": 0}, {"text": "A warning is displayed if the object being deleted will not be sent to the Recycle Bin", "weight": 100}, {"text": "The Delete button on the keyboard must be tapped for a delete command to be successful", "weight": 0}, {"text": "All of these options", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements is NOT true?", "answers": [{"text": "OneDrive is on the Internet and is available from any computer", "weight": 0}, {"text": "OneDrive can be accessed from your smartphone", "weight": 0}, {"text": "All of the concepts you have learned about files and folders apply to OneDrive", "weight": 0}, {"text": "OneDrive works only with Microsoft apps", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "How can you select multiple files in a folder?", "answers": [{"text": "Tap and hold the Ctrl key and click each file once", "weight": 0}, {"text": "Click the first file in a group, hold the Shift key, and click the last file in the group", "weight": 0}, {"text": "Tap Ctrl+A on the keyboard", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "It's better for new users to use the right mouse button when dragging and dropping because _____.", "answers": [{"text": "it gives you more control over what happens when you drop the file", "weight": 100}, {"text": "it slows the mouse cursor down, making dropping the folder easier", "weight": 0}, {"text": "it automatically drops the folder in the correct location", "weight": 0}, {"text": "None of these options", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "You CANNOT have two folders with identical names, even if they are in different locations.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Cut command deletes a selected file or folder only after a copy of that file or folder has been pasted into a new location.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "If a file is deleted from a hard drive, it is normally recoverable from the Recycle Bin.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Like filenames, folder names can be up to 255 characters in length.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Windows creates a subfolder in the Users folder for each new user added to a computer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Subfolders can have subfolders.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Files deleted from a USB flash drive are moved to the Recycle Bin.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "OneDrive can be used ONLY from your primary computer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Why would you want to create additional folders when Windows already provides folders for storage?",
+              "answers": [
+                {
+                  "text": "One folder can only store a limited amount of data",
+                  "weight": 0
+                },
+                {
+                  "text": "There isn't a dedicated folder for music",
+                  "weight": 0
+                },
+                {
+                  "text": "Doing so when you have similar file types and categories can help you be better organized",
+                  "weight": 100
+                },
+                {
+                  "text": "More folders means less additional storage space is required",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Why would you use the right-click method to create a folder on the Desktop?",
+              "answers": [
+                {
+                  "text": "No pop-up menus are available",
+                  "weight": 0
+                },
+                {
+                  "text": "The menu bar is absent",
+                  "weight": 100
+                },
+                {
+                  "text": "A right-click takes you directly to Windows Explorer",
+                  "weight": 0
+                },
+                {
+                  "text": "None of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements is true?",
+              "answers": [
+                {
+                  "text": "You cannot undo a Paste command with the Undo command",
+                  "weight": 0
+                },
+                {
+                  "text": "Once cut, a file or folder can be pasted numerous times",
+                  "weight": 0
+                },
+                {
+                  "text": "You can paste only once if you copy a file or folder",
+                  "weight": 0
+                },
+                {
+                  "text": "You can paste only once if you cut a file or folder",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What precaution does Windows put in place to help eliminate accidental deletions?",
+              "answers": [
+                {
+                  "text": "There is no precaution other than the safety of the Recycle Bin",
+                  "weight": 0
+                },
+                {
+                  "text": "A warning is displayed if the object being deleted will not be sent to the Recycle Bin",
+                  "weight": 100
+                },
+                {
+                  "text": "The Delete button on the keyboard must be tapped for a delete command to be successful",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements is NOT true?",
+              "answers": [
+                {
+                  "text": "OneDrive is on the Internet and is available from any computer",
+                  "weight": 0
+                },
+                {
+                  "text": "OneDrive can be accessed from your smartphone",
+                  "weight": 0
+                },
+                {
+                  "text": "All of the concepts you have learned about files and folders apply to OneDrive",
+                  "weight": 0
+                },
+                {
+                  "text": "OneDrive works only with Microsoft apps",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How can you select multiple files in a folder?",
+              "answers": [
+                {
+                  "text": "Tap and hold the Ctrl key and click each file once",
+                  "weight": 0
+                },
+                {
+                  "text": "Click the first file in a group, hold the Shift key, and click the last file in the group",
+                  "weight": 0
+                },
+                {
+                  "text": "Tap Ctrl+A on the keyboard",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "It's better for new users to use the right mouse button when dragging and dropping because _____.",
+              "answers": [
+                {
+                  "text": "it gives you more control over what happens when you drop the file",
+                  "weight": 100
+                },
+                {
+                  "text": "it slows the mouse cursor down, making dropping the folder easier",
+                  "weight": 0
+                },
+                {
+                  "text": "it automatically drops the folder in the correct location",
+                  "weight": 0
+                },
+                {
+                  "text": "None of these options",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -518,7 +2103,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 8.1-8.3</h2><p>In-book Skill Builders for Chapter 8. Refer to your textbook (Chapter 8, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>8.1 Create a Favorite</strong> — create favorites for some popular news sites.</li><li><strong>8.2 Drag Favorites to Folders</strong> — organize your favorites by dragging them into a folder.</li><li><strong>8.3 Move Favorites and Folders</strong> — create a new folder and position it in the Favorites Bar.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
           "points_possible": 15,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -526,7 +2113,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 8.1: Using Country Codes</h2><p>In this exercise, you will use URLs containing country codes instead of top-level domains.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>In the address bar type <code>www.deceptionisland.aq</code> and press Enter. Notice the ending is the two-letter abbreviation for Antarctica.</li><li>Type <code>www.south.is</code> in the address bar and press Enter. IS is the country code for Iceland.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A short written response naming one other country code you found or looked up, and what it stands for.</p>",
           "points_possible": 5,
-          "submission_types": ["online_text_entry"]
+          "submission_types": [
+            "online_text_entry"
+          ]
         },
         {
           "type": "Assignment",
@@ -534,7 +2123,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 8.2: Using the History in Edge</h2><p>In this exercise, you will use the History tab in Hub to find a URL you previously visited.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>Open the Hub and click the History tab.</li><li>Scroll down through the History page — this shows all links visited from this browser.</li><li>Click a link. Notice it opens in Edge.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A screenshot of your History tab.</p>",
           "points_possible": 5,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -543,19 +2134,236 @@
           "description": "A 13-question quiz covering the Internet, browsers, URLs, and Favorites. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 13,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "The World Wide Web is just another name for the Internet.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Microsoft Edge is an example of an Internet service provider.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Google Chrome and Microsoft Edge are examples of browsers.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "A Uniform Resource Locator is also known as an address.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "There are currently only six top-level domains in use.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Browser tabs enable you to have multiple webpages open at the same time.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "A Favorite is a link to a webpage you save in your browser.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these might be used to connect you to the Internet?", "answers": [{"text": "A telephone line", "weight": 0}, {"text": "A router", "weight": 0}, {"text": "A modem", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is a Uniform Resource Locator?", "answers": [{"text": "The vendor that allows you access to the Internet in exchange for a subscription", "weight": 0}, {"text": "A tool that enables you to connect to the Internet wirelessly", "weight": 0}, {"text": "The unique address given to a website", "weight": 100}, {"text": "A device that speeds up Internet connectivity", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is the purpose of the Stop button found in most web browsers?", "answers": [{"text": "It stops a web page from loading", "weight": 100}, {"text": "It closes the browser window", "weight": 0}, {"text": "It hides the Navigation bar", "weight": 0}, {"text": "It reloads the current web page", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is the advantage of using tabbed browsing in Microsoft Edge?", "answers": [{"text": "It automatically tags all web pages and adds them to your Favorites list", "weight": 0}, {"text": "When multiple web pages are open, it allows rapid switching between them without having to use the navigation buttons", "weight": 100}, {"text": "It increases the speed of a low-speed telephone connection", "weight": 0}, {"text": "It allows you to view Firefox and Chrome content in the same window", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following is NOT a browser?", "answers": [{"text": "Chrome", "weight": 0}, {"text": "Firefox", "weight": 0}, {"text": "Digiweb", "weight": 100}, {"text": "Safari", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements is NOT true?", "answers": [{"text": "Only text can be used as a link", "weight": 100}, {"text": "Typically, links are underlined in blue", "weight": 0}, {"text": "When your mouse cursor is over a link, it turns into a small hand with a pointing finger", "weight": 0}, {"text": "All of these statements are true", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "The World Wide Web is just another name for the Internet.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Microsoft Edge is an example of an Internet service provider.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Google Chrome and Microsoft Edge are examples of browsers.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "A Uniform Resource Locator is also known as an address.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "There are currently only six top-level domains in use.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Browser tabs enable you to have multiple webpages open at the same time.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "A Favorite is a link to a webpage you save in your browser.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these might be used to connect you to the Internet?",
+              "answers": [
+                {
+                  "text": "A telephone line",
+                  "weight": 0
+                },
+                {
+                  "text": "A router",
+                  "weight": 0
+                },
+                {
+                  "text": "A modem",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is a Uniform Resource Locator?",
+              "answers": [
+                {
+                  "text": "The vendor that allows you access to the Internet in exchange for a subscription",
+                  "weight": 0
+                },
+                {
+                  "text": "A tool that enables you to connect to the Internet wirelessly",
+                  "weight": 0
+                },
+                {
+                  "text": "The unique address given to a website",
+                  "weight": 100
+                },
+                {
+                  "text": "A device that speeds up Internet connectivity",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the purpose of the Stop button found in most web browsers?",
+              "answers": [
+                {
+                  "text": "It stops a web page from loading",
+                  "weight": 100
+                },
+                {
+                  "text": "It closes the browser window",
+                  "weight": 0
+                },
+                {
+                  "text": "It hides the Navigation bar",
+                  "weight": 0
+                },
+                {
+                  "text": "It reloads the current web page",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the advantage of using tabbed browsing in Microsoft Edge?",
+              "answers": [
+                {
+                  "text": "It automatically tags all web pages and adds them to your Favorites list",
+                  "weight": 0
+                },
+                {
+                  "text": "When multiple web pages are open, it allows rapid switching between them without having to use the navigation buttons",
+                  "weight": 100
+                },
+                {
+                  "text": "It increases the speed of a low-speed telephone connection",
+                  "weight": 0
+                },
+                {
+                  "text": "It allows you to view Firefox and Chrome content in the same window",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is NOT a browser?",
+              "answers": [
+                {
+                  "text": "Chrome",
+                  "weight": 0
+                },
+                {
+                  "text": "Firefox",
+                  "weight": 0
+                },
+                {
+                  "text": "Digiweb",
+                  "weight": 100
+                },
+                {
+                  "text": "Safari",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements is NOT true?",
+              "answers": [
+                {
+                  "text": "Only text can be used as a link",
+                  "weight": 100
+                },
+                {
+                  "text": "Typically, links are underlined in blue",
+                  "weight": 0
+                },
+                {
+                  "text": "When your mouse cursor is over a link, it turns into a small hand with a pointing finger",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these statements are true",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -582,7 +2390,9 @@
           "position": 3,
           "description": "<h2>Skill Builders 9.1-9.4</h2><p>In-book Skill Builders for Chapter 9. Refer to your textbook (Chapter 9, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>9.1 Search for Copyright-Safe Images</strong></li><li><strong>9.2 Save an Image</strong> — download an image to your computer.</li><li><strong>9.3 Clear Browsing Data</strong></li><li><strong>9.4 Search for News</strong> — search Google for current news articles on a given topic.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
           "points_possible": 20,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -590,7 +2400,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 9.1: Searching for Images with Bing</h2><p>In this exercise, you will search for images of the Grand Canyon using the Bing search engine.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>Type <code>Bing.com</code> in the address bar.</li><li>Type \"grand canyon\" in the search box and press Enter.</li><li>Click Images at the top of the search results.</li><li>Click on \"Grand Canyon National Park\" among the image categories shown. Notice Bing filters the images to just that category.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A screenshot of your filtered Grand Canyon National Park image results.</p>",
           "points_possible": 5,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -599,18 +2411,222 @@
           "description": "A 12-question quiz covering search engines and defending against web threats. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 12,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "Only two search engines currently exist on the web.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The web stores millions of pages on millions of computers across the globe.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The good thing about antivirus software is that it never needs to be updated.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Most information you put on the Internet is eventually deleted.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "Most search engines like Google can search the entire Internet.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "When performing a search, correct spelling is NOT important.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is a search engine?", "answers": [{"text": "A digital storage device that itemizes its own contents", "weight": 0}, {"text": "A data collection service available via a subscription", "weight": 0}, {"text": "A browser used to access the web", "weight": 0}, {"text": "A specialized website used to find and sort information on the web", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "How does a search engine work?", "answers": [{"text": "It indexes the web and matches web items with your keywords", "weight": 100}, {"text": "It quickly searches the entire web until it finds a page that matches your keywords", "weight": 0}, {"text": "It returns a list of websites that begin with the starting letters of your keywords", "weight": 0}, {"text": "It gathers information from newspapers, journals, and archive sites for redistribution", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements about using search engines is true?", "answers": [{"text": "The more keywords are used, the more effective the search will be", "weight": 0}, {"text": "Misspelled words are automatically corrected by the search engine", "weight": 0}, {"text": "The more specific you are, the more relevant the returned list will be", "weight": 100}, {"text": "If your initial search is unsuccessful, the web does not contain the content you are searching for", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "How does a firewall protect your computer?", "answers": [{"text": "It stops all incoming data, because anything could be a threat", "weight": 0}, {"text": "It checks all data entering the computer and blocks that which is deemed a possible threat", "weight": 100}, {"text": "It allows data into the computer but blocks all outgoing data", "weight": 0}, {"text": "It scans the computer for viruses whenever a threat is detected", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these is a search engine like Google?", "answers": [{"text": "Yahoo", "weight": 0}, {"text": "DuckDuckGo.com", "weight": 0}, {"text": "Bing", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these is NOT a step to take to protect yourself online?", "answers": [{"text": "Be aware", "weight": 0}, {"text": "Don't update software, as it may introduce spyware into your computer", "weight": 100}, {"text": "Change passwords frequently", "weight": 0}, {"text": "Reboot your computer every few days", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "Only two search engines currently exist on the web.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The web stores millions of pages on millions of computers across the globe.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The good thing about antivirus software is that it never needs to be updated.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Most information you put on the Internet is eventually deleted.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Most search engines like Google can search the entire Internet.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "When performing a search, correct spelling is NOT important.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is a search engine?",
+              "answers": [
+                {
+                  "text": "A digital storage device that itemizes its own contents",
+                  "weight": 0
+                },
+                {
+                  "text": "A data collection service available via a subscription",
+                  "weight": 0
+                },
+                {
+                  "text": "A browser used to access the web",
+                  "weight": 0
+                },
+                {
+                  "text": "A specialized website used to find and sort information on the web",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How does a search engine work?",
+              "answers": [
+                {
+                  "text": "It indexes the web and matches web items with your keywords",
+                  "weight": 100
+                },
+                {
+                  "text": "It quickly searches the entire web until it finds a page that matches your keywords",
+                  "weight": 0
+                },
+                {
+                  "text": "It returns a list of websites that begin with the starting letters of your keywords",
+                  "weight": 0
+                },
+                {
+                  "text": "It gathers information from newspapers, journals, and archive sites for redistribution",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements about using search engines is true?",
+              "answers": [
+                {
+                  "text": "The more keywords are used, the more effective the search will be",
+                  "weight": 0
+                },
+                {
+                  "text": "Misspelled words are automatically corrected by the search engine",
+                  "weight": 0
+                },
+                {
+                  "text": "The more specific you are, the more relevant the returned list will be",
+                  "weight": 100
+                },
+                {
+                  "text": "If your initial search is unsuccessful, the web does not contain the content you are searching for",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How does a firewall protect your computer?",
+              "answers": [
+                {
+                  "text": "It stops all incoming data, because anything could be a threat",
+                  "weight": 0
+                },
+                {
+                  "text": "It checks all data entering the computer and blocks that which is deemed a possible threat",
+                  "weight": 100
+                },
+                {
+                  "text": "It allows data into the computer but blocks all outgoing data",
+                  "weight": 0
+                },
+                {
+                  "text": "It scans the computer for viruses whenever a threat is detected",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is a search engine like Google?",
+              "answers": [
+                {
+                  "text": "Yahoo",
+                  "weight": 0
+                },
+                {
+                  "text": "DuckDuckGo.com",
+                  "weight": 0
+                },
+                {
+                  "text": "Bing",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is NOT a step to take to protect yourself online?",
+              "answers": [
+                {
+                  "text": "Be aware",
+                  "weight": 0
+                },
+                {
+                  "text": "Don't update software, as it may introduce spyware into your computer",
+                  "weight": 100
+                },
+                {
+                  "text": "Change passwords frequently",
+                  "weight": 0
+                },
+                {
+                  "text": "Reboot your computer every few days",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
@@ -637,7 +2653,9 @@
           "position": 3,
           "description": "<h2>Skill Builder 10.1: Change the Screen Resolution</h2><p>In-book Skill Builder for Chapter 10, completed as a WebSim on the Labyrinth Student Resource Center (since changing screen resolution on a shared lab computer isn't appropriate). Refer to your textbook for full instructions.</p><h3>Task</h3><p>Use the WebSim to change the resolution of a PC screen, then close Settings and click Back to Course.</p><h3>What to submit</h3><p>A short written response describing what changed on screen when you adjusted the resolution.</p>",
           "points_possible": 5,
-          "submission_types": ["online_text_entry"]
+          "submission_types": [
+            "online_text_entry"
+          ]
         },
         {
           "type": "Assignment",
@@ -645,7 +2663,9 @@
           "position": 4,
           "description": "<h2>Additional Skill Builder 10.1: Change the Screen Background</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><h3>Instructions</h3><ol><li>Choose Settings > Personalization.</li><li>Click Background.</li><li>Choose Picture from the drop-down menu under Background.</li><li>Click an image from the default list. Your background should change immediately.</li><li>From the drop-down menu under Background, choose Solid Color.</li><li>Choose a color for your Desktop.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot of your Desktop with the new background applied.</p>",
           "points_possible": 5,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Assignment",
@@ -653,7 +2673,9 @@
           "position": 5,
           "description": "<h2>Additional Skill Builder 10.2: Change an Accent Color</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><h3>Instructions</h3><ol><li>Choose Settings > Personalization.</li><li>Click Colors.</li><li>Click on a color to select it. This sets the color of the taskbar, title bars, and other app controls.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot showing your new accent color applied.</p>",
           "points_possible": 5,
-          "submission_types": ["online_upload"]
+          "submission_types": [
+            "online_upload"
+          ]
         },
         {
           "type": "Quiz",
@@ -662,21 +2684,272 @@
           "description": "A 15-question quiz covering Search, Settings, screen resolution, power options, Windows Update, and the Store. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
-            {"question_type": "true_false_question", "question_text": "The Search box on the taskbar enables you to search your computer and the web (Internet).", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Settings enable you to change how things work in Windows.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The Control Panel is no longer available in Windows.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "The background image is also known as the wallpaper.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "Windows updates can be automatically installed.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "The Store enables you to download apps to your windows computer in much the same way as you download apps to your phone.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "true_false_question", "question_text": "You CANNOT use tabs in File Explorer.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
-            {"question_type": "true_false_question", "question_text": "There are nine basic categories of settings.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "What does the screen resolution setting actually control?", "answers": [{"text": "The choice of Desktop picture", "weight": 0}, {"text": "Whether the screen is displayed in color or black and white", "weight": 0}, {"text": "How a computer problem is resolved", "weight": 0}, {"text": "The number of horizontal and vertical pixels", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "What is an advantage of using Windows Update?", "answers": [{"text": "Optional files are downloaded behind the scenes", "weight": 0}, {"text": "You only have to refrain from using your computer for a short time while the downloads take place", "weight": 0}, {"text": "New features, security updates, and patches are made available as updates", "weight": 100}, {"text": "Updates can be downloaded without being connected to the Internet", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these is a category found in Settings?", "answers": [{"text": "System", "weight": 100}, {"text": "Help", "weight": 0}, {"text": "Software", "weight": 0}, {"text": "About Your Computer", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these is NOT one of the default power plans?", "answers": [{"text": "Balanced", "weight": 0}, {"text": "Power Saver", "weight": 0}, {"text": "Gaming", "weight": 100}, {"text": "High Performance", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements about the Store is false?", "answers": [{"text": "It contains thousands of different apps", "weight": 0}, {"text": "It organizes apps into four main groups and dozens of categories", "weight": 0}, {"text": "It only contains apps that work on your smartphone", "weight": 100}, {"text": "Downloading and installing the app is done automatically", "weight": 0}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of the following can you use Search to find?", "answers": [{"text": "Apps", "weight": 0}, {"text": "Settings", "weight": 0}, {"text": "Files", "weight": 0}, {"text": "All of these options", "weight": 100}]},
-            {"question_type": "multiple_choice_question", "question_text": "Which of these statements is false?", "answers": [{"text": "Changing a few power settings can dramatically increase the length of time your laptop runs on battery power", "weight": 0}, {"text": "The various power settings have little impact on the performance of your computer", "weight": 100}, {"text": "The Battery Saver can slow the speed of your computer's processor to save power", "weight": 0}, {"text": "The various power settings can degrade the performance of your computer", "weight": 0}]}
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Search box on the taskbar enables you to search your computer and the web (Internet).",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Settings enable you to change how things work in Windows.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Control Panel is no longer available in Windows.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The background image is also known as the wallpaper.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Windows updates can be automatically installed.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Store enables you to download apps to your windows computer in much the same way as you download apps to your phone.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You CANNOT use tabs in File Explorer.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "There are nine basic categories of settings.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What does the screen resolution setting actually control?",
+              "answers": [
+                {
+                  "text": "The choice of Desktop picture",
+                  "weight": 0
+                },
+                {
+                  "text": "Whether the screen is displayed in color or black and white",
+                  "weight": 0
+                },
+                {
+                  "text": "How a computer problem is resolved",
+                  "weight": 0
+                },
+                {
+                  "text": "The number of horizontal and vertical pixels",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is an advantage of using Windows Update?",
+              "answers": [
+                {
+                  "text": "Optional files are downloaded behind the scenes",
+                  "weight": 0
+                },
+                {
+                  "text": "You only have to refrain from using your computer for a short time while the downloads take place",
+                  "weight": 0
+                },
+                {
+                  "text": "New features, security updates, and patches are made available as updates",
+                  "weight": 100
+                },
+                {
+                  "text": "Updates can be downloaded without being connected to the Internet",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is a category found in Settings?",
+              "answers": [
+                {
+                  "text": "System",
+                  "weight": 100
+                },
+                {
+                  "text": "Help",
+                  "weight": 0
+                },
+                {
+                  "text": "Software",
+                  "weight": 0
+                },
+                {
+                  "text": "About Your Computer",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is NOT one of the default power plans?",
+              "answers": [
+                {
+                  "text": "Balanced",
+                  "weight": 0
+                },
+                {
+                  "text": "Power Saver",
+                  "weight": 0
+                },
+                {
+                  "text": "Gaming",
+                  "weight": 100
+                },
+                {
+                  "text": "High Performance",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements about the Store is false?",
+              "answers": [
+                {
+                  "text": "It contains thousands of different apps",
+                  "weight": 0
+                },
+                {
+                  "text": "It organizes apps into four main groups and dozens of categories",
+                  "weight": 0
+                },
+                {
+                  "text": "It only contains apps that work on your smartphone",
+                  "weight": 100
+                },
+                {
+                  "text": "Downloading and installing the app is done automatically",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following can you use Search to find?",
+              "answers": [
+                {
+                  "text": "Apps",
+                  "weight": 0
+                },
+                {
+                  "text": "Settings",
+                  "weight": 0
+                },
+                {
+                  "text": "Files",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these statements is false?",
+              "answers": [
+                {
+                  "text": "Changing a few power settings can dramatically increase the length of time your laptop runs on battery power",
+                  "weight": 0
+                },
+                {
+                  "text": "The various power settings have little impact on the performance of your computer",
+                  "weight": 100
+                },
+                {
+                  "text": "The Battery Saver can slow the speed of your computer's processor to save power",
+                  "weight": 0
+                },
+                {
+                  "text": "The various power settings can degrade the performance of your computer",
+                  "weight": 0
+                }
+              ]
+            }
           ]
         }
       ]
