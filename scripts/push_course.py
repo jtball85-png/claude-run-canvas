@@ -176,6 +176,66 @@ def create_discussion(course_id, module_id, item, dry_run=False):
                   title=item["title"], dry_run=dry_run)
 
 
+def create_file(course_id, module_id, item, dry_run=False):
+    """Upload a local file to Canvas course Files and add it to the module."""
+    local_path = item.get("path")
+    display_name = item.get("title") or os.path.basename(local_path or "")
+    print(f"  + File: {display_name}")
+
+    if dry_run:
+        print(f"  [DRY RUN] POST /courses/{course_id}/files")
+        add_to_module(course_id, module_id, "File", content_id=9999,
+                      title=display_name, dry_run=dry_run)
+        return
+
+    if not local_path or not os.path.exists(local_path):
+        print(f"  ERROR: file not found: {local_path}")
+        return
+
+    file_size = os.path.getsize(local_path)
+
+    preflight = requests.post(
+        f"{BASE_URL}/courses/{course_id}/files",
+        headers=HEADERS,
+        data={"name": display_name, "size": file_size, "parent_folder_path": "course files"}
+    )
+    if preflight.status_code not in (200, 201):
+        print(f"  ERROR {preflight.status_code}: {preflight.text[:200]}")
+        return
+    preflight_data = preflight.json()
+    upload_url = preflight_data["upload_url"]
+    upload_params = preflight_data["upload_params"]
+
+    with open(local_path, "rb") as f:
+        upload_response = requests.post(
+            upload_url,
+            data=upload_params,
+            files={"file": (display_name, f)},
+            allow_redirects=False
+        )
+
+    if upload_response.status_code in (200, 201):
+        file_obj = upload_response.json()
+    elif upload_response.status_code in (301, 302, 303):
+        location = upload_response.headers.get("Location")
+        confirm = requests.get(location, headers=HEADERS)
+        if confirm.status_code not in (200, 201):
+            print(f"  ERROR confirming upload {confirm.status_code}: {confirm.text[:200]}")
+            return
+        file_obj = confirm.json()
+    else:
+        print(f"  ERROR {upload_response.status_code} uploading file: {upload_response.text[:200]}")
+        return
+
+    file_id = file_obj.get("id")
+    if not file_id:
+        print(f"  ERROR: no file id returned: {file_obj}")
+        return
+
+    add_to_module(course_id, module_id, "File", content_id=file_id,
+                  title=display_name, dry_run=dry_run)
+
+
 def create_quiz(course_id, module_id, item, dry_run=False):
     print(f"  + Quiz: {item['title']}")
     quiz = api_post(
@@ -225,6 +285,7 @@ ITEM_HANDLERS = {
     "assignment": create_assignment,
     "discussion": create_discussion,
     "quiz":       create_quiz,
+    "file":       create_file,
 }
 
 
