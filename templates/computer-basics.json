@@ -10,7 +10,7 @@
           "type": "Page",
           "title": "Day 1 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Day 1 Overview</h2>\n<p>Today covers the absolute basics you'll use every single day: logging in, finding your way around the Desktop, using the mouse, and keeping your account secure.</p>\n<h3>Competencies covered today</h3>\n<ul>\n<li><strong>#1</strong> &mdash; Log in to the computer using a username and password</li>\n<li><strong>#2</strong> &mdash; Describe the basic layout of the Windows Desktop screen</li>\n<li><strong>#3</strong> &mdash; Use the mouse to right-click and drag</li>\n</ul>\n<h3>Today's tasks</h3>\n<ol>\n<li>Watch the Chapter 1 Presentation</li>\n<li>Read: Logging In, the Desktop, Behind the Screen, Using a Mouse, Passwords &amp; Account Settings, Locking the Computer</li>\n<li>Complete the Hands-On Activity: Log In, Use the Mouse &amp; Lock the Computer</li>\n<li>Homework (at home): Switch Users &amp; Change Password</li>\n</ol>"
+          "body": "<h2>Day 1 Overview</h2><p>Today covers the absolute basics you'll use every single day: logging in, finding your way around the Desktop, using the mouse, and keeping your account secure.</p><h3>Competencies covered today</h3><ul><li><strong>#1</strong> &mdash; Log in to the computer using a username and password</li><li><strong>#2</strong> &mdash; Describe the basic layout of the Windows Desktop screen</li><li><strong>#3</strong> &mdash; Use the mouse to right-click and drag</li></ul><h3>Today's tasks</h3><ol><li>Watch the Chapter 1 Presentation</li><li>Logging In to Windows &mdash; read, then submit your Hands-On 1.1 screenshot</li><li>The Windows Desktop &mdash; read, then take the Desktop Features Check</li><li>Behind the Screen &mdash; read, then take the Component Match-Up quiz</li><li>Using a Mouse &mdash; read, then submit your Hands-On 1.2 screenshot</li><li>Passwords and Account Settings &mdash; read, then take the Good Password or Bad Password? quiz</li><li>Signing Out, Switching Users &amp; Locking &mdash; read, then take the Locking the Computer check</li><li>Homework (at home): Switch Users &amp; Change Password &mdash; walk-through only, don't actually change anything</li></ol>"
         },
         {
           "type": "File",
@@ -20,38 +20,295 @@
         },
         {
           "type": "Page",
-          "title": "Day 1 Reading: Logging In, the Desktop & Mouse",
+          "title": "Logging In to Windows — Reading",
           "position": 3,
-          "body": "<p><em>Book pages: 4-17 &middot; Day 1, Chapter 1 &middot; CBO Objectives: #1, #2, #3</em></p>\n<h2>Day 1 Reading: Logging In, the Desktop &amp; Mouse</h2>\n\n<h3>Logging In to Windows</h3>\n<p><em>Book pages: 4-6 &middot; CBO Objective #1</em></p>\n<p>Most computer systems used in schools and businesses are networked, or connected. Keeping a network secure is an important part of making sure only authorized people can use it. Logging in to a computer is the process of entering your username and password to gain access to the computer and network.</p>\n<h4>Passwords</h4>\n<p>A strong password mixes uppercase, lowercase, numbers, and symbols &mdash; never a familiar name, birthday, or common word people could guess. Passwords should never be shared with anyone, including friends and family. Password managers such as 1Password, LastPass, RoboForm, or Avira can remember your passwords for you, so you only need to remember the one password for the manager itself.</p>\n<h4>What happens during the startup process?</h4>\n<p>From the moment you turn on the computer, the computer and Windows work together to get ready for you. Together they form the <strong>operating system</strong> &mdash; the collection of parts and pieces that we see and work with on the screen.</p>\n{{img:pg 4.png|Textbook page 4 &mdash; logging in}}\n\n<h3>The Windows Desktop</h3>\n<p><em>Book pages: 7-8 &middot; CBO Objective #2</em></p>\n<p>Once you have logged in to the computer, you will be looking at the Windows Desktop. The Desktop is the primary work area in Windows, and like your desk at school, all the apps you are working with are placed on the computer.</p>\n<p>The Desktop has many unique features that help you to be more efficient when using the computer: the <strong>Start button</strong>, <strong>icons</strong>, the <strong>background</strong>, <strong>program windows</strong>, <strong>program buttons</strong>, the <strong>computer and internet search</strong> box, the <strong>notification area</strong>, and the <strong>Show Desktop button</strong>.</p>\n{{img:pg 7.png|Textbook page 7 &mdash; the Windows Desktop}}\n\n<h3>Behind the Screen: Basic Computer Components</h3>\n<p><em>Book pages: 8-11 &middot; background knowledge, not a listed CBO objective</em></p>\n<p>Your computer is a collection of hardware parts working together with Windows and other software applications. Knowing the name and function of these components gives you a better understanding of the computing process. This section is background computer literacy &mdash; it isn't one of this chapter's five listed CBO competencies, but it supports understanding the Desktop and how the computer works.</p>\n<h4>Processor</h4>\n<p>The processor is often referred to as the &quot;brain&quot; of the computer. The central processing unit (CPU) does all the processing that keeps programs running, moves the cards when you play Solitaire, and does the math in your spreadsheet programs. How quickly these processes are carried out is largely determined by the gigahertz (GHz) rating of the CPU &mdash; a larger GHz rating means the processor can handle significantly more processing cycles per second.</p>\n<h4>Hard Drive</h4>\n<p>The hard drive is the <strong>permanent storage</strong> device in the computer &mdash; think of it as a large filing cabinet where all the files and programs that run on the computer are stored. Traditional hard drives use spinning magnetic platters; they're inexpensive and store huge amounts of data. Newer hard drives are solid state (SSDs) &mdash; no moving parts, much quicker to load data. The newest SSDs are very small and are generally called NAND SSDs.</p>\n<h4>Random Access Memory (RAM)</h4>\n<p>Hard drives operate at a relatively slow speed, so the computer does not run programs directly from the hard drive. When a program is used, it is first loaded into RAM to be accessed by the CPU. As you edit a letter or make a drawing, the information is being stored in RAM. RAM is considered <strong>temporary memory</strong>, though &mdash; unlike the hard drive, when the computer is turned off, all of the data in RAM is lost.</p>\n<h4>Universal Serial Bus (USB)</h4>\n<p>A USB port or connector is a small rectangular port that allows you to connect various pieces of equipment to your computer using a single standardized cord and plug. Before USB, different equipment had special connectors and cables, and it was much more difficult for new users to set up their computers.</p>\n<h4>Secure Digital (SD) Card</h4>\n<p>An SD card is a type of storage device typically found on digital cameras and other portable devices. Many desktop and laptop computers now come with an SD card reader built in. Some devices use micro SD cards, which are about the size of your thumbnail.</p>\n{{img:pg 8.png|Textbook page 8 &mdash; basic computer components}}\n\n<h3>Using a Mouse</h3>\n<p><em>Book pages: 12-14 &middot; CBO Objective #3</em></p>\n<p>The mouse is your main tool for controlling programs on the Desktop. Moving the mouse with your hand controls the movements of the mouse pointer on the screen. With your mouse on a flat surface (a table or mouse pad), place your hand on the mouse so your index finger rests lightly on or above the left mouse button.</p>\n<table><tr><th>Motion</th><th>Notes and How to Do It</th></tr><tr><td>Point</td><td>Hold the tip of the mouse pointer over an element on the screen. Keep the mouse steady.</td></tr><tr><td>Click (single-click)</td><td>Used to &quot;push&quot; an onscreen button. Point to an onscreen element and push the left mouse button one time. Hold the mouse still and click gently.</td></tr><tr><td>Drag</td><td>Used to move items around the screen, select text, and perform other tasks/commands. Point to an onscreen element, click and hold down the left mouse button, and move the onscreen element until it reaches the desired location. This is often called drag and drop.</td></tr><tr><td>Double-click</td><td>Used to start a program or open a file/folder. Point to an onscreen element and quickly click the left mouse button twice. Hold the mouse still and click gently.</td></tr><tr><td>Right-click</td><td>Used to display a pop-up menu of options that relate to the object. Point to an onscreen element and click the right mouse button once.</td></tr></table>\n{{img:pg 12.png|Textbook page 12 &mdash; using a mouse}}\n\n<h3>Passwords and Account Settings</h3>\n<p><em>Book pages: 15 &middot; CBO Objective #1 &mdash; account management extends the login competency</em></p>\n<p>All Windows users have their own login and password that allow them to connect to their various personal settings for the computer, as well as to other online accounts they may have that are connected to Windows.</p>\n<h4>Accessing Account Settings</h4>\n<p>The circular &quot;person&quot; icon of the individual logged in to the computer is located at the bottom of the Start menu. This user icon/name button gives you the option to change account settings when clicked: your login account, password, user account picture, and options for syncing your computer with other devices.</p>\n<ul><li><strong>Sign-In Options</strong>: change your password and set whether your computer requires a password again after sleep mode.</li><li><strong>Access Work or School</strong>: at work or school, you may be allowed to connect your personal computer to the network, if this is an option.</li><li><strong>Other Users</strong>: on a home computer, if you have administrator privileges, you can add other users to the computer. The &quot;Create One for a Child&quot; button allows you to add users with specific privileges.</li></ul>\n{{img:pg 15.png|Textbook page 15 &mdash; passwords and account settings}}\n\n<h3>Signing Out, Switching Users, and Locking the Computer</h3>\n<p><em>Book pages: 16-17 &middot; CBO Objective #1 &mdash; session management extends the login competency; not separately listed in the CBO</em></p>\n<p>Signing out of the computer is different from turning off the computer. Before signing out, you need to save your files to the hard drive, because the computer closes the programs you were using and removes login information and settings from memory so it is ready for a new user to log on.</p>\n<p>Multiple users can be signed on to a single computer at the same time. When you sign out, when you simply switch users, the previous user's information, screen settings, and programs are set aside in the computer's RAM instead &mdash; so that person's session can be quickly reimplemented if that person signs back in.</p>\n<h4>Locking the Computer</h4>\n<p>Locking the computer protects your PC from unauthorized use when you leave your desk. Locking causes the lock screen to display. To see your screen and continue working, you must re-enter your password.</p>\n<table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Log off Windows</td><td>Click the Start button. Click your user icon/name button at the top of the menu and then click Sign Out.</td></tr><tr><td>Switch users</td><td>Click the Start button. Click your user icon/name button and then choose the desired user from the list.</td></tr><tr><td>Lock/Unlock Windows</td><td>Click your user icon/name button and choose Lock. This will lock the computer and show the lock screen. To unlock the computer, click the lock screen, click your user icon/name button, and enter your password when it appears.</td></tr></table>\n{{img:pg 16.png|Textbook page 16 &mdash; signing out, switching users, and locking}}",
+          "body": "<p><em>Book pages: 4-6 &middot; Day 1, Chapter 1 &middot; CBO Objective: #1</em></p><h2>Logging In to Windows</h2><p>Most computer systems used in schools and businesses are networked, or connected. Keeping a network secure is an important part of making sure only authorized people can use it. Logging in to a computer is the process of entering your username and password to gain access to the computer and network.</p><h3>Passwords</h3><p>A strong password mixes uppercase, lowercase, numbers, and symbols &mdash; never a familiar name, birthday, or common word people could guess. Passwords should never be shared with anyone, including friends and family. Password managers such as 1Password, LastPass, RoboForm, or Avira can remember your passwords for you, so you only need to remember the one password for the manager itself.</p><h3>What happens during the startup process?</h3><p>From the moment you turn on the computer, the computer and Windows work together to get ready for you. Together they form the <strong>operating system</strong> &mdash; the collection of parts and pieces that we see and work with on the screen.</p>{{img:pg 4.png|Textbook page 4 &mdash; logging in}}",
           "images": {
-            "pg 4.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 4.png",
-            "pg 7.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 7.png",
-            "pg 8.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 8.png",
-            "pg 12.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 12.png",
-            "pg 15.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 15.png",
+            "pg 4.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 4.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 1.1: Log In to Windows",
+          "position": 4,
+          "description": "<p><em>Book pages: 4-6 &middot; CBO Objective: #1</em></p><h2>Hands-On 1.1: Log In to Windows</h2><p>In this exercise, you will log in to your computer using the login name and password provided by your instructor.</p><ol><li>If necessary, turn on the computer and monitor. (The computer may already be switched on if you are in a computer lab.) Ask your instructor for help if necessary.<br><em>After a pause, the computer begins starting up, which usually takes about a minute. When the startup process is complete, the lock screen appears.</em></li><li>Click the lock screen to bring up the sign-in screen.</li><li>Click the appropriate login from the lower-left corner of the screen. If you are the only person who uses your computer, your login may be the only one listed.</li><li>Enter the password you were given into the blank password line and click the arrow button. This will take you to the Desktop.</li></ol><h3>What to submit</h3><p>Once you're on the Desktop, open the <strong>Snipping Tool</strong> (Start &rarr; All Apps &rarr; Snipping Tool, or press <strong>Windows+Shift+S</strong>) and capture a screenshot of your Desktop right after signing in. Submit that screenshot as proof you logged in on your own.</p>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "The Windows Desktop — Reading",
+          "position": 5,
+          "body": "<p><em>Book pages: 7-8 &middot; Day 1, Chapter 1 &middot; CBO Objective: #2</em></p><h2>The Windows Desktop</h2><p>Once you have logged in to the computer, you will be looking at the Windows Desktop. The Desktop is the primary work area in Windows, and like your desk at school, all the apps you are working with are placed on the computer.</p><p>The Desktop has many unique features that help you to be more efficient when using the computer: the <strong>Start button</strong>, <strong>icons</strong>, the <strong>background</strong>, <strong>program windows</strong>, <strong>program buttons</strong>, the <strong>computer and internet search</strong> box, the <strong>notification area</strong>, and the <strong>Show Desktop button</strong>.</p>{{img:pg 7.png|Textbook page 7 &mdash; the Windows Desktop}}",
+          "images": {
+            "pg 7.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 7.png"
+          }
+        },
+        {
+          "type": "Quiz",
+          "title": "Desktop Features Check",
+          "position": 6,
+          "description": "A quick 3-question check on the parts of the Windows Desktop. Book pages 7-8, CBO Objective #2.",
+          "points_possible": 3,
+          "questions": [
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which part of the Windows Desktop do you click to open the Start menu?",
+              "answers": [
+                {
+                  "text": "The Start button",
+                  "weight": 100
+                },
+                {
+                  "text": "The notification area",
+                  "weight": 0
+                },
+                {
+                  "text": "The Show Desktop button",
+                  "weight": 0
+                },
+                {
+                  "text": "A program window",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The notification area shows icons for background programs and quick settings like Wi-Fi and volume.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the blank: the ______ button lets you quickly minimize every open window and see the Desktop.",
+              "answers": [
+                {
+                  "text": "Show Desktop",
+                  "weight": 100
+                },
+                {
+                  "text": "Show desktop",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Behind the Screen: Basic Computer Components — Reading",
+          "position": 7,
+          "body": "<p><em>Book pages: 8-11 &middot; Day 1, Chapter 1 &middot; background knowledge, not a listed CBO objective</em></p><h2>Behind the Screen: Basic Computer Components</h2><p>Your computer is a collection of hardware parts working together with Windows and other software applications. Knowing the name and function of these components gives you a better understanding of the computing process. This section is background computer literacy &mdash; it isn't one of this chapter's five listed CBO competencies, but it supports understanding the Desktop and how the computer works.</p><h3>Processor</h3><p>The processor is often referred to as the &quot;brain&quot; of the computer. The central processing unit (CPU) does all the processing that keeps programs running, moves the cards when you play Solitaire, and does the math in your spreadsheet programs. How quickly these processes are carried out is largely determined by the gigahertz (GHz) rating of the CPU &mdash; a larger GHz rating means the processor can handle significantly more processing cycles per second.</p><h3>Hard Drive</h3><p>The hard drive is the <strong>permanent storage</strong> device in the computer &mdash; think of it as a large filing cabinet where all the files and programs that run on the computer are stored. Traditional hard drives use spinning magnetic platters; they're inexpensive and store huge amounts of data. Newer hard drives are solid state (SSDs) &mdash; no moving parts, much quicker to load data. The newest SSDs are very small and are generally called NAND SSDs.</p><h3>Random Access Memory (RAM)</h3><p>Hard drives operate at a relatively slow speed, so the computer does not run programs directly from the hard drive. When a program is used, it is first loaded into RAM to be accessed by the CPU. As you edit a letter or make a drawing, the information is being stored in RAM. RAM is considered <strong>temporary memory</strong>, though &mdash; unlike the hard drive, when the computer is turned off, all of the data in RAM is lost.</p><h3>Universal Serial Bus (USB)</h3><p>A USB port or connector is a small rectangular port that allows you to connect various pieces of equipment to your computer using a single standardized cord and plug. Before USB, different equipment had special connectors and cables, and it was much more difficult for new users to set up their computers.</p><h3>Secure Digital (SD) Card</h3><p>An SD card is a type of storage device typically found on digital cameras and other portable devices. Many desktop and laptop computers now come with an SD card reader built in. Some devices use micro SD cards, which are about the size of your thumbnail.</p>{{img:pg 8.png|Textbook page 8 &mdash; basic computer components}}",
+          "images": {
+            "pg 8.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 8.png"
+          }
+        },
+        {
+          "type": "Quiz",
+          "title": "Component Match-Up",
+          "position": 8,
+          "description": "A quick 3-question check on basic computer components. Book pages 8-11, background knowledge.",
+          "points_possible": 3,
+          "questions": [
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which component is often called the \"brain\" of the computer?",
+              "answers": [
+                {
+                  "text": "The processor (CPU)",
+                  "weight": 100
+                },
+                {
+                  "text": "The hard drive",
+                  "weight": 0
+                },
+                {
+                  "text": "RAM",
+                  "weight": 0
+                },
+                {
+                  "text": "A USB port",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these loses all its data when the computer is turned off?",
+              "answers": [
+                {
+                  "text": "RAM",
+                  "weight": 100
+                },
+                {
+                  "text": "The hard drive",
+                  "weight": 0
+                },
+                {
+                  "text": "An SD card",
+                  "weight": 0
+                },
+                {
+                  "text": "An SSD",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "SSDs (solid state drives) have moving parts, just like traditional hard drives.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Using a Mouse — Reading",
+          "position": 9,
+          "body": "<p><em>Book pages: 12-14 &middot; Day 1, Chapter 1 &middot; CBO Objective: #3</em></p><h2>Using a Mouse</h2><p>The mouse is your main tool for controlling programs on the Desktop. Moving the mouse with your hand controls the movements of the mouse pointer on the screen. With your mouse on a flat surface (a table or mouse pad), place your hand on the mouse so your index finger rests lightly on or above the left mouse button.</p><table><tr><th>Motion</th><th>Notes and How to Do It</th></tr><tr><td>Point</td><td>Hold the tip of the mouse pointer over an element on the screen. Keep the mouse steady.</td></tr><tr><td>Click (single-click)</td><td>Used to &quot;push&quot; an onscreen button. Point to an onscreen element and push the left mouse button one time. Hold the mouse still and click gently.</td></tr><tr><td>Drag</td><td>Used to move items around the screen, select text, and perform other tasks/commands. Point to an onscreen element, click and hold down the left mouse button, and move the onscreen element until it reaches the desired location. This is often called drag and drop.</td></tr><tr><td>Double-click</td><td>Used to start a program or open a file/folder. Point to an onscreen element and quickly click the left mouse button twice. Hold the mouse still and click gently.</td></tr><tr><td>Right-click</td><td>Used to display a pop-up menu of options that relate to the object. Point to an onscreen element and click the right mouse button once.</td></tr></table>{{img:pg 12.png|Textbook page 12 &mdash; using a mouse}}",
+          "images": {
+            "pg 12.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 12.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 1.2: Use the Mouse",
+          "position": 10,
+          "description": "<p><em>Book pages: 12-14 &middot; CBO Objective: #3</em></p><h2>Hands-On 1.2: Use the Mouse</h2><p>In this exercise, you will use the mouse to point at, click on, and drag the Recycle Bin around the Desktop.</p><ol><li>Point with the mouse over the Recycle Bin icon, then point away from the Recycle Bin.</li><li>Click (tap and release) with the left mouse button on the Recycle Bin icon (don't click away) and notice that the icon stays selected (highlighted).</li><li>Point at the Recycle Bin. Press the left mouse button, and while keeping it depressed, move the mouse to drag the Recycle Bin to the right. Release the mouse button at a new destination of your choice.</li></ol><h3>What to submit</h3><p>Once you've dragged the Recycle Bin to its new spot, use the Snipping Tool to capture a screenshot showing the Recycle Bin in its new location. Submit that screenshot, then drag the Recycle Bin back to its original location on the Desktop before moving on.</p>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Passwords and Account Settings — Reading",
+          "position": 11,
+          "body": "<p><em>Book pages: 15 &middot; Day 1, Chapter 1 &middot; CBO Objective: #1 &mdash; account management extends the login competency</em></p><h2>Passwords and Account Settings</h2><p>All Windows users have their own login and password that allow them to connect to their various personal settings for the computer, as well as to other online accounts they may have that are connected to Windows.</p><h3>Accessing Account Settings</h3><p>The circular &quot;person&quot; icon of the individual logged in to the computer is located at the bottom of the Start menu. This user icon/name button gives you the option to change account settings when clicked: your login account, password, user account picture, and options for syncing your computer with other devices.</p><ul><li><strong>Sign-In Options</strong>: change your password and set whether your computer requires a password again after sleep mode.</li><li><strong>Access Work or School</strong>: at work or school, you may be allowed to connect your personal computer to the network, if this is an option.</li><li><strong>Other Users</strong>: on a home computer, if you have administrator privileges, you can add other users to the computer. The &quot;Create One for a Child&quot; button allows you to add users with specific privileges.</li></ul>{{img:pg 15.png|Textbook page 15 &mdash; passwords and account settings}}",
+          "images": {
+            "pg 15.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 15.png"
+          }
+        },
+        {
+          "type": "Quiz",
+          "title": "Good Password or Bad Password?",
+          "position": 12,
+          "description": "A quick check on what makes a password strong. Book page 15, CBO Objective #1.",
+          "points_possible": 4,
+          "questions": [
+            {
+              "question_type": "true_false_question",
+              "question_text": "\"Password123\" is a strong password.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "A strong password mixes uppercase, lowercase, numbers, and symbols.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is the strongest password?",
+              "answers": [
+                {
+                  "text": "fluffy2010",
+                  "weight": 0
+                },
+                {
+                  "text": "MyDog$Runs42Fast!",
+                  "weight": 100
+                },
+                {
+                  "text": "123456",
+                  "weight": 0
+                },
+                {
+                  "text": "password",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "It's okay to share your password with a close friend or family member.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Signing Out, Switching Users, and Locking the Computer — Reading",
+          "position": 13,
+          "body": "<p><em>Book pages: 16-17 &middot; Day 1, Chapter 1 &middot; CBO Objective: #1 &mdash; session management extends the login competency; not separately listed in the CBO</em></p><h2>Signing Out, Switching Users, and Locking the Computer</h2><p>Signing out of the computer is different from turning off the computer. Before signing out, you need to save your files to the hard drive, because the computer closes the programs you were using and removes login information and settings from memory so it is ready for a new user to log on.</p><p>Multiple users can be signed on to a single computer at the same time. When you sign out, when you simply switch users, the previous user's information, screen settings, and programs are set aside in the computer's RAM instead &mdash; so that person's session can be quickly reimplemented if that person signs back in.</p><h3>Locking the Computer</h3><p>Locking the computer protects your PC from unauthorized use when you leave your desk. Locking causes the lock screen to display. To see your screen and continue working, you must re-enter your password.</p><table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Log off Windows</td><td>Click the Start button. Click your user icon/name button at the top of the menu and then click Sign Out.</td></tr><tr><td>Switch users</td><td>Click the Start button. Click your user icon/name button and then choose the desired user from the list.</td></tr><tr><td>Lock/Unlock Windows</td><td>Click your user icon/name button and choose Lock. This will lock the computer and show the lock screen. To unlock the computer, click the lock screen, click your user icon/name button, and enter your password when it appears.</td></tr></table>{{img:pg 16.png|Textbook page 16 &mdash; signing out, switching users, and locking}}",
+          "images": {
             "pg 16.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 16.png"
           }
         },
         {
           "type": "Assignment",
-          "title": "Day 1 Hands-On Activity: Log In, Use the Mouse & Lock the Computer",
-          "position": 4,
-          "description": "<h2>Day 1 Hands-On Activity</h2>\n<p>Complete these exercises with your instructor's guidance.</p>\n<h3>Hands-On 1.1: Log In to Windows</h3>\n<p>In this exercise, you will log in to your computer using the login name and password provided by your instructor.</p>\n<ol><li>If necessary, turn on the computer and monitor. (The computer may already be switched on if you are in a computer lab.) Ask your instructor for help if necessary.<br><em>After a pause, the computer begins starting up, which usually takes about a minute. When the startup process is complete, the lock screen appears.</em></li><li>Click the lock screen to bring up the sign-in screen.</li><li>Click the appropriate login from the lower-left corner of the screen. If you are the only person who uses your computer, your login may be the only one listed.</li><li>Enter the password you were given into the blank password line and click the arrow button. This will take you to the Desktop.</li></ol>\n<h3>Hands-On 1.2: Use the Mouse</h3>\n<p>In this exercise, you will use the mouse to point at, click on, and drag the Recycle Bin around the Desktop.</p>\n<ol><li>Point with the mouse over the Recycle Bin icon, then point away from the Recycle Bin.</li><li>Click (tap and release) with the left mouse button on the Recycle Bin icon (don't click away) and notice that the icon stays selected (highlighted).</li><li>Point at the Recycle Bin. Press the left mouse button, and while keeping it depressed, move the mouse to drag the Recycle Bin to the right. Release the mouse button at a new destination of your choice.</li><li>Drag the Recycle Bin back to its original location on the Desktop.</li></ol>\n<h3>Hands-On 1.3: Lock the Computer</h3>\n<p>In this exercise, you will give the lock command and then log back in using your own username and password.</p>\n<ol><li>Click the Start button.</li><li>Click the user icon/name button and choose Lock from the menu. There will be a pause as Windows prepares to display the lock screen. Wait for this screen to appear before continuing.</li><li>Click the lock screen.</li><li>Type your password in the password box and tap Enter.<br><em>After a pause, Windows returns you to the Desktop. You could just as easily have logged in as someone else by choosing their name from the corner of the login screen and entering their password.</em></li></ol>",
-          "points_possible": 0,
+          "title": "Hands-On 1.3: Lock the Computer",
+          "position": 14,
+          "description": "<p><em>Book pages: 16-17 &middot; CBO Objective: #1</em></p><h2>Hands-On 1.3: Lock the Computer</h2><p>In this exercise, you will give the lock command and then log back in using your own username and password.</p><ol><li>Click the Start button.</li><li>Click the user icon/name button and choose Lock from the menu. There will be a pause as Windows prepares to display the lock screen. Wait for this screen to appear before continuing.</li><li>Click the lock screen.</li><li>Type your password in the password box and tap Enter.<br><em>After a pause, Windows returns you to the Desktop. You could just as easily have logged in as someone else by choosing their name from the corner of the login screen and entering their password.</em></li></ol><h3>What to submit</h3><p>A screenshot won't work for this one &mdash; the computer is locked, so you can't run the Snipping Tool while the lock screen is up. Instead, answer this question in the text box below: <strong>why does locking your computer before you step away protect you, even on a shared school or work computer?</strong> A sentence or two is enough.</p>",
+          "points_possible": 2,
           "submission_types": [
-            "none"
+            "online_text_entry"
           ]
         },
         {
           "type": "Assignment",
           "title": "Day 1 Homework: Switch Users & Change Password",
-          "position": 5,
-          "description": "<p><em>Book pages: 29 &middot; CBO Objectives: #1 (Log in to the computer using a username and password), #4 (Work with the Start menu) &mdash; optional take-home practice, done on your own computer</em></p>\n<h2>Day 1 Homework: Switch Users &amp; Change Password</h2>\n<p>These exercises are meant to be done on your own computer at home, not in the lab &mdash; they involve settings and multi-user setups that aren't practical to test in a shared classroom.</p>\n<h3>1.1 Switch Users</h3>\n<p><em>Before you begin: skip this exercise if there is only one user listed on the Windows login screen. You need at least two user accounts to switch between users.</em></p>\n<ol><li>Click the Start button.</li><li>Click the user icon/name button, then choose a different user from the list of users.<br><em>After a pause, Windows displays the lock screen.</em></li><li>Type your password and tap Enter.<br><em>Windows will now make the switch. This can take 15 seconds or more.</em></li><li>Switch back to your account by clicking the user icon/name button and choosing your login.</li><li>Type your password and tap Enter.</li></ol>\n<h3>1.2 Change Your Password</h3>\n<p><em>Before you begin: keep in mind that you are changing the password to your online Microsoft Live account associated with this login. Write down your new password and keep it in a safe location. Check with your instructor if you aren't sure how to proceed.</em></p>\n<ol><li>Click your user icon/name button at the bottom of the Start menu and then choose Change Account Settings from the menu that appears.</li><li>Choose Accounts&rarr;Sign-In Options from the menu.</li><li>Click Password to expand the menu and then click the Change button.</li><li>Enter your current password and click Sign In.</li><li>From the Password block, click Change Password.</li><li>Enter your current password (again) in the space marked Old Password.</li><li>Enter your new password in the space marked Create New Password and repeat in the space marked Confirm New Password. Write down your new password so you don't forget it &mdash; you will need it the next time you sign in.</li><li>Click the Submit button to complete the procedure.</li><li>Close the web browser window.</li></ol>",
-          "images": {
-            "pg 29.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 29.png"
-          },
-          "points_possible": 7,
+          "position": 15,
+          "description": "<p><em>Book pages: 29 &middot; CBO Objectives: #1 (Log in to the computer using a username and password), #4 (Work with the Start menu) &mdash; walk-through only, done on your own computer</em></p><h2>Day 1 Homework: Switch Users &amp; Change Password</h2><p><strong>Important:</strong> for this homework, walk through the steps below on your own computer, but <strong>stop before you actually switch users or change your password.</strong> You don't have login credentials for another account on your own computer, and changing your real password without writing it down carefully could lock you out of your own account. The goal here is to know where these settings live and what the screens look like, not to actually use them tonight.</p><h3>1.1 Find the Switch Users Menu</h3><ol><li>Click the Start button.</li><li>Click the user icon/name button.<br><em>Notice the list of other users, if any, that appear.</em></li><li><strong>Stop here.</strong> Do not click into a different user's login &mdash; you likely don't know their password, and you could get your device stuck on their sign-in screen.</li><li>Use the Snipping Tool to capture a screenshot of this menu showing the user list, then click away to close the menu.</li></ol><h3>1.2 Find the Change Password Screen</h3><ol><li>Click your user icon/name button at the bottom of the Start menu and then choose Change Account Settings from the menu that appears.</li><li>Choose Accounts&rarr;Sign-In Options from the menu.</li><li>Click Password to expand the menu and then click the Change button.</li><li>If prompted, enter your current password and click Sign In &mdash; this just confirms it's really you, it doesn't change anything yet.</li><li>You should now see a screen with blanks for <strong>Old Password</strong>, <strong>Create New Password</strong>, and <strong>Confirm New Password</strong>.</li><li><strong>Stop here.</strong> Do not type a new password or click Submit &mdash; leave every field blank.</li><li>Use the Snipping Tool to capture a screenshot of this screen, then close the window without submitting anything.</li></ol><h3>What to submit</h3><p>Your two screenshots (the user list menu, and the blank Change Password screen), plus one sentence describing which fields you'd need to fill in if you were changing your password for real.</p>",
+          "points_possible": 6,
           "submission_types": [
+            "online_upload",
             "online_text_entry"
           ]
         }
@@ -65,35 +322,40 @@
           "type": "Page",
           "title": "Day 2 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Day 2 Overview</h2>\n<p>Today finishes Chapter 1: mastering the Start menu, then shutting the computer down the right way.</p>\n<h3>Competencies covered today</h3>\n<ul>\n<li><strong>#4</strong> &mdash; Work with the Start menu</li>\n<li><strong>#5</strong> &mdash; Shut down the computer correctly</li>\n</ul>\n<h3>Today's tasks</h3>\n<ol>\n<li>Read: The Start Menu, Pinned/Recommended, Folders, Shutting Down</li>\n<li>Complete the Hands-On Activity: Start Menu, Folders &amp; Shutdown</li>\n<li>Skill Builder 1.1: Organize the Start Menu</li>\n<li>Additional Skill Builder 1.1: Pin an App to the Start Menu</li>\n<li>Homework (at home): Shut Down</li>\n<li>Chapter 1 Quiz</li>\n</ol>"
+          "body": "<h2>Day 2 Overview</h2><p>Today finishes Chapter 1: mastering the Start menu, then shutting the computer down the right way.</p><h3>Competencies covered today</h3><ul><li><strong>#4</strong> &mdash; Work with the Start menu</li><li><strong>#5</strong> &mdash; Shut down the computer correctly</li></ul><h3>Today's tasks</h3><ol><li>The Start Menu &mdash; read, then submit your Hands-On 1.4-1.5 screenshot</li><li>The Pinned and Recommended Lists &mdash; read, then complete Skill Builder 1.1</li><li>Adding and Deleting Folders &mdash; read, then submit your Hands-On 1.7-1.8 screenshot</li><li>Additional Skill Builder 1.1: Pin an App to the Start Menu</li><li>Shutting Down &mdash; read, then take the Sleep, Shut Down, or Restart? quiz</li><li>Homework (at home): Shut Down</li><li>Chapter 1 Quiz</li></ol>"
         },
         {
           "type": "Page",
-          "title": "Day 2 Reading: The Start Menu, Folders & Shutting Down",
+          "title": "The Start Menu — Reading",
           "position": 2,
-          "body": "<p><em>Book pages: 18-26 &middot; Day 2, Chapter 1 &middot; CBO Objectives: #4, #5</em></p>\n<h2>Day 2 Reading: The Start Menu, Folders &amp; Shutting Down</h2>\n\n<h3>The Start Menu</h3>\n<p><em>Book pages: 18-20 &middot; CBO Objective #4</em></p>\n<p>The Start menu is the one place you can go to launch most of the programs installed on your computer. Like all menus, the Start menu is a collection of <strong>commands</strong>, and these particular ones allow you to launch all of the programs that come with Windows. A command is a link that can launch (start or open) a file, folder, or app, or that can execute a variety of other tasks &mdash; you might compare a command to a light switch on a wall used to turn on a ceiling light.</p>\n<h4>The Start Menu Panes</h4>\n<p>The Start menu is divided into panes: the top pane shows a list of all pinned apps (you can add frequently used apps by pinning them to the Start menu), and the bottom pane lists recommended documents and apps &mdash; items you have recently used. The user icon/name button and Power options button are along the bottom of the menu.</p>\n{{img:pg 18.png|Textbook page 18 &mdash; the Start menu}}\n\n<h3>The Pinned and Recommended Lists</h3>\n<p><em>Book pages: 21-22 &middot; CBO Objective #4</em></p>\n<p>Windows 11 automatically adds commands for apps to the Pinned list in the Start menu. Sometimes an app is added to the list the first time you launch it; other times you may need to use a program twice to have it added to the list. When the Pinned list becomes full, the command for the app that has been unused the longest is removed. You can also add and delete apps to suit your needs. The Recommended section shows the documents and files you have opened most recently.</p>\n<h4>Pinning Commands to the Start Menu</h4>\n<p>Commands for any app can be easily pinned to the Start menu. You pin a command to the Start menu to make it easier to access.</p>\n{{img:pg 21.png|Textbook page 21 &mdash; the Pinned and Recommended lists}}\n<h4>Moving Apps on the Start Menu</h4>\n<p>You can move apps around on the Start menu as you like, and you can move an app straight to the top of the menu by right-clicking the app icon with the mouse to open a menu of commands. If you have many apps, there may be more than one screen that you can scroll through on the Start menu.</p>\n\n<h3>Adding and Deleting Folders on the Start Menu</h3>\n<p><em>Book pages: 22-24 &middot; CBO Objective #4</em></p>\n{{img:pg 22.png|Textbook page 22 &mdash; adding a folder to the Start menu}}\n<p>You can add folders to the Start menu to organize apps and shortcuts. When you drag one icon onto another icon on the Start menu, this triggers the creation of a folder. More icons can then be added to the folder by dragging and dropping icons onto the folder. Folder names can be renamed to help with organization &mdash; for example, one folder for social media apps, another for games, and another for apps you use for school.</p>\n<p>Deleting a menu folder is easy. The selected folder is deleted once there is only one icon or shortcut left in the folder. At this point the last icon or shortcut is placed back on the Start menu and the folder is automatically deleted.</p>\n{{img:pg 24.png|Textbook page 24 &mdash; deleting a folder}}\n\n<h3>Shutting Down</h3>\n<p><em>Book pages: 24-26 &middot; CBO Objective #5</em></p>\n<p>Windows is a very large collection of programs. If it is not shut down properly, you may discover upon restarting your computer that error messages appear &mdash; or even worse, that Windows won't start at all. This is because Windows needs time to properly shut down all of its software parts and pieces correctly, and turning off the power doesn't allow enough time to do this.</p>\n<p>There are three ways to shut down Windows, depending on what you want to do next. The following options are displayed via the Start button and the Power button menu: Sleep, Shut Down, and Restart.</p>\n<h4>Sleep</h4>\n<p>In sleep mode, the computer slows down and therefore uses a lot less energy. Any documents you are working on are saved, the processor works more slowly, the monitor is turned off, and other settings are triggered that allow the computer to save power. On most laptops, closing the lid will immediately cause the laptop to go into sleep mode.</p>\n<h4>Shut Down</h4>\n<p>This command closes all programs, logs you out of the computer, and turns off its power. When you are done with the computer for the day, it is important to turn it off using the Shut Down command.</p>\n<p><strong>Never</strong> hold down the Power button to turn a computer off unless you have no other choice. Windows needs time to close its various parts and pieces down properly, and turning the power off abruptly can corrupt parts of the Windows software and can even cause the computer to not be able to restart.</p>\n<h4>Restart</h4>\n<p>The restart mode closes all open program windows, logs you out, and powers down the computer. The computer then restarts and Windows reloads. Sometimes Windows will ask you to restart the computer after a new program or program update has been installed, because the new program can't be used until the system restarts and the new software is integrated into Windows.</p>\n<table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Shut down Windows and the computer</td><td>Close all open programs. Click the Shut Down button (on the Power button menu).</td></tr><tr><td>Go into sleep mode</td><td>Choose Sleep from the Power button menu.</td></tr><tr><td>Exit sleep mode</td><td>Move the mouse or tap the Spacebar on your keyboard.</td></tr></table>\n{{img:pg 26.png|Textbook page 26 &mdash; shutting down}}",
+          "body": "<p><em>Book pages: 18-20 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>The Start Menu</h2><p>The Start menu is the one place you can go to launch most of the programs installed on your computer. Like all menus, the Start menu is a collection of <strong>commands</strong>, and these particular ones allow you to launch all of the programs that come with Windows. A command is a link that can launch (start or open) a file, folder, or app, or that can execute a variety of other tasks &mdash; you might compare a command to a light switch on a wall used to turn on a ceiling light.</p><h3>The Start Menu Panes</h3><p>The Start menu is divided into panes: the top pane shows a list of all pinned apps (you can add frequently used apps by pinning them to the Start menu), and the bottom pane lists recommended documents and apps &mdash; items you have recently used. The user icon/name button and Power options button are along the bottom of the menu.</p>{{img:pg 18.png|Textbook page 18 &mdash; the Start menu}}",
           "images": {
-            "pg 18.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 18.png",
-            "pg 21.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 21.png",
-            "pg 22.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 22.png",
-            "pg 24.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 24.png",
-            "pg 26.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 26.png"
+            "pg 18.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 18.png"
           }
         },
         {
           "type": "Assignment",
-          "title": "Day 2 Hands-On Activity: Start Menu, Folders & Shutdown",
+          "title": "Hands-On 1.4-1.5: The Start Menu & Launching a Program",
           "position": 3,
-          "description": "<h2>Day 2 Hands-On Activity</h2>\n<p>Complete these exercises with your instructor's guidance.</p>\n<h3>Hands-On 1.4: Display and Dismiss the Start Menu</h3>\n<p>In this exercise, you will display and dismiss the Start menu using both the mouse and the keyboard.</p>\n<ol><li>Click the Start button to display the Start menu.<br><em>Note the upper and lower panes of the Start menu.</em></li><li>Click the Start button again to dismiss the Start menu.</li><li>Press the Windows key on the keyboard to display the Start menu.</li><li>Press the Windows key again to dismiss the Start menu.<br><em>It's easy to dismiss the Start menu if you pull it up by mistake.</em></li></ol>\n<h3>Hands-On 1.5: Launch a Program from the Start Menu</h3>\n<p>In this exercise, you will launch the Calculator app from the Start menu.</p>\n<ol><li>Click the Start button and then click the All Apps button.</li><li>Choose Calculator.<br><em>The Start menu collapses and the Calculator app opens.</em></li><li>Close the Calculator app by clicking the Close button (the &quot;X&quot;) in the upper-right corner.</li></ol>\n<h3>Hands-On 1.6: Customize the Start Menu</h3>\n<p>In this exercise, you will add and position an app on the Start menu.</p>\n<ol><li>Click the Start menu, click the All Apps button, and find the Calculator app (but don't click it yet).</li><li>Right-click the Calculator icon and choose Pin to Start.</li><li>Click the Back button.<br><em>Notice that the Calculator icon appears at the bottom of the Pinned section. If you can't see the Calculator icon, use the down arrow on the keyboard to scroll down through the Pinned section.</em></li><li>Right-click the Calculator icon in the Pinned section and choose Move to Front.<br><em>The Calculator icon is now the first icon on the Pinned menu.</em></li></ol>\n<h3>Hands-On 1.7: Customize the Start Menu &mdash; Add a Folder</h3>\n<p>In this exercise, you will add a folder to the Start menu and set a custom name for it.</p>\n<ol><li>Click the Start button.</li><li>On the Start menu, click and drag the icon of your choice onto another icon and then release your mouse button.<br><em>Notice how a folder is created with both icons in it.</em></li><li>Click the folder you created and then the default title; type: School</li><li>Tap Enter to complete the name change.</li><li>Click outside the Start menu to close both the menu and the folder.</li><li>Click the Start button and verify that the folder has been renamed. Leave the folder open for the next exercise.</li></ol>\n<h3>Hands-On 1.8: Delete a Folder</h3>\n<p>In this exercise, you will remove one of the icons from the folder you created to automatically delete the folder.</p>\n<ol><li>Click the Start button to open the Start menu and then click your School folder.</li><li>Drag one of the icons out of the folder back into the Start menu.<br><em>The folder is automatically deleted, and the remaining icon is moved back to the Start menu.</em></li></ol>\n<h3>Hands-On 1.9: Use Sleep Mode and Shut Down</h3>\n<p>In this exercise, you will put the computer into sleep mode and then return it to working mode. Then you'll shut down Windows.</p>\n<ol><li>Make sure all programs are closed and then click the Start button.</li><li>Click the Power button, then choose Sleep from the menu.<br><em>Moving forward, steps like these will be written as &quot;Click the Start button and then choose Power&rarr;Sleep.&quot;</em></li><li>Move the mouse or press the Spacebar to bring the computer out of sleep mode.</li><li>If the Start screen appears, click it. Enter your password when the login screen appears.<br><em>The computer is now ready to work again.</em></li><li>Make sure any open programs are closed.</li><li>Click the Start button and then choose Power&rarr;Shut Down.<br><em>It may take the computer 15 seconds or more to completely shut down.</em></li></ol>",
-          "points_possible": 0,
+          "description": "<p><em>Book pages: 18-20 &middot; CBO Objective: #4</em></p><h2>Hands-On 1.4: Display and Dismiss the Start Menu</h2><p>In this exercise, you will display and dismiss the Start menu using both the mouse and the keyboard.</p><ol><li>Click the Start button to display the Start menu.<br><em>Note the upper and lower panes of the Start menu.</em></li><li>Click the Start button again to dismiss the Start menu.</li><li>Press the Windows key on the keyboard to display the Start menu.</li><li>Press the Windows key again to dismiss the Start menu.<br><em>It's easy to dismiss the Start menu if you pull it up by mistake.</em></li></ol><h2>Hands-On 1.5: Launch a Program from the Start Menu</h2><p>In this exercise, you will launch the Calculator app from the Start menu.</p><ol><li>Click the Start button and then click the All Apps button.</li><li>Choose Calculator.<br><em>The Start menu collapses and the Calculator app opens.</em></li></ol><h3>What to submit</h3><p>With Calculator open, use the Snipping Tool to capture a screenshot showing the Calculator app on screen. Submit that screenshot, then close Calculator by clicking the &quot;X&quot; in the upper-right corner.</p>",
+          "points_possible": 3,
           "submission_types": [
-            "none"
+            "online_upload"
           ]
+        },
+        {
+          "type": "Page",
+          "title": "The Pinned and Recommended Lists — Reading",
+          "position": 4,
+          "body": "<p><em>Book pages: 21-22 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>The Pinned and Recommended Lists</h2><p>Windows 11 automatically adds commands for apps to the Pinned list in the Start menu. Sometimes an app is added to the list the first time you launch it; other times you may need to use a program twice to have it added to the list. When the Pinned list becomes full, the command for the app that has been unused the longest is removed. You can also add and delete apps to suit your needs. The Recommended section shows the documents and files you have opened most recently.</p><h3>Pinning Commands to the Start Menu</h3><p>Commands for any app can be easily pinned to the Start menu. You pin a command to the Start menu to make it easier to access.</p>{{img:pg 21.png|Textbook page 21 &mdash; the Pinned and Recommended lists}}<h3>Moving Apps on the Start Menu</h3><p>You can move apps around on the Start menu as you like, and you can move an app straight to the top of the menu by right-clicking the app icon with the mouse to open a menu of commands. If you have many apps, there may be more than one screen that you can scroll through on the Start menu.</p>",
+          "images": {
+            "pg 21.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 21.png"
+          }
         },
         {
           "type": "Assignment",
           "title": "Skill Builder 1.1: Organize the Start Menu",
-          "position": 4,
+          "position": 5,
           "description": "<p><em>Book pages: 28 &middot; CBO Objective : #4 (Work with the Start menu)</em></p>\n{{img:pg 28.png|Textbook page 28 &mdash; Skill Builder 1.1}}\n<h2>Skill Builder 1.1: Organize the Start Menu</h2><p>In this exercise, you will add app icons to the Start menu and organize the menu.</p><h3>Instructions</h3><ol><li>Click the Start button and click All Apps.</li><li>Right-click the Clock app and choose Pin to Start.</li><li>Right-click the Windows Media Player Legacy app and choose Pin to Start.</li><li>Right-click the Clock app on the Pinned list and choose Move to Front. Do the same with the Windows Media Player Legacy app.</li><li>Move the Clock icon from the top Pinned row to the start of the second row.</li><li>Right-click the Windows Media Player Legacy app and choose Unpin from Start.</li><li>Right-click the Clock app and choose Unpin from Start.</li></ol><h3>What to submit</h3><p>A screenshot after step 5, showing the Clock and Windows Media Player Legacy icons pinned and reordered (before you unpin them in steps 6-7).</p>",
           "images": {
             "pg 28.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 28.png"
@@ -104,9 +366,29 @@
           ]
         },
         {
+          "type": "Page",
+          "title": "Adding and Deleting Folders on the Start Menu — Reading",
+          "position": 6,
+          "body": "<p><em>Book pages: 22-24 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>Adding and Deleting Folders on the Start Menu</h2>{{img:pg 22.png|Textbook page 22 &mdash; adding a folder to the Start menu}}<p>You can add folders to the Start menu to organize apps and shortcuts. When you drag one icon onto another icon on the Start menu, this triggers the creation of a folder. More icons can then be added to the folder by dragging and dropping icons onto the folder. Folder names can be renamed to help with organization &mdash; for example, one folder for social media apps, another for games, and another for apps you use for school.</p><p>Deleting a menu folder is easy. The selected folder is deleted once there is only one icon or shortcut left in the folder. At this point the last icon or shortcut is placed back on the Start menu and the folder is automatically deleted.</p>{{img:pg 24.png|Textbook page 24 &mdash; deleting a folder}}",
+          "images": {
+            "pg 22.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 22.png",
+            "pg 24.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 24.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 1.7-1.8: Add and Delete a Start Menu Folder",
+          "position": 7,
+          "description": "<p><em>Book pages: 22-24 &middot; CBO Objective: #4</em></p><h2>Hands-On 1.7: Customize the Start Menu &mdash; Add a Folder</h2><p>In this exercise, you will add a folder to the Start menu and set a custom name for it.</p><ol><li>Click the Start button.</li><li>On the Start menu, click and drag the icon of your choice onto another icon and then release your mouse button.<br><em>Notice how a folder is created with both icons in it.</em></li><li>Click the folder you created and then the default title; type: School</li><li>Tap Enter to complete the name change.</li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of your renamed &quot;School&quot; folder open on the Start menu, showing both icons inside. Submit that screenshot.</p><h2>Hands-On 1.8: Delete a Folder</h2><p>Once you've submitted your screenshot, remove one of the icons from the folder to automatically delete it &mdash; no screenshot needed for this step, just show your instructor or move on.</p><ol><li>Click the Start button to open the Start menu and then click your School folder.</li><li>Drag one of the icons out of the folder back into the Start menu.<br><em>The folder is automatically deleted, and the remaining icon is moved back to the Start menu.</em></li></ol>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
           "type": "Assignment",
           "title": "Additional Skill Builder 1.1: Pin an App to the Start Menu",
-          "position": 5,
+          "position": 8,
           "description": "<p><em>Book pages: not in the textbook &mdash; supplementary exercise &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Additional Skill Builder 1.1: Pin an App to the Start Menu</h2><p>In this exercise, you will pin an app to the Start menu.</p><h3>Instructions</h3><ol><li>Click the <strong>Start</strong> button and then click <strong>All Apps</strong>.</li><li>Scroll down to <strong>Snipping Tool</strong>.</li><li>Right-click <strong>Snipping Tool</strong> and choose <strong>Pin to Start</strong>.</li><li>Notice the new Snipping Tool icon at the end of the Pinned menu.</li></ol><h3>What to submit</h3><p>A screenshot of your Start menu showing the Snipping Tool icon pinned in the Pinned section.</p>",
           "points_possible": 10,
           "submission_types": [
@@ -114,9 +396,107 @@
           ]
         },
         {
+          "type": "Page",
+          "title": "Shutting Down — Reading",
+          "position": 9,
+          "body": "<p><em>Book pages: 24-26 &middot; Day 2, Chapter 1 &middot; CBO Objective: #5</em></p><h2>Shutting Down</h2><p>Windows is a very large collection of programs. If it is not shut down properly, you may discover upon restarting your computer that error messages appear &mdash; or even worse, that Windows won't start at all. This is because Windows needs time to properly shut down all of its software parts and pieces correctly, and turning off the power doesn't allow enough time to do this.</p><p>There are three ways to shut down Windows, depending on what you want to do next. The following options are displayed via the Start button and the Power button menu: Sleep, Shut Down, and Restart.</p><h3>Sleep</h3><p>In sleep mode, the computer slows down and therefore uses a lot less energy. Any documents you are working on are saved, the processor works more slowly, the monitor is turned off, and other settings are triggered that allow the computer to save power. On most laptops, closing the lid will immediately cause the laptop to go into sleep mode.</p><h3>Shut Down</h3><p>This command closes all programs, logs you out of the computer, and turns off its power. When you are done with the computer for the day, it is important to turn it off using the Shut Down command.</p><p><strong>Never</strong> hold down the Power button to turn a computer off unless you have no other choice. Windows needs time to close its various parts and pieces down properly, and turning the power off abruptly can corrupt parts of the Windows software and can even cause the computer to not be able to restart.</p><h3>Restart</h3><p>The restart mode closes all open program windows, logs you out, and powers down the computer. The computer then restarts and Windows reloads. Sometimes Windows will ask you to restart the computer after a new program or program update has been installed, because the new program can't be used until the system restarts and the new software is integrated into Windows.</p><table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Shut down Windows and the computer</td><td>Close all open programs. Click the Shut Down button (on the Power button menu).</td></tr><tr><td>Go into sleep mode</td><td>Choose Sleep from the Power button menu.</td></tr><tr><td>Exit sleep mode</td><td>Move the mouse or tap the Spacebar on your keyboard.</td></tr></table>{{img:pg 26.png|Textbook page 26 &mdash; shutting down}}",
+          "images": {
+            "pg 26.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 26.png"
+          }
+        },
+        {
+          "type": "Quiz",
+          "title": "Sleep, Shut Down, or Restart?",
+          "position": 10,
+          "description": "A quick 4-question check on when to use Sleep, Shut Down, or Restart. Book pages 24-26, CBO Objective #5.",
+          "points_possible": 4,
+          "questions": [
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "You're stepping away from your laptop for 10 minutes and want to save battery. What should you do?",
+              "answers": [
+                {
+                  "text": "Sleep",
+                  "weight": 100
+                },
+                {
+                  "text": "Shut Down",
+                  "weight": 0
+                },
+                {
+                  "text": "Restart",
+                  "weight": 0
+                },
+                {
+                  "text": "Hold the power button until it turns off",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "You just installed a Windows update and it's asking you to apply the changes. What should you do?",
+              "answers": [
+                {
+                  "text": "Restart",
+                  "weight": 100
+                },
+                {
+                  "text": "Sleep",
+                  "weight": 0
+                },
+                {
+                  "text": "Ignore it and keep working",
+                  "weight": 0
+                },
+                {
+                  "text": "Hold the power button until it turns off",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "You're done working for the day and won't touch the computer again until tomorrow. What should you do?",
+              "answers": [
+                {
+                  "text": "Shut Down",
+                  "weight": 100
+                },
+                {
+                  "text": "Sleep",
+                  "weight": 0
+                },
+                {
+                  "text": "Restart",
+                  "weight": 0
+                },
+                {
+                  "text": "Leave it running",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "It's safe to just hold down the power button to turn off your computer any time you want.",
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
           "type": "Assignment",
           "title": "Day 2 Homework: Shut Down",
-          "position": 6,
+          "position": 11,
           "description": "<p><em>Book pages: 29-30 &middot; CBO Objective: #5 (Shut down the computer correctly) &mdash; optional take-home practice, done on your own computer</em></p>\n{{img:pg 29.png|Textbook page 29 &mdash; Try This at Home}}\n<h2>Day 2 Homework: Shut Down</h2>\n<p>This exercise is meant to be done on your own computer at home, not in the lab.</p>\n<h3>1.3 Shut Down</h3>\n<p>In this exercise, you will shut down the computer properly.</p>\n<ol><li>Make sure that all of your open apps are closed.</li><li>From the Start menu choose Power&rarr;Shut Down.<br><em>The computer will take a minute or two to complete its shutdown tasks. Be patient!</em></li><li>If the computer doesn't turn off the power automatically, you will need to manually power off the computer and the monitor.</li></ol>\n<p><strong>Warning:</strong> sometimes Windows will hang up when closing and will stop responding. It is best to give the device a few minutes to correct the problem before turning the power off manually and overriding Windows.</p>",
           "points_possible": 3,
           "submission_types": [
@@ -129,7 +509,7 @@
         {
           "type": "Quiz",
           "title": "Chapter 1 Quiz: Getting Your First Look",
-          "position": 7,
+          "position": 12,
           "description": "A 10-question quiz covering logging in, the Windows Desktop, mouse actions, the Start menu, and shutting down. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 10,
           "questions": [
