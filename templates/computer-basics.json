@@ -35,7 +35,20 @@
           "points_possible": 3,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot proves a successful, independent login",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit — screenshot clearly shows the Desktop (Start button, taskbar visible), proving login was completed", "points": 3},
+                  {"description": "Partial Credit — screenshot shows progress (e.g. the lock/sign-in screen) but not a completed Desktop view", "points": 1.5},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't relate to the task", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -182,7 +195,20 @@
           "points_possible": 3,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot proves the Recycle Bin was dragged to a new location",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit — screenshot clearly shows the Recycle Bin in a different spot on the Desktop than its default location", "points": 3},
+                  {"description": "Partial Credit — screenshot shows the Desktop but the Recycle Bin's new position is unclear or barely moved", "points": 1.5},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Recycle Bin moved", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -275,7 +301,20 @@
           "points_possible": 2,
           "submission_types": [
             "online_text_entry"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Answer explains why locking protects you on a shared computer",
+                "points": 2,
+                "ratings": [
+                  {"description": "Full Credit — clearly connects locking to preventing unauthorized access to your account/files while you're away", "points": 2},
+                  {"description": "Partial Credit — mentions locking but the reasoning is vague, incomplete, or off-target", "points": 1},
+                  {"description": "No Credit — blank, or answer doesn't address the question", "points": 0}
+                ]
+              }
+            ]
+          }
         }
       ]
     },
@@ -306,7 +345,29 @@
           "points_possible": 4,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot 1 shows Calculator open (Hands-On 1.5)",
+                "points": 2,
+                "ratings": [
+                  {"description": "Full Credit — Calculator app window is clearly open on screen", "points": 2},
+                  {"description": "Partial Credit — a screenshot was submitted but doesn't clearly show Calculator open", "points": 1},
+                  {"description": "No Credit — missing", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot 2 shows the Calculator icon pinned and moved to the front of the Pinned section (Hands-On 1.6)",
+                "points": 2,
+                "ratings": [
+                  {"description": "Full Credit — Calculator icon is visibly pinned and at the front of the Pinned section", "points": 2},
+                  {"description": "Partial Credit — Calculator is pinned but not clearly moved to the front, or the screenshot is unclear", "points": 1},
+                  {"description": "No Credit — missing", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -330,7 +391,28 @@
           "points_possible": 5,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Both apps (Clock, Windows Media Player Legacy) are pinned and reordered per steps 1-5",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit — both icons are pinned and moved to the front/second row as instructed", "points": 3},
+                  {"description": "Partial Credit — only one app is correctly pinned/reordered", "points": 1.5},
+                  {"description": "No Credit — neither app shows as pinned/reordered", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot was captured at the correct step (after step 5, before unpinning)",
+                "points": 2,
+                "ratings": [
+                  {"description": "Full Credit — screenshot clearly shows the Pinned section with both icons still in place", "points": 2},
+                  {"description": "No Credit — screenshot missing, or taken after the apps were unpinned", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
@@ -340,7 +422,20 @@
           "points_possible": 3,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the renamed \"School\" folder open on the Start menu with both icons inside",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit — folder is clearly labeled \"School\", open, and shows both icons inside", "points": 3},
+                  {"description": "Partial Credit — folder is shown but not renamed correctly, or only one icon is visible", "points": 1.5},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't show the folder", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
@@ -350,7 +445,29 @@
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Snipping Tool is correctly pinned to the Start menu",
+                "points": 6,
+                "ratings": [
+                  {"description": "Full Credit — Snipping Tool icon appears in the Pinned section", "points": 6},
+                  {"description": "Partial Credit — a different app is pinned instead, or the pin is incomplete", "points": 3},
+                  {"description": "No Credit — nothing pinned", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot clearly shows the Pinned section with the Snipping Tool icon",
+                "points": 4,
+                "ratings": [
+                  {"description": "Full Credit — screenshot is clear and the icon/label are legible", "points": 4},
+                  {"description": "Partial Credit — screenshot submitted but hard to confirm the icon", "points": 2},
+                  {"description": "No Credit — no screenshot submitted", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -667,7 +784,20 @@
           "points_possible": 4,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows File Explorer snapped to one half of the screen",
+                "points": 4,
+                "ratings": [
+                  {"description": "Full Credit — File Explorer clearly fills exactly half the screen (snapped, not just resized)", "points": 4},
+                  {"description": "Partial Credit — window is resized/moved but not actually snapped to an edge", "points": 2},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't show a snapped window", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -686,7 +816,19 @@
           "points_possible": 2,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Device specifications box with the Pen and touch line visible",
+                "points": 2,
+                "ratings": [
+                  {"description": "Full Credit — Device specifications box is visible with the Pen and touch line legible", "points": 2},
+                  {"description": "No Credit — no screenshot submitted, or the Pen and touch line isn't visible", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -705,7 +847,20 @@
           "points_possible": 4,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Notepad pinned on the taskbar",
+                "points": 4,
+                "ratings": [
+                  {"description": "Full Credit — Notepad icon is visibly pinned to the taskbar", "points": 4},
+                  {"description": "Partial Credit — a screenshot was submitted but the pinned Notepad icon isn't clearly visible", "points": 2},
+                  {"description": "No Credit — no screenshot submitted, or Notepad isn't pinned", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -725,7 +880,20 @@
           "points_possible": 3,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows notifications back on, with the list of individual apps visible",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit — the Get Notifications toggle is on and the per-app list is visible below it", "points": 3},
+                  {"description": "Partial Credit — screenshot shows the settings window but toggle state or app list is unclear", "points": 1.5},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Notifications settings", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Page",
@@ -745,7 +913,20 @@
           "points_possible": 4,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Alt+Tab Task-Switching box open with all open apps visible",
+                "points": 4,
+                "ratings": [
+                  {"description": "Full Credit — Task-Switching box is open showing icons for all three open apps", "points": 4},
+                  {"description": "Partial Credit — box is visible but not all open apps show, or the screenshot is unclear", "points": 2},
+                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Task-Switching box", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
@@ -755,7 +936,38 @@
           "points_possible": 15,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Task 2.1 — Calculator moved to a new position (screenshot 1)",
+                "points": 5,
+                "ratings": [
+                  {"description": "Full Credit — Calculator is clearly repositioned from its default spot", "points": 5},
+                  {"description": "Partial Credit — screenshot submitted but the new position is unclear or unchanged", "points": 2.5},
+                  {"description": "No Credit — missing", "points": 0}
+                ]
+              },
+              {
+                "description": "Task 2.2 — Notepad and Paint pinned in the Start menu (screenshot 2)",
+                "points": 5,
+                "ratings": [
+                  {"description": "Full Credit — both Notepad and Paint show as pinned in the Start menu", "points": 5},
+                  {"description": "Partial Credit — only one app is pinned, or the screenshot is unclear", "points": 2.5},
+                  {"description": "No Credit — missing", "points": 0}
+                ]
+              },
+              {
+                "description": "Task 2.3 — both apps open and restored down on the Desktop (screenshot 3)",
+                "points": 5,
+                "ratings": [
+                  {"description": "Full Credit — both Notepad and Paint are open, visible, and in restored-down (not maximized/minimized) state", "points": 5},
+                  {"description": "Partial Credit — only one app is shown, or window states are unclear", "points": 2.5},
+                  {"description": "No Credit — missing", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
@@ -765,7 +977,29 @@
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Both apps are correctly snapped side by side",
+                "points": 6,
+                "ratings": [
+                  {"description": "Full Credit — Paint and Notepad each fill exactly half the screen, snapped (not just resized)", "points": 6},
+                  {"description": "Partial Credit — apps are open and positioned but not actually snapped to the edges", "points": 3},
+                  {"description": "No Credit — apps aren't shown side by side", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot clearly shows both windows in the snapped layout",
+                "points": 4,
+                "ratings": [
+                  {"description": "Full Credit — screenshot is clear and both windows/apps are identifiable", "points": 4},
+                  {"description": "Partial Credit — screenshot submitted but one window is hard to identify", "points": 2},
+                  {"description": "No Credit — no screenshot submitted", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
@@ -775,7 +1009,29 @@
           "points_possible": 5,
           "submission_types": [
             "online_text_entry"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Response accurately describes the first click (all windows minimized)",
+                "points": 2.5,
+                "ratings": [
+                  {"description": "Full Credit — clearly states all open app windows were minimized/hidden", "points": 2.5},
+                  {"description": "Partial Credit — vague or partially correct", "points": 1.25},
+                  {"description": "No Credit — blank or incorrect", "points": 0}
+                ]
+              },
+              {
+                "description": "Response accurately describes the second click (windows restored)",
+                "points": 2.5,
+                "ratings": [
+                  {"description": "Full Credit — clearly states the windows were restored back to the Desktop", "points": 2.5},
+                  {"description": "Partial Credit — vague or partially correct", "points": 1.25},
+                  {"description": "No Credit — blank or incorrect", "points": 0}
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Quiz",

@@ -161,6 +161,49 @@ def create_assignment(course_id, module_id, item, dry_run=False):
     add_to_module(course_id, module_id, "Assignment",
                   content_id=assignment.get("id"),
                   title=item["title"], dry_run=dry_run)
+    if item.get("rubric"):
+        create_rubric(course_id, assignment.get("id"), item["rubric"], item["title"], dry_run=dry_run)
+
+
+# ---------------------------------------------------------------------------
+# Rubrics
+# ---------------------------------------------------------------------------
+
+def create_rubric(course_id, assignment_id, rubric, default_title, dry_run=False):
+    """Creates a Canvas rubric from a {"criteria": [{"description", "points",
+    "ratings": [{"description", "points"}, ...]}, ...]} definition and
+    associates it with an assignment for grading (shows up in SpeedGrader).
+    Canvas's rubric[criteria]/[ratings] params are array-like but keyed by
+    stringified index (matching how Rails parses nested form params) --
+    that's why criteria/ratings are built as dicts keyed "0", "1", ... below
+    rather than plain JSON lists."""
+    print(f"    + Rubric: {rubric.get('title', default_title + ' Rubric')}")
+    criteria = {}
+    for i, c in enumerate(rubric["criteria"]):
+        ratings = {
+            str(j): {"description": r["description"], "points": r["points"]}
+            for j, r in enumerate(c["ratings"])
+        }
+        criteria[str(i)] = {
+            "description": c["description"],
+            "points": c["points"],
+            "ratings": ratings
+        }
+
+    payload = {
+        "rubric": {
+            "title": rubric.get("title", f"{default_title} Rubric"),
+            "free_form_criterion_comments": False,
+            "criteria": criteria
+        },
+        "rubric_association": {
+            "association_id": assignment_id,
+            "association_type": "Assignment",
+            "use_for_grading": True,
+            "purpose": "grading"
+        }
+    }
+    return api_post(f"/courses/{course_id}/rubrics", payload, dry_run=dry_run)
 
 
 def create_discussion(course_id, module_id, item, dry_run=False):
