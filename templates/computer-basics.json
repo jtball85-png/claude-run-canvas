@@ -634,14 +634,14 @@
       ]
     },
     {
-      "name": "Chapter 2: Starting and Controlling Apps",
+      "name": "Day 3, Chapter 2: Starting and Controlling Apps",
       "position": 3,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 2 Overview: Starting and Controlling Apps",
+          "title": "Day 3 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Starting and Controlling Apps</h2><p>This chapter is about getting comfortable running several apps at once and controlling their windows. Multitasking is the big theme: switching smoothly between apps and knowing exactly what's on screen at any moment.</p><h3>Learning objectives</h3><ul><li>Minimize, maximize, resize, and move app windows</li><li>Use touch controls</li><li>Describe the basic features of the Windows 11 taskbar</li><li>Multitask effectively using the taskbar</li><li>Access commands using the notification area</li><li>Use the Action Center</li></ul><h3>Controlling app windows (Hands-On 2.1-2.2)</h3><p>Every app window has quick-sizing buttons: <strong>Minimize</strong> (shrinks to just a taskbar button), <strong>Maximize</strong> (fills the screen), <strong>Restore Down</strong> (returns to its previous size), and <strong>Close</strong>. Learn one app's window controls and you can use them all. You can also drag a title bar to move a window, drag an edge or corner to resize it, and use the <strong>Snap</strong> feature to dock two windows side by side.</p><h3>Touch controls (Hands-On 2.3)</h3><p>If your device has a touchscreen, gestures like tap, swipe, and pinch can substitute for mouse actions. This exercise checks whether your computer supports touch.</p><h3>Working with the taskbar (Hands-On 2.4-2.6)</h3><p>The taskbar's <strong>notification area</strong> has four jobs: showing the system clock, showing icons for background tasks, delivering notifications, and giving quick access to specific apps. You can pin frequently used apps directly to the taskbar (2.5) and control which apps are allowed to notify you via the <strong>Action Center</strong> (2.6).</p><h3>Multitasking (Hands-On 2.7-2.10)</h3><p>Only one app can be <strong>active</strong> at a time, but many can be open. Practice switching between running apps (2.8), using the <strong>Flip</strong> command to cycle through them (2.9), and using <strong>Task View</strong> to see everything open at once (2.10).</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 2.1-2.10</strong> — done together in class</li><li><strong>Skill Builders 2.1-2.3</strong> (in-book) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 2.1-2.2</strong> — graded homework, see the assignments in this module</li><li><strong>Chapter 2 Quiz</strong> — see the quiz in this module</li></ul>"
+          "body": "<h2>Day 3 Overview</h2><p>Today covers all of Chapter 2 in one day: controlling app windows, touch controls, the taskbar, the Action Center, and multitasking between open programs.</p><h3>Competencies covered today</h3><ul><li><strong>#1</strong> &mdash; Minimize, maximize, resize, and move app windows</li><li><strong>#2</strong> &mdash; Use touch controls</li><li><strong>#3</strong> &mdash; Describe the basic features of the Windows 11 taskbar</li><li><strong>#4</strong> &mdash; Multitask effectively using the taskbar</li><li><strong>#5</strong> &mdash; Access commands using the notification area</li><li><strong>#6</strong> &mdash; Use the Action Center</li></ul><h3>Today's tasks</h3><ol><li>Watch the Chapter 2 Presentation</li><li>Controlling App Windows &mdash; read, then submit your Hands-On 2.1-2.2 screenshot</li><li>Touch Controls &mdash; read, then submit your Hands-On 2.3 screenshot</li><li>Working with the Taskbar &mdash; read, then submit your Hands-On 2.4-2.5 screenshot</li><li>Action Center (Notifications) &mdash; read, then submit your Hands-On 2.6 screenshot</li><li>Multitasking &mdash; read, then submit your Hands-On 2.7-2.10 screenshot</li><li>Skill Builders 2.1-2.3 (independent practice)</li><li>Additional Skill Builder 2.1: Using the Snap Feature with Multiple Apps Open</li><li>Additional Skill Builder 2.2: Using the Show Desktop Button</li><li>Chapter 2 Quiz</li></ol>"
         },
         {
           "type": "File",
@@ -650,10 +650,108 @@
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C02-PPT.pptx"
         },
         {
+          "type": "Page",
+          "title": "Controlling App Windows — Reading",
+          "position": 3,
+          "body": "<p><em>Book pages: 33-38 &middot; Day 3, Chapter 2 &middot; CBO Objective: #1</em></p><h2>Controlling App Windows</h2><p>Every app you open is displayed within its own <strong>app window</strong>. These windows have controls and features that are similar in most programs &mdash; learn how to use them in one app, and you can use them in almost any other.</p><h3>Quick-Sizing Buttons</h3><p>All apps use the same four <strong>quick-sizing buttons</strong> in the top-right corner of the window:</p><table><tr><th>Button</th><th>What It Does</th></tr><tr><td>Minimize</td><td>Removes the app window from the screen but keeps it running, with its app button still on the taskbar</td></tr><tr><td>Maximize</td><td>Enlarges the app window to fill the screen</td></tr><tr><td>Restore Down</td><td>Resizes the app window back to the size it was before it was last maximized</td></tr><tr><td>Close</td><td>Exits the app</td></tr></table>{{img:pg 33.png|Textbook page 33 &mdash; quick-sizing buttons}}<p>Minimizing hides an app's clutter without closing it; maximizing simply covers the other open windows. <strong>Alt+F4</strong> closes (exits) an app from the keyboard. A quick way to close a minimized app is to right-click its taskbar button and choose Close Window.</p><h3>Moving and Resizing App Windows</h3><p>The <strong>title bar</strong> at the top of a window can be dragged to move the window around the Desktop. You can resize a window by dragging any border or corner &mdash; if the mouse pointer doesn't turn into a double-headed arrow when you point at the border, the window can't be resized.</p><h3>The Snap Feature</h3><p>The <strong>Snap</strong> feature is another way to maximize, restore down, or view two windows side by side: drag a window's title bar to the top edge of the Desktop to maximize it, or to the left/right edge to fill half the screen.</p>{{img:pg 38.png|Textbook page 38 &mdash; resizing windows using Snap}}<p>Not every app window follows these standards exactly &mdash; some &quot;nonstandard&quot; windows are missing features or have them modified, either for appearance or because a feature isn't necessary for that app.</p>",
+          "images": {
+            "pg 33.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 33.png",
+            "pg 38.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 38.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 2.1-2.2: Use Quick-Sizing Buttons & Snap a Window",
+          "position": 4,
+          "description": "<p><em>Book pages: 35, 38 &middot; CBO Objective: #1</em></p><h2>Hands-On 2.1: Use Quick-Sizing Buttons</h2><p>In this exercise, you will open File Explorer and use the quick-sizing buttons to maximize, restore down, and minimize the app window.</p><ol><li>Click the File Explorer button on the taskbar.</li><li>If the app window does not fill the screen, click the Maximize button.<br><em>The window enlarges to fill the entire Desktop, and the center button changes to Restore Down.</em></li><li>Click the Restore Down button.<br><em>The window returns to its original, smaller size.</em></li><li>Click the Minimize button.</li><li>Click the File Explorer button on the taskbar again to restore it to the Desktop.</li><li>Click the Close button to exit File Explorer.</li></ol><h2>Hands-On 2.2: Move, Resize, and Snap a Window</h2><p>In this exercise, you will move, resize, and snap the File Explorer app window.</p><ol><li>Click the File Explorer button on the taskbar. If necessary, restore down the app window.</li><li>Click the title bar and drag the app window around the Desktop.</li><li>Practice resizing the app window using its borders or corners.</li><li>Drag the title bar to the left edge of the Desktop until the mouse pointer touches the edge.<br><em>The window snaps to fill the left half of the screen.</em></li><li>Repeat step 4 by dragging the window to the right edge, then the top edge.</li></ol><h3>What to submit</h3><p>Once you've snapped File Explorer to one side of the screen (step 4), use the Snipping Tool to capture a screenshot and submit it.</p>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Touch Controls — Reading",
+          "position": 5,
+          "body": "<p><em>Book pages: 39-41 &middot; Day 3, Chapter 2 &middot; CBO Objective: #2</em></p><h2>Touch Controls</h2><p>Windows supports touch <strong>gestures</strong> on computers and devices with touchscreens, like tablets and smartphones. Using touch, you can move and control objects on the screen with one, two, or three fingers. If your laptop has a precision touchpad, many of the same gestures work there too.</p><h3>Touch Gestures</h3><table><tr><th>Task</th><th>Gesture</th></tr><tr><td>Open the Action Center</td><td>Swipe in from the right edge of the screen</td></tr><tr><td>Open Task View</td><td>Swipe in from the left edge of the screen</td></tr><tr><td>View the title bar</td><td>Swipe down from the top of the screen</td></tr><tr><td>View the taskbar</td><td>Swipe up from the bottom of the screen</td></tr><tr><td>Open, select, or activate an item</td><td>Tap once on the item</td></tr><tr><td>Zoom in or out</td><td>Touch with two or more fingers and drag them apart or together</td></tr></table>{{img:pg 40.png|Textbook page 40 &mdash; touch gestures}}<h3>Touchpad Controls</h3><p>A laptop's touchpad can do more than just point and click. Three-finger swipes let you open Task View (swipe up), show the Desktop (swipe down), or switch between open windows (swipe right or left).</p>",
+          "images": {
+            "pg 40.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 40.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 2.3: Determine If You Have a Touchscreen",
+          "position": 6,
+          "description": "<p><em>Book pages: 39 &middot; CBO Objective: #2</em></p><h2>Hands-On 2.3: Determine If You Have a Touchscreen</h2><p>In this exercise, you will check whether your Windows computer has a touchscreen.</p><ol><li>Click Start and select the Settings icon.</li><li>From Settings, click the System icon.</li><li>On the System page, scroll down and click About. On the right side of the screen, look for the Device specifications box and find the line labeled <strong>Pen and touch</strong>.<br><em>The text to the right tells you whether your computer supports touch gestures.</em></li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of the Device specifications box showing the Pen and touch line, then submit it. It's fine either way if your computer does or doesn't support touch &mdash; this exercise is just about knowing how to check.</p>",
+          "points_possible": 2,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Working with the Taskbar — Reading",
+          "position": 7,
+          "body": "<p><em>Book pages: 41-43 &middot; Day 3, Chapter 2 &middot; CBO Objective: #3</em></p><h2>Working with the Taskbar</h2><p>The taskbar runs the width of the Desktop at the bottom of the screen. Icons for the Start menu and other default apps sit in the middle of the taskbar, along with buttons for any apps you have open.</p><p>Only one app window can be <strong>active</strong> at a time. The active app's button has a lighter, square background behind it; clicking an inactive app's button brings its window to the front and makes it active.</p>{{img:pg 41.png|Textbook page 41 &mdash; parts of the taskbar}}<h3>Notification Area</h3><p>The notification area on the right end of the taskbar has four jobs: it shows the system clock and date, shows icons for background tasks (like antivirus software), delivers notifications about system events, and gives quick access to certain apps.</p><h3>Pinning and Unpinning Apps</h3><p>You can <strong>pin</strong> app buttons to the taskbar so your most-used apps are always easy to find and launch, even when they're closed. A pinned app that isn't currently open won't have a square border around its icon. Right-click an app's icon to Pin to Taskbar or Unpin from Taskbar.</p>",
+          "images": {
+            "pg 41.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 41.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 2.4-2.5: Change Taskbar Settings & Pin/Unpin an App",
+          "position": 8,
+          "description": "<p><em>Book pages: 42-44 &middot; CBO Objective: #3</em></p><h2>Hands-On 2.4: Change Taskbar Settings</h2><p>In this exercise, you will open the Taskbar Settings and turn the Touch Keyboard icon on and off.</p><ol><li>Right-click a clear portion of the taskbar to display its pop-up menu, then choose Taskbar Settings.</li><li>Click the On/Off slider to the right of Touch Keyboard to turn the feature on.<br><em>An icon that lets you type using a virtual keyboard is added to the taskbar.</em></li><li>Turn the Touch Keyboard back off.</li><li>Close the Taskbar Settings window.</li></ol><h2>Hands-On 2.5: Pin and Unpin an App</h2><p>In this exercise, you will open Notepad, pin it to the taskbar, then unpin it.</p><ol><li>Click Start and click All Apps, then scroll down and click Notepad.</li><li>Right-click the Notepad app button on the taskbar and choose Pin to Taskbar.</li><li>Right-click the Notepad app button again and choose Close All Windows.<br><em>The Notepad icon stays on the taskbar since it's pinned, even though the app is closed.</em></li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of the taskbar showing the pinned Notepad icon (after step 3), then submit it. Once you've submitted it, finish the exercise by right-clicking the Notepad icon and choosing Unpin from Taskbar &mdash; no additional screenshot needed for that step.</p>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Action Center (Notifications) — Reading",
+          "position": 9,
+          "body": "<p><em>Book pages: 44-47 &middot; Day 3, Chapter 2 &middot; CBO Objective: #5 and #6</em></p><h2>Action Center (Notifications)</h2><p>The <strong>Action Center</strong> is a central location for information shared by apps on your computer &mdash; everything from news alerts to Windows update notices. It's accessed by clicking the Notification button in the notification area (or pressing Windows+A), and it only appears when there are notifications to share.</p><h3>Notifications</h3><p>Notifications vary depending on the app. Hovering over a notification shows a Close button to dismiss just that item; clicking anywhere else on the screen closes the whole panel.</p>{{img:pg 45.png|Textbook page 45 &mdash; the Notifications panel}}<h3>Actions</h3><p>Below Notifications, the Action Center contains rows of <strong>actions</strong> &mdash; quick-access icons for settings like Wi-Fi, Bluetooth, Airplane mode, Battery saver, Focus assist, and Accessibility, plus sliders for brightness and volume. The Edit Quick Settings button (the pencil icon) lets you show additional actions and customize which ones appear.</p>{{img:pg 47.png|Textbook page 47 &mdash; Action Center actions}}",
+          "images": {
+            "pg 45.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 45.png",
+            "pg 47.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 47.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 2.6: Set Notifications",
+          "position": 10,
+          "description": "<p><em>Book pages: 45-46 &middot; CBO Objective: #5</em></p><h2>Hands-On 2.6: Set Notifications</h2><p>In this exercise, you will turn notifications off and then back on.</p><ol><li>Choose Start &rarr; Settings, then click the System icon.</li><li>From the right side of the System window, choose Notifications.</li><li>Click the On/Off slider to the right of Get Notifications from Apps and Other Senders to turn them off.<br><em>The Notification button is no longer visible on the taskbar.</em></li><li>Click the same On/Off slider to turn notifications back on.<br><em>Scroll down through the Notifications window and you can also turn notifications off for individual apps.</em></li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of the Notifications settings window with notifications back on (step 4), showing the list of individual apps below it, then submit it.</p>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
+          "type": "Page",
+          "title": "Multitasking — Reading",
+          "position": 11,
+          "body": "<p><em>Book pages: 48-53 &middot; Day 3, Chapter 2 &middot; CBO Objective: #4</em></p><h2>Multitasking</h2><p><strong>Multitasking</strong> is Windows' ability to run multiple programs or operations at the same time. Some multitasking happens in the background without you noticing &mdash; downloading updates, monitoring security &mdash; but you can also multitask on purpose: keep several programs open, check email, pay bills, and listen to music, all at once.</p>{{img:pg 48.png|Textbook page 48 &mdash; multitasking with multiple windows open}}<h3>App Switching</h3><p>You can work in only one app at a time &mdash; the <strong>active</strong> app. Windows places the active app's window in front of the others; its taskbar button is brighter, with a longer, lighter bar underneath it, while inactive buttons are darker with a short gray bar.</p>{{img:pg 49.png|Textbook page 49 &mdash; active vs. inactive app buttons}}<h3>The Flip Command</h3><p>The <strong>Flip</strong> command lets you quickly switch between open programs using the keyboard: hold <strong>Alt</strong> and tap <strong>Tab</strong> to display the Flip window, keep tapping Tab (while still holding Alt) until the app you want is selected, then release Alt.</p><h3>Show Desktop and Task View</h3><p>The <strong>Show Desktop</strong> button, at the far-right end of the taskbar, minimizes every open window at once so you can see the Desktop. The <strong>Task View</strong> button shows a screen with a live view of every open app, so you can switch to one with a single click instead of holding down keys.</p>",
+          "images": {
+            "pg 48.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 48.png",
+            "pg 49.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 2\\pg 49.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 2.7-2.10: Multitasking — Switching, Flipping & Task View",
+          "position": 12,
+          "description": "<p><em>Book pages: 48-53 &middot; CBO Objective: #4</em></p><h2>Hands-On 2.7: Open Multiple Programs</h2><p>In this exercise, you will open three programs from the Start menu and watch their app buttons get added to the taskbar.</p><ol><li>Click Start, then click Calculator (from the upper pane or All Apps).</li><li>Open Notepad from All Apps.</li><li>Open Paint from All Apps.<br><em>There are now three app buttons on the taskbar. Leave all three programs open for the next exercises.</em></li></ol><h2>Hands-On 2.8: Switch Programs</h2><p>In this exercise, you will change the active app by clicking inactive app buttons and windows on the taskbar.</p><ol><li>If Calculator is not the active app, click its taskbar button to make it active.</li><li>Click a visible part of the Paint window (or its taskbar button) to make Paint active.</li><li>Click the Maximize button to make Paint fill the Desktop.</li><li>Although Paint is now hiding the other programs, click the Calculator app button on the taskbar to make it active again.</li><li>Make Notepad active, then click its Close button to exit the app.<br><em>Leave Calculator and Paint open.</em></li></ol><h2>Hands-On 2.9: Flip Between Active Programs</h2><p>In this exercise, you will flip between your open apps using the keyboard.</p><ol><li>Start Notepad again so you have three apps open.</li><li>Hold down the Alt key on the keyboard and keep it held down.</li><li>While still holding Alt, tap the Tab key once.<br><em>The Task-Switching box appears, showing icons for your open apps.</em></li><li>While still holding Alt, keep tapping Tab until Calculator is selected in the Task-Switching box.</li><li>Release Alt.<br><em>Calculator becomes the active app and jumps to the front of the Desktop.</em></li><li>Practice using Alt+Tab a few more times to switch between programs.</li></ol><h2>Hands-On 2.10: Use Task View</h2><p>In this exercise, you will use the Task View button to switch between running apps.</p><ol><li>Click on the Paint app to make it active.</li><li>Click the Task View button on the taskbar.</li><li>Click Calculator in the Task View window.<br><em>Calculator is now the active app on the Desktop.</em></li><li>Practice using Task View to switch between your open apps, then close Calculator, Notepad, and Paint.</li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of the Alt+Tab Task-Switching box while it's open (Hands-On 2.9, step 3 or 4), showing all of your open apps, then submit it.</p>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ]
+        },
+        {
           "type": "Assignment",
           "title": "Skill Builders 2.1-2.3",
-          "position": 3,
-          "description": "<h2>Skill Builders 2.1-2.3</h2><p>In-book Skill Builders for Chapter 2 — independent practice with less guidance than the Hands-On exercises. Refer to your textbook (Chapter 2, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>2.1 Resize and Move Apps</strong> — resize and move the Calculator app on the Desktop.</li><li><strong>2.2 Pin and Unpin Apps</strong> — pin two commands to the Start menu, use them to launch both apps, then unpin them.</li><li><strong>2.3 Multitask</strong> — practice multitasking using the window and taskbar controls from this chapter.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task (3 screenshots total).</p>",
+          "position": 13,
+          "description": "<p><em>Book pages: 55-56 &middot; CBO Objective: #1, #3, #4 (independent practice across this chapter's skills)</em></p><h2>Skill Builders 2.1-2.3</h2><p>In-book Skill Builders for Chapter 2 &mdash; independent practice with less guidance than the Hands-On exercises. Refer to your textbook (Chapter 2, after the Self-Assessment) for the full walkthroughs.</p><h3>Tasks</h3><ol><li><strong>2.1 Resize and Move Apps</strong> &mdash; start the Calculator app, maximize it, restore it down, then drag its title bar to a new position on the screen. Minimize it, then restore it from the taskbar.</li><li><strong>2.2 Pin and Unpin Apps</strong> &mdash; from Start &rarr; All Apps, right-click the Notepad and Paint apps and choose Pin to Start. Launch both from their new Pinned icons, then right-click each and choose Unpin from Start.</li><li><strong>2.3 Multitask</strong> &mdash; with Notepad and Paint both open, practice making each one active, maximizing and restoring each down, then minimize both at once using the Show Desktop button. Finish by right-clicking each app's taskbar button and choosing Close Window.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task (3 screenshots total): (1) Calculator moved to its new position, (2) Notepad and Paint pinned in the Start menu's Pinned area, (3) both apps open and restored down on the Desktop before you minimize and close them.</p>",
           "points_possible": 15,
           "submission_types": [
             "online_upload"
@@ -662,7 +760,7 @@
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 2.1: Using the Snap Feature with Multiple Apps Open",
-          "position": 4,
+          "position": 14,
           "description": "<h2>Additional Skill Builder 2.1: Using the Snap Feature with Multiple Apps Open</h2><p>In this exercise, you will use the Snap feature to display two programs side by side on the screen.</p><h3>Instructions</h3><ol><li>Start the Calculator, Notepad, and Paint apps.</li><li>Drag the Paint app so it snaps to the left side of the screen.</li><li>Notice that Windows displays the other two apps in miniature next to Paint.</li><li>Click on Notepad. Notice that it snaps to fill the right side of the screen.</li><li>Close all apps.</li></ol><h3>What to submit</h3><p>A screenshot showing Paint and Notepad snapped side by side.</p>",
           "points_possible": 10,
           "submission_types": [
@@ -672,7 +770,7 @@
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 2.2: Using the Show Desktop Button",
-          "position": 5,
+          "position": 15,
           "description": "<h2>Additional Skill Builder 2.2: Using the Show Desktop Button</h2><p>In this exercise, you will use the Show Desktop button to quickly minimize all open programs to see the Desktop.</p><h3>Instructions</h3><ol><li>Open the Notepad, Calculator, and Paint apps.</li><li>Carefully click the Show Desktop button on the far-right edge of the taskbar.</li><li>Notice how all the app windows are minimized.</li><li>Click the Show Desktop button again. Notice that the app windows are restored onto the Desktop.</li><li>Close all open apps.</li></ol><h3>What to submit</h3><p>A short written response describing what happened each time you clicked the Show Desktop button.</p>",
           "points_possible": 5,
           "submission_types": [
@@ -682,7 +780,7 @@
         {
           "type": "Quiz",
           "title": "Chapter 2 Quiz: Starting and Controlling Apps",
-          "position": 6,
+          "position": 16,
           "description": "A 15-question quiz covering app windows, touch controls, the taskbar, and multitasking. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
@@ -690,266 +788,134 @@
               "question_type": "true_false_question",
               "question_text": "The Maximize button enlarges an app to fill the entire Desktop.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 100
-                },
-                {
-                  "text": "False",
-                  "weight": 0
-                }
+                { "text": "True", "weight": 100 },
+                { "text": "False", "weight": 0 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "Quick-sizing buttons are used to reconfigure or close an app.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 100
-                },
-                {
-                  "text": "False",
-                  "weight": 0
-                }
+                { "text": "True", "weight": 100 },
+                { "text": "False", "weight": 0 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "When you open multiple programs in Windows, they share the same window.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 0
-                },
-                {
-                  "text": "False",
-                  "weight": 100
-                }
+                { "text": "True", "weight": 0 },
+                { "text": "False", "weight": 100 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "When an app is opened, its app button is placed in the notification area.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 0
-                },
-                {
-                  "text": "False",
-                  "weight": 100
-                }
+                { "text": "True", "weight": 0 },
+                { "text": "False", "weight": 100 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The active window is always displayed in front of other windows when multiple programs are in use.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 100
-                },
-                {
-                  "text": "False",
-                  "weight": 0
-                }
+                { "text": "True", "weight": 100 },
+                { "text": "False", "weight": 0 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "You can only have one active app at a time.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 100
-                },
-                {
-                  "text": "False",
-                  "weight": 0
-                }
+                { "text": "True", "weight": 100 },
+                { "text": "False", "weight": 0 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Action Center is a preinstalled sports app in Windows.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 0
-                },
-                {
-                  "text": "False",
-                  "weight": 100
-                }
+                { "text": "True", "weight": 0 },
+                { "text": "False", "weight": 100 }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Show Desktop button maximizes all open apps onto the Desktop.",
               "answers": [
-                {
-                  "text": "True",
-                  "weight": 0
-                },
-                {
-                  "text": "False",
-                  "weight": 100
-                }
+                { "text": "True", "weight": 0 },
+                { "text": "False", "weight": 100 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which of the following is NOT a function of the notification area?",
               "answers": [
-                {
-                  "text": "It displays icons representing tasks and functions running in the background",
-                  "weight": 0
-                },
-                {
-                  "text": "It displays local weather information",
-                  "weight": 100
-                },
-                {
-                  "text": "It displays a system clock and current date",
-                  "weight": 0
-                },
-                {
-                  "text": "It notifies the user about certain system events",
-                  "weight": 0
-                }
+                { "text": "It displays icons representing tasks and functions running in the background", "weight": 0 },
+                { "text": "It displays local weather information", "weight": 100 },
+                { "text": "It displays a system clock and current date", "weight": 0 },
+                { "text": "It notifies the user about certain system events", "weight": 0 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "The Minimize button ______.",
               "answers": [
-                {
-                  "text": "closes the app",
-                  "weight": 0
-                },
-                {
-                  "text": "shrinks the app from the desktop, leaving only the app button on the taskbar",
-                  "weight": 100
-                },
-                {
-                  "text": "closes your app and automatically saves any unsaved work",
-                  "weight": 0
-                },
-                {
-                  "text": "pauses your app",
-                  "weight": 0
-                }
+                { "text": "closes the app", "weight": 0 },
+                { "text": "shrinks the app from the desktop, leaving only the app button on the taskbar", "weight": 100 },
+                { "text": "closes your app and automatically saves any unsaved work", "weight": 0 },
+                { "text": "pauses your app", "weight": 0 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "How can you tell if a program window is resizable?",
               "answers": [
-                {
-                  "text": "A double-headed mouse pointer will appear when you point at the program window border",
-                  "weight": 100
-                },
-                {
-                  "text": "The mouse pointer becomes a four-headed arrow when placed on a program window border",
-                  "weight": 0
-                },
-                {
-                  "text": "The title bar will display Minimize and Maximize buttons",
-                  "weight": 0
-                },
-                {
-                  "text": "Within Windows, all program windows are resizable",
-                  "weight": 0
-                }
+                { "text": "A double-headed mouse pointer will appear when you point at the program window border", "weight": 100 },
+                { "text": "The mouse pointer becomes a four-headed arrow when placed on a program window border", "weight": 0 },
+                { "text": "The title bar will display Minimize and Maximize buttons", "weight": 0 },
+                { "text": "Within Windows, all program windows are resizable", "weight": 0 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "What command options are normally associated with the quick-sizing buttons in most program windows?",
               "answers": [
-                {
-                  "text": "Maximize, Minimize, and Shut Down",
-                  "weight": 0
-                },
-                {
-                  "text": "Restore Down, Close, Minimize, and Maximize",
-                  "weight": 100
-                },
-                {
-                  "text": "Multitask, Flip, and Close",
-                  "weight": 0
-                },
-                {
-                  "text": "Exit, Resize, Maximize, and Minimize",
-                  "weight": 0
-                }
+                { "text": "Maximize, Minimize, and Shut Down", "weight": 0 },
+                { "text": "Restore Down, Close, Minimize, and Maximize", "weight": 100 },
+                { "text": "Multitask, Flip, and Close", "weight": 0 },
+                { "text": "Exit, Resize, Maximize, and Minimize", "weight": 0 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "When selected, the Restore Down button _____.",
               "answers": [
-                {
-                  "text": "shrinks the program window, leaving only the program button on the taskbar",
-                  "weight": 0
-                },
-                {
-                  "text": "enlarges the program window to fill the entire Desktop",
-                  "weight": 0
-                },
-                {
-                  "text": "returns the window back to its previous dimensions (if the window is minimized)",
-                  "weight": 0
-                },
-                {
-                  "text": "resizes the window to the smaller size it was before it was last maximized",
-                  "weight": 100
-                }
+                { "text": "shrinks the program window, leaving only the program button on the taskbar", "weight": 0 },
+                { "text": "enlarges the program window to fill the entire Desktop", "weight": 0 },
+                { "text": "returns the window back to its previous dimensions (if the window is minimized)", "weight": 0 },
+                { "text": "resizes the window to the smaller size it was before it was last maximized", "weight": 100 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "The title bar _____.",
               "answers": [
-                {
-                  "text": "displays the name of an app",
-                  "weight": 0
-                },
-                {
-                  "text": "may display the name of the document or object being edited",
-                  "weight": 0
-                },
-                {
-                  "text": "provides a handle for moving the app",
-                  "weight": 0
-                },
-                {
-                  "text": "All of these options",
-                  "weight": 100
-                }
+                { "text": "displays the name of an app", "weight": 0 },
+                { "text": "may display the name of the document or object being edited", "weight": 0 },
+                { "text": "provides a handle for moving the app", "weight": 0 },
+                { "text": "All of these options", "weight": 100 }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which of the following is NOT a touchpad control?",
               "answers": [
-                {
-                  "text": "Opening the Task screen",
-                  "weight": 0
-                },
-                {
-                  "text": "Showing the Desktop",
-                  "weight": 0
-                },
-                {
-                  "text": "Quick accessing the Start menu",
-                  "weight": 100
-                },
-                {
-                  "text": "Switching between open app windows",
-                  "weight": 0
-                }
+                { "text": "Opening the Task screen", "weight": 0 },
+                { "text": "Showing the Desktop", "weight": 0 },
+                { "text": "Quick accessing the Start menu", "weight": 100 },
+                { "text": "Switching between open app windows", "weight": 0 }
               ]
             }
           ]
