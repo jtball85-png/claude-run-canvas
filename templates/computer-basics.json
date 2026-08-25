@@ -300,10 +300,10 @@
         },
         {
           "type": "Assignment",
-          "title": "Hands-On 1.4-1.5: The Start Menu & Launching a Program",
+          "title": "Hands-On 1.4-1.6: The Start Menu, Launching a Program & Customizing It",
           "position": 3,
-          "description": "<p><em>Book pages: 18-20 &middot; CBO Objective: #4</em></p><h2>Hands-On 1.4: Display and Dismiss the Start Menu</h2><p>In this exercise, you will display and dismiss the Start menu using both the mouse and the keyboard.</p><ol><li>Click the Start button to display the Start menu.<br><em>Note the upper and lower panes of the Start menu.</em></li><li>Click the Start button again to dismiss the Start menu.</li><li>Press the Windows key on the keyboard to display the Start menu.</li><li>Press the Windows key again to dismiss the Start menu.<br><em>It's easy to dismiss the Start menu if you pull it up by mistake.</em></li></ol><h2>Hands-On 1.5: Launch a Program from the Start Menu</h2><p>In this exercise, you will launch the Calculator app from the Start menu.</p><ol><li>Click the Start button and then click the All Apps button.</li><li>Choose Calculator.<br><em>The Start menu collapses and the Calculator app opens.</em></li></ol><h3>What to submit</h3><p>With Calculator open, use the Snipping Tool to capture a screenshot showing the Calculator app on screen. Submit that screenshot, then close Calculator by clicking the &quot;X&quot; in the upper-right corner.</p>",
-          "points_possible": 3,
+          "description": "<p><em>Book pages: 18-20 &middot; CBO Objective: #4</em></p><h2>Hands-On 1.4: Display and Dismiss the Start Menu</h2><p>In this exercise, you will display and dismiss the Start menu using both the mouse and the keyboard.</p><ol><li>Click the Start button to display the Start menu.<br><em>Note the upper and lower panes of the Start menu.</em></li><li>Click the Start button again to dismiss the Start menu.</li><li>Press the Windows key on the keyboard to display the Start menu.</li><li>Press the Windows key again to dismiss the Start menu.<br><em>It's easy to dismiss the Start menu if you pull it up by mistake.</em></li></ol><h2>Hands-On 1.5: Launch a Program from the Start Menu</h2><p>In this exercise, you will launch the Calculator app from the Start menu.</p><ol><li>Click the Start button and then click the All Apps button.</li><li>Choose Calculator.<br><em>The Start menu collapses and the Calculator app opens.</em></li></ol><h2>Hands-On 1.6: Customize the Start Menu</h2><p>In this exercise, you will add and position an app on the Start menu.</p><ol><li>Click the Start menu, click the All Apps button, and find the Calculator app (but don't click it yet).</li><li>Right-click the Calculator icon and choose Pin to Start.</li><li>Click the Back button.<br><em>Notice that the Calculator icon appears at the bottom of the Pinned section. If you can't see the Calculator icon, use the down arrow on the keyboard to scroll down through the Pinned section.</em></li><li>Right-click the Calculator icon in the Pinned section and choose Move to Front.<br><em>The Calculator icon is now the first icon on the Pinned menu.</em></li></ol><h3>What to submit</h3><p>Two screenshots, both captured with the Snipping Tool: (1) Calculator open on screen (from Hands-On 1.5), and (2) the Calculator icon pinned and moved to the front of the Pinned section on your Start menu (from Hands-On 1.6).</p>",
+          "points_possible": 4,
           "submission_types": [
             "online_upload"
           ]
@@ -363,9 +363,9 @@
         },
         {
           "type": "Quiz",
-          "title": "Sleep, Shut Down, or Restart?",
+          "title": "Hands-On 1.9: Sleep Mode and Shut Down",
           "position": 9,
-          "description": "A quick 4-question check on when to use Sleep, Shut Down, or Restart. Book pages 24-26, CBO Objective #5.",
+          "description": "<p><em>Book pages: 24-26 &middot; CBO Objective: #5</em></p><h2>Hands-On 1.9: Sleep Mode and Shut Down</h2><p>In this exercise, you'll put the computer into sleep mode, wake it back up, and then shut it down properly.</p><ol><li>Make sure all programs are closed and then click the Start button.</li><li>Click the Power button, then choose Sleep from the menu.</li><li>Move the mouse or press the Spacebar to bring the computer out of sleep mode.</li><li>If the Start screen appears, click it. Enter your password when the login screen appears.<br><em>The computer is now ready to work again.</em></li><li>Make sure any open programs are closed.</li><li>Click the Start button and then choose Power&rarr;Shut Down.<br><em>It may take the computer 15 seconds or more to completely shut down.</em></li></ol><p><strong>About this deliverable:</strong> there's no way to submit a screenshot proving you shut the computer down &mdash; by definition, it's off. Do the steps above in class with your instructor watching, then take this 4-question quiz in place of a written submission. It checks that you know when to use Sleep vs. Shut Down vs. Restart, which is the real point of the exercise.</p>",
           "points_possible": 4,
           "questions": [
             {
@@ -451,22 +451,9 @@
           ]
         },
         {
-          "type": "Assignment",
-          "title": "Day 2 Homework: Shut Down",
-          "position": 10,
-          "description": "<p><em>Book pages: 29-30 &middot; CBO Objective: #5 (Shut down the computer correctly) &mdash; optional take-home practice, done on your own computer</em></p>\n{{img:pg 29.png|Textbook page 29 &mdash; Try This at Home}}\n<h2>Day 2 Homework: Shut Down</h2>\n<p>This exercise is meant to be done on your own computer at home, not in the lab.</p>\n<h3>1.3 Shut Down</h3>\n<p>In this exercise, you will shut down the computer properly.</p>\n<ol><li>Make sure that all of your open apps are closed.</li><li>From the Start menu choose Power&rarr;Shut Down.<br><em>The computer will take a minute or two to complete its shutdown tasks. Be patient!</em></li><li>If the computer doesn't turn off the power automatically, you will need to manually power off the computer and the monitor.</li></ol>\n<p><strong>Warning:</strong> sometimes Windows will hang up when closing and will stop responding. It is best to give the device a few minutes to correct the problem before turning the power off manually and overriding Windows.</p>",
-          "points_possible": 3,
-          "submission_types": [
-            "online_text_entry"
-          ],
-          "images": {
-            "pg 29.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 29.png"
-          }
-        },
-        {
           "type": "Quiz",
           "title": "Chapter 1 Quiz: Getting Your First Look",
-          "position": 11,
+          "position": 10,
           "description": "A 10-question quiz covering logging in, the Windows Desktop, mouse actions, the Start menu, and shutting down. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 10,
           "questions": [
