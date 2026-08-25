@@ -310,11 +310,13 @@
         },
         {
           "type": "Page",
-          "title": "The Pinned and Recommended Lists — Reading",
+          "title": "The Pinned and Recommended Lists & Adding/Deleting Folders — Reading",
           "position": 4,
-          "body": "<p><em>Book pages: 21-22 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>The Pinned and Recommended Lists</h2><p>Windows 11 automatically adds commands for apps to the Pinned list in the Start menu. Sometimes an app is added to the list the first time you launch it; other times you may need to use a program twice to have it added to the list. When the Pinned list becomes full, the command for the app that has been unused the longest is removed. You can also add and delete apps to suit your needs. The Recommended section shows the documents and files you have opened most recently.</p><h3>Pinning Commands to the Start Menu</h3><p>Commands for any app can be easily pinned to the Start menu. You pin a command to the Start menu to make it easier to access.</p>{{img:pg 21.png|Textbook page 21 &mdash; the Pinned and Recommended lists}}<h3>Moving Apps on the Start Menu</h3><p>You can move apps around on the Start menu as you like, and you can move an app straight to the top of the menu by right-clicking the app icon with the mouse to open a menu of commands. If you have many apps, there may be more than one screen that you can scroll through on the Start menu.</p>",
+          "body": "<p><em>Book pages: 21-22 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>The Pinned and Recommended Lists</h2><p>Windows 11 automatically adds commands for apps to the Pinned list in the Start menu. Sometimes an app is added to the list the first time you launch it; other times you may need to use a program twice to have it added to the list. When the Pinned list becomes full, the command for the app that has been unused the longest is removed. You can also add and delete apps to suit your needs. The Recommended section shows the documents and files you have opened most recently.</p><h3>Pinning Commands to the Start Menu</h3><p>Commands for any app can be easily pinned to the Start menu. You pin a command to the Start menu to make it easier to access.</p>{{img:pg 21.png|Textbook page 21 &mdash; the Pinned and Recommended lists}}<h3>Moving Apps on the Start Menu</h3><p>You can move apps around on the Start menu as you like, and you can move an app straight to the top of the menu by right-clicking the app icon with the mouse to open a menu of commands. If you have many apps, there may be more than one screen that you can scroll through on the Start menu.</p><p><em>Book pages: 22-24 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>Adding and Deleting Folders on the Start Menu</h2>{{img:pg 22.png|Textbook page 22 &mdash; adding a folder to the Start menu}}<p>You can add folders to the Start menu to organize apps and shortcuts. When you drag one icon onto another icon on the Start menu, this triggers the creation of a folder. More icons can then be added to the folder by dragging and dropping icons onto the folder. Folder names can be renamed to help with organization &mdash; for example, one folder for social media apps, another for games, and another for apps you use for school.</p><p>Deleting a menu folder is easy. The selected folder is deleted once there is only one icon or shortcut left in the folder. At this point the last icon or shortcut is placed back on the Start menu and the folder is automatically deleted.</p>{{img:pg 24.png|Textbook page 24 &mdash; deleting a folder}}",
           "images": {
-            "pg 21.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 21.png"
+            "pg 21.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 21.png",
+            "pg 22.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 22.png",
+            "pg 24.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 24.png"
           }
         },
         {
@@ -331,19 +333,9 @@
           ]
         },
         {
-          "type": "Page",
-          "title": "Adding and Deleting Folders on the Start Menu — Reading",
-          "position": 6,
-          "body": "<p><em>Book pages: 22-24 &middot; Day 2, Chapter 1 &middot; CBO Objective: #4</em></p><h2>Adding and Deleting Folders on the Start Menu</h2>{{img:pg 22.png|Textbook page 22 &mdash; adding a folder to the Start menu}}<p>You can add folders to the Start menu to organize apps and shortcuts. When you drag one icon onto another icon on the Start menu, this triggers the creation of a folder. More icons can then be added to the folder by dragging and dropping icons onto the folder. Folder names can be renamed to help with organization &mdash; for example, one folder for social media apps, another for games, and another for apps you use for school.</p><p>Deleting a menu folder is easy. The selected folder is deleted once there is only one icon or shortcut left in the folder. At this point the last icon or shortcut is placed back on the Start menu and the folder is automatically deleted.</p>{{img:pg 24.png|Textbook page 24 &mdash; deleting a folder}}",
-          "images": {
-            "pg 22.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 22.png",
-            "pg 24.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 24.png"
-          }
-        },
-        {
           "type": "Assignment",
           "title": "Hands-On 1.7-1.8: Add and Delete a Start Menu Folder",
-          "position": 7,
+          "position": 6,
           "description": "<p><em>Book pages: 22-24 &middot; CBO Objective: #4</em></p><h2>Hands-On 1.7: Customize the Start Menu &mdash; Add a Folder</h2><p>In this exercise, you will add a folder to the Start menu and set a custom name for it.</p><ol><li>Click the Start button.</li><li>On the Start menu, click and drag the icon of your choice onto another icon and then release your mouse button.<br><em>Notice how a folder is created with both icons in it.</em></li><li>Click the folder you created and then the default title; type: School</li><li>Tap Enter to complete the name change.</li></ol><h3>What to submit</h3><p>Use the Snipping Tool to capture a screenshot of your renamed &quot;School&quot; folder open on the Start menu, showing both icons inside. Submit that screenshot.</p><h2>Hands-On 1.8: Delete a Folder</h2><p>Once you've submitted your screenshot, remove one of the icons from the folder to automatically delete it &mdash; no screenshot needed for this step, just show your instructor or move on.</p><ol><li>Click the Start button to open the Start menu and then click your School folder.</li><li>Drag one of the icons out of the folder back into the Start menu.<br><em>The folder is automatically deleted, and the remaining icon is moved back to the Start menu.</em></li></ol>",
           "points_possible": 3,
           "submission_types": [
@@ -353,7 +345,7 @@
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 1.1: Pin an App to the Start Menu",
-          "position": 8,
+          "position": 7,
           "description": "<p><em>Book pages: not in the textbook &mdash; supplementary exercise &middot; CBO Objective : #4 (Work with the Start menu)</em></p><h2>Additional Skill Builder 1.1: Pin an App to the Start Menu</h2><p>In this exercise, you will pin an app to the Start menu.</p><h3>Instructions</h3><ol><li>Click the <strong>Start</strong> button and then click <strong>All Apps</strong>.</li><li>Scroll down to <strong>Snipping Tool</strong>.</li><li>Right-click <strong>Snipping Tool</strong> and choose <strong>Pin to Start</strong>.</li><li>Notice the new Snipping Tool icon at the end of the Pinned menu.</li></ol><h3>What to submit</h3><p>A screenshot of your Start menu showing the Snipping Tool icon pinned in the Pinned section.</p>",
           "points_possible": 10,
           "submission_types": [
@@ -363,7 +355,7 @@
         {
           "type": "Page",
           "title": "Shutting Down — Reading",
-          "position": 9,
+          "position": 8,
           "body": "<p><em>Book pages: 24-26 &middot; Day 2, Chapter 1 &middot; CBO Objective: #5</em></p><h2>Shutting Down</h2><p>Windows is a very large collection of programs. If it is not shut down properly, you may discover upon restarting your computer that error messages appear &mdash; or even worse, that Windows won't start at all. This is because Windows needs time to properly shut down all of its software parts and pieces correctly, and turning off the power doesn't allow enough time to do this.</p><p>There are three ways to shut down Windows, depending on what you want to do next. The following options are displayed via the Start button and the Power button menu: Sleep, Shut Down, and Restart.</p><h3>Sleep</h3><p>In sleep mode, the computer slows down and therefore uses a lot less energy. Any documents you are working on are saved, the processor works more slowly, the monitor is turned off, and other settings are triggered that allow the computer to save power. On most laptops, closing the lid will immediately cause the laptop to go into sleep mode.</p><h3>Shut Down</h3><p>This command closes all programs, logs you out of the computer, and turns off its power. When you are done with the computer for the day, it is important to turn it off using the Shut Down command.</p><p><strong>Never</strong> hold down the Power button to turn a computer off unless you have no other choice. Windows needs time to close its various parts and pieces down properly, and turning the power off abruptly can corrupt parts of the Windows software and can even cause the computer to not be able to restart.</p><h3>Restart</h3><p>The restart mode closes all open program windows, logs you out, and powers down the computer. The computer then restarts and Windows reloads. Sometimes Windows will ask you to restart the computer after a new program or program update has been installed, because the new program can't be used until the system restarts and the new software is integrated into Windows.</p><table><tr><th>Task</th><th>Procedure</th></tr><tr><td>Shut down Windows and the computer</td><td>Close all open programs. Click the Shut Down button (on the Power button menu).</td></tr><tr><td>Go into sleep mode</td><td>Choose Sleep from the Power button menu.</td></tr><tr><td>Exit sleep mode</td><td>Move the mouse or tap the Spacebar on your keyboard.</td></tr></table>{{img:pg 26.png|Textbook page 26 &mdash; shutting down}}",
           "images": {
             "pg 26.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 1\\pg 26.png"
@@ -372,7 +364,7 @@
         {
           "type": "Quiz",
           "title": "Sleep, Shut Down, or Restart?",
-          "position": 10,
+          "position": 9,
           "description": "A quick 4-question check on when to use Sleep, Shut Down, or Restart. Book pages 24-26, CBO Objective #5.",
           "points_possible": 4,
           "questions": [
@@ -461,7 +453,7 @@
         {
           "type": "Assignment",
           "title": "Day 2 Homework: Shut Down",
-          "position": 11,
+          "position": 10,
           "description": "<p><em>Book pages: 29-30 &middot; CBO Objective: #5 (Shut down the computer correctly) &mdash; optional take-home practice, done on your own computer</em></p>\n{{img:pg 29.png|Textbook page 29 &mdash; Try This at Home}}\n<h2>Day 2 Homework: Shut Down</h2>\n<p>This exercise is meant to be done on your own computer at home, not in the lab.</p>\n<h3>1.3 Shut Down</h3>\n<p>In this exercise, you will shut down the computer properly.</p>\n<ol><li>Make sure that all of your open apps are closed.</li><li>From the Start menu choose Power&rarr;Shut Down.<br><em>The computer will take a minute or two to complete its shutdown tasks. Be patient!</em></li><li>If the computer doesn't turn off the power automatically, you will need to manually power off the computer and the monitor.</li></ol>\n<p><strong>Warning:</strong> sometimes Windows will hang up when closing and will stop responding. It is best to give the device a few minutes to correct the problem before turning the power off manually and overriding Windows.</p>",
           "points_possible": 3,
           "submission_types": [
@@ -474,7 +466,7 @@
         {
           "type": "Quiz",
           "title": "Chapter 1 Quiz: Getting Your First Look",
-          "position": 12,
+          "position": 11,
           "description": "A 10-question quiz covering logging in, the Windows Desktop, mouse actions, the Start menu, and shutting down. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 10,
           "questions": [
