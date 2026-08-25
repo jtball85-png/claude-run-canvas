@@ -17,6 +17,7 @@ Arguments:
 """
 
 import os
+import re
 import sys
 import json
 import argparse
@@ -27,6 +28,7 @@ load_dotenv()
 
 TOKEN = os.getenv("CANVAS_API_TOKEN")
 BASE_URL = os.getenv("CANVAS_BASE_URL")
+SITE_ROOT = BASE_URL.removesuffix("/api/v1") if BASE_URL else None
 
 if not TOKEN:
     print("ERROR: CANVAS_API_TOKEN is missing from your .env file.")
@@ -127,9 +129,10 @@ def add_to_module(course_id, module_id, item_type, content_id=None, page_url=Non
 
 def create_page(course_id, module_id, item, dry_run=False):
     print(f"  + Page: {item['title']}")
+    body = resolve_image_placeholders(course_id, item.get("body", ""), item.get("images", {}), dry_run=dry_run)
     page = api_post(
         f"/courses/{course_id}/pages",
-        {"wiki_page": {"title": item["title"], "body": item.get("body", ""), "published": False}},
+        {"wiki_page": {"title": item["title"], "body": body, "published": False}},
         dry_run=dry_run
     )
     if not page:
@@ -141,11 +144,12 @@ def create_page(course_id, module_id, item, dry_run=False):
 
 def create_assignment(course_id, module_id, item, dry_run=False):
     print(f"  + Assignment: {item['title']}")
+    description = resolve_image_placeholders(course_id, item.get("description", ""), item.get("images", {}), dry_run=dry_run)
     assignment = api_post(
         f"/courses/{course_id}/assignments",
         {"assignment": {
             "name": item["title"],
-            "description": item.get("description", ""),
+            "description": description,
             "points_possible": item.get("points_possible", 0),
             "submission_types": item.get("submission_types", ["none"]),
             "published": False
@@ -176,32 +180,25 @@ def create_discussion(course_id, module_id, item, dry_run=False):
                   title=item["title"], dry_run=dry_run)
 
 
-def create_file(course_id, module_id, item, dry_run=False):
-    """Upload a local file to Canvas course Files and add it to the module."""
-    local_path = item.get("path")
-    display_name = item.get("title") or os.path.basename(local_path or "")
-    print(f"  + File: {display_name}")
-
-    if dry_run:
-        print(f"  [DRY RUN] POST /courses/{course_id}/files")
-        add_to_module(course_id, module_id, "File", content_id=9999,
-                      title=display_name, dry_run=dry_run)
-        return
-
+def upload_file_to_canvas(course_id, local_path, display_name, parent_folder_path="course files"):
+    """Runs Canvas's 3-step file upload (preflight -> binary upload -> confirm)
+    and returns the resulting file object dict, or None on failure. Shared by
+    create_file() (module File items) and upload_image() (inline embeds) --
+    the upload mechanic is identical, only what's done with the result differs."""
     if not local_path or not os.path.exists(local_path):
         print(f"  ERROR: file not found: {local_path}")
-        return
+        return None
 
     file_size = os.path.getsize(local_path)
 
     preflight = requests.post(
         f"{BASE_URL}/courses/{course_id}/files",
         headers=HEADERS,
-        data={"name": display_name, "size": file_size, "parent_folder_path": "course files"}
+        data={"name": display_name, "size": file_size, "parent_folder_path": parent_folder_path}
     )
     if preflight.status_code not in (200, 201):
         print(f"  ERROR {preflight.status_code}: {preflight.text[:200]}")
-        return
+        return None
     preflight_data = preflight.json()
     upload_url = preflight_data["upload_url"]
     upload_params = preflight_data["upload_params"]
@@ -221,19 +218,90 @@ def create_file(course_id, module_id, item, dry_run=False):
         confirm = requests.get(location, headers=HEADERS)
         if confirm.status_code not in (200, 201):
             print(f"  ERROR confirming upload {confirm.status_code}: {confirm.text[:200]}")
-            return
+            return None
         file_obj = confirm.json()
     else:
         print(f"  ERROR {upload_response.status_code} uploading file: {upload_response.text[:200]}")
-        return
+        return None
 
-    file_id = file_obj.get("id")
-    if not file_id:
+    if not file_obj.get("id"):
         print(f"  ERROR: no file id returned: {file_obj}")
+        return None
+    return file_obj
+
+
+def create_file(course_id, module_id, item, dry_run=False):
+    """Upload a local file to Canvas course Files and add it to the module."""
+    local_path = item.get("path")
+    display_name = item.get("title") or os.path.basename(local_path or "")
+    print(f"  + File: {display_name}")
+
+    if dry_run:
+        print(f"  [DRY RUN] POST /courses/{course_id}/files")
+        add_to_module(course_id, module_id, "File", content_id=9999,
+                      title=display_name, dry_run=dry_run)
         return
 
-    add_to_module(course_id, module_id, "File", content_id=file_id,
+    file_obj = upload_file_to_canvas(course_id, local_path, display_name)
+    if not file_obj:
+        return
+
+    add_to_module(course_id, module_id, "File", content_id=file_obj["id"],
                   title=display_name, dry_run=dry_run)
+
+
+# ---------------------------------------------------------------------------
+# Inline image embedding
+# ---------------------------------------------------------------------------
+
+IMG_PLACEHOLDER_RE = re.compile(r"\{\{img:([^|}]+)\|([^}]*)\}\}")
+
+
+def upload_image(course_id, local_path, alt_text, parent_folder_path="course files/textbook-images"):
+    """Uploads an image (via the same 3-step flow as create_file) and returns
+    a ready-to-use <img> tag pointing at the file's direct download URL
+    (the "url" field, which carries its own access verifier token and serves
+    raw image bytes). NOTE: an earlier version of this function used
+    "preview_url" instead -- that endpoint serves Canvas's interactive
+    document-viewer widget (HTML, not raw image bytes) and does not render
+    inline as an <img>. Confirmed broken in the sandbox (2026-08-24); "url"
+    is the correct field for hotlinking a Canvas-hosted file as an image."""
+    display_name = os.path.basename(local_path)
+    file_obj = upload_file_to_canvas(course_id, local_path, display_name, parent_folder_path)
+    if not file_obj:
+        return f"<p><em>[image failed to upload: {display_name}]</em></p>"
+    src = file_obj["url"]
+    return f'<img src="{src}" alt="{alt_text}" style="max-width:100%;height:auto;">'
+
+
+def resolve_image_placeholders(course_id, html, image_paths_by_filename, dry_run=False):
+    """Replaces every {{img:filename|alt text}} placeholder in html with a
+    real embedded <img> tag, uploading each referenced image (from
+    image_paths_by_filename, a {filename: local_path} map) at most once even
+    if it's placeholdered more than once in the same body."""
+    if not html or "{{img:" not in html:
+        return html
+
+    uploaded_tags = {}
+
+    def replace(match):
+        filename, alt_text = match.group(1).strip(), match.group(2).strip()
+        if filename in uploaded_tags:
+            return uploaded_tags[filename]
+        if dry_run:
+            tag = f'<img src="[DRY RUN: {filename}]" alt="{alt_text}">'
+        else:
+            local_path = image_paths_by_filename.get(filename)
+            if not local_path:
+                print(f"  ERROR: no local path registered for image placeholder '{filename}'")
+                tag = f"<p><em>[missing image reference: {filename}]</em></p>"
+            else:
+                print(f"    uploading image: {filename}")
+                tag = upload_image(course_id, local_path, alt_text)
+        uploaded_tags[filename] = tag
+        return tag
+
+    return IMG_PLACEHOLDER_RE.sub(replace, html)
 
 
 def create_quiz(course_id, module_id, item, dry_run=False):
