@@ -250,6 +250,7 @@ def create_lti_assignment(course_id, module_id, item, dry_run=False):
         f"/courses/{course_id}/assignments",
         {"assignment": {
             "name": item["title"],
+            "description": item.get("description", ""),
             "points_possible": item.get("points_possible", 0),
             "submission_types": ["external_tool"],
             "external_tool_tag_attributes": {"url": item["external_url"], "new_tab": True},
