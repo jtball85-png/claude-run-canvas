@@ -1,0 +1,247 @@
+{
+  "course_name": "Microsoft Outlook 2021 & 365 Fast Course",
+  "course_code": "OUTLOOK",
+  "modules": [
+    {
+      "name": "Day 3, Chapter 3: People",
+      "position": 4,
+      "items": [
+        {
+          "type": "Page",
+          "title": "Day 3 Overview \u2014 Tasks & Competencies",
+          "position": 1,
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 3 &middot; Chapter 3: People</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 3 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Today you'll turn one-off email addresses into a real, searchable contacts list &mdash; and learn to message a whole group at once instead of typing everyone's address every time.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Competencies Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Use the People views</li><li>Work with contacts</li><li>Use contact groups</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 3 Presentation</li><li>Managing People in Outlook &mdash; read, then complete Hands-On OU3-D1</li><li>Contacts &mdash; read, then complete Hands-On OU3-D2&ndash;D5</li><li>Contact Groups &mdash; read, then complete Hands-On OU3-D6&ndash;D8</li><li>Chapter 3 Quiz (self-assessment, via eLab and Canvas)</li><li>Chapter 3 Test (via eLab and Canvas)</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How Hands-On grading works today</strong><p style=\"margin:6px 0 0;\">Unlike Chapter 2, today's work produces things you can screenshot directly &mdash; a saved contact, a pinned Contact Card, a contact group &mdash; so every Hands-On assignment today is graded by screenshot upload, the same as Chapter 1. Two of the exercises ask you to actually send a message (to a contact, and to a group); for those, a screenshot of the message sitting in your Sent Items folder is your proof.</p></div></div>"
+        },
+        {
+          "type": "File",
+          "title": "Chapter 3 Presentation: People",
+          "position": 2,
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\PowerPoint Presentations\\FC-OU21-C03-PPT.pptx"
+        },
+        {
+          "type": "Page",
+          "title": "Managing People in Outlook \u2014 Reading",
+          "position": 3,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 3 &middot; Chapter 3 Reading</div></div><p><em>Book pages: 45-47 &middot; Chapter 3 &middot; CBO Objective: Use the People views</em></p><h2>Managing People in Outlook</h2><p>Outlook offers several ways to display your contacts, the people you communicate with. Outlook calls the element where you store your contacts <strong>People</strong> &mdash; the terms \"contacts\" and \"people\" are used somewhat interchangeably. You can save all your contacts in the default Contacts folder, or create separate folders for related groups (work, school, and so on). You don't have to store the same amount of information for every contact &mdash; a family member might just need an email address, while a business client might get a full company name, address, phone numbers, and email. Contacts can be edited or deleted at any time; to delete one, select it and press Delete.</p><h3>The Contacts List</h3><p>There are five standard ways to view your contacts &mdash; People, Business Card, Card, Phone, and List &mdash; plus the option to build your own custom view. Which one you use is a personal preference; the view options live in the Current View group on the Home and View tabs when People is selected. As your list grows, scroll through it or use the Search Contacts box to find someone.</p>{{img:pg 46.png|Textbook page 46 \u2014 the five standard People-element view icons: People, Business Card, Card, Phone, and List}}<h3>Using Peek</h3><p>Peek lets you check your favorite people without leaving whatever element you're currently in &mdash; hover your mouse over People on the Navigation bar and a small window pops up showing your Favorites list. (You can also peek at Calendar and Tasks the same way &mdash; but not Mail.) You can dock a peek to the right side of the Outlook window to keep it visible while you work, and search your contacts right from inside the peek.</p><h3>The People Toolbar</h3><p>Hover your mouse over a name in a peek (or elsewhere in Outlook) and a small toolbar pops up &mdash; depending on what information you've stored for that contact, you can quickly chat, call, schedule a meeting, or send an email right from the toolbar's icons. The \"&hellip;\" (more) icon opens the option to edit that contact's details.</p>{{img:pg 47.png|Textbook page 47 \u2014 the docked Favorites peek panel, and the People toolbar that appears when you hover over a favorite contact}}",
+          "images": {
+            "pg 46.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 46.png",
+            "pg 47.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 47.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU3-D1: Explore the People Views & Peek",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 46-47 &middot; Develop Your Skills OU3-D1</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU3-D1: Explore the People Views &amp; Peek</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Click <strong>People</strong> on the Navigation bar.</li><li>Choose <strong>View &rarr; Change View</strong> and switch through Business Card, then Phone, then back to People view.</li><li>If you don't already have any contacts, quickly create one: <strong>Home &rarr; New Contact</strong>, enter a name and email address (a classmate or your instructor works fine), then <strong>Save &amp; Close</strong>.</li><li>Right-click that contact and choose <strong>Add to Favorites</strong>.</li><li>Hover your mouse pointer over the <strong>People</strong> icon on the Navigation bar to open the peek, then move your mouse up onto your favorited contact until the People toolbar (call/chat/email/&hellip; icons) appears.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">One screenshot showing the People peek with the toolbar visible over your favorited contact.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the People Favorites peek with the contact toolbar visible over a favorited contact",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 peek and toolbar are both clearly visible over a favorited contact", "points": 3},
+                  {"description": "Partial Credit \u2014 peek is shown but the toolbar isn't visible, or no contact is favorited", "points": 1.5},
+                  {"description": "No Credit \u2014 no screenshot submitted, or it doesn't show the peek", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Contacts \u2014 Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 3 &middot; Chapter 3 Reading</div></div><p><em>Book pages: 48-54 &middot; Chapter 3 &middot; CBO Objective: Work with contacts</em></p><h2>Contacts</h2><p>When you create a contact, Outlook stores it in the Contacts folder of your data file. Addressing messages by selecting someone from People is faster than typing their address, and it keeps their phone number and mailing address in the same place too. The default storage format is Last Name, First Name &mdash; which is what lets you sort by either first or last name.</p><h3>Creating a Contact</h3><p>You create a contact in the Contact window and fill in as much (or as little) information as you want &mdash; the more you enter, the more useful your peeks and People views become later. Contacts can only be added one at a time.</p>{{img:pg 49.png|Textbook page 49 \u2014 the Contact window filled in with a sample contact's Full Name, Company, Job Title, Email, Display As, and Phone fields}}<h3>Turning an Email Sender into a Contact</h3><p>Another way to add someone: right-click their email address in the header of a message they sent you, and choose <strong>Add to Outlook Contacts</strong>. A contact window opens automatically so you can fill in more details.</p><h3>Making a Contact a Favorite</h3><p>Right-click a contact and choose <strong>Add to Favorites</strong> to make them show up in your People peek. <strong>To remove someone from Favorites, you have to dock the peek first</strong> &mdash; right-clicking a favorite from an undocked (floating) peek won't show the Remove from Favorites option at all.</p><h3>Editing Contacts</h3><p>To edit someone, find them (scroll, or use the Search People / Search Contacts box, which filters as you type) and open their contact window. In People, Business Card, or Card view, you can also click a letter along the left edge of the list to jump straight to contacts starting with that letter.</p><h3>Contact Cards</h3><p>A Contact Card shows a compact snapshot of everything you know about someone, without the empty fields you'd see in the full Contact window. Click the pin icon on a Contact Card to keep it open in its own window for reference while you work.</p><h3>Sorting the Contacts List</h3><p>By default the list sorts alphabetically by last name, but you can change that &mdash; for example, sort by company if you deal with a lot of different businesses. In Phone or List view, click a column header to sort by it (click again to reverse); Outlook remembers your sort order even after you close and reopen the program. You can also drag column headers to reorder them, drag the line between two headers to resize a column, and choose which columns display.</p>{{img:pg 52.png|Textbook page 52 \u2014 the Phone-view contact list with columns rearranged and sorted by the File As column}}<h3>Sending Messages to Contacts</h3><p>Typing an email address by hand risks typos, and remembering everyone's address gets harder as your list grows. Once someone's in your Contacts, open a new message and click To, Cc, or Bcc to pick them from the list &mdash; or just start typing their name and choose them from the suggestions. In People view, click the envelope icon below a contact's name in the Reading pane to email them directly; in every other view, select the contact and choose Email from the Ribbon.</p>",
+          "images": {
+            "pg 49.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 49.png",
+            "pg 52.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 52.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU3-D2\u2013D5: Add, Edit, Sort & Message Contacts",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 48-54 &middot; Develop Your Skills OU3-D2 through OU3-D5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU3-D2&ndash;D5: Add, Edit, Sort &amp; Message Contacts</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 1 &mdash; OU3-D2: Add New Contacts</h2><ol style=\"margin:0;padding-left:20px;\"><li>Choose <strong>Home &rarr; New Contact</strong>. Fill in a Full Name, Company (optional), Job Title, Email, and at least one phone number, then <strong>Save &amp; Close</strong>.</li><li>Open an email in your Inbox from a classmate or your instructor. Right-click their name in the message header and choose <strong>Add to Outlook Contacts</strong>. Add a phone number, then <strong>Save &amp; Close</strong>.</li><li>Go to People, right-click one of your new contacts, and choose <strong>Add to Favorites</strong>.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 2 &mdash; OU3-D3: Edit a Contact &amp; Pin the Contact Card</h2><ol style=\"margin:0;padding-left:20px;\"><li>Double-click one of your contacts to open it.</li><li>Edit the Company and Job Title fields, then <strong>Save &amp; Close</strong>.</li><li>Peek at People (or open the Contact Card another way) and click the <strong>pin</strong> icon at the top of the Contact Card so it stays open in its own window.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 3 &mdash; OU3-D4: Sort &amp; Rearrange Columns</h2><ol style=\"margin:0;padding-left:20px;\"><li>Switch People to <strong>Phone</strong> view.</li><li>Drag a column header (e.g. Business Phone) to a new position in the row.</li><li>Drag the line between two column headers to resize a column.</li><li>Click the <strong>Full Name</strong> column header to sort the list; click it again to reverse the sort order.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 4 &mdash; OU3-D5: Send a Message from Contacts</h2><ol style=\"margin:0;padding-left:20px;\"><li>In People view, click the envelope icon below one of your contacts' names in the Reading pane (or select a contact in another view and choose <strong>Email</strong> from the Ribbon).</li><li>Subject: \"[Your Name] &mdash; OU3-D5.\"</li><li>Write a short message, then send it.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Four screenshots: (1) your Contacts list showing the new contact(s) from Part 1; (2) the pinned Contact Card from Part 2; (3) the Phone-view list with rearranged/sorted columns from Part 3; (4) your Sent Items folder showing the OU3-D5 message from Part 4.</p></div></div>",
+          "points_possible": 12,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Contacts list including the new contact(s) created in Part 1",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 both new contacts are visible in the list", "points": 3},
+                  {"description": "Partial Credit \u2014 only one new contact is visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the pinned Contact Card from Part 2",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 Contact Card is visible and clearly pinned open", "points": 3},
+                  {"description": "Partial Credit \u2014 Contact Card is shown but the pin isn't clearly applied", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the Phone-view list with rearranged and sorted columns from Part 3",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 Phone view shown with a rearranged column and a visible sort indicator", "points": 3},
+                  {"description": "Partial Credit \u2014 Phone view shown but only rearranging or only sorting is evident", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the Sent Items entry for the OU3-D5 message",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 Sent Items shows the OU3-D5 message with correct subject line", "points": 3},
+                  {"description": "Partial Credit \u2014 a sent message is shown but the subject line doesn't match OU3-D5", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Contact Groups \u2014 Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 3 &middot; Chapter 3 Reading</div></div><p><em>Book pages: 55-59 &middot; Chapter 3 &middot; CBO Objective: Use contact groups</em></p><h2>Contact Groups</h2><p>A contact group (formerly called a distribution list) lets you send one message to the same set of people over and over without re-typing every address &mdash; useful for a project team or a client list. Once created, a group's name appears alphabetically right alongside your individual contacts in the address book; address a message to the group the same way you would an individual contact. Everyone in the group still appears individually in your address book too, so you can still email them one at a time whenever you want.</p><p><em>Tip: a contact can belong to more than one group.</em></p><h3>Creating a Contact Group</h3><p>A new group starts as a blank Contact Group window where you name the group and add members. Contact groups can only include people already in your People element &mdash; so to add someone new, you either add them as a contact first, or add them as a contact while you're building the group.</p><p><em>Note: a contact group you create for a web-based account like Outlook.com or Gmail won't be available when you access that email through a browser instead of Outlook.</em></p>{{img:pg 55.png|Textbook page 55 \u2014 the Contact Group window, named \"Budget Team,\" with three members added}}<h3>Sending Messages to Groups</h3><p>Type the group's name into the To field the same way you would a person's name, and choose it from the suggestions. Or, with the group selected in the People list, click the Mail icon to open a new message with the group name already filled in.</p><h3>Revising a Contact Group</h3><p>Remove one member with Delete or the Remove Member command; delete the whole group with Delete Group &mdash; neither action can be undone. Removing someone from a group doesn't delete them from your address book, and editing a group member's information updates the real address book entry automatically. Add members at any time via Add Members, the same way you did when the group was created.</p>{{img:pg 57.png|Textbook page 57 \u2014 the Contact Group ribbon, calling out the Delete Group command (deletes the whole group) versus the Remove Member command (removes one member)}}<p>You can also drag a contact group directly into an open message &mdash; Outlook attaches it as an Outlook item the recipient can add to their own contacts. Or click Forward Group to email the group's member details directly.</p>",
+          "images": {
+            "pg 55.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 55.png",
+            "pg 57.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\pg 57.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU3-D6\u2013D8: Create, Message & Revise a Contact Group",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 55-59 &middot; Develop Your Skills OU3-D6 through OU3-D8</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU3-D6&ndash;D8: Create, Message &amp; Revise a Contact Group</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 1 &mdash; OU3-D6: Create a Contact Group</h2><ol style=\"margin:0;padding-left:20px;\"><li>Choose <strong>Home &rarr; New Contact drop-down arrow &rarr; Contact Group</strong>.</li><li>Name it (e.g. \"Study Group\" or \"Class Team\").</li><li>Click <strong>Add Members &rarr; From Outlook Contacts</strong>, then select 2-3 of your existing contacts (Ctrl+click to select more than one), and click <strong>OK</strong>.</li><li><strong>Save &amp; Close</strong>.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 2 &mdash; OU3-D7: Send a Message to the Group</h2><ol style=\"margin:0;padding-left:20px;\"><li>Choose <strong>Home &rarr; New Email</strong>.</li><li>Type the group's name in the <strong>To</strong> field and choose it from the suggestions.</li><li>Subject: \"[Your Name] &mdash; OU3-D7.\"</li><li>Write a short message to the group, then send it.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 3 &mdash; OU3-D8: Add a New Member Who Isn't a Contact Yet</h2><ol style=\"margin:0;padding-left:20px;\"><li>Open your contact group and click <strong>Add Members &rarr; New E-mail Contact</strong>.</li><li>Type a display name and email address for someone not already in your Contacts (make one up, or use a classmate you haven't added yet).</li><li>Make sure <strong>Add to Contacts</strong> is checked, then click <strong>OK</strong>.</li><li><strong>Save &amp; Close</strong>.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Three screenshots: (1) the Contact Group window from Part 1, showing its name and members; (2) your Sent Items folder showing the OU3-D7 group message; (3) the group's membership after Part 3, showing the new member you added.</p></div></div>",
+          "points_possible": 9,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Contact Group window with its name and members from Part 1",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 group name and 2-3 members are clearly visible", "points": 3},
+                  {"description": "Partial Credit \u2014 group is shown but name or members aren't fully visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the Sent Items entry for the OU3-D7 group message",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 Sent Items shows the OU3-D7 message addressed to the group", "points": 3},
+                  {"description": "Partial Credit \u2014 a sent message is shown but the subject line or recipient doesn't clearly match", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the group's updated membership including the new Part 3 member",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the new member appears in the group's member list", "points": 3},
+                  {"description": "Partial Credit \u2014 group is shown but the new member isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "external_tool",
+          "title": "eLab: Chapter 3 Self-Paced Practice",
+          "position": 9,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187725",
+          "tool_id": 297
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 3 Quiz (eLab)",
+          "position": 10,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187727",
+          "points_possible": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 3 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 3 Quiz (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this quiz inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 3 Test (eLab)",
+          "position": 11,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187726",
+          "points_possible": 21,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 3 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 3 Test (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this test inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 3 Self-Assessment Quiz (Canvas)",
+          "position": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 3 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 3 Self-Assessment Quiz (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">12 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 12-question self-assessment from the FastCourse Outlook publisher materials, built as a native Canvas quiz. Auto-graded &mdash; use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 12,
+          "questions": [
+            {"question_type": "true_false_question", "question_text": "Every field must be filled in for each contact in the Contacts list.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "You can search for People from People Peek on the Navigation bar.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "You can add a large number of contacts at one time in Outlook.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "The Contact Card helps you keep track of your contact information and can be accessed from a variety of places in Outlook.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "When you add a contact to a contact group, their name disappears from the complete list of contacts.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "Once someone is added to a contact group, they cannot be removed from it. The contact group must be deleted or recreated.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "When you delete a member from a group, the contact is also deleted from your address book.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "You can sort the Contacts list by clicking any column header in Phone or _____ view.", "answers": [{"text": "List", "weight": 100}, {"text": "People", "weight": 0}, {"text": "Business Card", "weight": 0}, {"text": "Card", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What Outlook element can you NOT peek at?", "answers": [{"text": "Mail", "weight": 100}, {"text": "Calendar", "weight": 0}, {"text": "People", "weight": 0}, {"text": "Tasks", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What can you NOT do via the People toolbar associated with a contact?", "answers": [{"text": "Quickly chat", "weight": 0}, {"text": "Schedule a meeting", "weight": 0}, {"text": "Send an email", "weight": 0}, {"text": "Add the contact to a group", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you type a contact group name in the To box of a message?", "answers": [{"text": "Each group member's name appears separately in the To box.", "weight": 0}, {"text": "The message is sent to each group member.", "weight": 100}, {"text": "The group window opens to add new members.", "weight": 0}, {"text": "None of these options", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you edit the information of someone in a contact group?", "answers": [{"text": "The information is updated in the contact group only.", "weight": 0}, {"text": "You can't edit the information of a contact in a contact group.", "weight": 0}, {"text": "The information in the complete address book is updated automatically.", "weight": 100}, {"text": "All information is deleted.", "weight": 0}]}
+          ]
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 3 Test (Canvas)",
+          "position": 13,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 3 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 3 Test (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">18 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 18-question Test Bank from the FastCourse Outlook publisher materials, built as a native Canvas quiz &mdash; covers all 3 CBO objectives for this chapter. Auto-graded. Use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 21,
+          "images": {
+            "TB-C03-Q10-ContactToolbarEllipsis.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\TB-C03-Q10-ContactToolbarEllipsis.png",
+            "TB-C03-Q13-PiperEmailAddress.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 3\\TB-C03-Q13-PiperEmailAddress.png"
+          },
+          "questions": [
+            {"question_type": "multiple_choice_question", "question_text": "From where can you peek at your favorite contacts?", "answers": [{"text": "The Folder pane", "weight": 0}, {"text": "The Navigation bar", "weight": 100}, {"text": "The Reading pane", "weight": 0}, {"text": "The Contents pane", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is NOT an available action from the People toolbar?", "answers": [{"text": "Send an email to a contact.", "weight": 0}, {"text": "Chat with a contact.", "weight": 0}, {"text": "Schedule a meeting with a contact.", "weight": 0}, {"text": "Assign a task to a contact.", "weight": 100}]},
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each People element term with its description.",
+              "points_possible": 4,
+              "matches": [
+                {"left": "Peek", "right": "Hover the mouse pointer over a favorite in the Navigation bar to do this"},
+                {"left": "People toolbar", "right": "From this you can quickly email, chat with, call, or set up a meeting with a contact"},
+                {"left": "List view", "right": "Your collected contacts that can be sorted by various fields"},
+                {"left": "People Card", "right": "Can be pinned to your workspace for easy access and reference"}
+              ]
+            },
+            {"question_type": "multiple_choice_question", "question_text": "What is not a People element view option?", "answers": [{"text": "Peek", "weight": 100}, {"text": "Business Card", "weight": 0}, {"text": "People", "weight": 0}, {"text": "Card", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What must you do before you can peek at a contact from the Navigation bar?", "answers": [{"text": "Create a Quick Step.", "weight": 0}, {"text": "Switch to People view.", "weight": 0}, {"text": "Designate the contact as a favorite.", "weight": 100}, {"text": "Close any open peeks.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you right-click a sender's email address and choose Add to Outlook Contacts?", "answers": [{"text": "The contact is added as a favorite so you can peek at it from the Navigation bar.", "weight": 0}, {"text": "A new Contact window opens so you can add more information about the contact.", "weight": 100}, {"text": "The Contact Card is pinned and remains visible.", "weight": 0}, {"text": "A new Business Card is created, which you can modify as necessary for the contact.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is the default storage format for a new contact?", "answers": [{"text": "Last name, first name", "weight": 100}, {"text": "Favorite", "weight": 0}, {"text": "Business card", "weight": 0}, {"text": "Email address", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Meridel wants to remove Wes as a favorite contact, but when she right-clicks his name in Contacts or via the Navigation bar peek, the Remove from Favorites option does not appear. Why not?", "answers": [{"text": "You can't remove a contact from the favorites list, though you can hide them.", "weight": 0}, {"text": "She didn't dock the peek first.", "weight": 100}, {"text": "Favorites are managed via the Contact Card, not the Contacts list.", "weight": 0}, {"text": "Wes must have never been marked as a favorite.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which of these is NOT a way you can search for a contact?", "answers": [{"text": "The Search People box", "weight": 0}, {"text": "The vertical list of letter links in the Contact list", "weight": 0}, {"text": "The Search Contacts box", "weight": 0}, {"text": "The Contact group", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What command is available under this ellipsis icon?{{img:TB-C03-Q10-ContactToolbarEllipsis.png|A Contact Card for Lab Student, with call, chat, and email icons, and an arrow pointing to the ellipsis (more) icon}}", "answers": [{"text": "Add the contact to an indicated group.", "weight": 0}, {"text": "Assign a task to the contact.", "weight": 0}, {"text": "Edit the contact details.", "weight": 100}, {"text": "Dock the contact card.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Identify the accurate statement about the Contacts list.", "answers": [{"text": "The sort order resets to the default alphabetical by last name when you close and then reopen Outlook.", "weight": 0}, {"text": "Since you can't choose which columns to display, it's best to move the ones you won't need to look at to the far right.", "weight": 0}, {"text": "An up- or down-facing triangle indicates the column being sorted and by which direction (ascending or descending).", "weight": 100}, {"text": "You can sort by all columns except Company because Outlook knows that not all of your contacts will be business related.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Where do you edit and save the information for a contact?", "answers": [{"text": "List", "weight": 100}, {"text": "Peek", "weight": 0}, {"text": "Business Card", "weight": 0}, {"text": "Contact window", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Why does Piper's full email address show while the other recipients display with their first and last names?{{img:TB-C03-Q13-PiperEmailAddress.png|An email header with Stephen Sinatra and piperannelliot@gmail.com in the To field, and Samuel Vashon in the Cc field}}", "answers": [{"text": "Stephen and Samuel are designated as favorite contacts; Piper is not.", "weight": 0}, {"text": "Piper is not set up as a contact.", "weight": 100}, {"text": "It's how she set up her email account in Gmail.", "weight": 0}, {"text": "Piper was added to the email as a recipient after Stephen and Samuel were.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which statement about contact groups is true?", "answers": [{"text": "Contact groups always appear at the end of the contacts list, regardless of their name.", "weight": 0}, {"text": "When you add a contact to a group, that contact exists only in the contact group.", "weight": 0}, {"text": "Contact groups can include only the contacts you've included in the People element.", "weight": 100}, {"text": "Take care when creating groups, as a contact can only be a part of one contact group.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you drag a contact group into the message field of an open email?", "answers": [{"text": "The group is added as an attachment so the recipient can add it to their Contacts list.", "weight": 100}, {"text": "The group members are added as individual recipients in the To field.", "weight": 0}, {"text": "The contact group is forwarded to the members so they can update their information.", "weight": 0}, {"text": "The contact group is expanded in the message field, showing the individual addresses.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you edit a contact's information in a group?", "answers": [{"text": "The contact's information resets when you close and then reopen Outlook.", "weight": 0}, {"text": "A second instance of the contact group is created, so you can decide which to use.", "weight": 0}, {"text": "You can't edit a contact's information from within a contact group.", "weight": 0}, {"text": "The information for that contact is automatically updated in the address book.", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "Lila wants to remove a contact who is part of two contact groups. What does she do?", "answers": [{"text": "She removes the contact from the two groups and then deletes the contact.", "weight": 0}, {"text": "She deletes the contact from the address book, which prompts Outlook to remove the contact from the groups.", "weight": 100}, {"text": "She deletes the contact and then edits the two contact groups.", "weight": 0}, {"text": "She deletes the contact and the two contact groups and then re-creates the contact groups.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "How do you send a message to a contact group?", "answers": [{"text": "Begin typing the group leader's email address in the To field and then choose the group name from the list.", "weight": 0}, {"text": "Click the Contact Group link in the Navigation bar.", "weight": 0}, {"text": "Enter the group name in the To field.", "weight": 100}, {"text": "Click the New Group Email button on the Ribbon.", "weight": 0}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
