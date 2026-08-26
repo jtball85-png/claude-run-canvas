@@ -87,6 +87,19 @@ def api_delete(endpoint, dry_run=False):
     return response.status_code in (200, 204)
 
 
+def api_put(endpoint, data, dry_run=False):
+    """PUT to Canvas API -- surgical in-place edits to an existing object
+    (e.g. fixing one Page's body) without deleting/recreating it."""
+    if dry_run:
+        print(f"  [DRY RUN] PUT {endpoint}")
+        return {"id": 9999, "url": "dry-run"}
+    response = requests.put(f"{BASE_URL}{endpoint}", headers=HEADERS, json=data)
+    if response.status_code not in (200, 201):
+        print(f"  ERROR {response.status_code}: {response.text[:200]}")
+        return None
+    return response.json()
+
+
 # ---------------------------------------------------------------------------
 # Clear existing modules
 # ---------------------------------------------------------------------------
@@ -410,17 +423,38 @@ def create_quiz(course_id, module_id, item, dry_run=False):
 
     # Add questions
     for q in item.get("questions", []):
-        answers = [
-            {"answer_text": a["text"], "answer_weight": a["weight"]}
-            for a in q.get("answers", [])
-        ]
+        question_type = q.get("question_type", "multiple_choice_question")
+        question_text = resolve_image_placeholders(
+            course_id, q.get("question_text", ""), item.get("images", {}), dry_run=dry_run
+        )
+        # Canvas does NOT default a question's points_possible to 1 when it's
+        # omitted from the POST -- it silently saves as 0 (confirmed 2026-08-26
+        # rebuilding the Outlook quizzes: 28 of 30 questions saved as 0pts
+        # until fixed by hand). Always send an explicit value.
+        payload = {
+            "question_type": question_type,
+            "question_text": question_text,
+            "points_possible": q.get("points_possible", 1),
+        }
+
+        if question_type == "matching_question":
+            # Canvas matches pairs by position, not answer_weight -- each pair
+            # is just {answer_match_left, answer_match_right}.
+            payload["answers"] = [
+                {"answer_match_left": m["left"], "answer_match_right": m["right"]}
+                for m in q.get("matches", [])
+            ]
+            if q.get("distractors"):
+                payload["matching_answer_incorrect_matches"] = "\n".join(q["distractors"])
+        else:
+            payload["answers"] = [
+                {"answer_text": a["text"], "answer_weight": a["weight"]}
+                for a in q.get("answers", [])
+            ]
+
         api_post(
             f"/courses/{course_id}/quizzes/{quiz_id}/questions",
-            {"question": {
-                "question_type": q.get("question_type", "multiple_choice_question"),
-                "question_text": q.get("question_text", ""),
-                "answers": answers
-            }},
+            {"question": payload},
             dry_run=dry_run
         )
         if not dry_run:

@@ -22,9 +22,10 @@
           "type": "Page",
           "title": "The Outlook Window \u2014 Reading",
           "position": 3,
-          "body": "<p><em>Book pages: 2-4 &middot; Chapter 1 &middot; CBO Objectives: Identify the elements of Outlook / Navigate the Outlook screen</em></p><h2>Introducing Outlook</h2><p>Outlook is a personal information manager &mdash; it lets you send and receive email, keep an address book of contacts, schedule appointments and meetings, track tasks, and stay organized, all in one program. Outlook has five major elements:</p><ul><li><strong>Email</strong> &mdash; send and receive messages, with or without attachments</li><li><strong>People</strong> (also called Contacts) &mdash; names, phone numbers, addresses, and contact groups for everyone you communicate with</li><li><strong>Calendar</strong> &mdash; appointments and meetings, including ones that recur</li><li><strong>Tasks</strong> &mdash; things you need to do, with dates, categories, and reminders</li><li><strong>Notes</strong> &mdash; miscellaneous information that doesn't need a due date, like a digital sticky note</li></ul><p>Within each element you'll find <em>items</em> &mdash; an item is whatever holds information for that element: an email message, a contact, an appointment, a task, or a note.</p><h2>The Outlook Window</h2><p>The Outlook screen has three main sections: the <strong>Folder pane</strong> on the left, the <strong>Contents pane</strong> in the center, and the <strong>To-Do bar</strong> on the right (which you can show or hide, and choose what appears on it &mdash; Calendar, People, and/or Tasks). The <strong>Navigation bar</strong> at the bottom of the Folder pane lets you \"peek\" into Calendar, People, or Tasks and switch between elements.</p>{{img:pg 3.png|Textbook page 3 \u2014 the Outlook Window, labeled}}<h3>The Ribbon</h3><p>Every Outlook window has a Ribbon with tabs that group related commands &mdash; and the Ribbon is <em>contextual</em>, meaning it changes depending on which element or window you're viewing. Opening a new message, for example, shows a completely different Ribbon (Message, Insert, Options...) than the main Outlook window does.</p><h3>The Folder Pane</h3><p>The Folder pane shows the contents of whichever element is selected, organized into folders. When Mail is selected, you'll see your mail folders here (Inbox, Sent Items, Drafts, and so on) with a small triangle next to any folder that has subfolders &mdash; click it to expand or collapse. One customizable piece of the Folder pane is the <strong>Favorites list</strong>, which pins folders you want quick access to at the top.</p>",
+          "body": "<p><em>Book pages: 2-5 &middot; Chapter 1 &middot; CBO Objectives: Identify the elements of Outlook / Navigate the Outlook screen</em></p><h2>Introducing Outlook</h2><p>Outlook is a personal information manager &mdash; it lets you send and receive email, keep an address book of contacts, schedule appointments and meetings, track tasks, and stay organized, all in one program. Outlook has five major elements:</p><ul><li><strong>Email</strong> &mdash; send and receive messages, with or without attachments</li><li><strong>People</strong> (also called Contacts) &mdash; names, phone numbers, addresses, and contact groups for everyone you communicate with</li><li><strong>Calendar</strong> &mdash; appointments and meetings, including ones that recur</li><li><strong>Tasks</strong> &mdash; things you need to do, with dates, categories, and reminders</li><li><strong>Notes</strong> &mdash; miscellaneous information that doesn't need a due date, like a digital sticky note</li></ul><p>Within each element you'll find <em>items</em> &mdash; an item is whatever holds information for that element: an email message, a contact, an appointment, a task, or a note.</p><h2>The Outlook Window</h2><p>The Outlook screen has three main sections: the <strong>Folder pane</strong> on the left, the <strong>Contents pane</strong> in the center, and the <strong>To-Do bar</strong> on the right (which you can show or hide, and choose what appears on it &mdash; Calendar, People, and/or Tasks). The <strong>Navigation bar</strong> at the bottom of the Folder pane lets you \"peek\" into Calendar, People, or Tasks and switch between elements.</p>{{img:pg 3.png|Textbook page 3 \u2014 the Outlook Window, labeled}}<h3>The Ribbon</h3><p>Every Outlook window has a Ribbon with tabs that group related commands &mdash; and the Ribbon is <em>contextual</em>, meaning it changes depending on which element or window you're viewing. Opening a new message, for example, shows a completely different Ribbon (Message, Insert, Options...) than the main Outlook window does.</p><h3>The Folder Pane</h3><p>The Folder pane shows the contents of whichever element is selected, organized into folders. When Mail is selected, you'll see your mail folders here (Inbox, Sent Items, Drafts, and so on) with a small triangle next to any folder that has subfolders &mdash; click it to expand or collapse.</p><h3>The Favorites List</h3><p>One aspect of the Folder pane you can customize is whether to display the <strong>Favorites list</strong>. When shown, it displays at the top of the Folder pane and includes whichever folders you want to access easily &mdash; changing their order is as simple as dragging them to where you want.</p>{{img:pg 5.png|Textbook page 5 \u2014 the Favorites list, and the Folder pane normal vs. minimized}}",
           "images": {
-            "pg 3.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\pg 3.png"
+            "pg 3.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\pg 3.png",
+            "pg 5.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\pg 5.png"
           }
         },
         {
@@ -52,7 +53,7 @@
           "type": "Page",
           "title": "Customizing Outlook \u2014 Reading",
           "position": 5,
-          "body": "<p><em>Book pages: 7-9 &middot; Chapter 1 &middot; background knowledge, supports Navigate the Outlook screen</em></p><h2>Customizing Outlook</h2><p>You can customize the look of every Office app you use by setting a <strong>theme</strong>. The default is Colorful, which matches each program's icon color (blue for Outlook, green for Excel, and so on) &mdash; but you can also choose Black, White, or Dark Gray from <strong>File &rarr; Options &rarr; General</strong>.</p><h3>The Reading Pane</h3><p>The Reading pane displays the actual contents of whatever item is selected in the Contents pane &mdash; select a message and its full text shows up in the Reading pane. It can be displayed to the right of the Contents pane, below it, or hidden altogether, and it can be resized by dragging the line between the two panes.</p>{{img:pg 9.png|Textbook page 9 \u2014 the Quick Access Toolbar's More menu}}<h3>The Quick Access Toolbar</h3><p>The Quick Access Toolbar (QAT) isn't visible by default in Outlook. Right-click anywhere on the Ribbon and choose <strong>Show Quick Access Toolbar</strong> to turn it on. You can place it either above or below the Ribbon, and the <strong>More</strong> button at its right edge opens a menu where you can add or remove commonly-used commands, or open More Commands for a bigger list. You can also right-click any Ribbon button directly and choose <strong>Add to Quick Access Toolbar</strong>.</p>",
+          "body": "<p><em>Book pages: 7-9 &middot; Chapter 1 &middot; background knowledge, supports Navigate the Outlook screen</em></p><h2>Customizing Outlook</h2><p>You can customize the look of every Office app you use by setting a <strong>theme</strong>. The default is Colorful, which matches each program's icon color (blue for Outlook, green for Excel, and so on) &mdash; but you can also choose Black, White, or Dark Gray from <strong>File &rarr; Options &rarr; General</strong>.</p><h3>The Reading Pane</h3><p>The Reading pane displays the actual contents of whatever item is selected in the Contents pane &mdash; select a message and its full text shows up in the Reading pane. It can be displayed to the right of the Contents pane, below it, or hidden altogether, and it can be resized by dragging the line between the two panes.</p><h3>The Quick Access Toolbar</h3><p>The Quick Access Toolbar (QAT) isn't visible by default in Outlook. Right-click anywhere on the Ribbon and choose <strong>Show Quick Access Toolbar</strong> to turn it on. You can place it either above or below the Ribbon, and the <strong>More</strong> button at its right edge opens a menu where you can add or remove commonly-used commands, or open More Commands for a bigger list.</p>{{img:pg 9.png|Textbook page 9 \u2014 the Quick Access Toolbar's More menu}}<p>Alternatively, you can right-click any Ribbon button directly and choose <strong>Add to Quick Access Toolbar</strong>.</p>",
           "images": {
             "pg 9.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\pg 9.png"
           }
@@ -135,17 +136,330 @@
         },
         {
           "type": "lti_assignment",
-          "title": "Chapter 1 Quiz",
+          "title": "Chapter 1 Quiz (eLab)",
           "position": 10,
           "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187721",
           "points_possible": 17
         },
         {
           "type": "lti_assignment",
-          "title": "FC OU21 Chapter 01 Test",
+          "title": "Chapter 1 Test (eLab)",
           "position": 11,
           "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187720",
           "points_possible": 21
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 1 Self-Assessment Quiz (Canvas)",
+          "position": 12,
+          "description": "<p>The same 11-question self-assessment from the FastCourse Outlook publisher materials, built as a native Canvas quiz. Auto-graded, unlimited attempts not enforced by default \u2014 use this as your Canvas-gradebook copy alongside the eLab version above.</p>",
+          "points_possible": 11,
+          "questions": [
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Quick Access Toolbar can be customized with command buttons you use often.",
+              "answers": [
+                {"text": "True", "weight": 100},
+                {"text": "False", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Reading pane shows the contents of all Outlook elements.",
+              "answers": [
+                {"text": "True", "weight": 0},
+                {"text": "False", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can assign dates and reminders to tasks.",
+              "answers": [
+                {"text": "True", "weight": 100},
+                {"text": "False", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Contextual tabs on the Ribbon change depending on the element you are viewing.",
+              "answers": [
+                {"text": "True", "weight": 100},
+                {"text": "False", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The Folder pane displays a list of your messages.",
+              "answers": [
+                {"text": "True", "weight": 0},
+                {"text": "False", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How do you open the Help window?",
+              "answers": [
+                {"text": "Press [F1]", "weight": 100},
+                {"text": "Press [Alt]+[?]", "weight": 0},
+                {"text": "Choose File \u2192 Help", "weight": 0},
+                {"text": "Choose Outlook Options", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where can you place the Reading pane?",
+              "answers": [
+                {"text": "To the right of or below the Contents pane", "weight": 100},
+                {"text": "On the Quick Access Toolbar", "weight": 0},
+                {"text": "In the Favorites list", "weight": 0},
+                {"text": "On the To-Do bar", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is NOT a section of the Outlook window?",
+              "answers": [
+                {"text": "Folder pane", "weight": 0},
+                {"text": "Navigation pane", "weight": 100},
+                {"text": "Contents pane", "weight": 0},
+                {"text": "To-Do bar", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is displayed in the Favorites list?",
+              "answers": [
+                {"text": "Folders of your choosing for easy access", "weight": 100},
+                {"text": "Your favorite people", "weight": 0},
+                {"text": "Email messages you tag as preferred", "weight": 0},
+                {"text": "Items organized by contact", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What Outlook element do you use to remind yourself of people to call or items to buy at the store?",
+              "answers": [
+                {"text": "Contacts", "weight": 0},
+                {"text": "Folders", "weight": 0},
+                {"text": "Tasks", "weight": 100},
+                {"text": "Email", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What element can you NOT \u201cpeek\u201d at from the Navigation bar?",
+              "answers": [
+                {"text": "Calendar", "weight": 0},
+                {"text": "People", "weight": 0},
+                {"text": "Tasks", "weight": 0},
+                {"text": "Email", "weight": 100}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 1 Test (Canvas)",
+          "position": 13,
+          "description": "<p>The same 19-question Test Bank from the FastCourse Outlook publisher materials, built as a native Canvas quiz \u2014 covers all 4 CBO objectives for this chapter (Identify the Elements of Outlook, Start the Outlook Program, Navigate the Outlook Screen, Get Help on Outlook Topics). Auto-graded. Use this as your Canvas-gradebook copy alongside the eLab version above.</p>",
+          "points_possible": 26,
+          "images": {
+            "TB-C01-Q8-FolderPane.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\TB-C01-Q8-FolderPane.png",
+            "TB-C01-Q18-InstantSearch.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 1\\TB-C01-Q18-InstantSearch.png"
+          },
+          "questions": [
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each Outlook component to its description.",
+              "points_possible": 5,
+              "matches": [
+                {"left": "Tasks", "right": "Use this to help manage your time and activities by setting due dates and tracking your status"},
+                {"left": "People", "right": "Where you maintain your list of addresses, phone numbers, and personal information about those with whom you email"},
+                {"left": "Calendar", "right": "Where you set up and organize your meetings and appointments"},
+                {"left": "Notes", "right": "Where you store and display miscellaneous information and things you don\u2019t want to forget"},
+                {"left": "Email", "right": "Use it to send and receive messages, including with attachments"}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "In what element do you create a contact group?",
+              "answers": [
+                {"text": "People", "weight": 100},
+                {"text": "Tasks", "weight": 0},
+                {"text": "Email", "weight": 0},
+                {"text": "Calendar", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "For which components can you set a reminder?",
+              "answers": [
+                {"text": "Email and People", "weight": 0},
+                {"text": "Calendar and Email", "weight": 0},
+                {"text": "Notes and Tasks", "weight": 0},
+                {"text": "Tasks and Calendar", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Tasks are linked to your Outlook calendar.",
+              "answers": [
+                {"text": "True", "weight": 0},
+                {"text": "False", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is an \u201citem\u201d in Outlook?",
+              "answers": [
+                {"text": "The elements you can personalize in Outlook, like the theme", "weight": 0},
+                {"text": "Where you create your Favorites list", "weight": 0},
+                {"text": "Something that holds information, such as a contact within People", "weight": 100},
+                {"text": "A synonym for an email message", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "How do you start Outlook?",
+              "answers": [
+                {"text": "Choose the app from the Start menu", "weight": 0},
+                {"text": "Click the shortcut icon on the Desktop", "weight": 0},
+                {"text": "Click the tile on the Start menu", "weight": 0},
+                {"text": "Any of these options", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What do you need in order to send and receive email messages in Outlook?",
+              "answers": [
+                {"text": "The Reading pane", "weight": 0},
+                {"text": "An email address", "weight": 100},
+                {"text": "A populated contacts list", "weight": 0},
+                {"text": "A high-speed Internet connection", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is this?{{img:TB-C01-Q8-FolderPane.png|Screenshot of a portion of the Outlook screen showing the email account, Inbox, Drafts, Sent Items, Deleted Items, Junk Email, and more}}",
+              "answers": [
+                {"text": "The Folder pane", "weight": 100},
+                {"text": "The Navigation bar", "weight": 0},
+                {"text": "The Reading pane", "weight": 0},
+                {"text": "The status bar", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Each Outlook element has a unique _____ with tabs that organize commands into related actions.",
+              "answers": [
+                {"text": "task list", "weight": 0},
+                {"text": "Folder pane", "weight": 0},
+                {"text": "Navigation bar", "weight": 0},
+                {"text": "Ribbon", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is NOT a way you can personalize the Reading pane?",
+              "answers": [
+                {"text": "Set how much of a message it displays", "weight": 100},
+                {"text": "Adjust its size", "weight": 0},
+                {"text": "Hide it", "weight": 0},
+                {"text": "Move its position", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "If enabled, where does the Favorites list appear?",
+              "answers": [
+                {"text": "Along the bottom of the To-Do bar", "weight": 0},
+                {"text": "In the Navigation bar", "weight": 0},
+                {"text": "At the top of the Folder pane", "weight": 100},
+                {"text": "As a new tab on the Ribbon", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Identify the accurate statement regarding the Quick Access Toolbar.",
+              "answers": [
+                {"text": "Although its placement is static, you can choose which commands appear on the Quick Access Toolbar", "weight": 0},
+                {"text": "You can add a button to the Quick Access Toolbar from the Ribbon", "weight": 100},
+                {"text": "Commands on the Quick Access Toolbar change depending on the Outlook element being used", "weight": 0},
+                {"text": "The Quick Access Toolbar resets when you close and then reopen Outlook", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each part of the Outlook screen to its description.",
+              "points_possible": 4,
+              "matches": [
+                {"left": "Folder pane", "right": "Shows the contents of the selected element, organized in folders"},
+                {"left": "Contents pane", "right": "Displays the contents of the Outlook element selected"},
+                {"left": "Reading pane", "right": "Displays the contents of an item selected in the Contents pane"},
+                {"left": "Navigation bar", "right": "From where you can \u201cpeek\u201d at various Outlook elements"}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What CANNOT be displayed on the To-Do bar?",
+              "answers": [
+                {"text": "People", "weight": 0},
+                {"text": "Calendar", "weight": 0},
+                {"text": "Notes", "weight": 100},
+                {"text": "Tasks", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "The Quick Access Toolbar:",
+              "answers": [
+                {"text": "is part of the Ribbon, so it always displays when the Ribbon does", "weight": 0},
+                {"text": "has a set number of icons to help you issue popular commands", "weight": 0},
+                {"text": "remains at the bottom left of the Outlook window", "weight": 0},
+                {"text": "is customizable in terms of position and commands included", "weight": 100}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is the Navigation bar used for?",
+              "answers": [
+                {"text": "To peek at and navigate to Outlook elements", "weight": 100},
+                {"text": "To organize the Folder pane", "weight": 0},
+                {"text": "To jump from field to field in a New Message window", "weight": 0},
+                {"text": "All of these options", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Help topics are linked to _____, which you enter to search for various topics.",
+              "answers": [
+                {"text": "categories", "weight": 0},
+                {"text": "keywords", "weight": 100},
+                {"text": "items", "weight": 0},
+                {"text": "results", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is this?{{img:TB-C01-Q18-InstantSearch.png|Screenshot of the Search box with \u201cnew email\u201d typed in, showing Action results including New Mail Message}}",
+              "answers": [
+                {"text": "The Help screen showing the results of a search on \u201cnew email\u201d", "weight": 0},
+                {"text": "A peek at the Help element for \u201cnew email\u201d", "weight": 0},
+                {"text": "The Search feature displaying help results for \u201cnew email\u201d", "weight": 100},
+                {"text": "The way to add the New Mail Message to the Quick Access Toolbar", "weight": 0}
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is NOT a way to get help from within Outlook?",
+              "answers": [
+                {"text": "Go to the Help tab on the Ribbon", "weight": 0},
+                {"text": "Tap [F1] on the keyboard", "weight": 0},
+                {"text": "Start typing in the Search box", "weight": 0},
+                {"text": "Click the Quick Help button", "weight": 100}
+              ]
+            }
+          ]
         }
       ]
     }
