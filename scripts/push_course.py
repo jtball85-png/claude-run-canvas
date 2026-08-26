@@ -117,13 +117,18 @@ def create_module(course_id, module, dry_run=False):
     return result.get("id") if result else None
 
 
-def add_to_module(course_id, module_id, item_type, content_id=None, page_url=None, title="", dry_run=False):
+def add_to_module(course_id, module_id, item_type, content_id=None, page_url=None, title="",
+                   external_url=None, new_tab=None, dry_run=False):
     """Add any item type to a module."""
     payload = {"module_item": {"type": item_type, "title": title}}
     if content_id:
         payload["module_item"]["content_id"] = content_id
     if page_url:
         payload["module_item"]["page_url"] = page_url
+    if external_url:
+        payload["module_item"]["external_url"] = external_url
+    if new_tab is not None:
+        payload["module_item"]["new_tab"] = new_tab
     api_post(f"/courses/{course_id}/modules/{module_id}/items", payload, dry_run=dry_run)
 
 
@@ -204,6 +209,45 @@ def create_rubric(course_id, assignment_id, rubric, default_title, dry_run=False
         }
     }
     return api_post(f"/courses/{course_id}/rubrics", payload, dry_run=dry_run)
+
+
+def create_external_tool_item(course_id, module_id, item, dry_run=False):
+    """Add a standalone LTI launch (e.g. an eLab self-paced practice link)
+    directly to a module -- not an Assignment, so it carries no grade. Needs
+    "external_url" (the specific resource launch URL, e.g.
+    lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=NNN)
+    and "tool_id" (the Canvas external_tool id the URL's domain resolves to
+    -- for the ELAB LTI Advantage App in this course/account, that's 297;
+    confirm via GET /courses/:id/external_tools?include_parents=true if the
+    tool is ever re-registered)."""
+    print(f"  + External Tool: {item['title']}")
+    add_to_module(course_id, module_id, "ExternalTool",
+                  content_id=item["tool_id"], external_url=item["external_url"],
+                  title=item["title"], new_tab=True, dry_run=dry_run)
+
+
+def create_lti_assignment(course_id, module_id, item, dry_run=False):
+    """An Assignment graded via LTI grade passback (submission_types:
+    external_tool) rather than a native Canvas quiz/rubric -- used for eLab
+    Self-Assessment Quizzes and Chapter Tests, which eLab grades itself and
+    syncs back into this Assignment's gradebook column. Needs "external_url"
+    (the specific eLab resource launch URL) and "points_possible"."""
+    print(f"  + LTI Assignment: {item['title']}")
+    assignment = api_post(
+        f"/courses/{course_id}/assignments",
+        {"assignment": {
+            "name": item["title"],
+            "points_possible": item.get("points_possible", 0),
+            "submission_types": ["external_tool"],
+            "external_tool_tag_attributes": {"url": item["external_url"], "new_tab": True},
+            "published": False
+        }},
+        dry_run=dry_run
+    )
+    if not assignment:
+        return
+    add_to_module(course_id, module_id, "Assignment",
+                  content_id=assignment.get("id"), title=item["title"], dry_run=dry_run)
 
 
 def create_discussion(course_id, module_id, item, dry_run=False):
@@ -392,11 +436,13 @@ def create_quiz(course_id, module_id, item, dry_run=False):
 # ---------------------------------------------------------------------------
 
 ITEM_HANDLERS = {
-    "page":       create_page,
-    "assignment": create_assignment,
-    "discussion": create_discussion,
-    "quiz":       create_quiz,
-    "file":       create_file,
+    "page":           create_page,
+    "assignment":     create_assignment,
+    "discussion":     create_discussion,
+    "quiz":           create_quiz,
+    "file":           create_file,
+    "external_tool":  create_external_tool_item,
+    "lti_assignment": create_lti_assignment,
 }
 
 
