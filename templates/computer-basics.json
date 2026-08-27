@@ -42,9 +42,18 @@
                 "description": "Screenshot proves a successful, independent login",
                 "points": 3,
                 "ratings": [
-                  {"description": "Full Credit — screenshot clearly shows the Desktop (Start button, taskbar visible), proving login was completed", "points": 3},
-                  {"description": "Partial Credit — screenshot shows progress (e.g. the lock/sign-in screen) but not a completed Desktop view", "points": 1.5},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't relate to the task", "points": 0}
+                  {
+                    "description": "Full Credit — screenshot clearly shows the Desktop (Start button, taskbar visible), proving login was completed",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — screenshot shows progress (e.g. the lock/sign-in screen) but not a completed Desktop view",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't relate to the task",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -202,9 +211,18 @@
                 "description": "Screenshot proves the Recycle Bin was dragged to a new location",
                 "points": 3,
                 "ratings": [
-                  {"description": "Full Credit — screenshot clearly shows the Recycle Bin in a different spot on the Desktop than its default location", "points": 3},
-                  {"description": "Partial Credit — screenshot shows the Desktop but the Recycle Bin's new position is unclear or barely moved", "points": 1.5},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Recycle Bin moved", "points": 0}
+                  {
+                    "description": "Full Credit — screenshot clearly shows the Recycle Bin in a different spot on the Desktop than its default location",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — screenshot shows the Desktop but the Recycle Bin's new position is unclear or barely moved",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't show the Recycle Bin moved",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -308,9 +326,18 @@
                 "description": "Answer explains why locking protects you on a shared computer",
                 "points": 2,
                 "ratings": [
-                  {"description": "Full Credit — clearly connects locking to preventing unauthorized access to your account/files while you're away", "points": 2},
-                  {"description": "Partial Credit — mentions locking but the reasoning is vague, incomplete, or off-target", "points": 1},
-                  {"description": "No Credit — blank, or answer doesn't address the question", "points": 0}
+                  {
+                    "description": "Full Credit — clearly connects locking to preventing unauthorized access to your account/files while you're away",
+                    "points": 2
+                  },
+                  {
+                    "description": "Partial Credit — mentions locking but the reasoning is vague, incomplete, or off-target",
+                    "points": 1
+                  },
+                  {
+                    "description": "No Credit — blank, or answer doesn't address the question",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -352,18 +379,36 @@
                 "description": "Screenshot 1 shows Calculator open (Hands-On 1.5)",
                 "points": 2,
                 "ratings": [
-                  {"description": "Full Credit — Calculator app window is clearly open on screen", "points": 2},
-                  {"description": "Partial Credit — a screenshot was submitted but doesn't clearly show Calculator open", "points": 1},
-                  {"description": "No Credit — missing", "points": 0}
+                  {
+                    "description": "Full Credit — Calculator app window is clearly open on screen",
+                    "points": 2
+                  },
+                  {
+                    "description": "Partial Credit — a screenshot was submitted but doesn't clearly show Calculator open",
+                    "points": 1
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Screenshot 2 shows the Calculator icon pinned and moved to the front of the Pinned section (Hands-On 1.6)",
                 "points": 2,
                 "ratings": [
-                  {"description": "Full Credit — Calculator icon is visibly pinned and at the front of the Pinned section", "points": 2},
-                  {"description": "Partial Credit — Calculator is pinned but not clearly moved to the front, or the screenshot is unclear", "points": 1},
-                  {"description": "No Credit — missing", "points": 0}
+                  {
+                    "description": "Full Credit — Calculator icon is visibly pinned and at the front of the Pinned section",
+                    "points": 2
+                  },
+                  {
+                    "description": "Partial Credit — Calculator is pinned but not clearly moved to the front, or the screenshot is unclear",
+                    "points": 1
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -398,17 +443,32 @@
                 "description": "Both apps (Clock, Windows Media Player Legacy) are pinned and reordered per steps 1-5",
                 "points": 3,
                 "ratings": [
-                  {"description": "Full Credit — both icons are pinned and moved to the front/second row as instructed", "points": 3},
-                  {"description": "Partial Credit — only one app is correctly pinned/reordered", "points": 1.5},
-                  {"description": "No Credit — neither app shows as pinned/reordered", "points": 0}
+                  {
+                    "description": "Full Credit — both icons are pinned and moved to the front/second row as instructed",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — only one app is correctly pinned/reordered",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — neither app shows as pinned/reordered",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Screenshot was captured at the correct step (after step 5, before unpinning)",
                 "points": 2,
                 "ratings": [
-                  {"description": "Full Credit — screenshot clearly shows the Pinned section with both icons still in place", "points": 2},
-                  {"description": "No Credit — screenshot missing, or taken after the apps were unpinned", "points": 0}
+                  {
+                    "description": "Full Credit — screenshot clearly shows the Pinned section with both icons still in place",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — screenshot missing, or taken after the apps were unpinned",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -429,9 +489,18 @@
                 "description": "Screenshot shows the renamed \"School\" folder open on the Start menu with both icons inside",
                 "points": 3,
                 "ratings": [
-                  {"description": "Full Credit — folder is clearly labeled \"School\", open, and shows both icons inside", "points": 3},
-                  {"description": "Partial Credit — folder is shown but not renamed correctly, or only one icon is visible", "points": 1.5},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't show the folder", "points": 0}
+                  {
+                    "description": "Full Credit — folder is clearly labeled \"School\", open, and shows both icons inside",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — folder is shown but not renamed correctly, or only one icon is visible",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't show the folder",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -452,18 +521,36 @@
                 "description": "Snipping Tool is correctly pinned to the Start menu",
                 "points": 6,
                 "ratings": [
-                  {"description": "Full Credit — Snipping Tool icon appears in the Pinned section", "points": 6},
-                  {"description": "Partial Credit — a different app is pinned instead, or the pin is incomplete", "points": 3},
-                  {"description": "No Credit — nothing pinned", "points": 0}
+                  {
+                    "description": "Full Credit — Snipping Tool icon appears in the Pinned section",
+                    "points": 6
+                  },
+                  {
+                    "description": "Partial Credit — a different app is pinned instead, or the pin is incomplete",
+                    "points": 3
+                  },
+                  {
+                    "description": "No Credit — nothing pinned",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Screenshot clearly shows the Pinned section with the Snipping Tool icon",
                 "points": 4,
                 "ratings": [
-                  {"description": "Full Credit — screenshot is clear and the icon/label are legible", "points": 4},
-                  {"description": "Partial Credit — screenshot submitted but hard to confirm the icon", "points": 2},
-                  {"description": "No Credit — no screenshot submitted", "points": 0}
+                  {
+                    "description": "Full Credit — screenshot is clear and the icon/label are legible",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — screenshot submitted but hard to confirm the icon",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -791,9 +878,18 @@
                 "description": "Screenshot shows File Explorer snapped to one half of the screen",
                 "points": 4,
                 "ratings": [
-                  {"description": "Full Credit — File Explorer clearly fills exactly half the screen (snapped, not just resized)", "points": 4},
-                  {"description": "Partial Credit — window is resized/moved but not actually snapped to an edge", "points": 2},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't show a snapped window", "points": 0}
+                  {
+                    "description": "Full Credit — File Explorer clearly fills exactly half the screen (snapped, not just resized)",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — window is resized/moved but not actually snapped to an edge",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't show a snapped window",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -823,8 +919,14 @@
                 "description": "Screenshot shows the Device specifications box with the Pen and touch line visible",
                 "points": 2,
                 "ratings": [
-                  {"description": "Full Credit — Device specifications box is visible with the Pen and touch line legible", "points": 2},
-                  {"description": "No Credit — no screenshot submitted, or the Pen and touch line isn't visible", "points": 0}
+                  {
+                    "description": "Full Credit — Device specifications box is visible with the Pen and touch line legible",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or the Pen and touch line isn't visible",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -854,9 +956,18 @@
                 "description": "Screenshot shows Notepad pinned on the taskbar",
                 "points": 4,
                 "ratings": [
-                  {"description": "Full Credit — Notepad icon is visibly pinned to the taskbar", "points": 4},
-                  {"description": "Partial Credit — a screenshot was submitted but the pinned Notepad icon isn't clearly visible", "points": 2},
-                  {"description": "No Credit — no screenshot submitted, or Notepad isn't pinned", "points": 0}
+                  {
+                    "description": "Full Credit — Notepad icon is visibly pinned to the taskbar",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — a screenshot was submitted but the pinned Notepad icon isn't clearly visible",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or Notepad isn't pinned",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -887,9 +998,18 @@
                 "description": "Screenshot shows notifications back on, with the list of individual apps visible",
                 "points": 3,
                 "ratings": [
-                  {"description": "Full Credit — the Get Notifications toggle is on and the per-app list is visible below it", "points": 3},
-                  {"description": "Partial Credit — screenshot shows the settings window but toggle state or app list is unclear", "points": 1.5},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Notifications settings", "points": 0}
+                  {
+                    "description": "Full Credit — the Get Notifications toggle is on and the per-app list is visible below it",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — screenshot shows the settings window but toggle state or app list is unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't show the Notifications settings",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -920,9 +1040,18 @@
                 "description": "Screenshot shows the Alt+Tab Task-Switching box open with all open apps visible",
                 "points": 4,
                 "ratings": [
-                  {"description": "Full Credit — Task-Switching box is open showing icons for all three open apps", "points": 4},
-                  {"description": "Partial Credit — box is visible but not all open apps show, or the screenshot is unclear", "points": 2},
-                  {"description": "No Credit — no screenshot submitted, or it doesn't show the Task-Switching box", "points": 0}
+                  {
+                    "description": "Full Credit — Task-Switching box is open showing icons for all three open apps",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — box is visible but not all open apps show, or the screenshot is unclear",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted, or it doesn't show the Task-Switching box",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -943,27 +1072,54 @@
                 "description": "Task 2.1 — Calculator moved to a new position (screenshot 1)",
                 "points": 5,
                 "ratings": [
-                  {"description": "Full Credit — Calculator is clearly repositioned from its default spot", "points": 5},
-                  {"description": "Partial Credit — screenshot submitted but the new position is unclear or unchanged", "points": 2.5},
-                  {"description": "No Credit — missing", "points": 0}
+                  {
+                    "description": "Full Credit — Calculator is clearly repositioned from its default spot",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit — screenshot submitted but the new position is unclear or unchanged",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Task 2.2 — Notepad and Paint pinned in the Start menu (screenshot 2)",
                 "points": 5,
                 "ratings": [
-                  {"description": "Full Credit — both Notepad and Paint show as pinned in the Start menu", "points": 5},
-                  {"description": "Partial Credit — only one app is pinned, or the screenshot is unclear", "points": 2.5},
-                  {"description": "No Credit — missing", "points": 0}
+                  {
+                    "description": "Full Credit — both Notepad and Paint show as pinned in the Start menu",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit — only one app is pinned, or the screenshot is unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Task 2.3 — both apps open and restored down on the Desktop (screenshot 3)",
                 "points": 5,
                 "ratings": [
-                  {"description": "Full Credit — both Notepad and Paint are open, visible, and in restored-down (not maximized/minimized) state", "points": 5},
-                  {"description": "Partial Credit — only one app is shown, or window states are unclear", "points": 2.5},
-                  {"description": "No Credit — missing", "points": 0}
+                  {
+                    "description": "Full Credit — both Notepad and Paint are open, visible, and in restored-down (not maximized/minimized) state",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit — only one app is shown, or window states are unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -984,18 +1140,36 @@
                 "description": "Both apps are correctly snapped side by side",
                 "points": 6,
                 "ratings": [
-                  {"description": "Full Credit — Paint and Notepad each fill exactly half the screen, snapped (not just resized)", "points": 6},
-                  {"description": "Partial Credit — apps are open and positioned but not actually snapped to the edges", "points": 3},
-                  {"description": "No Credit — apps aren't shown side by side", "points": 0}
+                  {
+                    "description": "Full Credit — Paint and Notepad each fill exactly half the screen, snapped (not just resized)",
+                    "points": 6
+                  },
+                  {
+                    "description": "Partial Credit — apps are open and positioned but not actually snapped to the edges",
+                    "points": 3
+                  },
+                  {
+                    "description": "No Credit — apps aren't shown side by side",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Screenshot clearly shows both windows in the snapped layout",
                 "points": 4,
                 "ratings": [
-                  {"description": "Full Credit — screenshot is clear and both windows/apps are identifiable", "points": 4},
-                  {"description": "Partial Credit — screenshot submitted but one window is hard to identify", "points": 2},
-                  {"description": "No Credit — no screenshot submitted", "points": 0}
+                  {
+                    "description": "Full Credit — screenshot is clear and both windows/apps are identifiable",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — screenshot submitted but one window is hard to identify",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -1016,18 +1190,36 @@
                 "description": "Response accurately describes the first click (all windows minimized)",
                 "points": 2.5,
                 "ratings": [
-                  {"description": "Full Credit — clearly states all open app windows were minimized/hidden", "points": 2.5},
-                  {"description": "Partial Credit — vague or partially correct", "points": 1.25},
-                  {"description": "No Credit — blank or incorrect", "points": 0}
+                  {
+                    "description": "Full Credit — clearly states all open app windows were minimized/hidden",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "Partial Credit — vague or partially correct",
+                    "points": 1.25
+                  },
+                  {
+                    "description": "No Credit — blank or incorrect",
+                    "points": 0
+                  }
                 ]
               },
               {
                 "description": "Response accurately describes the second click (windows restored)",
                 "points": 2.5,
                 "ratings": [
-                  {"description": "Full Credit — clearly states the windows were restored back to the Desktop", "points": 2.5},
-                  {"description": "Partial Credit — vague or partially correct", "points": 1.25},
-                  {"description": "No Credit — blank or incorrect", "points": 0}
+                  {
+                    "description": "Full Credit — clearly states the windows were restored back to the Desktop",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "Partial Credit — vague or partially correct",
+                    "points": 1.25
+                  },
+                  {
+                    "description": "No Credit — blank or incorrect",
+                    "points": 0
+                  }
                 ]
               }
             ]
@@ -1044,134 +1236,266 @@
               "question_type": "true_false_question",
               "question_text": "The Maximize button enlarges an app to fill the entire Desktop.",
               "answers": [
-                { "text": "True", "weight": 100 },
-                { "text": "False", "weight": 0 }
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "Quick-sizing buttons are used to reconfigure or close an app.",
               "answers": [
-                { "text": "True", "weight": 100 },
-                { "text": "False", "weight": 0 }
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "When you open multiple programs in Windows, they share the same window.",
               "answers": [
-                { "text": "True", "weight": 0 },
-                { "text": "False", "weight": 100 }
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "When an app is opened, its app button is placed in the notification area.",
               "answers": [
-                { "text": "True", "weight": 0 },
-                { "text": "False", "weight": 100 }
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The active window is always displayed in front of other windows when multiple programs are in use.",
               "answers": [
-                { "text": "True", "weight": 100 },
-                { "text": "False", "weight": 0 }
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "You can only have one active app at a time.",
               "answers": [
-                { "text": "True", "weight": 100 },
-                { "text": "False", "weight": 0 }
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Action Center is a preinstalled sports app in Windows.",
               "answers": [
-                { "text": "True", "weight": 0 },
-                { "text": "False", "weight": 100 }
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "true_false_question",
               "question_text": "The Show Desktop button maximizes all open apps onto the Desktop.",
               "answers": [
-                { "text": "True", "weight": 0 },
-                { "text": "False", "weight": 100 }
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which of the following is NOT a function of the notification area?",
               "answers": [
-                { "text": "It displays icons representing tasks and functions running in the background", "weight": 0 },
-                { "text": "It displays local weather information", "weight": 100 },
-                { "text": "It displays a system clock and current date", "weight": 0 },
-                { "text": "It notifies the user about certain system events", "weight": 0 }
+                {
+                  "text": "It displays icons representing tasks and functions running in the background",
+                  "weight": 0
+                },
+                {
+                  "text": "It displays local weather information",
+                  "weight": 100
+                },
+                {
+                  "text": "It displays a system clock and current date",
+                  "weight": 0
+                },
+                {
+                  "text": "It notifies the user about certain system events",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "The Minimize button ______.",
               "answers": [
-                { "text": "closes the app", "weight": 0 },
-                { "text": "shrinks the app from the desktop, leaving only the app button on the taskbar", "weight": 100 },
-                { "text": "closes your app and automatically saves any unsaved work", "weight": 0 },
-                { "text": "pauses your app", "weight": 0 }
+                {
+                  "text": "closes the app",
+                  "weight": 0
+                },
+                {
+                  "text": "shrinks the app from the desktop, leaving only the app button on the taskbar",
+                  "weight": 100
+                },
+                {
+                  "text": "closes your app and automatically saves any unsaved work",
+                  "weight": 0
+                },
+                {
+                  "text": "pauses your app",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "How can you tell if a program window is resizable?",
               "answers": [
-                { "text": "A double-headed mouse pointer will appear when you point at the program window border", "weight": 100 },
-                { "text": "The mouse pointer becomes a four-headed arrow when placed on a program window border", "weight": 0 },
-                { "text": "The title bar will display Minimize and Maximize buttons", "weight": 0 },
-                { "text": "Within Windows, all program windows are resizable", "weight": 0 }
+                {
+                  "text": "A double-headed mouse pointer will appear when you point at the program window border",
+                  "weight": 100
+                },
+                {
+                  "text": "The mouse pointer becomes a four-headed arrow when placed on a program window border",
+                  "weight": 0
+                },
+                {
+                  "text": "The title bar will display Minimize and Maximize buttons",
+                  "weight": 0
+                },
+                {
+                  "text": "Within Windows, all program windows are resizable",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "What command options are normally associated with the quick-sizing buttons in most program windows?",
               "answers": [
-                { "text": "Maximize, Minimize, and Shut Down", "weight": 0 },
-                { "text": "Restore Down, Close, Minimize, and Maximize", "weight": 100 },
-                { "text": "Multitask, Flip, and Close", "weight": 0 },
-                { "text": "Exit, Resize, Maximize, and Minimize", "weight": 0 }
+                {
+                  "text": "Maximize, Minimize, and Shut Down",
+                  "weight": 0
+                },
+                {
+                  "text": "Restore Down, Close, Minimize, and Maximize",
+                  "weight": 100
+                },
+                {
+                  "text": "Multitask, Flip, and Close",
+                  "weight": 0
+                },
+                {
+                  "text": "Exit, Resize, Maximize, and Minimize",
+                  "weight": 0
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "When selected, the Restore Down button _____.",
               "answers": [
-                { "text": "shrinks the program window, leaving only the program button on the taskbar", "weight": 0 },
-                { "text": "enlarges the program window to fill the entire Desktop", "weight": 0 },
-                { "text": "returns the window back to its previous dimensions (if the window is minimized)", "weight": 0 },
-                { "text": "resizes the window to the smaller size it was before it was last maximized", "weight": 100 }
+                {
+                  "text": "shrinks the program window, leaving only the program button on the taskbar",
+                  "weight": 0
+                },
+                {
+                  "text": "enlarges the program window to fill the entire Desktop",
+                  "weight": 0
+                },
+                {
+                  "text": "returns the window back to its previous dimensions (if the window is minimized)",
+                  "weight": 0
+                },
+                {
+                  "text": "resizes the window to the smaller size it was before it was last maximized",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "The title bar _____.",
               "answers": [
-                { "text": "displays the name of an app", "weight": 0 },
-                { "text": "may display the name of the document or object being edited", "weight": 0 },
-                { "text": "provides a handle for moving the app", "weight": 0 },
-                { "text": "All of these options", "weight": 100 }
+                {
+                  "text": "displays the name of an app",
+                  "weight": 0
+                },
+                {
+                  "text": "may display the name of the document or object being edited",
+                  "weight": 0
+                },
+                {
+                  "text": "provides a handle for moving the app",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 100
+                }
               ]
             },
             {
               "question_type": "multiple_choice_question",
               "question_text": "Which of the following is NOT a touchpad control?",
               "answers": [
-                { "text": "Opening the Task screen", "weight": 0 },
-                { "text": "Showing the Desktop", "weight": 0 },
-                { "text": "Quick accessing the Start menu", "weight": 100 },
-                { "text": "Switching between open app windows", "weight": 0 }
+                {
+                  "text": "Opening the Task screen",
+                  "weight": 0
+                },
+                {
+                  "text": "Showing the Desktop",
+                  "weight": 0
+                },
+                {
+                  "text": "Quick accessing the Start menu",
+                  "weight": 100
+                },
+                {
+                  "text": "Switching between open app windows",
+                  "weight": 0
+                }
               ]
             }
           ]
@@ -1179,14 +1503,14 @@
       ]
     },
     {
-      "name": "Chapter 3: Creating an Online Account",
+      "name": "Day 4, Chapters 3 & 4: Creating an Online Account & Working with Apps",
       "position": 4,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 3 Overview: Creating an Online Account",
+          "title": "Day 4 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Creating an Online Account</h2><p>This chapter introduces the Internet's online storage and access capabilities and gets you started with the Microsoft 365 online apps. You'll create a Microsoft account and connect it to your Windows 11 login so everything works together.</p><h3>Learning objectives</h3><ul><li>Describe why we use online resources</li><li>Understand the basics of cloud computing</li><li>Create a free Microsoft account</li><li>Connect your Microsoft account to Windows</li><li>Understand account verification</li></ul><h3>Why online? (background)</h3><p><strong>The cloud</strong> refers to storing apps and services on the Internet rather than only on your own computer. <strong>Microsoft 365 for the web</strong> is a free, browser-based version of Office (Word, Excel, PowerPoint, Outlook, and more) — different from the full desktop versions, but sharing the same core features.</p><h3>Creating your Microsoft account (Hands-On 3.1-3.2)</h3><p>You'll create a Microsoft account (3.1) that gets used throughout the rest of this course, then connect that account to your Windows 11 login (3.2) so you're automatically signed in to Microsoft services.</p><h3>Logging in to OneDrive and Microsoft 365 for the web (Hands-On 3.3-3.4)</h3><p>Once connected, you can log in to OneDrive directly through Microsoft Edge (3.3) and launch apps like Word Online from there (3.4), using the <strong>app launcher</strong> to jump between Microsoft's online apps.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 3.1-3.4</strong> — done together in class</li><li>This chapter has no Skill Builder exercises (in-book or Additional) — it's shorter, focused purely on account setup</li><li><strong>Chapter 3 Quiz</strong> — see the quiz in this module</li></ul>"
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapters 3 &amp; 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 4 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Creating an Online Account, then Working with Apps</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's plan</h2><p>Chapter 3 is short by design &mdash; it exists to get you a free Microsoft account connected to Windows so every later chapter can use it. Chapter 4 then uses that account to open Word Online and Paint, and covers the everyday skills you'll use in every app from here on: menus and Ribbons, saving your work to three different places, typing and editing text, and cut/copy/paste.</p><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Competencies covered today</h3><ul style=\"margin:0;padding-left:20px;\"><li><strong>Ch 3</strong> &mdash; Describe why we use online resources; understand the basics of cloud computing; create a free Microsoft account; connect your Microsoft account to Windows; understand account verification</li><li><strong>Ch 4</strong> &mdash; Use common features in drop-down menus, toolbars/Ribbons, and scroll bars; use the mouse effectively as the pointer changes; type and edit text in an app; cut or copy text and paste it; save files or copies of files on OneDrive</li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 3 Presentation</li><li>Why Online? The Cloud &amp; Creating Your Account &mdash; read, then submit Hands-On 3.1</li><li>Connecting Your Account &mdash; read, then submit Hands-On 3.2</li><li>Logging In &amp; Opening Apps &mdash; read, then submit Hands-On 3.3-3.4</li><li>Chapter 3 Quiz</li><li>Watch the Chapter 4 Presentation</li><li>App Commands: Menus &amp; Ribbons &mdash; read, then submit Hands-On 4.1-4.2</li><li>Saving Your Work &amp; Naming Files &mdash; read, then submit Hands-On 4.3</li><li>The Work Area: Mouse Pointers &amp; Scroll Bars &mdash; read, then submit Hands-On 4.4-4.5</li><li>Typing &amp; Selecting Text in Word Online &mdash; read, then submit Hands-On 4.6-4.7</li><li>Formatting, Printing &amp; Saving as PDF &mdash; read, then submit Hands-On 4.8-4.10</li><li>Cut, Copy &amp; Paste &mdash; read, then submit Hands-On 4.11</li><li>Skill Builders 4.1-4.2 (in-book, independent practice)</li><li>Additional Skill Builder 4.1: Information Letter</li><li>Additional Skill Builder 4.2: Copy and Paste</li><li>Chapter 4 Quiz</li></ol></div></div>"
         },
         {
           "type": "File",
@@ -1195,10 +1519,153 @@
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C03-PPT.pptx"
         },
         {
+          "type": "Page",
+          "title": "Why Online? The Cloud & Creating Your Account — Reading",
+          "position": 3,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 3 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 57-60 &middot; CBO Objective: #1, #2, #3, #5</p><h2>Why Online? The Cloud &amp; Creating Your Microsoft Account</h2><p>This chapter is shorter than the others &mdash; it exists purely to get you a free Microsoft account set up and connected to Windows, so every later chapter in this course can use it. There are no Skill Builder or Try This at Home exercises in this chapter.</p><h3>Why Online?</h3><p>The Internet has grown into a vast storage and access system &mdash; apps, documents, music, pictures, and video can now be accessed from any Internet-connected device, not just the one you created them on.</p><h3>The Cloud</h3><p><strong>The cloud</strong> refers to storing apps and services on the Internet rather than only on your own computer, so they're accessible from anywhere. Many Windows 11 apps are already cloud-based. Popular cloud storage providers include Microsoft OneDrive, Dropbox, Google Drive, and box.</p>{{img:pg 59.png|Textbook page 59 &mdash; logos for four popular cloud storage sites}}<h3>Microsoft 365 for the Web</h3><p><strong>Microsoft 365 for the web</strong> (sometimes called &quot;Office for the web&quot;) is a free, browser-based version of Office &mdash; Word, Excel, PowerPoint, Outlook, OneDrive, Teams, and OneNote. It has basic functionality compared to the full paid desktop versions, but shares the same core features.</p><h3>Creating Your Microsoft Account</h3><p>If you already use Windows or another Microsoft service, you may already have a Microsoft account &mdash; use that one if so. Otherwise you'll create a new one in Hands-On 3.1.</p><h3>Account Verification</h3><p>After you sign up, Microsoft may send an email to verify your account. Clicking the verification link in that email unlocks all of your account's features.</p><h3>Accounts and Apps</h3><table><tr><th>Account/App</th><th>What Is It For?</th></tr><tr><td>Windows login</td><td>Sign on to the computer</td></tr><tr><td>Microsoft account</td><td>Allows access to OneDrive and Microsoft 365 for the web; needs to be connected with your Windows login</td></tr><tr><td>OneDrive</td><td>Microsoft's free online storage option and the starting point for accessing Microsoft 365 apps in this book</td></tr><tr><td>Microsoft 365 for the web</td><td>Free basic versions of some of Microsoft's apps</td></tr></table>{{img:pg 60.png|Textbook page 60 &mdash; starting Microsoft Edge to create an account}}",
+          "images": {
+            "pg 59.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 3\\pg 59.png",
+            "pg 60.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 3\\pg 60.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 3.1: Create a Microsoft Account",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 3</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 3.1: Create a Microsoft Account</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 60-62 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will create a Microsoft account that will be used throughout this course.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Make sure you have an email address that you can use and check. If you don't have one, ask your instructor for help.</p></div><ol><li>Start the Microsoft Edge browser by clicking the icon on the taskbar.</li><li>Maximize the browser window.</li><li>In the address bar, type <code>account.microsoft.com</code> and tap Enter.</li><li>Click the <strong>Create a Microsoft Account</strong> link.</li><li>Enter your email address and click <strong>Next</strong>.</li><li>Enter a password for your new Microsoft account &mdash; use the same password you use to log in to Windows &mdash; and click <strong>Next</strong>.</li><li>Enter your country/region and birth date using the drop-down fields, then click <strong>Next</strong>.</li><li>Access your email and look for a new email from the Microsoft account team.</li><li>Enter the code that was sent to you into the Verify Email dialog box.</li><li>Click <strong>Next</strong>. If asked, solve the puzzle in the box and click <strong>Next</strong> again.</li><li>Click <strong>Next</strong> &mdash; you'll land on your account screen.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of your account screen after step 11, showing you're signed in to your new Microsoft account.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the signed-in Microsoft account screen",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; account screen is visible and clearly signed in",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but sign-in state is unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Connecting Your Microsoft Account — Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 3 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 63 &middot; CBO Objective: #4</p><h2>Connecting Your Microsoft Account</h2><h3>Making Connections</h3><p>Once your Microsoft account exists, it needs to be connected to your Windows login. Doing this lets many additional apps and services connect to your account automatically, so you're not repeatedly signing in throughout the day.</p>{{img:pg 63.png|Textbook page 63 &mdash; the sign-in dialog used to connect a Microsoft account}}",
+          "images": {
+            "pg 63.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 3\\pg 63.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 3.2: Connect Accounts",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 3</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 3.2: Connect Accounts</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 63-64 &middot; CBO Objective: #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will connect your newly created Microsoft account to your Windows login.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Make sure you are logged in to Windows with your own login, not another student's.</p></div><ol><li>In the Start menu, click your user icon/name button, then click <strong>Change Account Settings</strong>.</li><li>Click the <strong>Your Info</strong> button on the right side of the screen, if necessary.</li><li>Click the <strong>Sign In with a Microsoft Account</strong> link.</li><li>Enter your email and click <strong>Next</strong>.</li><li>Enter your Microsoft account password and click <strong>Sign In</strong>.</li><li>Enter your Windows login password and click <strong>Next</strong>.</li><li>Click <strong>Skip for Now</strong> when asked if you want to sign in using your face.</li><li>Click <strong>Next</strong>, then set up a PIN and click <strong>OK</strong>.</li><li>Close the account window.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Your Info screen showing your Microsoft account now connected to your Windows login.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Microsoft account connected on the Your Info screen",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; connected account clearly visible",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but connection isn't clearly shown",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Logging In & Opening Microsoft 365 Apps — Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 3 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 65, 68 &middot; CBO Objective: #3</p><h2>Logging In to OneDrive &amp; Opening Microsoft 365 for the Web Apps</h2><p>OneDrive is the starting point for accessing the other Microsoft 365 web apps.</p><h3>Online Messages</h3><p>It's normal for browser popups to appear the first time you visit a site &mdash; for example, a prompt asking to save your password, or OneDrive's &quot;Let's get you started&quot; welcome carousel. These aren't part of the exercise steps; after reading them, click Close or OK (or No Thanks) to dismiss them.</p>{{img:pg 65.png|Textbook page 65 &mdash; OneDrive's welcome carousel and a save-password prompt}}<h3>Always Logged In</h3><p>Once connected, Windows and your browser remember your login, so you usually won't need to sign in manually. You'll only need to log in by hand when:</p><ul><li>Using OneDrive from a public-access computer (library, copy shop, hotel business office)</li><li>Your Microsoft account isn't connected to your Windows login</li><li>Using any computer or device that isn't your own</li></ul><h3>Opening Microsoft 365 for the Web Apps</h3><p>Every Microsoft 365 online app has an <strong>app launcher</strong> &mdash; a grid icon on the left side of the title bar. Clicking it and choosing a service (like Word) opens that app in a new browser tab.</p>{{img:pg 69.png|Textbook page 69 &mdash; the app launcher menu, with Word highlighted}}",
+          "images": {
+            "pg 65.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 3\\pg 65.png",
+            "pg 69.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 3\\pg 69.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 3.3-3.4: Log In to OneDrive & Start Word Online",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 3</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 3.3-3.4: Log In to OneDrive &amp; Start Word Online</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 66-69 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 3.3: Log In to OneDrive</h2><p>In this exercise, you will log in to OneDrive &mdash; the process you'll follow every time.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Make sure you have your Microsoft account login/password from Hands-On 3.1.</p></div><ol><li>Start Microsoft Edge and maximize the window, if necessary.</li><li>Type <code>onedrive.live.com</code> in the address bar and tap Enter.</li><li>Click <strong>No Thanks</strong> to close any storage-upgrade ads, if they appear.</li><li>Click the user icon/name button and verify whether you're logged in as yourself &mdash; if not, click Sign Out (or, if no one is logged in, click <strong>Sign In</strong> in the top-right corner).</li><li>Enter the email and password you used for your Microsoft account, then click <strong>Sign In</strong>.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 3.4: Start the Word Online App</h2><ol><li>From OneDrive, click the <strong>app launcher</strong> (grid icon) on the left side of the title bar.</li><li>Choose <strong>Word</strong> from the menu that appears.</li><li>Choose the <strong>New Blank Document</strong> option.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">One screenshot showing you signed in to OneDrive as yourself, and a second screenshot showing Word Online open with a new blank document.</p></div></div>",
+          "points_possible": 6,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot 1 &mdash; signed in to OneDrive",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; clearly signed in as the student",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; unclear sign-in state",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Screenshot 2 &mdash; Word Online open with a new blank document",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Word Online clearly open and ready to type",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; Word open but unclear it's a new blank document",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "type": "Quiz",
           "title": "Chapter 3 Quiz: Creating an Online Account",
-          "position": 3,
-          "description": "A 6-question quiz covering cloud computing, Microsoft accounts, and Office online apps. Source: publisher Test Bank, verified against the official Answer Key.",
+          "position": 9,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 3</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 3 Quiz: Creating an Online Account</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">6 questions &middot; cloud computing, Microsoft accounts, and Office online apps</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>Source: publisher Test Bank, verified against the official Answer Key.</p></div></div>",
           "points_possible": 6,
           "questions": [
             {
@@ -1302,60 +1769,453 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Chapter 4: Working with Apps",
-      "position": 5,
-      "items": [
-        {
-          "type": "Page",
-          "title": "Chapter 4 Overview: Working with Apps",
-          "position": 1,
-          "body": "<h2>Working with Apps</h2><p>This chapter uses the Paint and Word Online apps as learning platforms for skills you'll use constantly: typing, editing, formatting, cutting, copying, pasting, and saving files. You'll also get comfortable with menus, toolbars, and Ribbons, and how the mouse pointer changes depending on what it's doing.</p><h3>Learning objectives</h3><ul><li>Use common features found in drop-down menus, toolbars and Ribbons, and scroll bars</li><li>Use the mouse effectively as the appearance and function of the mouse pointer changes</li><li>Type and edit text in an app</li><li>Cut or copy text and then paste it into another location</li><li>Save files or copies of files on OneDrive</li></ul><h3>App commands (Hands-On 4.1)</h3><p>Modern Office apps use a <strong>Ribbon</strong> — a toolbar organized by task, with tabs like Home, Insert, and Layout. Older apps often use classic drop-down menus instead. Either way, the mouse pointer changes shape depending on the tool selected.</p><h3>Saving your work (Hands-On 4.2-4.4)</h3><p>Nothing is permanently saved until you tell the computer to save it — until then it's just sitting in <strong>RAM</strong>, temporary memory. You'll draw something in Paint (4.2), then save it to three different locations: your hard drive, a USB flash drive, and OneDrive (4.3). Filenames can't use the characters <code>| \\ ? * &lt; \" : &gt; /</code>. Mouse pointers change shape in Paint depending on the tool (4.4).</p><h3>The work area (Hands-On 4.5)</h3><p>When content is too big to fit in the window, scroll bars let you navigate around it.</p><h3>Typing and editing in Word Online (Hands-On 4.6-4.10)</h3><p>You'll type a message (4.6), select text (4.7) — text must be selected before it can be edited or formatted — format it with bold, italics, and font changes (4.8), print it (4.9), and save it as a PDF (4.10).</p><h3>Cut, copy, and paste (Hands-On 4.11)</h3><p><strong>Cut</strong> and <strong>Copy</strong> both place a copy of the item on the Clipboard; Cut also removes the original. Keyboard shortcuts: <code>Ctrl+X</code> (Cut), <code>Ctrl+C</code> (Copy), <code>Ctrl+V</code> (Paste).</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 4.1-4.11</strong> — done together in class</li><li><strong>Skill Builders 4.1-4.2</strong> (in-book: Create and Save a Letter from Start to Finish; Create a Copy of Your Letter) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 4.1-4.2</strong> (Information Letter; Copy and Paste) — graded homework, see the assignments in this module</li><li><strong>Chapter 4 Quiz</strong> — see the quiz in this module</li></ul>"
         },
         {
           "type": "File",
           "title": "Chapter 4 Presentation: Working with Apps",
-          "position": 2,
+          "position": 10,
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C04-PPT.pptx"
+        },
+        {
+          "type": "Page",
+          "title": "App Commands: Menus & Ribbons — Reading",
+          "position": 11,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 72-76 &middot; CBO Objective: #1</p><h2>App Commands: Menus, Ribbons &amp; the Quick Access Toolbar</h2><h3>Menu Commands</h3><p>Older-style apps (like Notepad) use classic <strong>drop-down menus</strong> from a menu bar &mdash; File, Edit, Help, and so on. Menu names and commands vary from program to program, but many follow a similar convention.</p>{{img:pg 73.png|Textbook page 73 &mdash; Notepad's File drop-down menu}}<h3>Commands in Programs with Ribbons</h3><p>Since Office 2007, most Microsoft apps use a <strong>Ribbon</strong> instead of drop-down menus &mdash; a toolbar organized by task. Different apps' Ribbons (Paint's vs. Word's) share the same overall design even though their specific tools differ.</p>{{img:pg 75.png|Textbook page 75 &mdash; the Paint Ribbon compared to the Word Ribbon}}<h3>Quick Access Toolbar</h3><p>The <strong>Quick Access Toolbar</strong> sits above (or as part of) the Ribbon and defaults to three tools: Save, Undo, and Redo.</p><h3>Ribbon Tabs</h3><p>A Ribbon is organized into <strong>tabs</strong> (like Home, Insert, Layout), each containing <strong>command groups</strong> made up of buttons, drop-downs, and galleries. Hovering over any tool shows a <strong>ScreenTip</strong> naming it.</p>",
+          "images": {
+            "pg 73.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 73.png",
+            "pg 75.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 75.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.1-4.2: Compare Drop-Down Menus & Draw in Paint",
+          "position": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.1-4.2: Compare Drop-Down Menus &amp; Draw in Paint</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 74, 76 &middot; CBO Objective: #1</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.1: Compare Drop-Down Menus</h2><ol><li>Click Start &rarr; All Apps &rarr; Notepad.</li><li>Repeat, but launch Paint instead.</li><li>Use the taskbar to make Notepad the active window.</li><li>Click File on the menu bar, run your pointer down the commands to highlight each one (without clicking), then click outside the menu to dismiss it.</li><li>Make Paint active and compare its File menu to Notepad's &mdash; notice the common commands: New, Open, Save, Save As, Print, Exit.</li><li>Compare Notepad's Edit menu with Paint's Ribbon, which holds Cut, Copy, and Paste.</li><li>Close Notepad, but leave Paint open.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.2: Draw in the Paint App</h2><ol><li>Click the Pencil tool once to select it.</li><li>Point over the white canvas &mdash; the mouse pointer now looks like a pencil.</li><li>Drag the Pencil in a circle to draw a rough face, then drag to add other parts. Release the mouse button after each part.</li><li>Try signing your name by dragging with the Pencil.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of your Paint drawing (Hands-On 4.2) &mdash; Hands-On 4.1 is menu comparison only and has no separate deliverable.</p></div></div>",
+          "points_possible": 5,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows a drawing created in Paint using the Pencil tool",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; a clear hand-drawn image is visible on the canvas",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; canvas shown but drawing is minimal/unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Saving Your Work & Naming Files — Reading",
+          "position": 13,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 77-80 &middot; CBO Objective: #5</p><h2>Saving Your Work &amp; Naming Files</h2><h3>Saving Your Work</h3><p>Nothing is permanently saved until you tell the computer to save it. Saving to OneDrive means your work is accessible from anywhere.</p><h3>Where Your Work Is Located</h3><p>Until you save, your work sits in <strong>RAM</strong> &mdash; temporary memory that's cleared when the computer restarts or loses power.</p><h3>Files and Folders</h3><p>A <strong>file</strong> is a collection of data stored with a name; a <strong>folder</strong> stores a collection of files.</p><h3>Choosing a Storage Location</h3><p>You can save to your computer's internal hard drive (Notepad defaults to Documents, Paint defaults to Pictures), a portable USB flash drive, or OneDrive &mdash; OneDrive is the preferred method used throughout this book.</p><h3>Filenames</h3><table><tr><th>Rule</th><th>Detail</th></tr><tr><td>Length</td><td>Up to 255 characters</td></tr><tr><td>Allowed</td><td>All alphanumeric characters except the reserved ones below</td></tr><tr><td>Reserved characters</td><td><code>| \\ ? * &lt; \" : &gt; /</code></td></tr><tr><td>Reserved words</td><td>CON, PRN, AUX, NUL, COM1-9, LPT1-9</td></tr></table>{{img:pg 79.png|Textbook page 79 &mdash; the Naming Files rules table}}<h3>Save Versus Save As</h3><p><strong>Save As</strong> lets you save a copy of a file with a different name, in a different location, or in a different file format (like converting to PDF).</p>",
+          "images": {
+            "pg 79.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 79.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.3: Save a New Document",
+          "position": 14,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.3: Save a New Document</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 80-83 &middot; CBO Objective: #5</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will save your Paint drawing to three different locations.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Paint should still be open from Hands-On 4.2.</p></div><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Save to Hard Drive</h3><ol><li>Click the File tab and choose Save.</li><li>Double-click the default filename, type <strong>My Signature</strong>, and click Save.</li></ol><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Save to a USB Flash Drive</h3><ol><li>Choose File &rarr; Save As &rarr; PNG Picture.</li><li>Place your USB flash drive into a USB port, double-click the filename and type <strong>My Signature</strong>, use the address-bar drop-down to choose This PC, then your flash drive, and click Save.</li></ol><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Save to OneDrive</h3><ol><li>Choose File &rarr; Save As &rarr; PNG Picture.</li><li>Double-click the filename, type <strong>My Signature</strong>, use the address-bar drop-down to choose OneDrive, and click Save.</li><li>Close Paint.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) File Explorer's This PC/Documents view showing \"My Signature\" saved on the hard drive, and (2) your OneDrive view showing \"My Signature\" saved there. If you have a USB flash drive available, practice saving to it too, but it's not required for submission.</p></div></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot 1 &mdash; file saved to the hard drive",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; \"My Signature\" clearly visible in File Explorer",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but filename/location unclear",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Screenshot 2 &mdash; file saved to OneDrive",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; \"My Signature\" clearly visible in OneDrive",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but filename/location unclear",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "The Work Area: Mouse Pointers & Scroll Bars — Reading",
+          "position": 15,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 83-84, 87 &middot; CBO Objective: #2</p><h2>The Work Area: Mouse Pointers, Tool Galleries &amp; Scroll Bars</h2><h3>Mouse Pointers</h3><p>The mouse pointer's shape changes depending on the tool selected or what it's pointing at:</p><table><tr><th>Pointer</th><th>Meaning</th></tr><tr><td>Normal</td><td>Default arrow, used for general selecting/clicking</td></tr><tr><td>Text</td><td>I-beam, appears over editable text</td></tr><tr><td>Precision</td><td>Crosshair, used for precise drawing/selecting</td></tr><tr><td>Move</td><td>Four-headed arrow, used to move an object</td></tr><tr><td>Horizontal resize</td><td>Left-right arrow, resizes a window's width</td></tr><tr><td>Diagonal resize</td><td>Diagonal double arrow, resizes a corner</td></tr><tr><td>Vertical resize</td><td>Up-down arrow, resizes a window's height</td></tr></table>{{img:pg 84.png|Textbook page 84 &mdash; the Windows Mouse Pointers reference table}}<h3>Tool Galleries</h3><p>A <strong>gallery</strong> is a visual menu of options (like Paint's Size gallery) &mdash; clicking an option previews or applies it immediately.</p><h3>Scroll Bars</h3><p>When content is too big to fit in the window, a scroll bar appears with a <strong>scroll box</strong> you can drag, and <strong>scroll buttons</strong> (arrows) at each end you can click.</p>{{img:pg 87.png|Textbook page 87 &mdash; scroll bar anatomy diagram (scroll box, scroll button, scroll bar)}}",
+          "images": {
+            "pg 84.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 84.png",
+            "pg 87.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 87.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.4-4.5: Change Mouse Pointers & Use Scroll Bars",
+          "position": 16,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.4-4.5: Change Mouse Pointers &amp; Use Scroll Bars</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 85-88 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.4: Change Mouse Pointers in Paint</h2><ol><li>Open Paint and maximize the window.</li><li>Click each button in the Tools group one at a time and move your mouse over the canvas &mdash; notice how the pointer changes shape.</li><li>Choose the Rectangle tool from the Shapes gallery, set Outline to Solid Outline, Fill to Solid Fill, and Color 2 to Light Gray.</li><li>Drag to draw a box.</li><li>Choose the Eraser tool, pick a size from the Size gallery, set Color 2 to White, and drag to erase part of the box.</li><li>Leave Paint open.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.5: Use Scroll Bars</h2><ol><li>Restore Down the Paint window and resize it smaller until scroll bars appear.</li><li>Drag the scroll box down about an inch, then click the down/up scroll buttons a few times, then click once on the scroll bar itself to jump farther.</li><li>Try the horizontal scroll bar too.</li><li>Close Paint without saving.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of your rectangle-and-eraser drawing from Hands-On 4.4 (step 5, before closing). Hands-On 4.5 is scroll-bar practice only and has no separate deliverable.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the rectangle drawn and partially erased",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; a light gray outlined rectangle with a visible erased section",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; rectangle shown but erasing isn't visible, or vice versa",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Typing & Selecting Text in Word Online — Reading",
+          "position": 17,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 89-95 &middot; CBO Objective: #3</p><h2>Typing &amp; Selecting Text in Word Online</h2><h3>The Word Ribbon</h3><p>Word Online's Ribbon has tabs like Home and View. Drop-down lists (Font Name, Font Size, Font Color) show a ScreenTip when you hover, and the Ribbon can switch to a compact <strong>Simplified Ribbon Mode</strong>.</p>{{img:pg 91.png|Textbook page 91 &mdash; the blinking cursor (insertion point) versus the mouse pointer}}<h3>The Cursor and the Mouse Pointer</h3><p>These are two different things: the blinking <strong>cursor</strong> (insertion point) shows where typed text will appear, while the <strong>mouse pointer</strong> (often an I-beam over text) follows the mouse.</p><h3>Special Keys</h3><p><strong>Backspace</strong> deletes the character before the cursor; <strong>Delete</strong> deletes the character after it. <strong>Tab</strong> indents. <strong>Enter</strong> ends a paragraph and moves the cursor down two lines; <strong>Shift+Enter</strong> moves down only one line without starting a new paragraph.</p><h3>Editing and Selecting Text</h3><p>Text must be <strong>selected</strong> before it can be edited or formatted.</p><table><tr><th>Method</th><th>Selects</th></tr><tr><td>Drag</td><td>Whatever the mouse passes over</td></tr><tr><td>Double-click</td><td>One whole word</td></tr><tr><td>Triple-click</td><td>One whole paragraph</td></tr><tr><td>Ctrl+A</td><td>The entire document</td></tr></table>",
+          "images": {
+            "pg 91.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 91.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.6-4.7: Type & Select Text",
+          "position": 18,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.6-4.7: Type &amp; Select Text in Word Online</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 92, 94-95 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.6: Type in the Word Online App</h2><p><em>Before You Begin: Log in to OneDrive using the process from Chapter 3.</em></p><ol><li>Click the app launcher, then click Word, then choose New Blank Document.</li><li>Maximize the browser window.</li><li>Type: <code>To: Emily Carlito</code> [Shift+Enter] <code>From: Dan Lewis</code> [Enter] <code>Dear Emily,</code></li><li>Tap Enter twice, then type: <code>If I type a sentence that is too long to fit on one line, I do not have to tap the Enter key when I get near the margin because the words will automatically wrap to a new line.</code> [Enter] <code>Typing is fun.</code></li><li>Leave Word open.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.7: Select Text</h2><ol><li>Practice selecting: drag across a word, double-click a word, and triple-click a paragraph &mdash; deselect by clicking elsewhere after each.</li><li>Choose File &rarr; Save As &rarr; the Save As button.</li><li>Choose the Documents folder and click Select to save to the default OneDrive location.</li><li>Type the filename <strong>Memo to Emily Carlito</strong> and click Save.</li><li>Leave Word open.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of your saved \"Memo to Emily Carlito\" document, showing the full typed message.</p></div></div>",
+          "points_possible": 5,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the saved \"Memo to Emily Carlito\" document with the full typed text",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; all typed text is visible and matches the instructions",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; document shown but text is incomplete or filename is wrong",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Formatting, Printing & Saving as PDF — Reading",
+          "position": 19,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 95, 97-99 &middot; CBO Objective: #3</p><h2>Formatting, Printing &amp; Saving as PDF</h2><h3>Formatting Text</h3><p>Formatting includes Font Name, Font Size, Grow/Shrink Font, Bold, Italic, Underline, and Font Color &mdash; text must be selected first.</p>{{img:pg 95.png|Textbook page 95 &mdash; the Font group on the Home tab}}<h3>Printing a Document</h3><p>Word Online documents don't need to be downloaded before printing &mdash; File &rarr; Print converts the document to a temporary PDF automatically and sends it to your printer.</p><h3>Saving as a PDF File</h3><p>File &rarr; Save As &rarr; Download as PDF creates a real PDF copy you can keep, separate from the temporary one used just for printing.</p>",
+          "images": {
+            "pg 95.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 95.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.8-4.10: Format Text, Print & Save as PDF",
+          "position": 20,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.8-4.10: Format Text, Print &amp; Save as PDF</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 96-99 &middot; CBO Objective: #3, #5</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.8: Format Text</h2><p><em>Before You Begin: Word should still be open to your Memo to Emily Carlito.</em></p><ol><li>Select the last paragraph, then set Font Name to Calibri, Font Size to 12, and choose any Font Color, then click away to deselect.</li><li>Double-click the word <strong>Carlito</strong>, make it Bold, change its color to Blue, then click away to deselect.</li><li>Leave Word open.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.9: Print a Word Document</h2><ol><li>Choose File &rarr; Print.</li><li>Click the Print button.</li><li>Click Print again in the dialog box that appears.</li><li>Leave Word open.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Hands-On 4.10: Save a PDF File in Word</h2><ol><li>Choose File &rarr; Save As.</li><li>Click Download as PDF.</li><li>Click Download in the dialog box that appears.</li><li>Leave Word open.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot showing \"Carlito\" formatted in bold blue text, plus the downloaded PDF file itself (upload both).</p></div></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows \"Carlito\" in bold, blue text",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; bold and blue clearly applied to Carlito",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; only one formatting change applied",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Downloaded PDF file submitted",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; a real PDF of the memo is uploaded",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; a file is uploaded but isn't a proper PDF of the memo",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no PDF submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Cut, Copy & Paste — Reading",
+          "position": 21,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 4 &middot; Chapter 4 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 100-101 &middot; CBO Objective: #4</p><h2>Cut, Copy &amp; Paste</h2><table><tr><th>Command</th><th>What It Does</th></tr><tr><td>Cut</td><td>Removes the selected item and places a copy on the Clipboard</td></tr><tr><td>Copy</td><td>Leaves the selected item in place and places a copy on the Clipboard</td></tr><tr><td>Paste</td><td>Inserts whatever is currently on the Clipboard</td></tr></table>{{img:pg 100.png|Textbook page 100 &mdash; the Cut/Copy/Paste commands table}}<h3>Keyboard Shortcuts</h3><p><code>Ctrl+X</code> (Cut), <code>Ctrl+C</code> (Copy), <code>Ctrl+V</code> (Paste). Some browser-based apps can't access the system Clipboard directly with the on-screen buttons &mdash; if a &quot;Use shortcut keys&quot; message appears, use the keyboard shortcuts instead.</p>{{img:pg 101.png|Textbook page 101 &mdash; the \"Use shortcut keys\" clipboard-access message}}<h3>Advanced Cut, Copy, and Paste</h3><p>Whatever you cut or copy stays on the Clipboard until you cut or copy something else, so you can paste the same item repeatedly &mdash; even into a different app than the one you copied it from.</p>",
+          "images": {
+            "pg 100.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 100.png",
+            "pg 101.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 4\\pg 101.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 4.11: Use Cut and Paste",
+          "position": 22,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 4.11: Use Cut and Paste</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 102-103 &middot; CBO Objective: #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p><em>Before You Begin: Word should still be open to your document. Make sure the Classic Ribbon is turned on (not Simplified).</em></p><ol><li>Select the last paragraph (drag or triple-click), click the Home tab, then choose Cut &mdash; the text disappears and moves to the Clipboard.</li><li>Click at the end of the last remaining sentence to place the cursor there.</li><li>Choose Home &rarr; Paste to bring the text back.</li><li>Tap Enter, then choose Home &rarr; Paste again &mdash; notice the same text can be pasted repeatedly.</li><li>Choose Undo from the Ribbon.</li><li>Close Microsoft Edge &mdash; your work is saved automatically.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot taken after step 4, showing the pasted paragraph appearing twice in the document.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the cut paragraph pasted back, appearing twice",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; the paragraph clearly appears twice in the document",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; paste is shown but only once, or unclear",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Skill Builders 4.1-4.2",
-          "position": 3,
-          "description": "<h2>Skill Builders 4.1-4.2</h2><p>In-book Skill Builders for Chapter 4. Refer to your textbook (Chapter 4, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>4.1 Create and Save a Letter from Start to Finish</strong> — write and save a complete letter in Word Online.</li><li><strong>4.2 Create a Copy of Your Letter</strong> — copy your letter, address it to a new person, and save it as a PDF.</li></ol><h3>What to submit</h3><p>Both documents (or PDFs) you create.</p>",
+          "position": 23,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Skill Builders 4.1-4.2</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 105-106 &middot; independent practice</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Skill Builder 4.1: Create and Save a Letter from Start to Finish</h2><ol><li>Log in to OneDrive, start Word, and open a new Blank Document. Maximize the window.</li><li>Type the letter below, using Backspace/Delete to fix errors as you go:</li></ol><p style=\"margin-left:20px;\">Dear Business Owner,<br><br>Thank you for your interest in having an aquarium placed in your main lobby. I have enclosed a price list for the aquariums I have available. All prices include initial setup of the aquarium, the first group of goldfish, and appropriate aquatic plants.<br><br>Unless you have qualified staff to maintain the aquarium, I recommend our affordable monthly service. Our service is guaranteed.<br><br>I will arrange an appointment next week to review the details.<br><br>Sincerely,<br><br>Sylvia Tiger-Shark<br>Owner<br>Living Office</p><ol start=\"3\"><li>Press Ctrl+A to select all text, change the Font Size to 12pt, then click away to deselect.</li><li>Select the words <strong>Living Office</strong> on the last line and make them Bold.</li><li>Choose File &rarr; Save As &rarr; the Save As button, click Select to save to the default OneDrive location, name it <strong>Letter from Sylvia</strong>, and click Save.</li><li>Leave Word open for Skill Builder 4.2.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Skill Builder 4.2: Create a Copy of Your Letter</h2><ol><li>Choose File &rarr; New &rarr; New Blank Document.</li><li>Click back to the Letter from Sylvia tab, press Ctrl+A to select all, then Ctrl+C to copy.</li><li>Click the new blank document's tab and press Ctrl+V to paste.</li><li>Delete the text <strong>Business Owner</strong> and replace it with <strong>Office Manager</strong>.</li><li>Save the file to OneDrive as <strong>Office Manager Letter</strong>.</li><li>Choose File &rarr; Save As &rarr; Download as PDF, click Download, then close Microsoft Edge.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Both documents (or PDFs): \"Letter from Sylvia\" and \"Office Manager Letter.\"</p></div></div>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Skill Builder 4.1 &mdash; \"Letter from Sylvia\" complete and correctly formatted (12pt, \"Living Office\" bold)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; letter text, font size, and bold formatting all correct",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; letter present but formatting steps missed",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 4.2 &mdash; \"Office Manager Letter\" with the correct text substitution",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; \"Business Owner\" correctly replaced with \"Office Manager\" throughout",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; document present but substitution missed or incomplete",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 4.1: Information Letter",
-          "position": 4,
+          "position": 24,
           "description": "<h2>Additional Skill Builder 4.1: Information Letter</h2><p>In this exercise, you will write and edit a basic letter asking for more information about educational opportunities.</p><h3>Instructions</h3><ol><li>Open Word Online and create a new Blank Document.</li><li>Type the letter: <br>TO: Smithsonian Institute<br>FROM: [Enter Your Name Here]<br>RE: Educational Opportunities<br><br>To Whom It May Concern;<br><br>I will be travelling to Washington DC in the coming months and will have a few days to explore the Smithsonian Institute.<br><br>Since I only have a few days, I was hoping you could send me information on what exhibits and educational opportunities a US History buff should partake in while at the Smithsonian.<br><br>Your help would be greatly appreciated.<br><br>Sincerely,<br><br>[Enter Your Name Here]</li><li>Select \"US History buff\" and replace with: <em>United States history enthusiast</em></li><li>Select all of the text and change the Font to Arial and the Font Size to 12.</li><li>Rename the document: <em>Information Letter</em></li><li>Close Word Online.</li></ol><h3>What to submit</h3><p>The finished \"Information Letter\" document.</p>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Text substitution &mdash; \"US History buff\" replaced with \"United States history enthusiast\"",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; substitution made correctly",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; original letter present but substitution missed",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing/incomplete",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Formatting &mdash; all text Arial, 12pt",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; entire letter is Arial 12pt",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; only part of the letter reformatted",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; formatting not applied",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 4.2: Copy and Paste",
-          "position": 5,
+          "position": 25,
           "description": "<h2>Additional Skill Builder 4.2: Copy and Paste</h2><p>In this exercise, you will copy text from your Information Letter into a new letter. Complete Additional Skill Builder 4.1 first.</p><h3>Instructions</h3><ol><li>Start Word Online and create a new Blank Document.</li><li>In the new document, type: <br>TO: Library of Congress<br>FROM: [Insert Your Name Here]<br>RE: Educational Opportunities</li><li>Open your \"Information Letter\" document from OneDrive.</li><li>Select the text from \"To Whom It May Concern\" through the end of the letter, including your name.</li><li>Press Ctrl+C to copy the text.</li><li>Switch to your new document and position the insertion point on the blank line below \"RE: Educational Opportunities.\"</li><li>Press Ctrl+V to paste the text.</li><li>Replace \"Smithsonian Institute\" (2nd paragraph) and \"Smithsonian\" (3rd paragraph) with: <em>Library of Congress</em></li><li>Select all the text (Ctrl+A) and change the Font to Arial, Font Size 12.</li><li>Rename the document: <em>Information Letter 2</em></li><li>Close both documents.</li></ol><h3>What to submit</h3><p>The finished \"Information Letter 2\" document.</p>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Text substitution &mdash; both \"Smithsonian\" references replaced with \"Library of Congress\"",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; both spots correctly substituted",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; only one of the two spots substituted",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing/incomplete",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Formatting &mdash; all text Arial, 12pt",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; entire letter is Arial 12pt",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; only part of the letter reformatted",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; formatting not applied",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Quiz",
           "title": "Chapter 4 Quiz: Working with Apps",
-          "position": 6,
-          "description": "A 15-question quiz covering Ribbons, saving files, the work area, editing text, and cut/copy/paste. Source: publisher Test Bank, verified against the official Answer Key.",
+          "position": 26,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 4 &middot; Chapter 4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 4 Quiz: Working with Apps</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">15 questions &middot; Ribbons, saving files, the work area, editing text, and cut/copy/paste</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>Source: publisher Test Bank, verified against the official Answer Key.</p></div></div>",
           "points_possible": 15,
           "questions": [
             {
