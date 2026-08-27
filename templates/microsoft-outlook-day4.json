@@ -116,6 +116,13 @@
               }
             ]
           }
+        },
+        {
+          "type": "external_tool",
+          "title": "eLab: Chapter 4 Self-Paced Practice",
+          "position": 7,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187728",
+          "tool_id": 297
         }
       ]
     }
