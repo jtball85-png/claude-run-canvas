@@ -1,0 +1,245 @@
+{
+  "course_name": "Microsoft Outlook 2021 & 365 Fast Course",
+  "course_code": "OUTLOOK",
+  "modules": [
+    {
+      "name": "Day 6, Chapter 5: Tasks, Notes, and Integration",
+      "position": 7,
+      "items": [
+        {
+          "type": "Page",
+          "title": "Day 6 Overview \u2014 Tasks & Competencies",
+          "position": 1,
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 5: Tasks, Notes, and Integration</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 6 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">This is the final chapter of the course. Calendar told you <em>when</em> &mdash; Tasks is the to-do-list version, and Categories is the color-coding system that ties Mail, Calendar, People, and Tasks together into one workspace. You'll wrap up by seeing how Outlook connects to Word and to your phone.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Competencies Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Work with notes</li><li>Create and edit tasks</li><li>Assign and accept/decline tasks</li><li>Use the Folder list and To-Do bar</li><li>Integrate Outlook with Word and Excel</li><li>Access Outlook information on a mobile device</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 5 Presentation</li><li>Notes &mdash; read, then complete Hands-On OU5-D1</li><li>Tasks &mdash; read, then complete Hands-On OU5-D2&ndash;D4</li><li>Categories &mdash; read, then complete Hands-On OU5-D5</li><li>Integrating with Word and Mobile Devices &mdash; read</li><li>Chapter 5 Self-Assessment Quiz and Test</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Course wrap-up</strong><p style=\"margin:6px 0 0;\">This is the last day of the Outlook unit &mdash; Getting Started &rarr; Email &rarr; People &rarr; Calendar &rarr; Tasks/Notes/Integration is one connected workspace, not five separate tools. Business Math begins next class.</p></div></div>"
+        },
+        {
+          "type": "File",
+          "title": "Chapter 5 Presentation: Tasks, Notes, and Integration",
+          "position": 2,
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\PowerPoint Presentations\\FC-OU21-C05-PPT.pptx"
+        },
+        {
+          "type": "Page",
+          "title": "Notes \u2014 Reading",
+          "position": 3,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 84 &middot; Chapter 5 &middot; CBO Objective: Work with notes</em></p><h2>Notes</h2><p>Notes are used to record miscellaneous information you want to save for reference &mdash; a short list of reminders, or a quick status note. You access Notes by clicking the three dots in the Navigation bar. Notes are stored in a special Notes folder in Outlook's personal folders. A new note opens as a small box that resembles a yellow sticky note, where you type your text; by default it uses yellow, medium size, and 11-point Calibri, and shows the date/time it was last modified. You must display the Notes view to edit or delete a note.</p><h3>Notes View</h3><p>You can look at your notes in one of three standard views: Icon, Notes List, and Last 7 Days. You can customize a view and save it as your own, forward a note to someone or move it to another folder, and categorize notes based on criteria you set.</p>{{img:pg 84.png|Textbook page 84 \u2014 the Notes ribbon showing the Icon/Notes List/Last 7 Days view buttons, Forward/Move/Categorize actions, and a note in Notes List view}}<h3>Copying a Note to the Desktop</h3><p>A convenient place to display a note is on your computer's Desktop, since you can see it even when Outlook is minimized &mdash; just double-click a note to open it in its own Outlook-independent window. The note is still an Outlook item stored in the Notes folder, so editing or deleting it there updates it within Outlook too.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Tip</strong><p style=\"margin:6px 0 0;\">A note can stay on your Desktop while Outlook is minimized, but closing Outlook closes the note window too &mdash; the note itself isn't deleted, it's just no longer displayed until you reopen Outlook and show it again.</p></div>",
+          "images": {
+            "pg 84.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 84.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU5-D1: Create a Note",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 85 &middot; Develop Your Skills OU5-D1</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU5-D1: Create a Note</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Click the three dots (<strong>Navigation Options</strong>) on the Navigation bar and choose <strong>Notes</strong>.</li><li>Choose <strong>Home &rarr; New Note</strong>.</li><li>Type your own short reminder note &mdash; anything you'd actually want to remember.</li><li>Close the note. <em>Notice there is no Save button &mdash; changes are saved automatically.</em></li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">One screenshot of your new note in Notes List view.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the new note in Notes List view",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the note and its text are clearly visible in Notes List view", "points": 3},
+                  {"description": "Partial Credit \u2014 a note is shown but not clearly in Notes List view", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Tasks \u2014 Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book pages: 85-88 &middot; Chapter 5 &middot; CBO Objectives: Create and edit tasks / Assign and accept/decline tasks</em></p><h2>Tasks</h2><p>Tasks appear in your To-Do list and contain due dates. Since many emails you receive require some action, you can quickly flag those emails so they're added to your To-Do list automatically. You can set options for a task like a reminder or a status, assign a task to someone else, and likewise have others assign tasks to you &mdash; when you receive one, you can accept or decline it.</p>{{img:pg 85.png|Textbook page 85 \u2014 the Tasks ribbon with Mark Complete, Remove from List, and Flag Task options, and a My Tasks list showing due dates}}<h3>Navigating & Peeking at Tasks</h3><p>Choose Tasks from the Navigation bar to see your task views; the default is the To-Do list with the Reading pane on the right. Current tasks due also show at the bottom of the Calendar in Day, Week, or Work Week view. Like other Outlook elements, you can peek at your tasks by hovering over the Tasks link on the Navigation bar.</p><h3>Creating a Task</h3><p>You can create a task by flagging a message, as a brand-new item, or by dragging an Outlook item onto Tasks on the Navigation bar to create a prepopulated task.</p><h3>The To-Do Bar</h3><p>The To-Do bar can display Calendar, People, and/or Tasks, and it's customizable in any Outlook element via <strong>View &rarr; Layout</strong> &mdash; useful for keeping track of your calendar and tasks while you're in Mail view, for example.</p>{{img:pg 86.png|Textbook page 86 \u2014 the To-Do bar's task list grouped by No Date, Today, Next Week, and Later}}<h3>Scheduling Calendar Time to Work on a Task</h3><p>You can drag a task onto your calendar to block out time to work on it. This isn't mandatory, but it helps keep you from over-booking yourself with appointments &mdash; the task then follows you on the calendar from day to day as a reminder until you mark it complete, at which point it stays on that day as a record of when you finished it.</p><h3>Editing Tasks</h3><p>Tasks are edited in the task view or directly from the To-Do bar &mdash; double-clicking opens a separate window where you can change the start/due dates, set a reminder, track status, add a category, or add notes. A task leaves the To-Do list once it's marked complete; the quickest way is clicking its flag icon. The Details view of the To-Do list shows all tasks (complete or in progress), and past-due tasks show in red. A task reminder pops up a notification just like an appointment reminder, and you can Snooze it to be reminded again anywhere from 5 minutes to 2 weeks later.</p><h3>Assigning and Receiving Tasks</h3><p>To assign a task to someone else, enter their email address much like inviting someone to a meeting. Once you send it, you're no longer the owner &mdash; the recipient is. You can keep a copy in your own task list and ask to be notified when they mark it complete. The recipient can accept or decline; if they accept, you receive an email letting you know (and if they decline, you're notified too).</p>{{img:pg 88.png|Textbook page 88 \u2014 an assigned task in the recipient's Inbox with Accept/Decline buttons, showing who assigned it and its due date}}<p>When you accept a task assigned to you, the message is removed from your Inbox and the task appears in your task list. Creating a task offers three command options: <strong>Mark Complete</strong>, <strong>Assign Task</strong>, and <strong>Send Status Report</strong>.</p>",
+          "images": {
+            "pg 85.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 85.png",
+            "pg 86.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 86.png",
+            "pg 88.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 88.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU5-D2\u2013D4: Create, Remind & Assign a Task",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 86-89 &middot; Develop Your Skills OU5-D2 through OU5-D4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU5-D2\u2013D4: Create, Remind &amp; Assign a Task</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 1 &mdash; OU5-D2: Create a Task</h2><ol style=\"margin:0;padding-left:20px;\"><li>Click <strong>Tasks</strong> on the Navigation bar, then choose <strong>Home &rarr; New Task</strong>.</li><li>Subject: <strong>Set up quarterly training schedule</strong>.</li><li>Set the <strong>Start date</strong> to today and the <strong>Due date</strong> to two weeks from today.</li><li>In the detail field, type: <strong>Set up training sessions for shelter staff and in-home staff</strong> (or your own note).</li><li>Click <strong>Save &amp; Close</strong>.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 2 &mdash; OU5-D3: Set a Reminder</h2><ol style=\"margin:0;padding-left:20px;\"><li>Double-click your task to reopen it.</li><li>Check the <strong>Reminder</strong> checkbox.</li><li>Set the reminder date to one week from today.</li><li>Click <strong>Save &amp; Close</strong>.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 3 &mdash; OU5-D4: Assign the Task</h2><ol style=\"margin:0;padding-left:20px;\"><li>Double-click your task, then choose <strong>Task &rarr; Assign Task</strong>.</li><li>In the <strong>To</strong> field, enter a classmate's or your instructor's real VACE email address.</li><li>Click <strong>Send</strong>.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Three screenshots: (1) the task after Part 1, with its start/due dates and detail note; (2) the task after Part 2, with the Reminder checkbox and date visible; (3) the sent Assign Task window from Part 3, showing your recipient.</p></div></div>",
+          "points_possible": 9,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the new task with its start/due dates and detail note (Part 1)",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 subject, dates, and detail note are all visible", "points": 3},
+                  {"description": "Partial Credit \u2014 the task is shown but one or more fields aren't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the task with the Reminder checked and set (Part 2)",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the Reminder checkbox and date are clearly visible", "points": 3},
+                  {"description": "Partial Credit \u2014 the task is shown but the reminder isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the sent Assign Task window with a real recipient (Part 3)",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the recipient's address is clearly visible in the To field", "points": 3},
+                  {"description": "Partial Credit \u2014 the Assign Task window is shown but the recipient isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Categories \u2014 Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book pages: 89-91 &middot; Chapter 5</em></p><h2>Categories</h2><p>Categories let you color-code items across <strong>every</strong> Outlook element &mdash; Mail, Calendar, People, Tasks, and Notes &mdash; based on criteria you choose. For example, you might create a category for a specific project with its own color to track every email, appointment, contact, task, and note related to it, or simply use colors to separate business items from personal ones.</p><p>Once you've created and assigned categories, you can sort by them &mdash; in People, for example, you could display every contact color-coded to a specific project. You can also assign a shortcut key to a category to make applying it faster.</p>{{img:pg 90.png|Textbook page 90 \u2014 the Categorize dropdown on the Ribbon, showing Clear All Categories and a list of color-named categories plus All Categories and Set Quick Click options}}<p>You set and rename categories from the Categorize command, giving each one a name, a color, and (optionally) a shortcut key. Once set up, categories can be applied to any item &mdash; an email, a calendar appointment, a contact, a task, or a note &mdash; from that same Categorize command on the Ribbon.</p>{{img:pg 91.png|Textbook page 91 \u2014 the Color Categories dialog showing a renamed category, its assigned color, and a shortcut key being set}}",
+          "images": {
+            "pg 90.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 90.png",
+            "pg 91.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 91.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU5-D5: Set & Assign Categories",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 90-92 &middot; Develop Your Skills OU5-D5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU5-D5: Set &amp; Assign Categories</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 1 &mdash; Rename Two Categories</h2><ol style=\"margin:0;padding-left:20px;\"><li>From any Outlook element, choose <strong>Home &rarr; Categorize &rarr; All Categories</strong>.</li><li>Select the <strong>Blue Category</strong>, click <strong>Rename</strong>, and type a project name of your choice.</li><li>Click the <strong>Shortcut Key</strong> button and choose <strong>Ctrl+F2</strong>.</li><li>Select the <strong>Green Category</strong>, click <strong>Rename</strong>, and type a second name.</li><li>Click the <strong>Shortcut Key</strong> button and choose <strong>Ctrl+F3</strong>.</li><li>Click <strong>OK</strong>.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 2 &mdash; Apply a Category</h2><ol style=\"margin:0;padding-left:20px;\"><li>Go to your Inbox and select any email.</li><li>Choose <strong>Home &rarr; Categorize</strong>, then click one of your two renamed categories.</li><li><strong>Or:</strong> go to your Calendar, select an appointment, and press its category's shortcut key (Ctrl+F2 or Ctrl+F3) instead &mdash; notice the appointment changes color.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) the Color Categories dialog showing your two renamed categories with their shortcut keys; (2) an email or calendar item with one of your categories applied and visibly color-coded.</p></div></div>",
+          "points_possible": 6,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Color Categories dialog with two renamed categories and shortcut keys",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 both renamed categories and their shortcut keys are clearly visible", "points": 3},
+                  {"description": "Partial Credit \u2014 the dialog is shown but a rename or shortcut key isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows an item with a category applied and color-coded",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the category color is clearly applied to a real item", "points": 3},
+                  {"description": "Partial Credit \u2014 an item is shown but the category isn't clearly applied", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Integrating with Word and Mobile Devices \u2014 Reading",
+          "position": 9,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book pages: 92-93 &middot; Chapter 5 &middot; CBO Objectives: Integrate Outlook with Word and Excel / Access Outlook information on a mobile device</em></p><h2>Integrating with Word and Mobile Devices</h2><p>Outlook works well with other Office applications and with mobile devices, not just on its own.</p><h3>Creating a Word Mail Merge Using Outlook Contacts</h3><p>Outlook contacts are organized as a database, which means you can use them elsewhere &mdash; exporting to Excel, or performing a mail merge in Word. To bring your Outlook contacts into a Word mail merge, use the <strong>Select Recipients &rarr; Choose from Outlook Contacts</strong> command on Word's Mailings tab. After picking a contact folder, you can check or uncheck which contacts to include in the merge.</p>{{img:pg 92.png|Textbook page 92 \u2014 Word's Select Recipients menu with Choose from Outlook Contacts highlighted, and the Mail Merge Recipients list showing three contacts with checkboxes}}<h3>Working Seamlessly with a Mobile Device</h3><p>The information you access through Outlook &mdash; email, people, calendar, tasks, and notes &mdash; can also be accessed on a smartphone or tablet through the free Outlook app (Apple App Store, Google Play, or Microsoft Store). Setting it up uses an Auto Account setup wizard similar to the desktop app. Although your email could be configured in another app on your phone, the Outlook app offers a familiar interface and syncs your email, contacts, appointments, and tasks &mdash; even reminders display on your device.</p>{{img:pg 93.png|Textbook page 93 \u2014 three mobile phone screens: the Outlook app's Add Account setup screen, the sign-in screen, and a synced Inbox}}<div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Note for this course</strong><p style=\"margin:6px 0 0;\">The CBO objective for this topic covers integrating with both Word and Excel, but the textbook itself only details the Word mail-merge process above (it mentions exporting contacts to Excel in passing, with no dedicated walkthrough). There's no separate Hands-On for Excel integration today for that reason.</p></div></div>",
+          "images": {
+            "pg 92.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 92.png",
+            "pg 93.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 5\\pg 93.png"
+          }
+        },
+        {
+          "type": "external_tool",
+          "title": "eLab: Chapter 5 Self-Paced Practice",
+          "position": 10,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187731",
+          "tool_id": 297
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 5 Quiz (eLab)",
+          "position": 11,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187733",
+          "points_possible": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Quiz (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this quiz inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 5 Test (eLab)",
+          "position": 12,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187732",
+          "points_possible": 24,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Test (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this test inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 5 Self-Assessment Quiz (Canvas)",
+          "position": 13,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Self-Assessment Quiz (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">12 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 12-question self-assessment from the FastCourse Outlook publisher materials, built as a native Canvas quiz. Auto-graded &mdash; use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 12,
+          "questions": [
+            {"question_type": "true_false_question", "question_text": "You can use your Outlook contacts when conducting a mail merge in Word.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "When you close Outlook, any notes on the Desktop are deleted automatically.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "Categories let you color-code items only within the task and mail elements of Outlook.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "When you assign a task to someone, you are no longer the owner of the task.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "The only information you can access through Outlook on a mobile device is your email.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "Tasks can be viewed in other elements of Outlook on the To-Do bar.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "Flagged emails appear as tasks on your To-Do list.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "You can accept or decline a task assigned to you by someone else.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "Create a prepopulated task by dragging an Outlook item to Tasks on the Navigation bar.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "You can assign categories a name, a color, and a:", "answers": [{"text": "folder", "weight": 0}, {"text": "shortcut key", "weight": 100}, {"text": "tab", "weight": 0}, {"text": "date", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which of these is NOT a view option for your notes?", "answers": [{"text": "Last 7 Days", "weight": 0}, {"text": "Notes List", "weight": 0}, {"text": "Icon", "weight": 0}, {"text": "Subject", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What can you NOT display in the To-Do bar?", "answers": [{"text": "Notes", "weight": 100}, {"text": "Tasks", "weight": 0}, {"text": "Calendar", "weight": 0}, {"text": "People", "weight": 0}]}
+          ]
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 5 Test (Canvas)",
+          "position": 14,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Test (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">18 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 18-question Test Bank from the FastCourse Outlook publisher materials, built as a native Canvas quiz &mdash; covers all 6 CBO objectives for this chapter. Auto-graded. Use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 24,
+          "questions": [
+            {"question_type": "multiple_choice_question", "question_text": "What does an Outlook note that is placed on the Desktop look like?", "answers": [{"text": "A bulleted list icon", "weight": 0}, {"text": "A sticky note icon", "weight": 100}, {"text": "A clipboard icon", "weight": 0}, {"text": "A red flag icon", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "How can you organize your notes?", "answers": [{"text": "As \"old\" or \"new\"", "weight": 0}, {"text": "By owner", "weight": 0}, {"text": "In categories", "weight": 100}, {"text": "By appointment", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Where are notes stored?", "answers": [{"text": "In the Notes folder in Outlook's personal folders", "weight": 100}, {"text": "On the C: drive of the computer", "weight": 0}, {"text": "On the Desktop", "weight": 0}, {"text": "On the To-Do bar", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Where are tasks displayed?", "answers": [{"text": "To-Do list", "weight": 100}, {"text": "Inbox", "weight": 0}, {"text": "Calendar", "weight": 0}, {"text": "Categories", "weight": 0}]},
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each task option to its description.",
+              "points_possible": 4,
+              "matches": [
+                {"left": "Assign Task", "right": "Create and send a task to a contact, who accepts or declines it"},
+                {"left": "Reminder", "right": "An alert that prompts you to work on a task"},
+                {"left": "Status", "right": "Indication of progress made or the current state of a task"},
+                {"left": "Flag", "right": "A quick way to turn an email message into a task"}
+              ]
+            },
+            {"question_type": "multiple_choice_question", "question_text": "Which of these is NOT a way to create a task?", "answers": [{"text": "Use the Type a New Task box.", "weight": 0}, {"text": "Drag an item to Tasks on the Navigation bar.", "weight": 0}, {"text": "Flag a message.", "weight": 0}, {"text": "Import it from Word.", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is an easy way to schedule calendar time to work on a task?", "answers": [{"text": "Export the task from the To-Do Bar to the day before the due date.", "weight": 0}, {"text": "Right-click the task in the Navigation bar peek and choose Remind.", "weight": 0}, {"text": "Drag the task onto the calendar so it travels from day to day until you mark it as complete.", "weight": 100}, {"text": "Set up a series of appointments with action items related to the task.", "weight": 0}]},
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each task view type to its description.",
+              "points_possible": 4,
+              "matches": [
+                {"left": "To-Do List view", "right": "The default, this view displays the Reading pane to its right."},
+                {"left": "Task List view", "right": "Displays your list of tasks"},
+                {"left": "To-Do bar", "right": "Keeps your task list visible while you work in another Outlook element"},
+                {"left": "Peek", "right": "Accessed via the Navigation bar"}
+              ]
+            },
+            {"question_type": "multiple_choice_question", "question_text": "How is the start date for a task determined?", "answers": [{"text": "The task originator/creator specifies it during creation.", "weight": 100}, {"text": "It's always the date the task is created.", "weight": 0}, {"text": "This is done according to when the person assigned the task accepts it.", "weight": 0}, {"text": "By default, the start date is always one day after the task is created.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you send a task to someone?", "answers": [{"text": "It appears on the recipient's calendar at the start and due dates.", "weight": 0}, {"text": "You remain the task owner until the recipient responds to the task.", "weight": 0}, {"text": "The recipient receives the task and can then accept or decline it.", "weight": 100}, {"text": "The Manage Task bar appears on the Navigation bar for you and the recipient.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "When does a task recipient become the task owner?", "answers": [{"text": "Never", "weight": 0}, {"text": "When task progress is reported", "weight": 0}, {"text": "After they accept it", "weight": 0}, {"text": "As soon as the originator sends it", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you accept a task from someone else?", "answers": [{"text": "The calendar opens so you can indicate the due date and set a reminder.", "weight": 0}, {"text": "The message is removed from your Inbox and the task appears in your task list.", "weight": 100}, {"text": "Outlook prompts you to set up the status report schedule.", "weight": 0}, {"text": "The task is highlighted on the To-Do bar until you mark it complete.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is an advantage of the To-Do bar?", "answers": [{"text": "The categories it sets by default can be customized, or you can create rules.", "weight": 0}, {"text": "It automatically blocks out time on your calendar for you to work on tasks.", "weight": 0}, {"text": "The contextual Ribbon tab appears with more options when you turn on the To-Do bar.", "weight": 0}, {"text": "It's customizable and can show in any of the Outlook elements, helping you keep track of tasks, calendar items, and contacts.", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What can you do to organize tasks in your To-Do list when you have many tasks that deal with the same project or topic?", "answers": [{"text": "Use the Manage Task bar.", "weight": 0}, {"text": "Create folders for tasks associated with the different projects.", "weight": 100}, {"text": "Start declining tasks to ensure you don't get overloaded.", "weight": 0}, {"text": "Use different flag colors for different projects.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "To create a mail merge, you can _____ your Outlook contacts into Word.", "answers": [{"text": "assign", "weight": 0}, {"text": "peek at", "weight": 0}, {"text": "categorize", "weight": 0}, {"text": "import", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "When using Outlook contacts in a mail merge, from where do you issue the command to retrieve the contacts?", "answers": [{"text": "From within Word", "weight": 100}, {"text": "From Backstage view", "weight": 0}, {"text": "From the To-Do bar", "weight": 0}, {"text": "From the applicable category", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What information that you access through Outlook can you also access on a mobile device?", "answers": [{"text": "Email and people", "weight": 0}, {"text": "Email", "weight": 0}, {"text": "All Outlook information", "weight": 100}, {"text": "Tasks and notes", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Why use the Outlook app rather than, for example, the email app associated with your smartphone?", "answers": [{"text": "It's the only way to access your Outlook information on a mobile device.", "weight": 0}, {"text": "The app syncs your email, contacts, appointments, and tasks.", "weight": 100}, {"text": "It helps keep your account secure from hackers.", "weight": 0}, {"text": "The app allows your contacts to carry over.", "weight": 0}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
