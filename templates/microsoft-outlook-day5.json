@@ -1,0 +1,179 @@
+{
+  "course_name": "Microsoft Outlook 2021 & 365 Fast Course",
+  "course_code": "OUTLOOK",
+  "modules": [
+    {
+      "name": "Day 5, Chapter 4: The Calendar (Part 2 of 2)",
+      "position": 6,
+      "items": [
+        {
+          "type": "Page",
+          "title": "Day 5 Overview \u2014 Tasks & Competencies",
+          "position": 1,
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 4: The Calendar (Part 2 of 2)</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 5 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Yesterday you filled your calendar with appointments and meetings. Today you'll make that calendar useful to other people &mdash; sharing it, comparing it against someone else's, and printing a hard copy &mdash; then wrap up the whole chapter with the Self-Assessment Quiz and Test.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Competencies Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Share your calendar</li><li>Print a calendar</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Sharing, Publishing &amp; Creating More Calendars &mdash; read, then complete Hands-On OU4-D9 &amp; D10</li><li>Printing Calendars &mdash; read, then complete the Print Setup Hands-On</li><li>Chapter 4 Self-Assessment Quiz and Test &mdash; these cover the <strong>whole chapter</strong>, Part 1 (Day 4) and Part 2 (today) together</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Chapter 4 wraps up today</strong><p style=\"margin:6px 0 0;\">The Self-Assessment Quiz and Test at the bottom of this module test everything from both Day 4 and Day 5 &mdash; views, appointments, meetings, recurring appointments, sharing, and printing.</p></div></div>"
+        },
+        {
+          "type": "Page",
+          "title": "Sharing, Publishing & Creating More Calendars \u2014 Reading",
+          "position": 2,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 4 Reading</div></div><p><em>Book pages: 77-80 &middot; Chapter 4 &middot; CBO Objective: Share your calendar</em></p><h2>Sharing and Publishing Calendars</h2><p>There are many ways to share a calendar, and this course covers two of them: sending a calendar via email and publishing it online. You can mark calendar items as private and then decide whether you want to share them. The default option is to <strong>not</strong> share them &mdash; when someone receives a calendar with items marked private, all they'll see on your calendar is <em>Private Appointment</em>. The sharing options available to you will vary depending on your Outlook configuration.</p><h2>Creating More Calendars</h2><p>You may want to create separate calendars for different areas of your work &mdash; for example, a dedicated calendar for a team project that you can share with just that team. The quickest way to create one is to right-click an existing calendar in the Folder pane and choose <strong>New Calendar</strong>.</p><h3>Displaying Multiple Calendars</h3><p>Once you have more than one calendar, they all show up in a list under My Calendars in the Navigation pane. You can switch back and forth between them side by side, or <strong>overlay</strong> them so they display on one shared set of dates and times &mdash; handy for checking a coworker's schedule against your own to find a good meeting time. Outlook assigns each calendar its own color so you can tell them apart; in Overlay mode, whichever calendar is on top stays fully readable while the other shows through in fainter text.</p>{{img:pg 78.png|Textbook page 78 \u2014 the right-click New Calendar menu, and the Displaying Multiple Calendars section showing two calendars side by side and overlaid}}<h3>Copying Calendar Items</h3><p>The simplest way to copy an item from one calendar to another is to view them side by side and drag the event onto the same time on the other calendar &mdash; this is usually easiest in Month view.</p><h2>Sending a Calendar via Email</h2><p>If you want your contacts to know when you're available and when you're busy, you can share your calendar with them by email. They'll be able to see any updates you make as meetings and appointments are added or changed. Recipients can choose to view the calendar right in the email message, or open it as its own Outlook calendar and position it side by side with theirs or in Overlay mode.</p><h3>Marking Items as Private</h3><p>Any item on your calendar &mdash; appointments and meetings alike &mdash; can be marked private. When you share your calendar with someone, you decide whether to share those private items or keep them hidden. A small padlock appears at the bottom right of a private appointment's peek card, and the shortcut menu on any calendar item includes a <strong>Private</strong> option.</p><h3>Sending Options</h3><p>The shortcut menu on any calendar lets you create an email with that calendar attached. In the Send a Calendar via Email window, you can choose a date range (like the whole calendar or just the next 30 days), and a <strong>Detail</strong> level &mdash; <em>Availability only</em> (just Free/Busy/Tentative/Out of Office), <em>Limited details</em> (availability plus the subjects of calendar items), or <em>Full details</em> (availability and the full details of every item).</p>{{img:pg 80.png|Textbook page 80 \u2014 the Send a Calendar via Email window with its Date Range and Detail drop-downs, and the start of the Publishing a Calendar Online section}}<h2>Publishing a Calendar Online</h2><p>If you want someone to see your calendar without you having to email it, you can publish it online first and then share it &mdash; a more dynamic option, since the person you share it with sees changes as you make them. This is a good fit for calendars tracking a group project. You'll typically publish to whatever online service you use for email, such as Outlook.com.</p>",
+          "images": {
+            "pg 78.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 4\\pg 78.png",
+            "pg 80.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 4\\pg 80.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On OU4-D9 & D10: Compare & Share Calendars",
+          "position": 3,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 79-81 &middot; Develop Your Skills OU4-D9 &amp; OU4-D10</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On OU4-D9 &amp; D10: Compare &amp; Share Calendars</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 1 &mdash; OU4-D9: Display Multiple Calendars (Overlay)</h2><ol style=\"margin:0;padding-left:20px;\"><li>In the Folder pane, check the box next to a second calendar &mdash; use <strong>US Holidays</strong> or <strong>Birthday calendar</strong> if you have one; if not, right-click your calendar and choose <strong>New Calendar</strong> first to create a second one to compare against.</li><li>Choose <strong>View &rarr; More Commands (&hellip;) &rarr; Overlay</strong>.</li><li>Notice both calendars now share one set of dates, with the second calendar's items shown in fainter text. Switch back to Side-by-Side mode and compare the two views.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Part 2 &mdash; OU4-D10: Share a Calendar via Email</h2><ol style=\"margin:0;padding-left:20px;\"><li>Right-click your Calendar's title bar and choose <strong>Share &rarr; E-mail Calendar</strong>.</li><li>Set the <strong>Date Range</strong> to <strong>Next 30 Days</strong> and the <strong>Detail</strong> level to <strong>Limited details</strong>. Click OK.</li><li><strong>Required:</strong> address the message to a classmate or your instructor, using their real VACE email address.</li><li>Click <strong>Send</strong>.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) your calendar in Overlay mode with both calendars' items visible; (2) the sent calendar-sharing email showing your recipient and the attached calendar.</p></div></div>",
+          "points_possible": 6,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the calendar in Overlay mode with items from both calendars visible",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 Overlay mode is clearly shown with both calendars' items", "points": 3},
+                  {"description": "Partial Credit \u2014 a calendar is shown but Overlay mode / the second calendar isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              },
+              {
+                "description": "Screenshot shows the sent calendar-sharing email with a real recipient",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the sent email is shown with a recipient address and the calendar attached/embedded", "points": 3},
+                  {"description": "Partial Credit \u2014 an email is shown but the recipient or attached calendar isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Printing Calendars \u2014 Reading",
+          "position": 4,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 4 Reading</div></div><p><em>Book pages: 81-82 &middot; Chapter 4 &middot; CBO Objective: Print a calendar</em></p><h2>Printing Calendars</h2><p>Sometimes it's handy to have a hard copy of your calendar &mdash; if you're out on the road and leaving the computer behind, you can print your appointments to take with you. You can choose to print the Day, Week, or Month view, then choose which dates to include.</p>{{img:pg 82.png|Textbook page 82 \u2014 the calendar Print dialog, showing print style options (Monthly, Tri-fold, Calendar Details), a Page Setup button, print range, a specific date range, and the option to hide the details of private appointments}}<p>The Print dialog lets you pick which calendar to print, a <strong>print style</strong> (Monthly Style, Tri-fold Style, Calendar Details Style, or a style you define yourself), and a specific <strong>date range</strong> to include. <strong>Page Setup</strong> opens more detailed settings, like limiting the printout to workdays only or adding headers and footers. And if some of your appointments are marked private, you can choose whether to hide their details on the printed copy.</p>",
+          "images": {
+            "pg 82.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 4\\pg 82.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On: Print Setup",
+          "position": 5,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 81-82</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On: Print Setup</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Click <strong>File &rarr; Print</strong>.</li><li>Under Settings, choose the <strong>Monthly Style</strong> print style.</li><li>Set the print range to the <strong>current month</strong> (or any date range of your choosing).</li><li>Take a screenshot of the Print screen showing your chosen style and date range &mdash; you do <strong>not</strong> need to actually print anything.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">One screenshot of the Print screen with the Monthly Style and your chosen date range visible.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": ["online_upload"],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Print screen with a chosen print style and date range",
+                "points": 3,
+                "ratings": [
+                  {"description": "Full Credit \u2014 the print style and date range are both clearly visible", "points": 3},
+                  {"description": "Partial Credit \u2014 the Print screen is shown but the style or date range isn't clearly visible", "points": 1.5},
+                  {"description": "No Credit \u2014 missing or unrelated screenshot", "points": 0}
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "external_tool",
+          "title": "eLab: Chapter 4 Self-Paced Practice",
+          "position": 6,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187728",
+          "tool_id": 297
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 4 Quiz (eLab)",
+          "position": 7,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187730",
+          "points_possible": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 4 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 4 Quiz (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this quiz inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "lti_assignment",
+          "title": "Chapter 4 Test (eLab)",
+          "position": 8,
+          "external_url": "https://lti.labyrinthelab.com/lti_1_3/launch.php?custom_lti_app_resource_id=187729",
+          "points_possible": 27,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 4 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 4 Test (eLab)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Launches and grades through eLab</div></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">How this works</strong><p style=\"margin:6px 0 0;\">Click Submit Assignment to launch this test inside eLab. Your score syncs back to this Canvas gradebook column automatically.</p></div></div>"
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 4 Self-Assessment Quiz (Canvas)",
+          "position": 9,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 4 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 4 Self-Assessment Quiz (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">12 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 12-question self-assessment from the FastCourse Outlook publisher materials, covering the whole chapter (Parts 1 and 2), built as a native Canvas quiz. Auto-graded &mdash; use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 12,
+          "questions": [
+            {"question_type": "true_false_question", "question_text": "You can undo the deletion of one occurrence of a recurring appointment.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "You can't change the start date or time for an appointment.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "In Month view, you can view the last two weeks from the current month and two weeks from the next month by scrolling down.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "Recurring appointments can only be set for the same day and time for each week.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "The Work Week view never displays Saturday or Sunday.", "answers": [{"text": "True", "weight": 0}, {"text": "False", "weight": 100}]},
+            {"question_type": "true_false_question", "question_text": "Any item you have on your calendar can be marked as private.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "true_false_question", "question_text": "A calendar sent via email is a copy of the calendar at that time; it can't be updated as your calendar changes.", "answers": [{"text": "True", "weight": 100}, {"text": "False", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "When you accept a meeting invitation, it _____ the email folder.", "answers": [{"text": "is forwarded to", "weight": 0}, {"text": "switches to unread in", "weight": 0}, {"text": "is flagged in", "weight": 0}, {"text": "disappears from", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "How can you read a calendar that someone sends you via email?", "answers": [{"text": "In the Reading pane", "weight": 0}, {"text": "Open it as an Outlook calendar", "weight": 0}, {"text": "Either in the Reading pane or as a calendar", "weight": 100}, {"text": "None of these options", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is NOT an option for responding to a meeting invite in Outlook?", "answers": [{"text": "Accept", "weight": 0}, {"text": "Postpone", "weight": 100}, {"text": "Decline", "weight": 0}, {"text": "Propose a new time", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What icon is used to identify a private calendar item?", "answers": [{"text": "Small padlock", "weight": 100}, {"text": "Circle with a slash through it", "weight": 0}, {"text": "Closed eye", "weight": 0}, {"text": "The letter \"P\" with a circle around it", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Appointments that occur the same day and time each week or each month are called:", "answers": [{"text": "repeating appointments", "weight": 0}, {"text": "recurring appointments", "weight": 100}, {"text": "periodic appointments", "weight": 0}, {"text": "frequent appointments", "weight": 0}]}
+          ]
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 4 Test (Canvas)",
+          "position": 10,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 4 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 4 Test (Canvas)</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">23 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The same 23-question Test Bank from the FastCourse Outlook publisher materials, covering the whole chapter (Parts 1 and 2), built as a native Canvas quiz. Auto-graded. Use this as your Canvas-gradebook copy alongside the eLab version above.</p></div></div>",
+          "points_possible": 27,
+          "images": {
+            "TB-C04-Q8-AppointmentDurations.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 4\\TB-C04-Q8-AppointmentDurations.png",
+            "TB-C04-Q22-PrivateAppointmentIcon.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Outlook 2021 365 Fast Course\\Chapter 4\\TB-C04-Q22-PrivateAppointmentIcon.png"
+          },
+          "questions": [
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each calendar view to its description.",
+              "points_possible": 5,
+              "matches": [
+                {"left": "Month", "right": "Makes it easy to copy/move appointments from one day to another"},
+                {"left": "Schedule", "right": "Helpful when you're scheduling a meeting time that is convenient for multiple people"},
+                {"left": "Work Week", "right": "Use the default or tell Outlook what days to display"},
+                {"left": "Day", "right": "Choose to show your daily tasks at the bottom of this view to help ensure you stay on track"},
+                {"left": "Peek", "right": "Shows the current month and any scheduled items for the next seven days"}
+              ]
+            },
+            {"question_type": "multiple_choice_question", "question_text": "What does Schedule view display?", "answers": [{"text": "Your meetings for the week", "weight": 0}, {"text": "Your current month's appointments plus this week's meetings", "weight": 0}, {"text": "Your designated work week and times", "weight": 0}, {"text": "Your daily calendar from left to right", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "Why are some days and times grayed out in the calendar?", "answers": [{"text": "You've marked them as \"busy\" times.", "weight": 0}, {"text": "They're outside the designated work hours.", "weight": 100}, {"text": "The peek is not available for those days and times.", "weight": 0}, {"text": "They're holidays.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Why is the Weather bar included on the Outlook calendar?", "answers": [{"text": "It allows Outlook to alert you to when adverse weather conditions are affecting email delivery.", "weight": 0}, {"text": "It helps you choose your vacation days.", "weight": 0}, {"text": "It's nice to know what's going on outside when you're stuck inside working.", "weight": 0}, {"text": "It can help you plan for appointments that require travel to/from different cities.", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "Lucille's new client lives in a different time zone from hers. What can Lucille do to help ensure she schedules online meetings and calls at times that are within her client's normal business hours?", "answers": [{"text": "Change her working times to match her client's.", "weight": 0}, {"text": "Add the client's time zone to her calendar.", "weight": 100}, {"text": "Assign the client a task for each meeting and phone call.", "weight": 0}, {"text": "Have the client set up all the meetings and calls.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "If you want to know the days on which national/international holidays fall, but you don't want them to clutter your calendar, you can:", "answers": [{"text": "display the holiday calendar side by side with your calendar", "weight": 100}, {"text": "type a list of holidays in Word and save it to your Desktop", "weight": 0}, {"text": "use the Holiday View", "weight": 0}, {"text": "add the holidays as unlabeled \"busy\" times", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "When does an appointment become a meeting?", "answers": [{"text": "As soon as you click the Calendar link", "weight": 0}, {"text": "After you select the appointment and choose New Meeting", "weight": 0}, {"text": "When you invite someone to participate", "weight": 100}, {"text": "Once the reminder is set", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which image shows a one-hour appointment in the calendar?{{img:TB-C04-Q8-AppointmentDurations.png|Four labeled calendar snippets (A, B, C, D) showing the same \"New Product Training\" appointment at different durations and layouts}}", "answers": [{"text": "A", "weight": 0}, {"text": "B", "weight": 0}, {"text": "C", "weight": 100}, {"text": "D", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "To quickly change an appointment time, you can:", "answers": [{"text": "drag the appointment block to the new time on the calendar", "weight": 100}, {"text": "right-click and choose Propose New Time", "weight": 0}, {"text": "open the appointment window and make the change", "weight": 0}, {"text": "dock the appointment from the peek", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What happens when you set a reminder for an appointment?", "answers": [{"text": "A window pops up on the screen at the designated reminder point.", "weight": 100}, {"text": "You receive an email at the designated reminder point.", "weight": 0}, {"text": "The appointment turns bright blue in the calendar.", "weight": 0}, {"text": "The Schedule view opens with the appointment reminder notes you created.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "How do you turn an email into an appointment?", "answers": [{"text": "Right-click the email and choose Convert to Appointment.", "weight": 0}, {"text": "Drag it from the email messages list to the Calendar link on the Navigation bar.", "weight": 100}, {"text": "Invite attendees.", "weight": 0}, {"text": "Request organizer privileges.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is the default Show As option for a new appointment?", "answers": [{"text": "Tentative", "weight": 0}, {"text": "At an Appointment", "weight": 0}, {"text": "Busy", "weight": 100}, {"text": "Out of Office", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which of these is an appointment?", "answers": [{"text": "A brainstorming session with a colleague", "weight": 0}, {"text": "A scheduled eye exam", "weight": 100}, {"text": "Christmas Eve", "weight": 0}, {"text": "An all-company quarterly review presentation", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is NOT an option when responding to a meeting request?", "answers": [{"text": "Accept", "weight": 0}, {"text": "Tentative", "weight": 0}, {"text": "Decline", "weight": 0}, {"text": "Change to Recurring", "weight": 100}, {"text": "Propose New Time", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Which statement is true about deleting a recurring appointment?", "answers": [{"text": "Outlook does not allow you to delete an individual occurrence because this could negatively impact your overall project timeline.", "weight": 0}, {"text": "The deleted appointment will stay in your Deleted Items folder, which means you can return it to your calendar if necessary.", "weight": 0}, {"text": "You cannot undo the deletion of a recurring appointment, whether an individual occurrence or all of them.", "weight": 100}, {"text": "When you delete a recurring appointment, Outlook sends a notification to all attendees.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "Evan has a recurring appointment every Friday, 9:00\u201310:00 AM with a 15-minute reminder. On Monday he changed the reminder for the next occurrence to show 5 minutes before start, and on Wednesday he edited the reminder for the series to show 30 minutes before start. What happened to the 5-minute reminder for the next occurrence?", "answers": [{"text": "It reverts to the 15-minutes default.", "weight": 0}, {"text": "It was changed to 30 minutes, along with the rest of the series.", "weight": 100}, {"text": "It remains at 5 minutes.", "weight": 0}, {"text": "It is entirely removed; there is no reminder for the next occurrence.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is an option when deleting a recurring appointment?", "answers": [{"text": "Delete a single or all occurrences.", "weight": 100}, {"text": "Change the Show As option to Now Available.", "weight": 0}, {"text": "Delete the occurrences and notify the attendees.", "weight": 0}, {"text": "Reschedule the occurrences.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is a recurring appointment?", "answers": [{"text": "One that happens multiple times in a day", "weight": 0}, {"text": "One that spans multiple hours", "weight": 0}, {"text": "One that happens at the same day and time every week", "weight": 100}, {"text": "A one-time appointment", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "When sharing a calendar via email, the default option is to _____ the appointments.", "answers": [{"text": "display details of", "weight": 0}, {"text": "merge", "weight": 0}, {"text": "publish", "weight": 0}, {"text": "not share", "weight": 100}]},
+            {"question_type": "multiple_choice_question", "question_text": "What does it mean to overlay calendars?", "answers": [{"text": "To display calendars side by side", "weight": 0}, {"text": "To layer one calendar on top of another, displaying one set of dates and times", "weight": 100}, {"text": "To send calendar snapshots to contacts", "weight": 0}, {"text": "To publish a calendar online", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What's a simple way to copy an item from one calendar to another?", "answers": [{"text": "Turn the item into an appointment, inviting yourself.", "weight": 0}, {"text": "Create the item in the other calendar.", "weight": 0}, {"text": "Drag the item from one calendar to the same day/time on the other calendar.", "weight": 100}, {"text": "Overlay the calendars.", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What is this?{{img:TB-C04-Q22-PrivateAppointmentIcon.png|A calendar appointment titled \"Birthday lunch with Mom\" at Flower Cafe, with a small padlock icon in its bottom right corner}}", "answers": [{"text": "A recurring appointment", "weight": 0}, {"text": "A private appointment", "weight": 100}, {"text": "An appointment with a locked reminder", "weight": 0}, {"text": "A published calendar item", "weight": 0}]},
+            {"question_type": "multiple_choice_question", "question_text": "What print options are available for calendars?", "answers": [{"text": "Print any view.", "weight": 0}, {"text": "Hide or display private appointments.", "weight": 0}, {"text": "Print a specific date range.", "weight": 0}, {"text": "All of these options", "weight": 100}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
