@@ -2489,14 +2489,14 @@
       ]
     },
     {
-      "name": "Chapter 5: Using Email",
-      "position": 6,
+      "name": "Day 5, Chapter 5: Using Email",
+      "position": 5,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 5 Overview: Using Email",
+          "title": "Day 5 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Using Email</h2><p>This chapter covers the Outlook Online app and the fundamentals of email: the parts of an inbox and a message, sending/receiving/replying, attaching files, organizing with folders, and protecting yourself from malicious email.</p><h3>Learning objectives</h3><ul><li>Create a properly formatted email address</li><li>Send and receive emails, including those with attachments</li><li>Create folders and organize emails using Outlook</li><li>Identify spam and other email threats</li></ul><h3>What is email? The Outlook Online app (Hands-On 5.1-5.2)</h3><p>You'll log in to Outlook via OneDrive (5.1) and read a message from the Outlook Team (5.2), getting familiar with the Outlook screen and its dynamic, responsive layout.</p><h3>Sending, receiving, and replying (Hands-On 5.3-5.5)</h3><p>Send a message (5.3), send one with an attachment (5.4), and reply to a message from your instructor (5.5). Every message needs an address line and message body — the subject line is technically optional but recommended.</p><h3>Saving emails with folders (Hands-On 5.6-5.7)</h3><p>Create folders to organize your Inbox (5.6), then move messages into them using both drag-and-drop and the Move To command (5.7).</p><h3>Email safety (Hands-On 5.8)</h3><p>Learn to spot and remove spam using the Report Junk command. Deleted emails move to the Deleted folder and are permanently removed after about ten days.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 5.1-5.8</strong> — done together in class</li><li><strong>Skill Builders 5.1-5.5</strong> (in-book: Save Files from Links; Create a Gmail Account; Send/Read Email in Gmail; Delete/Archive in Gmail; Forward an Email) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 5.1-5.2</strong> (Multiple Address Lines; Organize Email with Folders) — graded homework, see the assignments in this module</li><li><strong>Chapter 5 Quiz</strong> — see the quiz in this module</li></ul>"
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 5 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Using Email</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's plan</h2><p>This chapter covers the Outlook Online app and the fundamentals of email: the parts of an inbox and a message, sending/receiving/replying, attaching files, organizing with folders, and protecting yourself from malicious email.</p><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Competencies covered today</h3><ul style=\"margin:0;padding-left:20px;\"><li>Create a properly formatted email address</li><li>Send and receive emails, including those with attachments</li><li>Create folders and organize emails using Outlook</li><li>Identify spam and other email threats</li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 5 Presentation</li><li>What Is Email? &amp; Logging In to Outlook &mdash; read, then submit Hands-On 5.1</li><li>The Outlook Screen &mdash; read, then submit Hands-On 5.2</li><li>Sending Messages &mdash; read, then submit Hands-On 5.3</li><li>Attachments &mdash; read, then submit Hands-On 5.4</li><li>Receiving &amp; Replying &mdash; read, then submit Hands-On 5.5</li><li>Deleting &amp; Creating Folders &mdash; read, then submit Hands-On 5.6</li><li>Moving Emails &mdash; read, then submit Hands-On 5.7</li><li>Email Safety &mdash; read, then submit Hands-On 5.8</li><li>Skill Builders 5.1-5.5 (in-book, independent practice)</li><li>Additional Skill Builder 5.1: Multiple Address Lines</li><li>Additional Skill Builder 5.2: Organize Your Email with Folders</li><li>Chapter 5 Quiz</li></ol></div></div>"
         },
         {
           "type": "File",
@@ -2505,40 +2505,508 @@
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C05-PPT.pptx"
         },
         {
-          "type": "Assignment",
-          "title": "Skill Builders 5.1-5.5",
+          "type": "Page",
+          "title": "What Is Email? & Logging In to Outlook — Reading",
           "position": 3,
-          "description": "<h2>Skill Builders 5.1-5.5</h2><p>In-book Skill Builders for Chapter 5. Refer to your textbook (Chapter 5, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>5.1 Save Files from Links</strong> — save images sent to you as links to your USB drive.</li><li><strong>5.2 Create a Gmail Email Account</strong> — create a free Gmail account.</li><li><strong>5.3 Send and Read Email in Gmail</strong></li><li><strong>5.4 Delete and Archive Emails in Gmail</strong></li><li><strong>5.5 Forward an Email</strong> — forward a message to a new recipient.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
-          "points_possible": 25,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 109-111 &middot; CBO Objective: #1</p><h2>What Is Email? &amp; Logging In to Outlook</h2><h3>What Is Email?</h3><p>Email was invented in 1971 by Ray Tomlinson. Roughly 300 billion emails are sent every day. An <strong>attachment</strong> is a file (document, photo, etc.) sent along with an email message.</p><h3>How Does Email Work?</h3><p>Sending email works a bit like the postal service &mdash; your message travels through an email server (like a post office) that routes it to the recipient's mailbox.</p>{{img:pg 109.png|Textbook page 109 &mdash; how email travels from sender to recipient}}<h3>Email Address</h3><p>An email address has two pieces separated by an <strong>@</strong> symbol: <code>yourname@domain.com</code> &mdash; the local piece (your name/username) and the domain piece (where your electronic mailbox lives).</p>{{img:pg 110.png|Textbook page 110 &mdash; the parts of an email address}}<h3>The Outlook Online App</h3><p><strong>Outlook for the web</strong> (formerly Outlook.com) is a free, browser-based email client. Other free email providers include Gmail, Yahoo Mail, and Mail.com. You'll log in to Outlook using the same Microsoft account you created in Chapter 3.</p>",
+          "images": {
+            "pg 109.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 109.png",
+            "pg 110.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 110.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.1: Log In to Outlook",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.1: Log In to Outlook</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 111 &middot; CBO Objective: #1</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will log in to Outlook for the first time. The first step is to log in to OneDrive.</p><ol><li>Start Microsoft Edge.</li><li>Type <code>onedrive.live.com</code> into the address bar and press Enter.</li><li>Sign in to OneDrive, if necessary <em>(see Hands-On 3.3, steps 6-9, if you have any problems)</em>.</li><li>Click the app launcher on the left side of the OneDrive title bar and then click <strong>Outlook</strong>.</li><li>Choose <strong>Skip for Now</strong> if it asks about adding an Outlook email address &mdash; you already have an email address associated with this account, so you never need to create one.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of Outlook open and signed in (before closing it in step 6).</p></div></div>",
+          "points_possible": 3,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Outlook open and signed in",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Outlook clearly open and signed in",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but sign-in state unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "The Outlook Screen — Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 112 &middot; CBO Objective: #1</p><h2>The Outlook Screen</h2><p>Outlook uses a <strong>dynamic, responsive</strong> screen &mdash; its layout changes based on the size of the app window, similar to how a website adjusts to different screen sizes.</p>{{img:pg 112.png|Textbook page 112 &mdash; the Outlook screen: app launcher, menu bar, folders, view pane}}<p>Key areas: the <strong>app launcher</strong> (top-left grid icon), the <strong>menu bar</strong> (command buttons), the <strong>Folders</strong> list (Inbox, Junk, Drafts, Sent, Deleted), and the <strong>view pane</strong> where messages are listed and read. Hovering over a message in the list reveals quick icons to mark it read/unread, pin it to the top, or delete it.</p>",
+          "images": {
+            "pg 112.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 112.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.2: Read an Email",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.2: Read an Email</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 113 &middot; CBO Objective: #1</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will open and read an email from the Outlook Team.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Log in to OneDrive using the instructions in Hands-On 3.3.</p></div><ol><li>Click the app launcher on the left side of the OneDrive title bar and then click <strong>Outlook</strong>.</li><li>Open the email from the Outlook Team by clicking on its subject line.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the opened Outlook Team email (before closing it in step 3).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the opened Outlook Team email",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; the email is clearly open and readable",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but the wrong email or unclear state",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Sending Messages — Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 113, 115-116 &middot; CBO Objective: #2</p><h2>Sending Messages</h2><p>Every email has up to four parts: a <strong>recipient address</strong> (required), a <strong>subject line</strong> (optional but recommended), <strong>message body text</strong>, and <strong>attachments</strong> (optional).</p><h3>Address Line</h3><p>The <strong>To</strong> line holds the main recipient(s) &mdash; separate multiple addresses with a comma. <strong>Cc</strong> (carbon copy) sends a visible copy to someone else; <strong>Bcc</strong> (blind carbon copy) does the same but hides that person's address from other recipients.</p><table><tr><th>Field</th><th>Purpose</th></tr><tr><td>To</td><td>Main recipient(s)</td></tr><tr><td>Cc</td><td>Visible copy to an additional recipient</td></tr><tr><td>Bcc</td><td>Hidden copy to an additional recipient</td></tr><tr><td>,</td><td>Separates multiple addresses in the same field</td></tr></table><h3>Subject Line</h3><p>A good subject line is short and specific:</p><table><tr><th>Bad</th><th>Good</th></tr><tr><td>Homework</td><td>Homework assignment #4 attached</td></tr><tr><td>Approved</td><td>Changes to Project Approved</td></tr><tr><td>Need Help!</td><td>Need Help With Windows Problem</td></tr></table><h3>Writing Your Message</h3><p>Typing a message in Outlook works just like typing text into Word &mdash; the same formatting toolbar (bold, italic, font, etc.) is available.</p>{{img:pg 116.png|Textbook page 116 &mdash; the message formatting toolbar}}",
+          "images": {
+            "pg 116.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 116.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.3: Send an Email Message",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.3: Send an Email Message</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 116-117 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Open Outlook.</li><li>Click the <strong>New Email</strong> button on the menu bar.</li><li>In the address line type <code>laura.smith@lablearning.net</code>, then click <strong>Cc</strong> to open a carbon copy address line.</li><li>In the Cc line, type <code>dcampbell@lablearning.net</code> and click in the subject line.</li><li>Type the subject: <strong>Problem with Free Bobble-head Offer</strong>, then click in the message area.</li><li>Type: &quot;To Whom It May Concern, I recently registered on your website to receive a free collectible bobble-head doll. It has been six weeks, and I have not received any reply or the free doll. If possible, please let me know the status of my doll. Thank you,&quot;</li><li>Type your name.</li><li>Click <strong>Send</strong>.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the message in your Sent folder, showing the To/Cc lines and subject.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the sent email with correct To, Cc, and subject",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; To, Cc, and subject all correct and visible",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; email sent but one field missing/incorrect",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Attachments — Reading",
+          "position": 9,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 118 &middot; CBO Objective: #2</p><h2>Attachments</h2><p>Most file types can be attached to an email &mdash; documents, images, spreadsheets, and more. Email providers limit attachment size (Gmail and Outlook both cap at 25 MB).</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Tip!</strong><p style=\"margin:6px 0 0;\">Even if your provider allows a large attachment, the recipient's provider might not — some inboxes reject large attachments outright.</p></div>{{img:pg 118.png|Textbook page 118 &mdash; the Attach menu with Browse This Computer option}}",
+          "images": {
+            "pg 118.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 118.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.4: Send an Email with an Attachment",
+          "position": 10,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.4: Send an Email with an Attachment</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 118-119 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will send the My Signature file you created in Chapter 4 as an email attachment.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">This assumes you saved the My Signature file on your USB flash drive (Hands-On 4.3). If you saved it elsewhere, use that location instead.</p></div><ol><li>Open Outlook and click <strong>New Mail</strong>.</li><li>In the address line type: <code>instructorsally@gmail.com</code></li><li>In the subject line type: <strong>First Homework Assignment</strong></li><li>Type in the message area: &quot;Attached you will find homework assignment #1. Hopefully my drawing skills are up to your expectations! Thank you,&quot; then type your name.</li><li>Click <strong>Attach</strong> on the menu bar, then <strong>Browse This Computer</strong>.</li><li>Choose your USB flash drive (or wherever you saved it) from the Navigation pane, then choose the <strong>My Signature</strong> file.</li><li>Click <strong>Send</strong> and close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the sent message showing the attached My Signature file.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the sent email with My Signature attached",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; attachment clearly visible on the sent message",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; email sent but attachment unclear or missing",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Receiving & Replying to Messages — Reading",
+          "position": 11,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 120 &middot; CBO Objective: #2</p><h2>Receiving and Replying to Messages</h2><p>Outlook checks for new mail roughly every 30 minutes. New messages sort newest-to-oldest by default, and unread messages appear in <strong>bold</strong>.</p>{{img:pg 120.png|Textbook page 120 &mdash; an Inbox list showing unread (bold) and read messages}}<h3>Replying</h3><table><tr><th>Type</th><th>What It Does</th></tr><tr><td>Reply</td><td>Responds only to the original sender</td></tr><tr><td>Reply All</td><td>Responds to the sender and everyone else on the original message</td></tr><tr><td>Forward</td><td>Sends the message to a brand-new recipient</td></tr></table>",
+          "images": {
+            "pg 120.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 120.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.5: Reply to an Email",
+          "position": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.5: Reply to an Email</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 121 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>In this exercise, you will reply to an email sent to you by your instructor.</p><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Before You Begin</strong><p style=\"margin:6px 0 0;\">Have your instructor or a classmate send you an email first — the content doesn't matter.</p></div><ol><li>Open Outlook and click the email from your instructor <em>(check the Other tab if it's not in Focused)</em>.</li><li>Click <strong>Reply</strong> at the bottom of the email.</li><li>Click next to the instructor's address, click <strong>Cc</strong>, and type: <code>sholten@lablearning.net</code></li><li>Type a short reply message and click <strong>Send</strong>.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the sent reply in your Sent folder, showing the Cc line and the \"RE:\" subject.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the sent reply with the Cc address and \"RE:\" subject",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Cc line and RE: subject both visible",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; reply sent but Cc or subject unclear",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Deleting & Creating Folders — Reading",
+          "position": 13,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 122-123 &middot; CBO Objective: #3</p><h2>Deleting &amp; Creating Folders</h2><h3>Deleting</h3><p>A deleted email moves to the <strong>Deleted</strong> folder and is permanently removed after about ten days &mdash; once that happens, it cannot be recovered.</p><h3>Creating and Deleting Folders</h3><p>Custom folders help keep an inbox organized as it grows. Deleting a folder permanently deletes any messages still inside it, along with the folder itself.</p>{{img:pg 123.png|Textbook page 123 &mdash; creating a new folder and the delete-folder warning}}",
+          "images": {
+            "pg 123.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 123.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.6: Create an Email Folder",
+          "position": 14,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.6: Create an Email Folder</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 123-124 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Start Outlook.</li><li>Click <strong>Create New Folder</strong> at the bottom of the Folders list.</li><li>Type <strong>Important Email</strong> and press Enter.</li><li>Create another folder called <strong>Research</strong>.</li></ol><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Delete a Folder</h3><ol start=\"5\"><li>Right-click the <strong>Research</strong> folder and choose <strong>Delete Folder</strong>.</li><li>Click <strong>OK</strong> on the warning message.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Folders list showing the \"Important Email\" folder (the Research folder should already be deleted).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Important Email folder created (and Research folder gone)",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Important Email folder present, Research folder no longer listed",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; Important Email folder present but Research still shown",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Moving Emails & Saving Addresses — Reading",
+          "position": 15,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 124-126 &middot; CBO Objective: #3</p><h2>Moving Emails &amp; Saving Addresses</h2><h3>Moving Emails</h3><p>Messages can be moved into a folder two ways: <strong>drag-and-drop</strong> (drag the message onto the folder in the Folders list), or the <strong>Move To</strong> command on the menu bar.</p>{{img:pg 125.png|Textbook page 125 &mdash; the Move To menu and dragging a message to a folder}}<h3>Saving Email Addresses</h3><p>Outlook's <strong>Suggested Contacts</strong> feature autocompletes addresses you've emailed before as you start typing them.</p>",
+          "images": {
+            "pg 125.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 125.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.7: Move Emails",
+          "position": 16,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.7: Move Emails</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 124-125 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Move To Command</h2><ol><li>Open Outlook.</li><li>Hover over the Outlook Team message until a radio button appears; click it to select the message.</li><li>On the menu bar, click <strong>Move To</strong> &rarr; <strong>Important Email</strong>.</li><li>Click the Important Email folder and verify the email is there.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Drag Emails to Folders</h2><ol start=\"5\"><li>Click the Inbox folder.</li><li>Drag the email from Laura Smith/Douglas Campbell onto the Important Email folder and release.</li><li>Click the Important Email folder and verify the message is there.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Important Email folder showing both moved messages inside it.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows both messages inside the Important Email folder",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; both moved messages visible in the folder",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; only one message shown",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Email Safety — Reading",
+          "position": 17,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 5 &middot; Chapter 5 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 126-131 &middot; CBO Objective: #4</p><h2>Email Safety</h2><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Tip!</strong><p style=\"margin:6px 0 0;\">Email is not secure. Never send a password, credit card number, or Social Security number by email.</p></div><h3>Understanding the Threats</h3><table><tr><th>Threat</th><th>What It Is</th></tr><tr><td>Spam</td><td>Unwanted, unsolicited bulk email, often advertising</td></tr><tr><td>Phishing</td><td>A fake email pretending to be a real company, trying to trick you into giving up personal information &mdash; often has bad grammar or spelling</td></tr><tr><td>Spoofing</td><td>An email disguised to look like it's from someone you know or trust</td></tr><tr><td>Advance Fee</td><td>A scam promising a large sum of money in exchange for a small upfront payment</td></tr></table>{{img:pg 128.png|Textbook page 128 &mdash; a real example of a phishing email disguised as Bank of America}}<h3>Spotting a Malicious Email</h3><ul><li>Bad grammar or misspellings</li><li>An offer that's too good to be true</li><li>A strange email from a friend, out of character</li><li>A personal email from someone you don't know</li><li>An unsolicited email claiming to be from a government agency or company</li><li>A sender domain made of random characters</li></ul><h3>Protecting Yourself</h3><ul><li>Delete suspicious emails</li><li>Never reply to spam</li><li>Don't give out your email address unnecessarily</li></ul><h3>Deleting Spam in Outlook</h3><p>Use the <strong>Report &rarr; Report Junk</strong> command to move a spam message to the Junk Email folder, where it's automatically deleted after ten days.</p>{{img:pg 131.png|Textbook page 131 &mdash; the Report menu with Report Junk highlighted}}",
+          "images": {
+            "pg 128.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 128.png",
+            "pg 131.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 5\\pg 131.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 5.8: Remove a Spam Message",
+          "position": 18,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 5.8: Remove a Spam Message</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 131 &middot; CBO Objective: #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Start Outlook.</li><li>Click the email from Sarah Holten &mdash; notice it has all the signs of spam, it's just too good to be true.</li><li>Click <strong>Report</strong> on the menu bar and select <strong>Report Junk</strong>.</li><li>Click the Junk Email folder &mdash; Sarah's email is now there and will auto-delete in ten days.</li><li>Click the Inbox folder.</li><li>Close Outlook.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Junk Email folder showing Sarah Holten's message inside it.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Sarah Holten's message in the Junk Email folder",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; message clearly moved to Junk Email",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but folder/message unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Skill Builders 5.1-5.5",
+          "position": 19,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Skill Builders 5.1-5.5</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 133-138 &middot; independent practice</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">5.1 Save Files from Links</h2><p>Open Outlook, click the message from Sally Minh, click Show Content if warned, click each image link (image1.png through image4.png), and click Download on each &mdash; they'll be used in later chapters. No separate screenshot needed for this task.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">5.2 Create a Gmail Email Account</h2><p>Go to <code>mail.google.com</code>, click Create an Account &rarr; For Myself, fill out the form using the same recovery email as your Microsoft account, enter your birth date/gender, agree to the terms of service, and close the Get Started screen.</p></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">5.3 Send and Read Email in Gmail</h2><p>In Gmail, click Compose and send a message to <code>laura.smith@lablearning.net</code>, subject <strong>Crushed Bobble-Head</strong>, explaining your bobble-head arrived crushed and asking for a replacement. Then open the sent message and practice the Next/Back navigation arrows.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">5.4 Delete and Archive Emails in Gmail</h2><p>Select an email from the Gmail Team and click Delete (it moves to Trash, permanently deleted after 30 days). Then select the &quot;Problems with Bobble-Head Offer&quot; email and click Archive (removed from Inbox, but not deleted).</p></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">5.5 Forward an Email</h2><p>In Outlook, open the Laura Smith/Douglas Campbell email in the Important Email folder, choose Forward, address it to <code>sholten@lablearning.net</code>, add a short note, and click Send.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Three screenshots: (1) your new Gmail inbox showing the account created (5.2), (2) the sent \"Crushed Bobble-Head\" message in Gmail (5.3), and (3) the forwarded message in your Outlook Sent folder (5.5). Tasks 5.1 and 5.4 are practice steps with no separate deliverable.</p></div></div>",
+          "points_possible": 15,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "5.2 &mdash; Gmail account created (screenshot 1)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; signed-in Gmail inbox clearly shown",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot unclear or incomplete",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "5.3 &mdash; \"Crushed Bobble-Head\" message sent in Gmail (screenshot 2)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; correct recipient and subject visible",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; message sent but details unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "5.5 &mdash; forwarded message in Outlook Sent folder (screenshot 3)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; forwarded message to sholten@lablearning.net clearly shown",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; message sent but recipient/content unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 5.1: Sending an Email with Multiple Address Lines",
-          "position": 4,
+          "position": 20,
           "description": "<h2>Additional Skill Builder 5.1: Sending an Email with Multiple Address Lines</h2><p>In this exercise, you will create and send an email to multiple addresses.</p><h3>Instructions</h3><ol><li>Start Outlook.com.</li><li>Click New Mail to create a new message.</li><li>Type <code>dcampbell@lablearning.net</code> in the address line.</li><li>Click the Cc link and type <code>laura.smith@lablearning.net</code> in the Cc box.</li><li>Click the Bcc link and type <code>sholten@lablearning.net</code> in the Bcc box.</li><li>Type \"Thank you\" in the subject line.</li><li>Type in the message box: \"I just wanted to thank everyone for their help with my missing bobble-head doll. I appreciate the kind words and effort in solving the problem.\" followed by \"Thanks Again\"</li><li>Click Send.</li><li>Close Outlook.com.</li></ol><h3>What to submit</h3><p>A screenshot of the sent message showing the To, Cc, and Bcc fields.</p>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "All three address fields (To, Cc, Bcc) correctly filled in",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; To, Cc, and Bcc all correct",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; one field missing or incorrect",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing/incomplete",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Subject and message body match the instructions",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; subject and message both correct",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; one is missing or altered",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 5.2: Organize Your Email with Folders",
-          "position": 5,
+          "position": 21,
           "description": "<h2>Additional Skill Builder 5.2: Organize Your Email with Folders</h2><p>In this exercise, you will create a folder in Outlook.com to organize your email messages. If you don't have any emails yet, send yourself three messages first.</p><h3>Instructions</h3><ol><li>Start Outlook.com.</li><li>Click Create New Folder on the Folders menu, type \"Messages to keep,\" and press Enter.</li><li>Drag the \"Messages to keep\" folder on top of the Inbox folder so it becomes a subfolder of the Inbox.</li><li>Click the Inbox folder.</li><li>Choose an email message and drag it onto the \"Messages to keep\" folder.</li><li>Click the \"Messages to keep\" folder and verify the email is there.</li><li>Close Outlook.com.</li></ol><h3>What to submit</h3><p>A screenshot showing the \"Messages to keep\" subfolder with a message inside it.</p>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "\"Messages to keep\" created as a subfolder of Inbox",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; folder correctly nested under Inbox",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; folder created but not nested under Inbox",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "A message successfully moved into the subfolder",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; message clearly visible inside the subfolder",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; folder shown but message unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Quiz",
           "title": "Chapter 5 Quiz: Using Email",
-          "position": 6,
-          "description": "A 15-question quiz covering email addresses, Outlook, sending/replying, and email threats. Source: publisher Test Bank, verified against the official Answer Key.",
+          "position": 22,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 5 &middot; Chapter 5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Quiz: Using Email</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">15 questions &middot; email addresses, Outlook, sending/replying, and email threats</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>Source: publisher Test Bank, verified against the official Answer Key.</p></div></div>",
           "points_possible": 15,
           "questions": [
             {
