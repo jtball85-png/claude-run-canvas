@@ -3280,14 +3280,14 @@
       ]
     },
     {
-      "name": "Chapter 6: Finding Files",
-      "position": 7,
+      "name": "Day 6, Chapter 6: Finding Files",
+      "position": 6,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 6 Overview: Finding Files",
+          "title": "Day 6 Overview — Tasks & Competencies",
           "position": 1,
-          "body": "<h2>Finding Files</h2><p>This chapter starts Unit 2: File Management. You'll navigate drives and folders, learn to safely use a flash drive, get comfortable with File Explorer, and learn to find files with Search.</p><h3>Learning objectives</h3><ul><li>Describe and use various storage devices</li><li>Use File Explorer to locate files and folders</li><li>Plug in a USB flash drive</li><li>Identify different types of folders used by Windows</li><li>Find files and folders with File Search</li></ul><h3>About storage media (Hands-On 6.1-6.2)</h3><p>View the storage drives on your computer (6.1) — each is assigned a letter (usually C: for the main internal hard drive). Then practice plugging in, viewing, and <strong>safely removing</strong> a USB flash drive (6.2) — never unplug while the activity light is on.</p><h3>File Explorer (Hands-On 6.3-6.7)</h3><p>File Explorer lets you view your computer's drives and their contents. Practice navigating with the address bar (6.3), the Back/Forward buttons (6.4), sorting folders (6.5), the Folders pane for a full-tree view (6.6), and opening multiple tabs at once (6.7).</p><h3>Searching for files (Hands-On 6.8)</h3><p>Use Windows Search to find files across This PC — a huge time-saver once you have a lot of files, even if they're well organized.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 6.1-6.8</strong> — done together in class</li><li><strong>Skill Builders 6.1-6.2</strong> (in-book: Find the Remaining Capacity of a Drive; Search the Contents of Files) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 6.1-6.2</strong> (Changing the View of the Folder Pane; Safely Removing a USB Flash Drive) — graded homework, see the assignments in this module</li><li><strong>Chapter 6 Quiz</strong> — see the quiz in this module</li></ul>"
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 6 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Finding Files</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's plan</h2><p>This chapter starts Unit 2: File Management. You'll navigate drives and folders, learn to safely use a flash drive, get comfortable with File Explorer, and learn to find files with Search.</p><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Competencies covered today</h3><ul style=\"margin:0;padding-left:20px;\"><li>Describe and use various storage devices</li><li>Use File Explorer to locate files and folders</li><li>Plug in a USB flash drive</li><li>Identify different types of folders used by Windows</li><li>Find files and folders with File Search</li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 6 Presentation</li><li>About Storage Media &amp; Drive Letters &mdash; read, then submit Hands-On 6.1</li><li>Plugging In &amp; Unplugging Safely &mdash; read, then submit Hands-On 6.2</li><li>File Explorer &amp; Locating Folders &mdash; read, then submit Hands-On 6.3</li><li>The Back and Forward Buttons &mdash; read, then submit Hands-On 6.4</li><li>Units of Measure &amp; Sorting &mdash; read, then submit Hands-On 6.5</li><li>Folder Contents &amp; The Folders Pane &mdash; read, then submit Hands-On 6.6</li><li>Multiple Tabs in File Explorer &mdash; read, then submit Hands-On 6.7</li><li>Searching for Files &mdash; read, then submit Hands-On 6.8</li><li>Skill Builders 6.1-6.2 (in-book, independent practice)</li><li>Additional Skill Builder 6.1: Changing the View of the Folder Pane</li><li>Additional Skill Builder 6.2: Safely Removing a USB Flash Drive</li><li>Chapter 6 Quiz</li></ol></div></div>"
         },
         {
           "type": "File",
@@ -3296,40 +3296,452 @@
           "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C06-PPT.pptx"
         },
         {
+          "type": "Page",
+          "title": "About Storage Media & Drive Letters — Reading",
+          "position": 3,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 143-146 &middot; CBO Objective: #1</p><h2>About Storage Media &amp; Drive Letters</h2><h3>Types of Storage Devices</h3><p>The <strong>internal hard drive</strong> is permanent storage that holds Windows and your apps. <strong>CD/DVD drives</strong> offer large-capacity, portable storage. <strong>External hard drives</strong> connect via USB and are portable across computers. <strong>USB flash drives</strong> (thumb/keychain drives) are small, removable storage. <strong>Network drives</strong> are remote drives you can use like any local drive.</p><h3>Drive Letters</h3><p>Windows assigns a letter to every drive so File Explorer can display it. A:/B: are reserved (historically floppy disks) and unused today; <strong>the main internal drive is always C:</strong> &mdash; after that, internal drives, then network drives, then external drives are lettered in the order they're attached.</p>{{img:pg 145.png|Textbook page 145 &mdash; Devices and drives panel showing 5 different drives}}<div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Tip!</strong><p style=\"margin:6px 0 0;\">Your USB flash drive will not necessarily have the same letter designation on every computer it's used with.</p></div>",
+          "images": {
+            "pg 145.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 145.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.1: View Drives on Your Computer",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.1: View Drives on Your Computer</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 147 &middot; CBO Objective: #1</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the <strong>File Explorer</strong> icon on the taskbar.</li><li>Click <strong>This PC</strong> on the left side of the screen and look at all the devices and drives listed on the right <em>(scroll down if you don't see This PC)</em>.</li><li>Close the File Explorer window.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of This PC showing all your devices and drives (before closing in step 3).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the This PC devices and drives list",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; devices/drives list clearly visible",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but list unclear/incomplete",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Plugging In & Unplugging Safely — Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 147-148 &middot; CBO Objective: #3</p><h2>Plugging In &amp; Unplugging Safely</h2><h3>Plugging In</h3><p>A flash drive must be recognized by Windows before you can use it &mdash; this takes a few moments after you plug it in.</p><h3>Unplugging Safely</h3><p>Before unplugging, make sure Windows is no longer using the drive. If the drive's activity light is blinking, or a file on the drive is still open, <strong>do not unplug it</strong> &mdash; close any open files and wait for the light to stop blinking first. Unplugging improperly can damage or lose your data.</p>",
+          "images": {}
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.2: View Your USB Flash Drive",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.2: View Your USB Flash Drive</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 148 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar, if necessary.</li><li>Insert your USB flash drive into an available USB port, then click <strong>This PC</strong>. <em>Once recognized, it appears under Devices and Drives &mdash; note its name and drive letter.</em></li><li>Close the AutoPlay window if it appears.</li><li>Double-click to open your USB flash drive and view its contents.</li><li>Once the drive's light has stopped blinking, you can safely unplug it.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot showing your USB flash drive's contents open in File Explorer (before unplugging in step 5).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the USB flash drive's contents open in File Explorer",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; drive contents clearly visible with drive letter shown",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but drive/contents unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "File Explorer & Locating Folders — Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 149-151 &middot; CBO Objective: #2, #4</p><h2>File Explorer &amp; Locating Folders</h2><h3>File Explorer</h3><p>File Explorer lets you view your drives and their data (this book calls the File Explorer window a &quot;folder window&quot;). This chapter covers browsing and searching; moving, copying, and deleting are covered in Chapter 7.</p>{{img:pg 149.png|Textbook page 149 &mdash; a labeled File Explorer window: address bar, Search box, Folders pane, View pane}}<h3>Locating Folders</h3><p>Windows creates a personal set of folders for each login name &mdash; Documents, Downloads, Pictures, Music, Videos, Desktop, OneDrive, and more &mdash; each with its own custom icon.</p>{{img:pg 150.png|Textbook page 150 &mdash; the personal folders every Windows login has}}<h3>Navigating Your Drives and Folders</h3><p>Three ways to navigate: the <strong>address bar</strong>, the <strong>Folders pane</strong>, and the <strong>Back/Forward buttons</strong>. A <strong>subfolder</strong> is a folder stored inside another folder. The address bar shows the <strong>path</strong> &mdash; the folder hierarchy to your current location; each folder name in the path is a clickable button with its own drop-down menu of subfolders.</p>",
+          "images": {
+            "pg 149.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 149.png",
+            "pg 150.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 150.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.3: Navigate Using the Address Bar",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.3: Navigate Using the Address Bar</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 152 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar.</li><li>Click the menu button to the right of the Home icon on the address bar, then choose <strong>This PC</strong>.</li><li>Click the menu button to the right of <em>This PC</em> on the address bar and choose <strong>Pictures</strong>.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Pictures folder open, with the address bar path visible (before closing in step 4).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Pictures folder open with the address bar path visible",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Pictures folder open, path clearly shown",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; folder open but path unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "The Back and Forward Buttons — Reading",
+          "position": 9,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 153 &middot; CBO Objective: #2</p><h2>The Back and Forward Buttons</h2><p>File Explorer remembers the order you've viewed folders in, like a DVD remote. The <strong>Forward</strong> button stays greyed out (inactive) until you've used <strong>Back</strong> at least once.</p>{{img:pg 153.png|Textbook page 153 &mdash; the Back and Forward buttons, with keyboard shortcut tooltips}}<div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Tip!</strong><p style=\"margin:6px 0 0;\">Microsoft Edge's Back and Forward buttons work exactly the same way.</p></div>",
+          "images": {
+            "pg 153.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 153.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.4: Use the Back and Forward Buttons",
+          "position": 10,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.4: Use the Back and Forward Buttons</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 153 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar.</li><li>Double-click the <strong>Pictures</strong> folder. <em>Notice the Forward button is greyed out/inactive.</em></li><li>Click the <strong>Back</strong> button. <em>Notice the Forward button is now active (colored).</em></li><li>Click the <strong>Forward</strong> button to return to Pictures.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot taken right after step 3, showing the Forward button now active/colored.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Forward button active after using Back",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Forward button clearly active/colored",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but button state unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Units of Measure & Sorting — Reading",
+          "position": 11,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 154-156 &middot; CBO Objective: #2</p><h2>Units of Measure &amp; Sorting</h2><h3>Units of Measure for Computer Storage</h3><table><tr><th>Unit</th><th>Size</th></tr><tr><td>Byte</td><td>1 character</td></tr><tr><td>Kilobyte (KB)</td><td>1,024 bytes</td></tr><tr><td>Megabyte (MB)</td><td>1,024 KB</td></tr><tr><td>Gigabyte (GB)</td><td>1,024 MB</td></tr><tr><td>Terabyte (TB)</td><td>1,024 GB</td></tr></table><h3>The View Tab &amp; Sorting</h3><p>The View tab changes how files display (icons, list, details, etc.) &mdash; folder/drive windows remember your view setting after you close them. By default, folders sort subfolders first, then files, alphabetically A-Z.</p>{{img:pg 156.png|Textbook page 156 &mdash; the Sort drop-down menu: Name, Date modified, Type, Size, Ascending, Descending}}<table><tr><th>Sort Filter</th><th>What It Does</th></tr><tr><td>Name</td><td>Alphabetical order (default)</td></tr><tr><td>Date Modified</td><td>Most/least recently changed</td></tr><tr><td>Type</td><td>Groups by file type</td></tr><tr><td>Size</td><td>Smallest/largest first</td></tr><tr><td>Ascending / Descending</td><td>A-Z vs. Z-A (or low-to-high vs. high-to-low)</td></tr></table>",
+          "images": {
+            "pg 156.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 156.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.5: Sort Folders",
+          "position": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.5: Sort Folders</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 156-157 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar.</li><li>Click <strong>This PC</strong>.</li><li>Under Devices and Drives, double-click <strong>Local Disk (C:)</strong> <em>(your C: drive may have a different name)</em>.</li><li>Click <strong>Sort</strong> and choose <strong>Date</strong>.</li><li>Click <strong>Sort &rarr; Name</strong>.</li><li>Change the sort order from Ascending to <strong>Descending</strong>.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of Local Disk (C:) sorted by Name, Descending (Z-A) — right after step 6.</p></div></div>",
+          "points_possible": 4,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Local Disk (C:) sorted by Name, Descending",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; folders clearly ordered Z-A by name",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit &mdash; sorted but wrong field/direction",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Folder Contents & The Folders Pane — Reading",
+          "position": 13,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 157-158 &middot; CBO Objective: #4</p><h2>Identifying Folder Contents &amp; The Folders Pane</h2><h3>Identifying the Contents of a Folder</h3><p>Folder icons hint at what's inside &mdash; a plain manila folder icon usually means it's empty (or holds video files), while other icons indicate documents, music, graphics, or a mix of files and folders.</p>{{img:pg 157.png|Textbook page 157 &mdash; folder icon variants: Documents, Multiple files, Music, Graphics}}<h3>The Folders Pane</h3><p>The Folders pane shows the full folder &quot;tree&quot; starting from This PC &mdash; every drive and folder attached to your computer. Clicking the <strong>expand view button</strong> (&gt;) next to a folder reveals its subfolders without changing what's shown in the View pane; the arrow points down once expanded.</p>{{img:pg 158.png|Textbook page 158 &mdash; the Folders pane tree, collapsed and expanded}}",
+          "images": {
+            "pg 157.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 157.png",
+            "pg 158.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 158.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.6: Navigate Using the Folders Pane",
+          "position": 14,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.6: Navigate Using the Folders Pane</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 159 &middot; CBO Objective: #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar.</li><li>Maximize the folder window.</li><li>Click the expand view button next to <strong>This PC</strong> (if necessary).</li><li>Click to expand <strong>Pictures</strong>.</li><li>Choose the <strong>Saved Pictures</strong> folder from the list.</li><li>Close the folder window.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Saved Pictures folder open, with the expanded Folders pane visible on the left (before closing in step 6).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Saved Pictures open with the expanded Folders pane visible",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; both the folder contents and expanded pane are visible",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; folder open but Folders pane not shown expanded",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Multiple Tabs in File Explorer — Reading",
+          "position": 15,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 159-160 &middot; CBO Objective: #2</p><h2>Multiple Tabs in File Explorer</h2><p>File Explorer supports multiple tabs, letting you view several locations &mdash; and copy or move files between them &mdash; without opening multiple File Explorer windows.</p>{{img:pg 160.png|Textbook page 160 &mdash; two File Explorer tabs open, with the \"Add a new tab\" (+) button highlighted}}<p>Click the <strong>+</strong> icon on the tabs bar to open a new tab; click the <strong>&times;</strong> on a tab to close it.</p>",
+          "images": {
+            "pg 160.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 160.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.7: Open Multiple Tabs in File Explorer",
+          "position": 16,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.7: Open Multiple Tabs in File Explorer</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 160 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Open File Explorer and click <strong>This PC</strong>.</li><li>On the tabs bar, click the plus (<strong>+</strong>) icon to add a new tab.</li><li>Click the new tab to select it, then click back on the <strong>This PC</strong> tab.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot showing two tabs open in File Explorer (before closing in step 4).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows two open tabs in File Explorer",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; both tabs clearly visible on the tabs bar",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but only one tab visible/unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Searching for Files — Reading",
+          "position": 17,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 6 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 161-162 &middot; CBO Objective: #5</p><h2>Searching for Files</h2><p>Type part of a filename (or text) into the <strong>Search box</strong> and Windows immediately starts filtering matching files and folders &mdash; music, graphics, and text files are all searchable. By default, Search covers your current folder plus all of your personal folders (Documents, Pictures, Music, etc.). Windows indexes your files in the background to make search faster and more accurate.</p>{{img:pg 161.png|Textbook page 161 &mdash; search results for \"txt\" showing matching files}}<div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Note!</strong><p style=\"margin:6px 0 0;\">Search becomes essential once your files and folders grow into the thousands.</p></div>",
+          "images": {
+            "pg 161.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 6\\pg 161.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 6.8: Find a File with Windows Search",
+          "position": 18,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 6.8: Find a File with Windows Search</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 162 &middot; CBO Objective: #5</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol><li>Click the File Explorer icon on the taskbar.</li><li>Click <strong>This PC</strong>.</li><li>Type <strong>txt</strong> in the Search box.</li><li>Click the <strong>Close</strong> button at the end of the Search box to return to the full view.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the search results for \"txt\" (right after step 3, before clearing the search).</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows search results for \"txt\"",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; search results clearly showing matching .txt files",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit &mdash; search box shown but results unclear",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
           "type": "Assignment",
           "title": "Skill Builders 6.1-6.2",
-          "position": 3,
-          "description": "<h2>Skill Builders 6.1-6.2</h2><p>In-book Skill Builders for Chapter 6. Refer to your textbook (Chapter 6, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>6.1 Find the Remaining Capacity of a Drive</strong> — explore your USB flash drive's properties to find used/free space.</li><li><strong>6.2 Search the Contents of Files</strong> — find files by searching for content within the file itself.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
+          "position": 19,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Skill Builders 6.1-6.2</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 164-165 &middot; independent practice</div></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">6.1 Find the Remaining Capacity of a Drive</h2><ol><li>Click File Explorer, plug in your USB flash drive, then click This PC and navigate to your USB drive.</li><li>Double-click the USB flash drive icon and look at what's stored on it.</li><li>Click This PC, right-click your USB flash drive icon, and choose <strong>Properties</strong>.</li><li>Click OK, then close File Explorer.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">6.2 Search the Contents of Files</h2><ol><li>Click File Explorer, then click This PC.</li><li>Click the See More (&hellip;) button, choose <strong>Options &rarr; Search</strong>, and check the option to always search file names and contents. Click OK.</li><li>Click in the Search box and type <strong>internet</strong>.</li><li>Click Close on the Search box.</li><li>Choose Options &rarr; Search again and uncheck that option (it slows down future searches), then click OK.</li><li>Close File Explorer.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) the USB flash drive's Properties dialog showing used/free space (6.1), and (2) the search results for \"internet\" (6.2).</p></div></div>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "6.1 &mdash; USB Properties dialog showing used/free space (screenshot 1)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Properties dialog with pie chart/space details clearly shown",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but details unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "6.2 &mdash; search results for \"internet\" (screenshot 2)",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; content-search results clearly shown",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; screenshot submitted but results unclear",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 6.1: Changing the View of the Folder Pane",
-          "position": 4,
-          "description": "<h2>Additional Skill Builder 6.1: Changing the View of the Folder Pane</h2><p>In this exercise, you will change how a Windows folder is viewed and sorted.</p><h3>Instructions</h3><ol><li>Start File Explorer.</li><li>In the Folders pane, click This PC.</li><li>Under Devices and Drives, double-click Local Disk (C:).</li><li>Double-click the Windows folder.</li><li>Change the layout to Large Icons. Notice how the view changes.</li><li>Change the layout to Small Icons.</li><li>Change the layout to Details.</li><li>Close File Explorer.</li></ol><h3>What to submit</h3><p>A screenshot of the Windows folder shown in Details view.</p>",
+          "position": 20,
+          "description": "<h2>Additional Skill Builder 6.1: Changing the View of the Folder Pane</h2><p>In this exercise, you will change how a Windows folder is viewed and sorted. You'll notice that some views work better for copying or moving files and folders, while others work better for getting information about a file or folder.</p><h3>Instructions</h3><ol><li>Start File Explorer.</li><li>In the Folders pane, click This PC.</li><li>Under Devices and Drives, double-click Local Disk (C:).</li><li>Double-click the Windows folder.</li><li>Change the layout to Large Icons. Notice how the view changes.</li><li>Change the layout to Small Icons.</li><li>Change the layout to Details.</li><li>Close File Explorer.</li></ol><h3>What to submit</h3><p>A screenshot of the Windows folder shown in Details view.</p>",
           "points_possible": 10,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Windows folder in Details view",
+                "points": 10,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; Details view clearly applied (Name/Date modified/Type/Size columns visible)",
+                    "points": 10
+                  },
+                  {
+                    "description": "Partial Credit &mdash; Windows folder shown but wrong view applied",
+                    "points": 5
+                  },
+                  {
+                    "description": "No Credit &mdash; no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 6.2: Safely Removing a USB Flash Drive from a Computer",
-          "position": 5,
+          "position": 21,
           "description": "<h2>Additional Skill Builder 6.2: Safely Removing a USB Flash Drive from a Computer</h2><p>In this exercise, you will practice removing your USB flash drive from the computer safely so you do not lose any data.</p><h3>Instructions</h3><ol><li>Start File Explorer.</li><li>Plug in your USB flash drive.</li><li>Use File Explorer to view the contents of your USB flash drive.</li><li>Close File Explorer.</li><li>When it's safe to do so, remove your USB from the computer.</li></ol><h3>What to submit</h3><p>A short written response describing how you determined it was safe to remove the drive.</p>",
           "points_possible": 5,
           "submission_types": [
             "online_text_entry"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Response correctly explains how to tell it's safe to remove a flash drive",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit &mdash; correctly references the drive's activity light and/or no open files",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit &mdash; vague or partially correct explanation",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit &mdash; blank or incorrect",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "type": "Quiz",
           "title": "Chapter 6 Quiz: Finding Files",
-          "position": 6,
-          "description": "A 15-question quiz covering storage devices, File Explorer, and searching for files. Source: publisher Test Bank, verified against the official Answer Key.",
+          "position": 22,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 6 Quiz: Finding Files</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">15 questions &middot; storage devices, File Explorer, and searching for files</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p>Source: publisher Test Bank, verified against the official Answer Key.</p></div></div>",
           "points_possible": 15,
           "questions": [
             {
