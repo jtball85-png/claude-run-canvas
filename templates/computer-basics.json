@@ -4978,55 +4978,383 @@
       ]
     },
     {
-      "name": "Chapter 8: Using the Internet",
-      "position": 9,
+      "name": "Day 8, Chapters 8 & 9: Using the Internet & Researching on the Internet",
+      "position": 8,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 8 Overview: Using the Internet",
-          "position": 1,
-          "body": "<h2>Using the Internet</h2><p>This chapter starts Unit 3: The Internet and More. You'll learn the origins of the Internet and the web, how to connect, and how to use Microsoft Edge to browse effectively.</p><h3>Learning objectives</h3><ul><li>Use a World Wide Web address to go directly to a website</li><li>Identify the main components of a web address</li><li>Use Microsoft Edge to browse the web</li><li>Create a favorite with Microsoft Edge</li></ul><h3>The Internet and browsing (Hands-On 8.1-8.3)</h3><p>The <strong>World Wide Web</strong> isn't the same thing as the Internet — it's one piece of technology that runs on it. A <strong>URL</strong> (Uniform Resource Locator) is a website's unique address. Navigate to a web page (8.1), use tabbed browsing to have multiple pages open at once (8.2), and print a web page (8.3, cancelled before actually printing).</p><h3>Favorites (Hands-On 8.4-8.7)</h3><p>Create a Favorite (8.4), turn on the Favorites Bar (8.5), organize Favorites into folders (8.6), and remove one you no longer need (8.7). A busy, disorganized Favorites list defeats its own purpose.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 8.1-8.7</strong> — done together in class</li><li><strong>Skill Builders 8.1-8.3</strong> (in-book: Create a Favorite; Drag Favorites to Folders; Move Favorites and Folders) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 8.1-8.2</strong> (Using Country Codes; Using the History in Edge) — graded homework, see the assignments in this module</li><li><strong>Chapter 8 Quiz</strong> — see the quiz in this module</li></ul>"
+          "title": "Day 8 Overview — Tasks & Competencies",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 8 &middot; Chapters 8 &amp; 9</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 8 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Using the Internet, then Researching on the Internet</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's plan</h2><p>Chapter 8 gets you comfortable navigating the web in Microsoft Edge and organizing the sites you use often with Favorites. Chapter 9 then builds on that browsing skill to search more effectively &mdash; picking better keywords, evaluating what you find &mdash; and covers how to protect yourself from the real risks of being online.</p><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Competencies covered today</h3><ul style=\"margin:0;padding-left:20px;\"><li><strong>Ch 8</strong> &mdash; Use a World Wide Web address to go directly to a website; identify the main components of a web address; use Microsoft Edge to browse the web; create a favorite with Microsoft Edge</li><li><strong>Ch 9</strong> &mdash; Use Google to perform a basic search; use Google to search for images; protect yourself from web threats; complete a complicated search</li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 8 Presentation</li><li>The Internet, Browsers &amp; Web Addresses &mdash; read, then submit Hands-On 8.1</li><li>Tabbed Browsing &amp; Printing &mdash; read, then submit Hands-On 8.2-8.3</li><li>Favorites &mdash; read, then submit Hands-On 8.4-8.7</li><li>History, Downloads &amp; Clearing Browsing Data &mdash; read</li><li>Skill Builders 8.1-8.3 (in-book, independent practice)</li><li>Additional Skill Builder 8.1: Using Country Codes</li><li>Additional Skill Builder 8.2: Using the History in Edge</li><li>Chapter 8 Quiz</li><li>Watch the Chapter 9 Presentation</li><li>Searching the Web &mdash; read, then submit Hands-On 9.1-9.2</li><li>Defending Yourself Online &mdash; read</li><li>Skill Builders 9.1-9.4 (in-book, independent practice)</li><li>Additional Skill Builder 9.1: Searching for Images with Bing</li><li>Chapter 9 Quiz</li></ol></div></div>",
+          "position": 1
         },
         {
           "type": "File",
           "title": "Chapter 8 Presentation: Using the Internet",
-          "position": 2,
-          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C08-PPT.pptx"
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C08-PPT.pptx",
+          "position": 2
+        },
+        {
+          "type": "Page",
+          "title": "The Internet, Browsers & Web Addresses — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 8 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 200-210 &middot; CBO Objective: #1, #2, #3</p><h2>The Internet, Browsers &amp; Web Addresses</h2><h3>The Internet and the World Wide Web</h3><p>The <strong>Internet</strong> is the physical network of connected computers spanning the globe. The <strong>World Wide Web</strong> is not the same thing &mdash; it's one system that runs on top of the Internet, made up of the billions of linked pages you browse.</p><h3>Getting Connected: Equipment and ISPs</h3><p>Connecting to the Internet takes a few pieces of equipment working together: a <strong>modem</strong> (dial-up or high-speed) converts your connection into a form your computer/network can use, and a <strong>router</strong> (often wireless) shares that one connection across multiple devices in a home or building. An <strong>Internet Service Provider (ISP)</strong> is the company &mdash; phone, cable, or satellite &mdash; you subscribe to for the connection itself. Microsoft Edge is a browser, not an ISP.</p>{{img:pg 203.png|Textbook page 203 &mdash; a diagram of a modem and router connecting a home network to the Internet}}<h3>Connection Types</h3><p>Connection speeds vary widely, from slower dial-up telephone-line connections to high-speed cable, DSL, fiber, and satellite. Many phones and smart devices (like Amazon Echo or Google Nest) now also connect wirelessly via 5G cellular networks, not just traditional home routers.</p><h3>Web Browsers</h3><p>A <strong>web browser</strong> is the app you use to view web pages. Microsoft Edge is Windows 11's default browser (its icon can look similar to the older, now-retired Internet Explorer icon &mdash; don't confuse the two). Other common browsers include Google Chrome, Mozilla Firefox, and Apple's Safari; Chromium is the open-source engine several browsers, including Edge, are built on. Mobile devices typically ship with their own built-in browser as well.</p>{{img:pg 206.png|Textbook page 206 &mdash; icons for several common web browsers}}<h3>Uniform Resource Locators (URLs)</h3><p>A <strong>URL</strong> is the unique address given to a website, typed into the browser's address bar to go directly to that page.</p><h3>Top-Level Domains</h3><p>The last part of a URL (like <code>.com</code>, <code>.edu</code>, <code>.gov</code>, <code>.org</code>, <code>.net</code>, or <code>.mil</code>) is its <strong>top-level domain</strong>. There are now more than one thousand top-level domains in use &mdash; far more than the handful most people can name.</p>{{img:pg 208.png|Textbook page 208 &mdash; a table of common top-level domains and their meanings}}<h3>Country Codes</h3><p>Some URLs end in a two-letter <strong>country code</strong> instead of a familiar top-level domain &mdash; for example, <code>.is</code> for Iceland or <code>.aq</code> for Antarctica.</p><h3>Basic Navigation and Hyperlinks</h3><p>Every browser shares a similar set of navigation controls: Back and Forward buttons move between pages you've already visited, the <strong>Stop button</strong> stops a page from loading, and Refresh reloads the current page. A <strong>hyperlink</strong> is text or an image that jumps you to another page when clicked &mdash; your mouse cursor turns into a small pointing hand when it's over one, and text links are typically underlined in blue.</p>{{img:pg 210.png|Textbook page 210 &mdash; the Stop, Refresh, and Back/Forward navigation buttons in Edge}}",
+          "images": {
+            "pg 203.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 203.png",
+            "pg 206.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 206.png",
+            "pg 208.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 208.png",
+            "pg 210.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 210.png"
+          },
+          "position": 3
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 8.1: Navigate to a Web Page",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 8 &middot; Chapter 8</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 8.1: Navigate to a Web Page</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 211 &middot; CBO Objective: #1, #3</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Instructions</h2><p>In this exercise, you will navigate directly to a website by typing its URL.</p><ol><li>Start Microsoft Edge.</li><li>Click in the address bar, type <code>news.google.com</code>, and press Enter.</li><li>Notice the Google News page loads.</li><li>Click the <strong>Back</strong> button to return to the Edge start page.</li><li>Close Edge.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot taken right after step 3, showing the address bar with <code>news.google.com</code> and the loaded Google News page &mdash; the exercise ends by navigating away, so the final Edge state won't show this on its own.</p></div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:0;\">{{img:HO 8.1.png|Example screenshot for HO 8.1.png}}</p></details>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the address bar with news.google.com typed and the resulting page loaded",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "HO 8.1.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.1.png"
+          },
+          "position": 4
+        },
+        {
+          "type": "Page",
+          "title": "Tabbed Browsing & Printing — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 8 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 212-214 &middot; CBO Objective: #3</p><h2>Tabbed Browsing &amp; Printing</h2><h3>Tabbed Browsing</h3><p><strong>Tabs</strong> let you have multiple web pages open in the same browser window at once, and switch between them instantly without using the Back/Forward navigation buttons.</p>{{img:pg 212.png|Textbook page 212 &mdash; two tabs open in Microsoft Edge}}<h3>Printing a Web Page</h3><p>Edge can print any web page through its Settings and More menu. The Print Preview screen lets you see and scroll through exactly how the page will look on paper before committing to print &mdash; a good habit is to check the preview and then cancel rather than waste paper on a page you don't actually need printed.</p>{{img:pg 213.png|Textbook page 213 &mdash; the Print Preview screen for a web page in Edge}}",
+          "images": {
+            "pg 212.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 212.png",
+            "pg 213.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 213.png"
+          },
+          "position": 5
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 8.2-8.3: Tabbed Browsing & Printing",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 8 &middot; Chapter 8</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 8.2-8.3: Tabbed Browsing & Printing</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 212-214 &middot; CBO Objective: #3</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.2 Use Tabbed Browsing</h2><ol><li>Start Edge and go to <code>news.google.com</code>.</li><li>Open a new tab and go to <code>cnn.com</code>.</li><li>Switch back and forth between the two tabs a few times.</li><li>Close the Google News tab, leaving CNN open.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.3 Print a Web Page</h2><ol><li>In a new tab, go to <code>nps.gov/grca/index.htm</code> (Grand Canyon National Park).</li><li>Open Settings and More (&#8942;) and click <strong>Print</strong>.</li><li>Scroll through the Print Preview to see how the page will look on paper.</li><li><strong>Click Cancel</strong> &mdash; do not actually print, so as not to waste paper.</li><li>Close Edge.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) Edge with both the Google News and CNN tabs visible, taken during step 3 of 8.2; (2) the Print Preview dialog for the Grand Canyon page, taken during step 3 of 8.3, before clicking Cancel.</p></div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">8.2 Use Tabbed Browsing</p><p style=\"margin:0;\">{{img:HO 8.2.png|Example screenshot for 8.2 Use Tabbed Browsing}}</p></details><p style=\"margin:10px 0 0;font-size:13px;color:#1F2937;\"><em>Note: the Printable Solutions Guide has no screenshot for 8.3, since the exercise ends by cancelling out of the Print Preview rather than producing a saved or printed result.</em></p>",
+          "points_possible": 6,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows both the Google News and CNN tabs open (8.2)",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Screenshot shows the Print Preview dialog for the Grand Canyon page (8.3)",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "HO 8.2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.2.png"
+          },
+          "position": 6
+        },
+        {
+          "type": "Page",
+          "title": "Favorites — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 8 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 214-220 &middot; CBO Objective: #4</p><h2>Favorites</h2><p>A <strong>Favorite</strong> is a link to a webpage you save in your browser so you can return to it quickly, without retyping or re-searching for the address.</p>{{img:pg 215.png|Textbook page 215 &mdash; adding a page as a Favorite in Edge using the star button}}<h3>The Favorites Bar</h3><p>Turning on the <strong>Favorites Bar</strong> (Settings &rarr; Appearance &rarr; Show Favorites Bar) keeps your most-used Favorites visible right below the address bar for one-click access.</p>{{img:pg 217.png|Textbook page 217 &mdash; the Favorites Bar shown below the address bar in Edge}}<h3>Organizing with Folders</h3><p>As your Favorites list grows, folders keep it organized &mdash; a busy, disorganized Favorites list defeats its own purpose. Folders can also be nested inside other folders, and dragged to reorder them.</p>{{img:pg 219.png|Textbook page 219 &mdash; a new Favorites folder shown in the Favorites center}}<h3>Removing a Favorite</h3><p>A Favorite you no longer need can be removed by right-clicking it in the Favorites center and choosing Delete.</p>",
+          "images": {
+            "pg 215.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 215.png",
+            "pg 217.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 217.png",
+            "pg 219.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 219.png"
+          },
+          "position": 7
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 8.4-8.7: Managing Favorites",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 8 &middot; Chapter 8</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 8.4-8.7: Managing Favorites</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 215-220 &middot; CBO Objective: #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.4 Create a Favorite</h2><ol><li>Go to <code>google.com</code> in Edge.</li><li>Click the star button in the address bar to add it as a Favorite.</li><li>Rename it \"Google\" and save it to Other Favorites.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.5 Enable the Favorites Bar</h2><ol><li>Go to Settings &rarr; Appearance and turn on Show Favorites Bar (set to Always).</li><li>Add <code>onedrive.com</code> to the Favorites Bar.</li><li>Add <code>outlook.com</code> to the Favorites Bar.</li></ol></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.6 Create a Folder to Sort Favorites</h2><ol><li>Add <code>c-span.org</code> as a Favorite.</li><li>Create a new folder in Other Favorites named <strong>News</strong>.</li><li>File the C-SPAN favorite into the News folder.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">8.7 Remove a Favorite</h2><ol><li>Add <code>seattletimes.com</code> as a Favorite, filed into the News folder.</li><li>Right-click it and delete it.</li><li>Confirm the News folder now shows only C-SPAN.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Four screenshots: (1) the Favorites center showing your renamed \"Google\" favorite (8.4); (2) the Favorites Bar showing OneDrive and Outlook pinned (8.5); (3) the News folder showing the C-SPAN favorite filed inside it (8.6); (4) the News folder afterward, showing Seattle Times is gone and only C-SPAN remains (8.7).</p></div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">8.4 Create a Favorite</p><p style=\"margin:0;\">{{img:HO 8.4.png|Example screenshot for 8.4 Create a Favorite}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">8.5 Enable the Favorites Bar</p><p style=\"margin:0;\">{{img:HO 8.5.png|Example screenshot for 8.5 Enable the Favorites Bar}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">8.6 Create a Folder to Sort Favorites</p><p style=\"margin:0;\">{{img:HO 8.6.png|Example screenshot for 8.6 Create a Folder to Sort Favorites}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">8.7 Remove a Favorite</p><p style=\"margin:0;\">{{img:HO 8.7.png|Example screenshot for 8.7 Remove a Favorite}}</p></details>",
+          "points_possible": 12,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "8.4 — Google favorite created and renamed",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "8.5 — Favorites Bar enabled with OneDrive and Outlook pinned",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "8.6 — News folder created with C-SPAN filed inside it",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "8.7 — Seattle Times favorite removed, only C-SPAN remains in News",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "HO 8.4.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.4.png",
+            "HO 8.5.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.5.png",
+            "HO 8.6.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.6.png",
+            "HO 8.7.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\HO 8.7.png"
+          },
+          "position": 8
+        },
+        {
+          "type": "Page",
+          "title": "History, Downloads & Clearing Browsing Data — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 8 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book page: 221 &middot; CBO Objective: #3</p><h2>History, Downloads &amp; Clearing Browsing Data</h2><p>Edge's <strong>History</strong> tab (in the Hub) keeps a running list of every page you've visited, so you can find a site again even if you forgot its URL or never saved it as a Favorite. The <strong>Downloads</strong> tab similarly tracks every file you've downloaded through the browser.</p><p>Because History and Downloads both build up a record of your activity, Edge also lets you <strong>clear your browsing data</strong> &mdash; history, cookies, cached files, and more &mdash; from Settings when you want a clean slate.</p>{{img:pg 221.png|Textbook page 221 &mdash; the History tab in the Edge Hub}}",
+          "images": {
+            "pg 221.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 8\\pg 221.png"
+          },
+          "position": 9
         },
         {
           "type": "Assignment",
           "title": "Skill Builders 8.1-8.3",
-          "position": 3,
-          "description": "<h2>Skill Builders 8.1-8.3</h2><p>In-book Skill Builders for Chapter 8. Refer to your textbook (Chapter 8, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>8.1 Create a Favorite</strong> — create favorites for some popular news sites.</li><li><strong>8.2 Drag Favorites to Folders</strong> — organize your favorites by dragging them into a folder.</li><li><strong>8.3 Move Favorites and Folders</strong> — create a new folder and position it in the Favorites Bar.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
+          "description": "<h2>Skill Builders 8.1-8.3</h2><p>In-book Skill Builders for Chapter 8. Refer to your textbook (Chapter 8, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>8.1 Create a Favorite</strong> &mdash; add cnn.com, nytimes.com, and latimes.com as Favorites, saved to Other Favorites.</li><li><strong>8.2 Drag Favorites to Folders</strong> &mdash; drag the New York Times and Los Angeles Times favorites into the News folder you created in Hands-On 8.6.</li><li><strong>8.3 Move Favorites and Folders</strong> &mdash; create a new folder named \"Project Research\" and position it inside the News folder.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p><details><summary>Example of a Completed Submission</summary><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 8.1</p><p style=\"margin:0;\">{{img:SB 8.1.png|Example screenshot for Skill Builder 8.1}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 8.2</p><p style=\"margin:0;\">{{img:SB 8.2.png|Example screenshot for Skill Builder 8.2}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 8.3</p><p style=\"margin:0;\">{{img:SB 8.3.png|Example screenshot for Skill Builder 8.3}}</p></details>",
           "points_possible": 15,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Skill Builder 8.1 — Create a Favorite",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 8.2 — Drag Favorites to Folders",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 8.3 — Move Favorites and Folders",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "SB 8.1.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\SB 8.1.png",
+            "SB 8.2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\SB 8.2.png",
+            "SB 8.3.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 8\\SB 8.3.png"
+          },
+          "position": 10
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 8.1: Using Country Codes",
-          "position": 4,
-          "description": "<h2>Additional Skill Builder 8.1: Using Country Codes</h2><p>In this exercise, you will use URLs containing country codes instead of top-level domains.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>In the address bar type <code>www.deceptionisland.aq</code> and press Enter. Notice the ending is the two-letter abbreviation for Antarctica.</li><li>Type <code>www.south.is</code> in the address bar and press Enter. IS is the country code for Iceland.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A short written response naming one other country code you found or looked up, and what it stands for.</p>",
+          "description": "<h2>Additional Skill Builder 8.1: Using Country Codes</h2><p>In this exercise, you will use URLs containing country codes instead of top-level domains.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>In the address bar type <code>www.deceptionisland.aq</code> and press Enter. Notice the ending is the two-letter abbreviation for Antarctica.</li><li>Type <code>www.south.is</code> in the address bar and press Enter. .is is the country code for Iceland.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A short written response naming one other country code you found or looked up, and what it stands for.</p>",
           "points_possible": 5,
           "submission_types": [
             "online_text_entry"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Written response names a real country code and what country it represents",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 11
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 8.2: Using the History in Edge",
-          "position": 5,
-          "description": "<h2>Additional Skill Builder 8.2: Using the History in Edge</h2><p>In this exercise, you will use the History tab in Hub to find a URL you previously visited.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>Open the Hub and click the History tab.</li><li>Scroll down through the History page — this shows all links visited from this browser.</li><li>Click a link. Notice it opens in Edge.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A screenshot of your History tab.</p>",
+          "description": "<h2>Additional Skill Builder 8.2: Using the History in Edge</h2><p>In this exercise, you will use the History tab in Hub to find a URL you previously visited.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>Open the Hub and click the History tab.</li><li>Scroll down through the History page &mdash; this shows all links visited from this browser.</li><li>Click a link. Notice it opens in Edge.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A screenshot of the page that opened after clicking a link in your History tab. Everyone's browsing history is different, so any page reached this way is acceptable.</p>",
           "points_possible": 5,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows a page opened by clicking a link in the History tab",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 12
         },
         {
           "type": "Quiz",
           "title": "Chapter 8 Quiz: Using the Internet",
-          "position": 6,
           "description": "A 13-question quiz covering the Internet, browsers, URLs, and Favorites. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 13,
           "questions": [
@@ -5260,50 +5588,217 @@
                 }
               ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Chapter 9: Researching on the Internet",
-      "position": 10,
-      "items": [
-        {
-          "type": "Page",
-          "title": "Chapter 9 Overview: Researching on the Internet",
-          "position": 1,
-          "body": "<h2>Researching on the Internet</h2><p>This chapter covers how search engines work and how to search effectively, then moves into protecting yourself from web threats.</p><h3>Learning objectives</h3><ul><li>Use Google to perform a basic search</li><li>Use Google to search for images</li><li>Protect yourself from web threats</li><li>Complete a complicated search</li></ul><h3>Performing a basic web search (Hands-On 9.1-9.2)</h3><p>Search engines index the web and match items to your keywords — they don't search the entire web instantly on demand. Being more specific in your search terms gets more relevant results. Practice a basic Google search (9.1) and a Google image search (9.2). Be aware of copyright when using images found online.</p><h3>Defending yourself from web threats</h3><p>A <strong>firewall</strong> checks data entering your computer and blocks anything that looks like a threat — Windows comes with one built in. Antivirus software needs to be updated regularly, since new viruses appear daily. On social media, remember that anything you post can stay on the Internet forever.</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 9.1-9.2</strong> — done together in class</li><li><strong>Skill Builders 9.1-9.4</strong> (in-book: Search for Copyright-Safe Images; Save an Image; Clear Browsing Data; Search for News) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builder 9.1</strong> (Searching for Images with Bing) — graded homework, see the assignment in this module</li><li><strong>Chapter 9 Quiz</strong> — see the quiz in this module</li></ul>"
+          ],
+          "position": 13
         },
         {
           "type": "File",
           "title": "Chapter 9 Presentation: Researching on the Internet",
-          "position": 2,
-          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C09-PPT.pptx"
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C09-PPT.pptx",
+          "position": 14
+        },
+        {
+          "type": "Page",
+          "title": "Searching the Web — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 9 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 227-235 &middot; CBO Objective: #1, #2, #4</p><h2>Searching the Web</h2><h3>How Search Engines Work</h3><p>A <strong>search engine</strong> (like Google, Bing, or DuckDuckGo) is a specialized website used to find and sort information on the web. It doesn't search the entire web live, on demand &mdash; it indexes web pages ahead of time and matches items in that index to your keywords.</p><h3>Basic Search Techniques</h3><p>Correct spelling matters &mdash; search engines don't reliably auto-correct. The more specific your keywords are, the more relevant your results will be; a broad search like \"mountain\" returns far too much, while narrowing to \"mountain baker skiing\" zeroes in on what you actually want.</p>{{img:pg 230.png|Textbook page 230 &mdash; narrowing a Google search from a broad term to specific keywords}}<h3>Searching for Images</h3><p>Google's Images tab filters search results to just pictures. Be aware of copyright &mdash; not every image you find online is free to reuse, and Google can filter results by usage rights.</p>{{img:pg 235.png|Textbook page 235 &mdash; a Google Images search with results filtered to a specific topic}}<h3>The Hidden Web and Difficult Searches</h3><p>Not everything on the Internet is indexed by search engines &mdash; content sitting behind logins, paywalls, or private databases makes up what's sometimes called the <strong>hidden web</strong>, and won't turn up in a normal search. For a genuinely difficult or complicated search, try combining more specific keywords, using a search engine's built-in filters (like a date range or file type), or searching within a specific site.</p>{{img:pg 234.png|Textbook page 234 &mdash; a discussion of the hidden web and difficult search techniques}}",
+          "images": {
+            "pg 230.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 230.png",
+            "pg 234.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 234.png",
+            "pg 235.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 235.png"
+          },
+          "position": 15
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On 9.1-9.2: Search with Google",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 8 &middot; Chapter 9</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On 9.1-9.2: Search with Google</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 230-236 &middot; CBO Objective: #1, #2, #4</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">9.1 Search with Google</h2><ol><li>Start Edge and go to <code>google.com</code>.</li><li>Search <code>mountain</code>. Notice how broad the results are.</li><li>Narrow the search to <code>mountain baker skiing</code>.</li><li>Click the \"Mt. Baker Ski Area: Home\" result.</li><li>Close Edge.</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">9.2 Do a Google Image Search</h2><ol><li>Go to Google Images and search <code>grand canyon</code>.</li><li>Narrow the search to <code>grand canyon lightning</code>.</li><li>Click the first image result, then view its related images.</li><li>Close Edge.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">Two screenshots: (1) your narrowed \"mountain baker skiing\" search results or the Mt. Baker site itself (9.1); (2) your filtered \"grand canyon lightning\" image search results (9.2).</p></div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">9.1 Search with Google</p><p style=\"margin:0;\">{{img:HO 9.1.png|Example screenshot for 9.1 Search with Google}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">9.2 Do a Google Image Search</p><p style=\"margin:0;\">{{img:HO 9.2.png|Example screenshot for 9.2 Do a Google Image Search}}</p></details>",
+          "points_possible": 6,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "9.1 — narrowed Google search results or the Mt. Baker site shown",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "9.2 — filtered \"grand canyon lightning\" image search results shown",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "HO 9.1.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 9\\HO 9.1.png",
+            "HO 9.2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 9\\HO 9.2.png"
+          },
+          "position": 16
+        },
+        {
+          "type": "Page",
+          "title": "Defending Yourself Online — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 8 &middot; Chapter 9 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 236-239 &middot; CBO Objective: #3</p><h2>Defending Yourself Online</h2><h3>Threats While Surfing</h3><p>Not everything online is trustworthy. <strong>Cookies</strong> are small files sites use to track your activity. Some links and download buttons are designed to steal your passwords or credit card information rather than deliver what they claim to. <strong>Scareware</strong> is a fake pop-up ad claiming your computer needs fixing right now &mdash; it's a scam, not a real system message.</p>{{img:pg 236.png|Textbook page 236 &mdash; examples of online threats while browsing}}<h3>Firewall Software</h3><p>A <strong>firewall</strong> checks all data entering your computer and blocks anything it flags as a possible threat. Windows comes with one built in.</p><h3>Antivirus Software and Antispyware</h3><p><strong>Antivirus software</strong> detects known virus \"signatures\" and watches for suspicious activity &mdash; but new viruses appear daily, so it needs to be updated regularly to stay effective. <strong>Antispyware</strong> is a separate category of protective software that specifically targets programs designed to secretly monitor your activity.</p><h3>Updating Your Software</h3><p>Keeping your operating system and apps updated closes security holes that attackers rely on &mdash; outdated software is one of the easiest ways to get compromised.</p><h3>Using Social Media Sites Safely</h3><p>Social media sites &mdash; YouTube, Facebook, Pinterest, Blogger, LinkedIn, Yelp, and many others &mdash; come with their own risks. <strong>Never share your login or password with anyone</strong>, and be wary of \"friends\" you only know from online &mdash; they're a common vector for scams. Remember that almost anything you post can stay on the Internet forever, even if you later delete it.</p>{{img:pg 238.png|Textbook page 238 &mdash; a discussion of using social media sites safely}}<h3>Steps You Can Take</h3><p>A short list of habits keeps you safer online: keep your software updated, change your passwords frequently, reboot your computer every few days, and stay aware and cautious of untrusted sites and links.</p>{{img:pg 239.png|Textbook page 239 &mdash; the Safety Steps table summarizing how to protect yourself online}}",
+          "images": {
+            "pg 236.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 236.png",
+            "pg 238.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 238.png",
+            "pg 239.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 9\\pg 239.png"
+          },
+          "position": 17
         },
         {
           "type": "Assignment",
           "title": "Skill Builders 9.1-9.4",
-          "position": 3,
-          "description": "<h2>Skill Builders 9.1-9.4</h2><p>In-book Skill Builders for Chapter 9. Refer to your textbook (Chapter 9, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>9.1 Search for Copyright-Safe Images</strong></li><li><strong>9.2 Save an Image</strong> — download an image to your computer.</li><li><strong>9.3 Clear Browsing Data</strong></li><li><strong>9.4 Search for News</strong> — search Google for current news articles on a given topic.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p>",
+          "description": "<h2>Skill Builders 9.1-9.4</h2><p>In-book Skill Builders for Chapter 9. Refer to your textbook (Chapter 9, after the Self-Assessment) for full instructions.</p><h3>Tasks</h3><ol><li><strong>9.1 Search for Copyright-Safe Images</strong> &mdash; search \"tetons,\" then filter Images results by Usage Rights to Creative Commons licenses.</li><li><strong>9.2 Save an Image</strong> &mdash; find a Grand Teton image, right-click it, and save it to your USB flash drive.</li><li><strong>9.3 Clear Browsing Data</strong> &mdash; in Edge Settings, clear your browsing data for all time.</li><li><strong>9.4 Search for News</strong> &mdash; search \"global warming,\" then use the News tab's Tools to sort results by date instead of relevance.</li></ol><h3>What to submit</h3><p>A screenshot after completing each task.</p><details><summary>Example of a Completed Submission</summary><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 9.1</p><p style=\"margin:0;\">{{img:SB 9.1.png|Example screenshot for Skill Builder 9.1}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 9.2</p><p style=\"margin:0;\">{{img:SB 9.2.png|Example screenshot for Skill Builder 9.2}}</p><p style=\"margin:10px 0 4px;font-weight:bold;color:#003462;\">Skill Builder 9.4</p><p style=\"margin:0;\">{{img:SB 9.4.png|Example screenshot for Skill Builder 9.4}}</p></details><p style=\"margin:10px 0 0;font-size:13px;color:#1F2937;\"><em>Note: the Printable Solutions Guide has no screenshot for 9.3, since clearing browsing data doesn't leave a visible result to capture.</em></p>",
           "points_possible": 20,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Skill Builder 9.1 — Search for Copyright-Safe Images",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 9.2 — Save an Image",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 9.3 — Clear Browsing Data",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Skill Builder 9.4 — Search for News",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "SB 9.1.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 9\\SB 9.1.png",
+            "SB 9.2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 9\\SB 9.2.png",
+            "SB 9.4.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Answer Keys\\Extracted Solutions\\Chapter 9\\SB 9.4.png"
+          },
+          "position": 18
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 9.1: Searching for Images with Bing",
-          "position": 4,
           "description": "<h2>Additional Skill Builder 9.1: Searching for Images with Bing</h2><p>In this exercise, you will search for images of the Grand Canyon using the Bing search engine.</p><h3>Instructions</h3><ol><li>Start Edge.</li><li>Type <code>Bing.com</code> in the address bar.</li><li>Type \"grand canyon\" in the search box and press Enter.</li><li>Click Images at the top of the search results.</li><li>Click on \"Grand Canyon National Park\" among the image categories shown. Notice Bing filters the images to just that category.</li><li>Close Edge.</li></ol><h3>What to submit</h3><p>A screenshot of your filtered Grand Canyon National Park image results.</p>",
           "points_possible": 5,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Bing image results filtered to Grand Canyon National Park",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 19
         },
         {
           "type": "Quiz",
           "title": "Chapter 9 Quiz: Researching on the Internet",
-          "position": 5,
           "description": "A 12-question quiz covering search engines and defending against web threats. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 12,
           "questions": [
@@ -5523,60 +6018,253 @@
                 }
               ]
             }
-          ]
+          ],
+          "position": 20
         }
       ]
     },
     {
-      "name": "Chapter 10: Using Settings and Help",
-      "position": 11,
+      "name": "Day 9, Chapter 10: Using Settings and Help",
+      "position": 9,
       "items": [
         {
           "type": "Page",
-          "title": "Chapter 10 Overview: Using Settings and Help",
-          "position": 1,
-          "body": "<h2>Using Settings and Help</h2><p>The final chapter: Windows Search, Settings (screen, power, updates), and the Store. Several exercises here use WebSims — since they involve system-level settings — via the Labyrinth Student Resource Center rather than direct hands-on practice in a shared lab computer.</p><h3>Learning objectives</h3><ul><li>Search your computer using the new Search program</li><li>Change the screen resolution and Desktop background</li><li>Change the power options</li><li>Update Windows 11</li></ul><h3>Searching Windows and the web (Hands-On 10.1-10.3)</h3><p>The Search box on the taskbar searches both your computer and the web at once. Practice a basic search (10.1), searching the web from Windows Search (10.2), and getting help for a specific app like File Explorer (10.3).</p><h3>Using Settings (Hands-On 10.4-10.7, WebSims)</h3><p>Settings has nine basic categories and covers most day-to-day configuration; the Control Panel still exists for legacy options. These four exercises use WebSims (browser-based simulations) since they touch system date/time, power, and update settings that shouldn't be changed on a shared lab computer: checking automatic date/time (10.4), power and battery options (10.5), the power plan (10.6), and Windows Update options (10.7).</p><h3>Controlling the screen and the Store (Hands-On 10.8-10.9)</h3><p>Higher screen resolution means more, smaller pixels. Browse the Microsoft Store's app categories (10.8) and use a WebSim to download the free Netflix app (10.9).</p><h3>Practice and assessment in this chapter</h3><ul><li><strong>Hands-On 10.1-10.9</strong> — done together in class (10.4-10.7 and 10.9 via WebSim)</li><li><strong>Skill Builder 10.1</strong> (in-book: Change the Screen Resolution, WebSim) — independent practice, see the assignment in this module</li><li><strong>Additional Skill Builders 10.1-10.2</strong> (Change the Screen Background; Change an Accent Color — best done on your own PC, not the lab) — graded homework, see the assignments in this module</li><li><strong>Chapter 10 Quiz</strong> — see the quiz in this module</li></ul>"
+          "title": "Day 9 Overview — Tasks & Competencies",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 9 &middot; Chapter 10</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 9 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Using Settings and Help</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's plan</h2><p>This is the final chapter of Computer Basics. It covers finding things &mdash; files, settings, help &mdash; with Windows Search, then how to configure your PC through Settings: the screen, power, updates, and the Store.</p><p>Most of this chapter's book exercises use system-level settings (date/time, power, updates) that shouldn't be changed on a shared lab computer, so the book itself has you practice those through <strong>WebSims</strong> &mdash; browser-based simulations on the Labyrinth Student Resource Center &mdash; rather than on the real machine. Two exercises near the end of the chapter, though, <strong>are</strong> safe to do for real and are today's actual graded deliverables: changing your desktop background and changing your screen saver.</p><h3 style=\"font-size:16px;color:#003462;margin:14px 0 6px;\">Competencies covered today</h3><ul style=\"margin:0;padding-left:20px;\"><li>Search your computer using the new Search program</li><li>Change the screen resolution and Desktop background</li><li>Change the power options</li><li>Update Windows 11</li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today's tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 10 Presentation</li><li>Searching Windows and the Web &mdash; read</li><li>Using Settings &amp; the Control Panel &mdash; read</li><li>Controlling the Screen &mdash; read</li><li>Skill Builder 10.1: Change the Screen Resolution (WebSim)</li><li>Try This at Home 10.1: Change the Screen Background</li><li>Additional Skill Builder 10.1: Change the Screen Background</li><li>Power Options &amp; Windows Update &mdash; read</li><li>The Store &mdash; read</li><li>Personalization: Screen Saver &amp; Colors &mdash; read</li><li>Try This at Home 10.2: Find and Change the Screen Saver</li><li>Additional Skill Builder 10.2: Change an Accent Color</li><li>Chapter 10 Quiz</li></ol></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Wrapping up Computer Basics</h2><p>Chapter 10 closes out the course &mdash; between the Desktop and mouse basics of Chapter 1 and today's Settings and Search skills, you've now covered the full arc of getting comfortable on a Windows 11 computer: the desktop, apps, files, email, the internet, and configuring the system itself.</p></div></div>",
+          "position": 1
         },
         {
           "type": "File",
           "title": "Chapter 10 Presentation: Using Settings and Help",
-          "position": 2,
-          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C10-PPT.pptx"
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\PowerPoint Presentations\\WTCB11-C10-PPT.pptx",
+          "position": 2
+        },
+        {
+          "type": "Page",
+          "title": "Searching Windows and the Web — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 247-249 &middot; CBO Objective: #1</p><h2>Searching Windows and the Web</h2><p>The <strong>Search</strong> box on the taskbar searches your computer and the web at the same time. Results are organized into tabs &mdash; Best Match, Settings, Apps, Documents, Email, and Web &mdash; so you can jump straight to the kind of result you're after.</p>{{img:pg 247.png|Textbook page 247 &mdash; the Search box and its results tabs}}<h3>Searching the Web from Windows Search</h3><p>If nothing on your own computer matches what you typed, Search can hand the query straight to your default browser and search the web instead.</p><h3>Getting Help</h3><p>Search is also the fastest way to get help for a specific app &mdash; typing a question about File Explorer, for example, surfaces Microsoft's own support articles for it.</p>{{img:pg 249.png|Textbook page 249 &mdash; using Search to find help for a specific app}}",
+          "images": {
+            "pg 247.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 247.png",
+            "pg 249.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 249.png"
+          },
+          "position": 3
+        },
+        {
+          "type": "Page",
+          "title": "Using Settings & the Control Panel — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 250-251 &middot; CBO Objective: #1, #2, #3, #4</p><h2>Using Settings &amp; the Control Panel</h2><p><strong>Settings</strong> is where you change how things work in Windows, organized into nine basic categories: System, Bluetooth &amp; devices, Network &amp; internet, Personalization, Apps, Accounts, Time &amp; language, Gaming, Accessibility, Privacy &amp; security, and Windows Update.</p>{{img:pg 250.png|Textbook page 250 &mdash; the nine Settings categories}}<h3>Settings Versus the Control Panel</h3><p>The older <strong>Control Panel</strong> is still available in Windows 11 &mdash; it hasn't been removed &mdash; but most everyday configuration has moved to the newer Settings app, and Control Panel is mostly used now for a handful of legacy options.</p><h3>Working with Web-Based Simulations</h3><p>Because several of this chapter's exercises touch system date/time, power, and update settings that shouldn't be changed on a shared lab computer, the book has you practice those specific ones through a <strong>WebSim</strong> &mdash; a browser-based simulation launched from the Student Resource Center, rather than on your real machine.</p>",
+          "images": {
+            "pg 250.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 250.png"
+          },
+          "position": 4
+        },
+        {
+          "type": "Page",
+          "title": "Controlling the Screen — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 252-254 &middot; CBO Objective: #2</p><h2>Controlling the Screen</h2><h3>Screen Resolution</h3><p><strong>Screen resolution</strong> is the number of horizontal and vertical pixels your screen displays &mdash; a higher resolution (like 1920&times;1080) packs in more, smaller pixels than a lower one (like 1024&times;768), showing more detail and more on-screen content at once.</p>{{img:pg 252.png|Textbook page 252 &mdash; comparing screen resolutions}}<h3>Aspect Ratios</h3><p>A monitor's <strong>aspect ratio</strong> is the proportion of its width to its height. Standard monitors use a 4:3 ratio; modern widescreen monitors use 16:9. Content made for one ratio shown on a screen with the other can appear letterboxed (black bars) to preserve its original proportions.</p><h3>Changing the Background Image</h3><p>The <strong>background image</strong> (also called the <strong>wallpaper</strong>) can be set to a picture or a solid color from Settings &rarr; Personalization &rarr; Background.</p>{{img:pg 254.png|Textbook page 254 &mdash; the Background settings screen in Personalization}}",
+          "images": {
+            "pg 252.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 252.png",
+            "pg 254.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 254.png"
+          },
+          "position": 5
         },
         {
           "type": "Assignment",
           "title": "Skill Builder 10.1: Change the Screen Resolution",
-          "position": 3,
-          "description": "<h2>Skill Builder 10.1: Change the Screen Resolution</h2><p>In-book Skill Builder for Chapter 10, completed as a WebSim on the Labyrinth Student Resource Center (since changing screen resolution on a shared lab computer isn't appropriate). Refer to your textbook for full instructions.</p><h3>Task</h3><p>Use the WebSim to change the resolution of a PC screen, then close Settings and click Back to Course.</p><h3>What to submit</h3><p>A short written response describing what changed on screen when you adjusted the resolution.</p>",
+          "description": "<h2>Skill Builder 10.1: Change the Screen Resolution</h2><p>In-book Skill Builder for Chapter 10, completed as a WebSim on the Labyrinth Student Resource Center (since changing screen resolution on a shared lab computer isn't appropriate). Refer to your textbook (page 262) for full instructions.</p><h3>Task</h3><p>Use the WebSim to change the resolution of a PC screen, then close Settings and click Back to Course.</p><h3>What to submit</h3><p>A short written response describing what changed on screen when you adjusted the resolution.</p>",
           "points_possible": 5,
           "submission_types": [
             "online_text_entry"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Written response accurately describes the visual change from adjusting resolution",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 6
+        },
+        {
+          "type": "Assignment",
+          "title": "Try This at Home 10.1: Change the Screen Background",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 9 &middot; Chapter 10</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Try This at Home 10.1: Change the Screen Background</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book page: 263 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Instructions</h2><ol><li>Choose Start &rarr; Settings &rarr; Personalization.</li><li>Click <strong>Background</strong>.</li><li>From the drop-down menu under Background, choose <strong>Picture</strong>.</li><li>Click an image from the default list &mdash; your background should change immediately.</li><li>From the drop-down menu under Background, choose <strong>Solid Color</strong>.</li><li>Choose a color for your Desktop.</li><li>Close Settings.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of your Desktop with the solid-color background applied.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Desktop with a solid-color background applied",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 7
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 10.1: Change the Screen Background",
-          "position": 4,
-          "description": "<h2>Additional Skill Builder 10.1: Change the Screen Background</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><h3>Instructions</h3><ol><li>Choose Settings > Personalization.</li><li>Click Background.</li><li>Choose Picture from the drop-down menu under Background.</li><li>Click an image from the default list. Your background should change immediately.</li><li>From the drop-down menu under Background, choose Solid Color.</li><li>Choose a color for your Desktop.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot of your Desktop with the new background applied.</p>",
+          "description": "<h2>Additional Skill Builder 10.1: Change the Screen Background</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><p style=\"font-size:13px;color:#003462;\"><em>Note: this covers the same skill as Try This at Home 10.1 you just completed &mdash; that's intentional repetition from the publisher, not a mistake. Treat this as extra practice.</em></p><h3>Instructions</h3><ol><li>Choose Settings &gt; Personalization.</li><li>Click Background.</li><li>Choose Picture from the drop-down menu under Background.</li><li>Click an image from the default list. Your background should change immediately.</li><li>From the drop-down menu under Background, choose Solid Color.</li><li>Choose a color for your Desktop.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot of your Desktop with the new background applied.</p><details><summary>Example of a Completed Submission</summary><p style=\"margin:0;\">{{img:ASB 10.1.png|Example screenshot for ASB 10.1.png}}</p></details>",
           "points_possible": 5,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the Desktop with the new background applied",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "ASB 10.1.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Additional Skill Builders\\Unit 3\\Chapter 10\\Solutions\\WTCB11 Additional Skill Builder 10.1 Solution.png"
+          },
+          "position": 8
+        },
+        {
+          "type": "Page",
+          "title": "Power Options & Windows Update — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 255-258 &middot; CBO Objective: #3, #4</p><h2>Power Options &amp; Windows Update</h2><h3>Battery Saver</h3><p><strong>Battery Saver</strong> automatically activates once your battery drops below 20% charge, and can slow your computer's processor to stretch the remaining power.</p><h3>Power and Sleep</h3><p>Power and Sleep settings control how long your screen stays on and when your computer goes to sleep when idle &mdash; changing a few of these settings can dramatically increase how long a laptop runs on battery.</p>{{img:pg 256.png|Textbook page 256 &mdash; Power and Battery settings}}<h3>Power Plans</h3><p>Windows offers three default power plans: <strong>Power Saver</strong>, <strong>Balanced</strong>, and <strong>High Performance</strong>. These settings can affect your computer's performance as well as its battery life.</p><h3>Windows Update</h3><p>Windows checks for updates roughly once a day, delivering new features, security fixes, and patches. Microsoft traditionally releases many of its updates on \"Patch Tuesday\" &mdash; the second Tuesday of each month &mdash; and the industry trend has been toward installing updates automatically rather than leaving it up to the user.</p>{{img:pg 257.png|Textbook page 257 &mdash; Windows Update settings}}",
+          "images": {
+            "pg 256.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 256.png",
+            "pg 257.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 257.png"
+          },
+          "position": 9
+        },
+        {
+          "type": "Page",
+          "title": "The Store — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 259-260</p><h2>The Store</h2><p>The <strong>Store</strong> lets you download apps to your Windows computer much like you'd download apps to a phone. It contains thousands of apps, organized into groups like Gaming, Apps, and Movies &amp; TV, plus dozens of narrower categories within each. Downloading and installing an app from the Store happens automatically once you click to get it.</p>{{img:pg 259.png|Textbook page 259 &mdash; browsing the Microsoft Store}}",
+          "images": {
+            "pg 259.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 259.png"
+          },
+          "position": 10
+        },
+        {
+          "type": "Page",
+          "title": "Personalization: Screen Saver & Colors — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 9 &middot; Chapter 10 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 264-265 &middot; CBO Objective: #2</p><h2>Personalization: Screen Saver &amp; Colors</h2><h3>Screen Saver</h3><p>Windows can display a moving image &mdash; a <strong>screen saver</strong> &mdash; after your computer sits idle for a set amount of time. It's reached through Settings by searching \"screen saver\" in Find a Setting, which opens the classic Screen Saver Settings dialog.</p>{{img:pg 264.png|Textbook page 264 &mdash; the Screen Saver Settings dialog}}<h3>Colors and Accent Color</h3><p>Back in Settings &rarr; Personalization, the <strong>Colors</strong> page lets you pick an <strong>accent color</strong> that's applied across the taskbar, title bars, and other app controls &mdash; a smaller, faster customization than changing the full background.</p>",
+          "images": {
+            "pg 264.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Chapter 10\\pg 264.png"
+          },
+          "position": 11
+        },
+        {
+          "type": "Assignment",
+          "title": "Try This at Home 10.2: Find and Change the Screen Saver",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 9 &middot; Chapter 10</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Try This at Home 10.2: Find and Change the Screen Saver</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Book pages: 264-265 &middot; CBO Objective: #2</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Instructions</h2><ol><li>Choose Start &rarr; Settings.</li><li>Type <code>screen saver</code> into Find a Setting.</li><li>Click <strong>Change Screen Saver</strong>.</li><li>In the Screen Saver Settings dialog, choose <strong>Mystify</strong> from the dropdown.</li><li>Set the wait time to <strong>5 minutes</strong>.</li><li>Click OK.</li><li>Close the Settings and Screen Saver Settings windows.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><p style=\"margin:6px 0 0;\">A screenshot of the Screen Saver Settings dialog showing Mystify selected and the wait time set to 5 minutes.</p></div></div>",
+          "points_possible": 3,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows Mystify selected with a 5-minute wait time in Screen Saver Settings",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "position": 12
         },
         {
           "type": "Assignment",
           "title": "Additional Skill Builder 10.2: Change an Accent Color",
-          "position": 5,
-          "description": "<h2>Additional Skill Builder 10.2: Change an Accent Color</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><h3>Instructions</h3><ol><li>Choose Settings > Personalization.</li><li>Click Colors.</li><li>Click on a color to select it. This sets the color of the taskbar, title bars, and other app controls.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot showing your new accent color applied.</p>",
+          "description": "<h2>Additional Skill Builder 10.2: Change an Accent Color</h2><p>This exercise may not work in the school lab environment and may need to be performed on your own PC.</p><h3>Instructions</h3><ol><li>Choose Settings &gt; Personalization.</li><li>Click Colors.</li><li>Click on a color to select it. This sets the color of the taskbar, title bars, and other app controls.</li><li>Close Settings.</li></ol><h3>What to submit</h3><p>A screenshot showing your new accent color applied.</p><details><summary>Example of a Completed Submission</summary><p style=\"margin:0;\">{{img:ASB 10.2.png|Example screenshot for ASB 10.2.png}}</p></details>",
           "points_possible": 5,
           "submission_types": [
             "online_upload"
-          ]
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Screenshot shows the new accent color applied across the taskbar/title bars",
+                "points": 5,
+                "ratings": [
+                  {
+                    "description": "Full Credit",
+                    "points": 5
+                  },
+                  {
+                    "description": "Partial Credit",
+                    "points": 2.5
+                  },
+                  {
+                    "description": "No Credit",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "ASB 10.2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Intro Into Computer Basics Windows 11 Edition\\Additional Skill Builders\\Unit 3\\Chapter 10\\Solutions\\WTCB11 Additional Skill Builder 10.2 Solution.png"
+          },
+          "position": 13
         },
         {
           "type": "Quiz",
           "title": "Chapter 10 Quiz: Using Settings and Help",
-          "position": 6,
           "description": "A 15-question quiz covering Search, Settings, screen resolution, power options, Windows Update, and the Store. Source: publisher Test Bank, verified against the official Answer Key.",
           "points_possible": 15,
           "questions": [
@@ -5846,7 +6534,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "position": 14
         }
       ]
     }
