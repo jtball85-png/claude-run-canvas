@@ -6705,6 +6705,1258 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Day 6, Chapter 5: Using Mail Merge",
+      "position": 7,
+      "items": [
+        {
+          "type": "Page",
+          "title": "Day 6 Overview",
+          "position": 1,
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 6 &middot; Chapter 5: Using Mail Merge</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 6 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Turn a boilerplate letter into personalized correspondence for hundreds of recipients &mdash; build a data source, connect it to a main document, run a merge, fix common merge problems, and generate matching envelopes and labels.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Learning Objectives Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Build data sources</li><li>Create main documents</li><li>Perform a mail merge</li><li>Deal with merge problems</li><li>Generate envelopes and labels</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Project: Promoting Exercise Classes</h2><p style=\"margin:0;\">&ldquo;Raritan Clinic East is a pediatric medical practice. The practice serves patients ranging in age from newborn to eighteen years. As the administrator who oversees the STAYFIT exercise classes at the clinic, once a week you receive the contact information for all new patients who would benefit from these classes. You will send a letter to the patients explaining the program. Once you set up the main document, you will be able to use it over and over for new patients. And once you design a flexible data source, you can use that same source layout for the exercise letters as well as other communications.&rdquo;</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">One Letter, One Data Source, Three Main Documents</h2><p style=\"margin:0 0 8px;\">This whole chapter uses a single data source (a list of Raritan Clinic East patients) connected to three different main documents: the exercise <strong>letter</strong> (Hands-On W5-D1&ndash;D6), an <strong>envelope</strong> (W5-D7&ndash;D8), and a sheet of <strong>labels</strong> (W5-D9) &mdash; all three reuse the exact same data source, which is the whole point of building it well the first time.</p><p style=\"margin:0;\">Two exercises are combined below because the book's own steps don't produce a separately saved file until the pair finishes: W5-D1 starts the merge and begins the data source (finished and saved in W5-D2), and W5-D7 starts the envelope (finished and saved in W5-D8).</p></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today&rsquo;s Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Watch the Chapter 5 Presentation</li><li>Introducing Mail Merge &amp; Working with the Data Source &mdash; read, then complete Hands-On W5-D1&ndash;D2</li><li>Managing the Address List &mdash; read, then complete Hands-On W5-D3</li><li>Working with the Main Document &mdash; read, then complete Hands-On W5-D4</li><li>Conducting a Merge &mdash; read, then complete Hands-On W5-D5</li><li>To Save or Not to Save? &amp; Working with Merge Problems &mdash; read, then complete Hands-On W5-D6</li><li>Generating Envelopes with Mail Merge &mdash; read, then complete Hands-On W5-D7&ndash;D8</li><li>Generating Labels with Mail Merge &mdash; read, then complete Hands-On W5-D9</li><li>Chapter 5 Self-Assessment Quiz</li><li>Chapter 5 Test</li></ol></div></div>"
+        },
+        {
+          "type": "File",
+          "title": "Chapter 5 Presentation: Using Mail Merge",
+          "position": 2,
+          "path": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\PowerPoint Presentations\\Level 1\\FC-WD21-C05-PPT.pptx"
+        },
+        {
+          "type": "Page",
+          "title": "Introducing Mail Merge and Working with the Data Source — Reading",
+          "position": 3,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book pages: 102-106 &middot; Chapter 5 &middot; CBO Objective: Build data sources</em></p><h2>Introducing Mail Merge</h2><p>Mail Merge is most often used to create personalized letters, mailing labels, and envelopes, but it's versatile enough for email, contracts, and other legal documents.</p><h3>Components of Mail Merge</h3><p>A mail merge has three pieces:</p><ul><li><strong>Main document</strong> &mdash; controls the merge; a Word document containing fixed text plus merge fields.</li><li><strong>Data source</strong> &mdash; another Word document, spreadsheet, database file, or Outlook contact list containing field names that correspond to the main document's merge fields.</li><li><strong>Merged document</strong> &mdash; the result: multiple &ldquo;copies&rdquo; of the letter, each with different recipient data substituted in.</li></ul><p>You can merge an existing main document with an existing data source, or create both while stepping through the merge process.</p>{{img:103.png|Textbook page 103 illustration showing a data source table (Last Name, First Name, Title, Address Line 1, City, State, ZIP Code), a main document with AddressBlock, GreetingLine, First_Name, and Your_Doctor merge fields highlighted, and the resulting completed merge letter addressed to Mr. Andre Adams with the fields replaced by real data}}<h3>The Benefits of Mail Merge</h3><p>Mail merge saves time versus typing or copy-pasting the same letter 100 times &mdash; you create one main document and one data source. Editing is centralized too: change the main document once and remerge, rather than editing every individual letter.</p><h3>The Mailings Tab</h3><p>The Mailings tab guides you through main-document and data-source setup and the merge itself. The Start Mail Merge group is the starting point, and the Step-by-Step Mail Merge Wizard is available as an alternative walkthrough.</p><p><em>Ribbon path: Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge (choose Letters, Envelopes, Labels, etc.); Mailings &rarr; Start Mail Merge &rarr; Select Recipients / Edit Recipient List.</em></p><h2>Working with the Data Source</h2><p>Data sources typically hold names, addresses, and phone numbers, but can hold any information &mdash; for example, part numbers and prices for a parts catalog. Sources can be built directly in Word, or brought in from an external file such as Access or Excel. Once created, a data source can be merged with many different main documents.</p><p><em>View the video &ldquo;Creating a Data Source.&rdquo;</em></p><h3>Enter Records</h3><p>Records are typed into the New Address List dialog box field by field, using <strong>[Tab]</strong> to move between fields.</p><p><em>Tip: Don't type spaces after entering information in a field &mdash; Word will take care of it. You can click a field and make editing changes if necessary.</em></p><p><em>Tip: If you accidentally tap [Tab] after the last record, just click Delete Entry to remove the blank record.</em></p><h3>Reviewing Your Records</h3><p>Check your records for accuracy before saving. You can widen columns by dragging between headers, or use the arrow keys to scroll through an entry that's wider than its column.</p><p><em>Ribbon path: Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Letters; Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Type a New List.</em></p>",
+          "images": {
+            "103.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\Chapter 5\\103.png"
+          }
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D1–D2: Start Mail Merge and Build a New Data Source",
+          "position": 4,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 104-106 &middot; Develop Your Skills W5-D1 &amp; W5-D2</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D1&ndash;D2: Start Mail Merge and Build a New Data Source</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Open <strong>W5-D1-ExerciseLtr.docx</strong> and save it in your Word Chapter 5 folder as <strong>W5-D1-ExerciseLtrRevised</strong>.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Letters</strong> to designate the open letter as the main document.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Type a New List</strong> to open the New Address List dialog box.</li><li>Click <strong>Customize Columns</strong>. Delete <strong>Company Name</strong>, then delete <strong>Address Line 2</strong>, <strong>Country or Region</strong>, <strong>Home Phone</strong>, <strong>Work Phone</strong>, and <strong>E-mail Address</strong>.</li><li>Still in Customize Columns, add a new custom field named <strong>Your Doctor</strong>, then click OK.</li><li>Begin entering the first record, tabbing between fields: <strong>Mr. Talos Bouras, 854 Whitmore Drive, San Diego, CA 92101, Dr. Gonzalez</strong>.</li><li>Click <strong>New Entry</strong> and enter: <strong>Ms. Nicole Romero, 132 Lake Street, San Diego, CA 92102, Dr. Mansee</strong>.</li><li>Click <strong>New Entry</strong> and enter: <strong>Mr. Michael Chowdrey, 900 C Street, La Jolla, CA 92103, Dr. Kelly</strong>.</li><li>Widen columns or use the arrow keys to review all three records for accuracy, correcting any typos.</li><li>Click <strong>OK</strong> to open the Save Address List dialog and save the data source as <strong>W5-D2-ExerciseLtrData</strong> in your Word Chapter 5 folder &mdash; this connects the data source to the main document.</li><li>Before closing, take a screenshot of the Mail Merge Recipients dialog box showing all three records with the customized columns.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload a screenshot of the Mail Merge Recipients dialog box showing all 3 records (Bouras, Romero, Chowdrey) with the customized columns &mdash; no Company Name, Address Line 2, Country or Region, Home Phone, Work Phone, or E-mail Address, and a &ldquo;Your Doctor&rdquo; column with each doctor's name filled in.</div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:8px 0 0;\">{{img:W5-D2.png|Example screenshot for Develop Your Skills W5-D1-D2 (Start Mail Merge and Build a New Data Source)}}</p></details></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Start Mail Merge is set to Letters, and a new data source is started via Type a New List",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — screenshot shows the Mail Merge Recipients dialog for a new letter data source",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — not shown or wrong dialog",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Customize Columns removes Company Name, Address Line 2, Country or Region, Home Phone, Work Phone, and E-mail Address, and adds a custom \"Your Doctor\" field",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit — all 6 columns correctly removed/added",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — most columns correct, 1-2 errors",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — columns not customized",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "All 3 records (Bouras, Romero, Chowdrey) are entered accurately",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit — all 3 records correct",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — 1-2 records missing or with errors",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — file not submitted, or records missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "W5-D2.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\Answer Keys\\Extracted Solutions\\Chapter 5\\W5-D2.png"
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Managing the Address List — Reading",
+          "position": 5,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 107 &middot; Chapter 5 &middot; CBO Objective: Build data sources</em></p><h2>Managing the Address List</h2><p>The Mail Merge Recipients dialog box lets you sort, filter, and choose which records to include in a merge, and it lets you edit the data source itself &mdash; directly in the source file if it's a Word, Excel, or other document, or through the Edit Data Source dialog box, which looks and works like the New Address List dialog box.</p><p>Clicking a field's column header sorts the list by that field. Drop-down arrows in the header row let you filter the list down to matching records. The <strong>Edit&hellip;</strong> button, found under Data Source, opens the Edit Data Source dialog so you can add, remove, or correct records without leaving the merge workflow.</p><p><em>View the video &ldquo;Working with the Address List.&rdquo;</em></p><p><em>Ribbon path: Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Use an Existing List; Mailings &rarr; Start Mail Merge &rarr; Edit Recipient List.</em></p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D3: Sort, Filter, and Edit the Address List",
+          "position": 6,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 107 &middot; Develop Your Skills W5-D3</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D3: Sort, Filter, and Edit the Address List</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise &mdash; continues your W5-D1&ndash;D2 data source</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Use an Existing List</strong>, navigate to your Word Chapter 5 folder, and open <strong>W5-D2-ExerciseLtrData</strong>.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Edit Recipient List</strong>.</li><li>Click the <strong>Last Name</strong> column header to sort the list alphabetically.</li><li>Use a field's drop-down arrow to filter the list down to &ldquo;Chowdrey,&rdquo; confirm only that record shows, then reset the filter back to &ldquo;(All).&rdquo;</li><li>Click the data source item to select it, then click <strong>Edit&hellip;</strong> to open the Edit Data Source dialog.</li><li>Select Michael Chowdrey's address and replace it with <strong>146 Meadow Lane</strong>.</li><li>Click <strong>New Entry</strong> and add: <strong>Ms. Mary Wright, 1240 Potrero Avenue, San Diego, CA 92101, Dr. Gonzalez</strong>.</li><li>Click <strong>New Entry</strong> and add: <strong>Mr. Derek Navarro, 3300 Maple Drive, La Jolla, CA 92103, Dr. Storm</strong>.</li><li>Click <strong>New Entry</strong> and add: <strong>Mr. Andre Adams, 2224 Culver Drive, San Diego, CA 92102, Dr. Bey</strong>.</li><li>Click <strong>OK</strong>, then click <strong>Yes</strong> to confirm updating the data source.</li><li>Before clicking OK to close Mail Merge Recipients, take a screenshot showing all 6 records (Bouras, Romero, Chowdrey, Wright, Navarro, Adams), sorted by Last Name.</li><li>Click <strong>OK</strong> to close Mail Merge Recipients.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your screenshot of the Mail Merge Recipients dialog box, sorted by Last Name, showing all 6 records &mdash; including Chowdrey's corrected address (146 Meadow Lane) and the 3 newly added records (Wright, Navarro, Adams).</div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:8px 0 0;\">{{img:W5-D3.png|Example screenshot for Develop Your Skills W5-D3 (Sort, Filter, and Edit the Address List)}}</p></details></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "List is sorted by Last Name, and the filter feature was tested and reset",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — sorted correctly",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — not sorted",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Michael Chowdrey's address is corrected to 146 Meadow Lane",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — address corrected",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — address not corrected",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Three new records (Wright, Navarro, Adams) are added accurately, for 6 total records",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit — all 3 new records correct, 6 total shown",
+                    "points": 4
+                  },
+                  {
+                    "description": "Partial Credit — 1-2 new records missing or incorrect",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — file not submitted, or new records missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "W5-D3.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\Answer Keys\\Extracted Solutions\\Chapter 5\\W5-D3.png"
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Working with the Main Document — Reading",
+          "position": 7,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 108 &middot; Chapter 5 &middot; CBO Objective: Create main documents</em></p><h2>Working with the Main Document</h2><p>Merge fields in the main document correspond to fields in the data source. Some merge fields are <strong>composite fields</strong> &mdash; a single field, like Address Block, that groups several underlying fields together (Title, First Name, Last Name, Address, City, State, Zip).</p><p>For example (verbatim from the book):</p><blockquote style=\"margin:0;padding:10px 14px;background:#F5F7FA;border-left:4px solid #B5E3F0;\">&laquo;Title&raquo; &laquo;First_Name&raquo; &laquo;Last_Name&raquo; can be contacted at &laquo;Home_Phone&raquo;.<br>becomes<br>Ms. Alexia Lopez can be contacted at 831-555-0132.</blockquote><p><em>View the video &ldquo;Inserting Merge Fields in the Main Document.&rdquo;</em></p><p><em>Ribbon path: Mailings &rarr; Write &amp; Insert Fields.</em></p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D4: Build the Main Document",
+          "position": 8,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 108 &middot; Develop Your Skills W5-D4</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D4: Build the Main Document</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise &mdash; continues your W5-D1 exercise letter</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>With your exercise letter open, turn on <strong>Show/Hide</strong>.</li><li>Select and delete the &ldquo;Today's Date&rdquo; placeholder line.</li><li>Choose <strong>Insert &rarr; Text &rarr; Date &amp; Time</strong>, choose the third (auto-updating) format, check <strong>Update Automatically</strong>, and click OK.</li><li>Press <strong>[Enter]</strong> four times.</li><li>Choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Address Block</strong>, choose the &ldquo;Mr. Joshua Randall Jr.&rdquo; format, leave the remaining options at their defaults, and click OK.</li><li>Press <strong>[Enter]</strong> twice.</li><li>Choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Greeting Line</strong>. Change the punctuation option to a colon (<strong>:</strong>) and choose the &ldquo;Joshua&rdquo; (first-name-only) greeting style, then click OK.</li><li>Press <strong>[Enter]</strong> twice.</li><li>Position the insertion point to the left of &ldquo;welcome,&rdquo; and choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Insert Merge Field &rarr; First_Name</strong>. Type a comma and a space after the field, then change &ldquo;Welcome&rdquo; to lowercase &ldquo;welcome.&rdquo;</li><li>Position the insertion point to the left of &ldquo;wants&rdquo; and insert the <strong>Your_Doctor</strong> merge field, then type a space after it.</li><li>Review the letter: it should read approximately &laquo;AddressBlock&raquo; / &laquo;GreetingLine&raquo; / &ldquo;&laquo;First_Name&raquo;, welcome to Raritan Clinic East&hellip; &laquo;Your_Doctor&raquo; wants the best for you!&rdquo;</li><li>Turn off Show/Hide and save the file.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your saved <strong>W5-D1-ExerciseLtrRevised.docx</strong> file with the auto-updating date, Address Block, Greeting Line (colon punctuation, first-name-only), First_Name, and Your_Doctor merge fields all correctly inserted.</div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:8px 0 0;\">{{img:W5-D4.png|Example screenshot for Develop Your Skills W5-D4 (Build the Main Document)}}</p></details></div>",
+          "points_possible": 10,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Auto-updating Date field replaces the placeholder date line",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — date field inserted and auto-updating",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — placeholder text remains or date not auto-updating",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Address Block field is inserted using the \"Mr. Joshua Randall Jr.\" format",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correct format",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — missing or wrong format",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Greeting Line field uses colon punctuation and the first-name-only style",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — both settings correct",
+                    "points": 2
+                  },
+                  {
+                    "description": "Partial Credit — one of the two settings correct",
+                    "points": 1
+                  },
+                  {
+                    "description": "No Credit — Greeting Line missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "First_Name merge field is inserted before \"welcome,\" with correct punctuation and lowercase",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — field and text formatting correct",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — field missing or text incorrect",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Your_Doctor merge field is inserted before \"wants\"",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — field correctly placed",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — file not submitted, or field missing",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "W5-D4.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\Answer Keys\\Extracted Solutions\\Chapter 5\\W5-D4.png"
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Conducting a Merge — Reading",
+          "position": 9,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 111 &middot; Chapter 5 &middot; CBO Objective: Perform a mail merge</em></p><h2>Conducting a Merge</h2><p>Merging combines the main document with the data source, producing one personalized copy per data-source record. It's best to preview the merge before completing it &mdash; the <strong>Preview Results</strong> group offers navigation arrows to step through records, a <strong>Find Recipient</strong> tool, and a <strong>Check for Errors</strong> tool that locates invalid merge fields.</p><p>The <strong>Finish &amp; Merge</strong> menu offers three options:</p><ul><li><strong>Edit Individual Documents</strong> &mdash; merges on screen so individual letters can be reviewed and edited.</li><li><strong>Print Documents</strong> &mdash; merges directly to the printer.</li><li><strong>Send Email Messages</strong> &mdash; merges directly into outgoing email.</li></ul><p><em>Ribbon path: Mailings &rarr; Preview Results; Mailings &rarr; Finish &rarr; Finish &amp; Merge.</em></p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D5: Preview and Complete a Merge",
+          "position": 10,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 111 &middot; Develop Your Skills W5-D5</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D5: Preview and Complete a Merge</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise &mdash; continues your W5-D4 exercise letter</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Switch to the <strong>Mailings</strong> tab and click <strong>Preview Results</strong> to display the first merged letter's inside address.</li><li>Use the navigation arrows to scroll through all 6 merged letters.</li><li>Take a screenshot showing the Preview Results toolbar and one of the personalized letters (any record).</li><li>Choose <strong>Mailings &rarr; Finish &rarr; Finish &amp; Merge &rarr; Edit Individual Documents</strong>, then click OK to merge all records.</li><li>Scroll through the resulting merged document (one letter per data-source record), then close it <strong>without saving</strong>.</li><li>Turn Preview Results back off to return to the main document view.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your screenshot of the letter in Preview Results mode, with the personalized data (name/address/doctor) from one of the 6 records visible in place of the merge fields. Per the book, the merged document itself is not saved &mdash; it can always be recreated by remerging.</div></div></div>",
+          "points_possible": 6,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Preview Results is used and the personalized letter data (name/address/doctor) is visible in the screenshot",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit — Preview Results active, personalized data visible",
+                    "points": 3
+                  },
+                  {
+                    "description": "Partial Credit — screenshot shows the letter but not in Preview Results mode",
+                    "points": 1.5
+                  },
+                  {
+                    "description": "No Credit — no screenshot submitted",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Screenshot or description confirms Finish & Merge → Edit Individual Documents was used to produce one letter per record",
+                "points": 3,
+                "ratings": [
+                  {
+                    "description": "Full Credit — merge completed correctly",
+                    "points": 3
+                  },
+                  {
+                    "description": "No Credit — no evidence the merge was completed",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "To Save or Not to Save? & Working with Merge Problems — Reading",
+          "position": 11,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book pages: 112-113 &middot; Chapter 5 &middot; CBO Objective: Deal with merge problems</em></p><h2>To Save or Not to Save?</h2><p>Merged documents are rarely saved, because they can be reconstructed at any time by remerging the main document with the data source. They're typically previewed, printed, and closed without saving. If a merged document has errors, close it without saving, fix the main document or the data source, and remerge.</p><h2>Working with Merge Problems</h2><p>When a merge doesn't turn out right, the merged document (or the preview) usually gives clues about what's wrong. Fix the document that's actually causing the problem &mdash; the main document or the data source &mdash; then remerge and repeat until it's correct.</p><table style=\"width:100%;border-collapse:collapse;background:white;\"><tbody><tr><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Problem</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Solution</th></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">The same error appears in every merge letter.</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">The problem is in the main document. Correct the error and perform the merge again.</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Some letters are missing data.</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Some records in the data source are missing data. Add data and perform the merge again.</td></tr><tr><td style=\"vertical-align:top;padding:8px 10px;\">Some letters have incorrect data.</td><td style=\"vertical-align:top;padding:8px 10px;\">Some records in the data source are incorrect. Correct the errors and perform the merge again.</td></tr></tbody></table>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D6: Diagnose and Fix a Merge Problem",
+          "position": 12,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book pages: 112-113 &middot; Develop Your Skills W5-D6</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D6: Diagnose and Fix a Merge Problem</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise &mdash; continues your W5-D5 exercise letter</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Position the cursor right after the &laquo;GreetingLine&raquo; field and type a colon &mdash; this deliberately duplicates the colon the Greeting Line format already adds, creating a visible error.</li><li>Choose <strong>Mailings &rarr; Finish &rarr; Finish &amp; Merge &rarr; Edit Individual Documents</strong>, click OK, and confirm the double-colon error appears in <strong>every</strong> merged letter &mdash; per the Common Merge Problems table, an error in every letter means the problem is in the main document, not the data source.</li><li>Close the merged document <strong>without saving</strong>.</li><li>Return to the main document and remove the extra colon you added in step 1.</li><li>Review the rest of the letter for any other errors and correct them if found.</li><li>Remerge to confirm the fix (Finish &amp; Merge &rarr; Edit Individual Documents), confirm the double colon is gone in every letter, then close the merged document without saving.</li><li>Save and close the main exercise letter document.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your saved <strong>W5-D1-ExerciseLtrRevised.docx</strong> file with the extra colon removed &mdash; the Greeting Line field should end in exactly one colon, matching its state before this exercise introduced the error.</div></div></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Correctly identifies that an error appearing in every merged letter means the problem is in the main document, not the data source",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correct diagnosis reflected in the final file",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — data source edited instead of the main document",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Extra colon is removed from the main document, and the letter's Greeting Line ends in exactly one colon",
+                "points": 4,
+                "ratings": [
+                  {
+                    "description": "Full Credit — colon correctly removed",
+                    "points": 4
+                  },
+                  {
+                    "description": "No Credit — file not submitted, or extra colon still present",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "File is otherwise identical to the correct W5-D4 state (Date, Address Block, Greeting Line, First_Name, Your_Doctor fields all still present and correct)",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — all fields intact",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — one or more fields missing or damaged",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Generating Envelopes with Mail Merge — Reading",
+          "position": 13,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 114 &middot; Chapter 5 &middot; CBO Objective: Generate envelopes and labels</em></p><h2>Merging Envelopes and Labels</h2><p>When you start a mail merge, you choose the main document type &mdash; letters, envelopes, labels, and more &mdash; and the same data source can be reused across all of them, which is exactly what this chapter does with the Raritan Clinic East patient list.</p><h3>Generating Envelopes with Mail Merge</h3><p>The Envelope Options dialog box lets you choose the envelope size (Size 10, 4&frac18;&thinsp;&times;&thinsp;9&frac12; in., is the standard business-envelope default shown in the book), the font, and the position for the delivery and return addresses. Check your printer's manual before loading envelopes for printing.</p><h3>Arranging the Envelope</h3><p>You can insert an Address Block field in the envelope main document just like you would in a letter. Return addresses can be typed directly if you're not using preprinted envelopes. Envelope main documents can be saved and reused just like any other main document.</p><p><em>Ribbon path: Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Envelopes.</em></p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D7–D8: Create an Envelope Main Document",
+          "position": 14,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 114 &middot; Develop Your Skills W5-D7 &amp; W5-D8</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D7&ndash;D8: Create an Envelope Main Document</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Start a new, blank document.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Envelopes</strong>. In the Envelope Options dialog, choose <strong>Size 10</strong> and click OK.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Use an Existing List</strong>, navigate to your Word Chapter 5 folder, and open <strong>W5-D2-ExerciseLtrData</strong> to attach the same data source used for the letter.</li><li>Turn on formatting marks. In the upper-left corner, type the return address at the paragraph mark: <strong>Raritan Clinic East / 719 Coronado Drive / San Diego, CA 92102</strong> (each part on its own line).</li><li>Position the cursor at the center paragraph mark and choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Address Block</strong>, accepting the default settings, and click OK.</li><li>Choose <strong>Mailings &rarr; Preview Results &rarr; Preview Results</strong> and scroll through the records to confirm the address block is populating correctly.</li><li>Choose <strong>Mailings &rarr; Finish &rarr; Finish &amp; Merge &rarr; Edit Individual Documents</strong>, click OK, and confirm one envelope is produced per data-source record.</li><li>Close the merged document <strong>without saving</strong>.</li><li>Turn off Preview Results.</li><li>Save the main envelope document in your Word Chapter 5 folder as <strong>W5-D8-ExerciseLtrEnv</strong>, then close it.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your saved <strong>W5-D8-ExerciseLtrEnv.docx</strong> file &mdash; a Size 10 envelope main document with the Raritan Clinic East return address typed in the upper-left corner and an Address Block field in the center, connected to the W5-D2-ExerciseLtrData data source.</div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:8px 0 0;\">{{img:W5-D8.png|Example screenshot for Develop Your Skills W5-D7-D8 (Create an Envelope Main Document)}}</p></details></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Envelope main document (Size 10) is created and connected to the W5-D2-ExerciseLtrData data source",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correct size and data source connected",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — wrong size or no data source connected",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Return address is typed in the upper-left corner",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — return address present and correct",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — return address missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Address Block field is inserted in the center of the envelope",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — Address Block correctly placed",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — Address Block missing or misplaced",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "File is saved as W5-D8-ExerciseLtrEnv",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correctly named and saved",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — file not submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "W5-D8.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\Answer Keys\\Extracted Solutions\\Chapter 5\\W5-D8.png"
+          }
+        },
+        {
+          "type": "Page",
+          "title": "Generating Labels with Mail Merge — Reading",
+          "position": 15,
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 6 &middot; Chapter 5 Reading</div></div><p><em>Book page: 115 &middot; Chapter 5 &middot; CBO Objective: Generate envelopes and labels</em></p><h2>Generating Labels with Mail Merge</h2><p>The Labels main document type lets you choose the label format, sheet size, and other specs, then insert an Address Block or other fields just as you would for a letter or envelope. A label main document is actually a Word table &mdash; the book notes &ldquo;you don't have to be a table expert to create labels.&rdquo;</p><p><em>View the video &ldquo;Using Label Options.&rdquo;</em></p><p><em>Ribbon path: Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Labels &mdash; then the Label Options dialog (printer type, Label vendors dropdown &mdash; the book uses &ldquo;Avery US Letter&rdquo; &mdash; and a Product number list, e.g., &ldquo;5160 Address Labels&rdquo;).</em></p>"
+        },
+        {
+          "type": "Assignment",
+          "title": "Hands-On W5-D9: Create and Merge Mailing Labels",
+          "position": 16,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Book page: 115 &middot; Develop Your Skills W5-D9</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Hands-On W5-D9: Create and Merge Mailing Labels</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Hands-On Exercise</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><ol style=\"margin:0;padding-left:20px;\"><li>Start a new blank document. Turn on formatting marks and set the zoom to 100%.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Start Mail Merge &rarr; Labels</strong>. In the Label Options dialog, choose <strong>Default Tray</strong>, <strong>Avery US Letter</strong> as the label vendor, and <strong>5160 Address Labels</strong> as the product, then click OK &mdash; the label main document appears as a Word table.</li><li>Choose <strong>Mailings &rarr; Start Mail Merge &rarr; Select Recipients &rarr; Use an Existing List</strong> and reopen <strong>W5-D2-ExerciseLtrData</strong>.</li><li>With the insertion point in the first label, choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Address Block</strong> and click OK. Note the first label shows the field, while the rest show a Next Record field.</li><li>Choose <strong>Mailings &rarr; Write &amp; Insert Fields &rarr; Update Labels</strong> to propagate the Address Block to all the labels.</li><li>Select the entire table and use <strong>Layout &rarr; Paragraph</strong> to set spacing Before to <strong>0</strong>.</li><li>Choose <strong>Mailings &rarr; Preview Results &rarr; Preview Results</strong> to check the labels, then turn preview back off.</li><li>Choose <strong>Mailings &rarr; Finish &rarr; Finish &amp; Merge &rarr; Edit Individual Documents</strong>, click OK, then close the merged document <strong>without saving</strong>.</li><li>Save the labels main document in your Word Chapter 5 folder as <strong>W5-D9-MergeLabels</strong>, then close the document and exit Word.</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">What to submit</strong><div style=\"margin:6px 0 0;\">Upload your saved <strong>W5-D9-MergeLabels.docx</strong> file &mdash; an Avery US Letter 5160 label sheet with the Address Block field propagated to every label via Update Labels, spacing Before set to 0, connected to the W5-D2-ExerciseLtrData data source.</div></div><details><summary>Example of a Completed Submission</summary><p style=\"margin:8px 0 0;\">{{img:W5-D9.png|Example screenshot for Develop Your Skills W5-D9 (Create and Merge Mailing Labels)}}</p></details></div>",
+          "points_possible": 8,
+          "submission_types": [
+            "online_upload"
+          ],
+          "rubric": {
+            "criteria": [
+              {
+                "description": "Labels main document is created with Avery US Letter, 5160 Address Labels format",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correct label format",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — wrong or missing label format",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Data source is connected and Address Block is inserted in the first label",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — data source connected, Address Block inserted",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — missing",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "Update Labels propagates the field to every label, and paragraph spacing Before is set to 0",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — all labels updated, spacing correct",
+                    "points": 2
+                  },
+                  {
+                    "description": "Partial Credit — labels updated but spacing not set, or vice versa",
+                    "points": 1
+                  },
+                  {
+                    "description": "No Credit — labels not updated",
+                    "points": 0
+                  }
+                ]
+              },
+              {
+                "description": "File is saved as W5-D9-MergeLabels",
+                "points": 2,
+                "ratings": [
+                  {
+                    "description": "Full Credit — correctly named and saved",
+                    "points": 2
+                  },
+                  {
+                    "description": "No Credit — file not submitted",
+                    "points": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "images": {
+            "W5-D9.png": "C:\\Users\\jball.VACE\\Documents\\VACE DOCS\\Business Program\\Class Components\\Microsoft Lab Learning\\Microsoft Word 2021 365 Fast Course\\FC-WD21_ISM\\Answer Keys\\Extracted Solutions\\Chapter 5\\W5-D9.png"
+          }
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 5 Self-Assessment Quiz",
+          "position": 17,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Self-Assessment</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Self-Assessment Quiz</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">14 questions, auto-graded — check your knowledge of today's key concepts and skills</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">This is the same 14-question self-assessment from the FastCourse Word publisher materials, built as a native Canvas quiz.</p></div></div>",
+          "points_possible": 14,
+          "questions": [
+            {
+              "question_type": "true_false_question",
+              "question_text": "Once a data source is attached to a document, it cannot be used with other documents.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can include any information you'd like in a data source.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "A mistake in one merged letter indicates an error in the main document.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can use the Mail Merge Recipients dialog box to sort and filter address lists.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The data source controls the merge.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "The merge document is usually saved.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Some merge fields are composite fields consisting of a number of grouped fields.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can use the Address Block field in a form letter but not in labels.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following tasks cannot be accomplished within the New Address List dialog box?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Enter a new record",
+                  "weight": 0
+                },
+                {
+                  "text": "Customize columns",
+                  "weight": 0
+                },
+                {
+                  "text": "Delete an entry",
+                  "weight": 0
+                },
+                {
+                  "text": "Execute a merge",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Martina previews a merged letter and sees the last name showing before the first name in every entry, and she wants the opposite. What is the most likely cause?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "The merge fields were entered as last name, then first name",
+                  "weight": 100
+                },
+                {
+                  "text": "The data source has the last name column before the first name column",
+                  "weight": 0
+                },
+                {
+                  "text": "The merge fields haven't been entered at all",
+                  "weight": 0
+                },
+                {
+                  "text": "The data source has the fields misspelled",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "To qualify as a main document, a letter must:",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Use a sorted data source",
+                  "weight": 0
+                },
+                {
+                  "text": "Include merge fields",
+                  "weight": 100
+                },
+                {
+                  "text": "Use Word 2021's line and paragraph spacing",
+                  "weight": 0
+                },
+                {
+                  "text": "Contain records",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following can you use as a mail merge main document?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "An Excel workbook",
+                  "weight": 0
+                },
+                {
+                  "text": "A Word letter",
+                  "weight": 100
+                },
+                {
+                  "text": "An Access database",
+                  "weight": 0
+                },
+                {
+                  "text": "All of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Jamaal previews a merged letter and finds an error in a data source entry. Which step permanently corrects it for this and future letters?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Click on the error in the merged letter and correct it there",
+                  "weight": 0
+                },
+                {
+                  "text": "Change Source List under the Review tab",
+                  "weight": 0
+                },
+                {
+                  "text": "Use Edit Recipient List on the Mailings tab and edit the data source there",
+                  "weight": 100
+                },
+                {
+                  "text": "Any of these options",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following is accurate regarding mail merge labels?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "You must have labels loaded in the printer before merging",
+                  "weight": 0
+                },
+                {
+                  "text": "You cannot insert merge fields in labels",
+                  "weight": 0
+                },
+                {
+                  "text": "You cannot save a labels main document",
+                  "weight": 0
+                },
+                {
+                  "text": "You can use the same data source used for a form letter",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Quiz",
+          "title": "Chapter 5 Test",
+          "position": 18,
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Chapter 5 &middot; Chapter Test</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Chapter 5 Test</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">20 questions, auto-graded</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">The full 20-question Chapter 5 Test bank, built as a native Canvas quiz, in the Test Bank's own subheading order (Build Data Sources &middot; Create Main Documents &middot; Perform a Mail Merge &middot; Deal with Merge Problems &middot; Generate Envelopes and Labels). Question 12's answer choices are worded with &ldquo;colon&rdquo; rather than the publisher's original &ldquo;comma&rdquo; wording, to match the real page-113 scenario the question is drawn from &mdash; see the Day 6 Content Brief, Section 7, for the source discrepancy this corrects.</p></div></div>",
+          "points_possible": 27,
+          "questions": [
+            {
+              "question_type": "true_false_question",
+              "question_text": "You can use the same one data source with many different main documents.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 100
+                },
+                {
+                  "text": "False",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these is NOT a possible data source for a mail merge?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "A contact list in Outlook",
+                  "weight": 0
+                },
+                {
+                  "text": "Envelopes or labels",
+                  "weight": 100
+                },
+                {
+                  "text": "An Access database file",
+                  "weight": 0
+                },
+                {
+                  "text": "A spreadsheet",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is a benefit of using the Mail Merge Recipients dialog box?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "It lets you edit the main document",
+                  "weight": 0
+                },
+                {
+                  "text": "It lets you sort and filter address lists, and edit the data source",
+                  "weight": 100
+                },
+                {
+                  "text": "It combines two or more address lists",
+                  "weight": 0
+                },
+                {
+                  "text": "It scans for repeated recipients",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What's the purpose of using the New Address List dialog box?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Create an Address Block field",
+                  "weight": 0
+                },
+                {
+                  "text": "Edit directly in the data source file",
+                  "weight": 0
+                },
+                {
+                  "text": "Create, edit, or delete records",
+                  "weight": 100
+                },
+                {
+                  "text": "Merge the data source with the main document",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What is usually included in an Address Block?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "First/Last Name, Address, Phone",
+                  "weight": 0
+                },
+                {
+                  "text": "First/Last Name, Address, Email, Phone",
+                  "weight": 0
+                },
+                {
+                  "text": "Title, Last Name, Address, City, State, Zip, Email",
+                  "weight": 0
+                },
+                {
+                  "text": "Title, First Name, Last Name, Address, City, State, Zip",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of the following will generally NOT contain merge fields?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Address lines",
+                  "weight": 0
+                },
+                {
+                  "text": "Greeting line",
+                  "weight": 0
+                },
+                {
+                  "text": "Closing line",
+                  "weight": 100
+                },
+                {
+                  "text": "Boilerplate text",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "true_false_question",
+              "question_text": "Once merged, each individual document should be previewed, printed, and saved.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "True",
+                  "weight": 0
+                },
+                {
+                  "text": "False",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "matching_question",
+              "question_text": "Using an image of a business letter, match each merge field to its proper location.",
+              "points_possible": 3,
+              "matches": [
+                {
+                  "left": "Name field",
+                  "right": "Body of the letter"
+                },
+                {
+                  "left": "Address Block",
+                  "right": "Top portion, with multiple short lines"
+                },
+                {
+                  "left": "Greeting Line",
+                  "right": "One-line paragraph just above the body"
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Kasia notices a spelling error in the main document while previewing her merge. How does she return to the main document to correct it?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Check for Errors",
+                  "weight": 0
+                },
+                {
+                  "text": "Find Recipient",
+                  "weight": 0
+                },
+                {
+                  "text": "Preview Results",
+                  "weight": 100
+                },
+                {
+                  "text": "Spell Check",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each Mail Merge option with its result.",
+              "points_possible": 4,
+              "matches": [
+                {
+                  "left": "Check for Errors",
+                  "right": "Word locates invalid merge fields"
+                },
+                {
+                  "left": "Print Documents",
+                  "right": "Merges directly to a printer"
+                },
+                {
+                  "left": "Preview Results",
+                  "right": "Displays the first record from the data source"
+                },
+                {
+                  "left": "Edit Individual Documents",
+                  "right": "Merges the letters on the screen"
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "On the Mailings tab, what option allows you to choose the main document type?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Start Mail Merge",
+                  "weight": 100
+                },
+                {
+                  "text": "Edit Recipient List",
+                  "weight": 0
+                },
+                {
+                  "text": "Start Main Document",
+                  "weight": 0
+                },
+                {
+                  "text": "Select Recipients",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Jim previewed his merged document and noticed he left off a colon after the salutation. How should he correct this error?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Open the data source and type a colon after the Last Name field",
+                  "weight": 0
+                },
+                {
+                  "text": "Return to the main document and type a colon after the Greeting Line merge field",
+                  "weight": 100
+                },
+                {
+                  "text": "Open the Mail Merge Recipients dialog box and type a colon after the name in the Last Name field",
+                  "weight": 0
+                },
+                {
+                  "text": "Return to the main document and type a colon at the end of the Address Block",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "What usually provides clues as to why a merge failed to produce the intended results?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "The merged document",
+                  "weight": 100
+                },
+                {
+                  "text": "The main document",
+                  "weight": 0
+                },
+                {
+                  "text": "The printed document",
+                  "weight": 0
+                },
+                {
+                  "text": "The data source",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Chip previews his merged document and notices the organization name is missing for several employees. How can he correct this before merging again?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Enter the missing name in each individual merged letter",
+                  "weight": 0
+                },
+                {
+                  "text": "In the Edit Recipient List dialog, open the data source, enter the missing names, and update the data",
+                  "weight": 100
+                },
+                {
+                  "text": "Return to the main document and type the names",
+                  "weight": 0
+                },
+                {
+                  "text": "Enter the names directly in the Mail Merge Recipient dialog box",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where do merge problems usually occur?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "The main document",
+                  "weight": 0
+                },
+                {
+                  "text": "Records in the data source",
+                  "weight": 0
+                },
+                {
+                  "text": "Data in the data source",
+                  "weight": 0
+                },
+                {
+                  "text": "Any of these options",
+                  "weight": 100
+                },
+                {
+                  "text": "Only the main document or data in the data source",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "matching_question",
+              "question_text": "Match each merge problem with its solution.",
+              "points_possible": 3,
+              "matches": [
+                {
+                  "left": "Some letters are missing data",
+                  "right": "Add data to the data source and merge again"
+                },
+                {
+                  "left": "The same error appears in every letter",
+                  "right": "Edit the main document and merge again"
+                },
+                {
+                  "left": "Some letters have incorrect data",
+                  "right": "Edit the data source and merge again"
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Carla notices a job title is wrong while previewing her merge. How should she correct it before merging again?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Open the Edit Recipient List dialog and fix the error in the data source",
+                  "weight": 100
+                },
+                {
+                  "text": "Fix the job title directly in the merged document",
+                  "weight": 0
+                },
+                {
+                  "text": "Return to the main document and type the correct job title",
+                  "weight": 0
+                },
+                {
+                  "text": "Open the Mail Merge Recipient dialog box and correct the job title",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Where do you insert the Address Block field to create envelopes for form letters?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "The form letter main document",
+                  "weight": 0
+                },
+                {
+                  "text": "The Envelopes and Labels window",
+                  "weight": 0
+                },
+                {
+                  "text": "The envelope main document",
+                  "weight": 100
+                },
+                {
+                  "text": "The envelope data source",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Bennett connects a label main document to his data source; the first label is blank and the rest show a Next Record field. What should he do?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Insert the Address Block field, then update the labels",
+                  "weight": 100
+                },
+                {
+                  "text": "Update the labels",
+                  "weight": 0
+                },
+                {
+                  "text": "Copy the Next Record field into the first label",
+                  "weight": 0
+                },
+                {
+                  "text": "Start over",
+                  "weight": 0
+                }
+              ]
+            },
+            {
+              "question_type": "multiple_choice_question",
+              "question_text": "Which of these can you NOT do when generating mailing labels?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "Choose the label format",
+                  "weight": 0
+                },
+                {
+                  "text": "Change the sheet size for printing",
+                  "weight": 0
+                },
+                {
+                  "text": "Include the return address",
+                  "weight": 100
+                },
+                {
+                  "text": "Insert the Address Block field",
+                  "weight": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
