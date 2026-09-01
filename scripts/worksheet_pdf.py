@@ -16,11 +16,12 @@ os.makedirs(OUTDIR, exist_ok=True)
 
 
 class Worksheet(FPDF):
-    def __init__(self, ws_num, topic, book_pages):
+    def __init__(self, ws_num, topic, book_pages, unit_label="Unit 1: Whole Numbers"):
         super().__init__(orientation="P", unit="mm", format="Letter")
         self.ws_num = ws_num
         self.topic = topic
         self.book_pages = book_pages
+        self.unit_label = unit_label
         self.set_auto_page_break(auto=True, margin=15)
         self.set_margins(15, 15, 15)
 
@@ -37,7 +38,7 @@ class Worksheet(FPDF):
         self.set_x(15)
         self.set_font("Helvetica", "", 9)
         self.set_text_color(*GOLD)
-        self.cell(0, 5, f"Business Math \u00b7 Unit 1: Whole Numbers \u00b7 Book pages {self.book_pages}", ln=1)
+        self.cell(0, 5, f"Business Math \u00b7 {self.unit_label} \u00b7 Book pages {self.book_pages}", ln=1)
         self.ln(10)
         self.set_text_color(*BLACK)
 
