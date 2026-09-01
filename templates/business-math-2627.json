@@ -1,0 +1,1113 @@
+{
+  "course_name": "Business Math 26/27",
+  "modules": [
+    {
+      "name": "Course Overview",
+      "position": 1,
+      "items": [
+        {
+          "type": "page",
+          "title": "Business Math — Welcome",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Business Administration Program &middot; Module 03</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Welcome to Business Math</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Your course guide &mdash; 2026-27</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Course At A Glance</h2><table style=\"width:100%;border-collapse:collapse;background:white;table-layout:auto;\"><tbody><tr><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Course</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Program</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Hours</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Credits</th></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Business Math</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Business Administration</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">60</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">2</td></tr></tbody></table></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Your Instructor</h2><p style=\"margin:0 0 8px;\"><strong>Josh Ball</strong> &mdash; Business Programs Instructor</p><p style=\"margin:0 0 8px;\"><a href=\"mailto:Josh.Ball@adultedventura.edu\" style=\"color:#003462;\">Josh.Ball@adultedventura.edu</a> &nbsp;|&nbsp; (805) 289-1744, ext. 1206</p><p style=\"margin:0;\">Call if you need assistance. If you can't reach the classroom phone, please send an email. Contact your instructor with any questions or concerns, and to let them know about any days you can't attend class &mdash; expect a response within 24 hours, often the same day. Messages sent on weekends or holidays get a response the next business day. Instructors can also meet virtually via Zoom or Teams to review questions and demonstrate assignments.</p></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Course Description</h2><p style=\"margin:0;\">To provide students with the foundational math skills necessary for entry-level employment in business. Students will read, write, and perform calculations with whole numbers, decimals, and fractions, work with ratios and proportions, and solve percent, interest, and multi-step business problems.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Cohort Schedules</h2><p style=\"margin:0 0 10px;\">Business Administration students currently attend as part of <strong>Cohort 1</strong>, with two attendance paths depending on your enrollment:</p><table style=\"width:100%;border-collapse:collapse;background:white;table-layout:auto;\"><tbody><tr><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Path</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Days &amp; Hours</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">What to expect</th></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Morning (AM) Path</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Mon&ndash;Fri, 8:00 AM &ndash; 12:00 PM</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">On campus five mornings a week &mdash; a mix of directed study and lecture/lab time each day.</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Full-Day Path</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Tue&ndash;Thu, 8:00 AM &ndash; 4:00 PM (Wed dismisses 3:00 PM)</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">On campus three longer days a week, combining morning lecture/lab with extended afternoon directed study.</td></tr></tbody></table><p style=\"margin:10px 0 0;\">Your instructor will confirm which path fits your enrollment and let you know your specific start date.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Course Map</h2><p style=\"margin:0 0 10px;\">This course covers all 5 units of the <strong>General Math Review</strong> textbook (Howett &amp; Eichhorn), matched 1:1 to the CBO's competency areas. Days below are content days; short reinforcement/review days are interspersed on the calendar but not listed individually here.</p><table style=\"width:100%;border-collapse:collapse;background:white;table-layout:auto;\"><tbody><tr><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Day</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Unit</th><th style=\"text-align:left;color:#003462;border-bottom:2px solid #00B7A3;padding:8px 10px;\">Topic</th></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 1</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 1 &middot; Whole Numbers</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Place Value, Reading &amp; Writing, and Rounding Whole Numbers</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 2</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 1 &middot; Whole Numbers</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Adding, Subtracting, Multiplying, and Dividing Whole Numbers</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 3</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 2 &middot; Decimals</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Place Value, Reading &amp; Writing, Comparing, and Rounding Decimals</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 4</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 2 &middot; Decimals</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Adding, Subtracting, Multiplying, and Dividing Decimals</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 5</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 3 &middot; Fractions</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Fraction Forms, Reducing, Raising Terms, and Comparing Fractions</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 6</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 3 &middot; Fractions</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Adding and Subtracting Fractions</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 7</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 3 &middot; Fractions</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Multiplying and Dividing Fractions</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 8</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 4 &middot; Ratio &amp; Proportion</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Ratios, Proportions, and Proportion Shortcuts</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 9</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 5 &middot; Percent</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Writing Percents and Converting Between Percents, Decimals, and Fractions</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 10</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 5 &middot; Percent</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Finding the Part, the Percent, and the Whole</td></tr><tr><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Day 11</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Unit 5 &middot; Percent</td><td style=\"vertical-align:top;border-bottom:1px solid #E5E7EB;padding:8px 10px;\">Interest, Multi-Step Percent Problems, and Percent Review</td></tr></tbody></table></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">How Classes Are Taught</h2><p style=\"margin:0 0 10px;\">Class time combines short, in-person <strong>stand-up teaching</strong> with your instructor and <strong>Directed Study</strong> &mdash; independent coursework completed primarily through the Canvas LMS.</p><ul style=\"margin:0;padding-left:20px;\"><li>Scheduled Lecture/Lab blocks are focused, instructor-led sessions used to introduce new topics and demonstrate skills.</li><li>Most weekly hours are Directed Study &mdash; you work through modules, assignments, and practice in Canvas at your own pace, with your instructor available in the room and online for questions.</li><li>Because Canvas carries the bulk of your coursework, checking it daily and staying current on assignments is essential to making progress in the course. A calculator is provided for in-class use, and printable worksheets are used alongside Canvas quizzes for arithmetic practice.</li></ul></div></div>"
+        }
+      ]
+    },
+    {
+      "name": "Day 1, Unit 1: Whole Numbers (Place Value, Reading & Writing, Rounding)",
+      "position": 2,
+      "items": [
+        {
+          "type": "page",
+          "title": "Day 1 Overview",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 1 &middot; Unit 1: Whole Numbers</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 1 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">How our number system works, how to read and write large numbers, and how to round for quick estimates &mdash; the building blocks everything else in this course builds on.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Learning Objectives Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Identify place value</li><li>Read and write whole numbers</li><li>Round whole numbers</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Why It Matters</h2><p style=\"margin:0;\">This unit builds the foundational math skills needed for entry-level office and business work &mdash; reading a number correctly, writing it down without dropping a zero, and rounding for a quick estimate come up constantly in business math: reading inventory counts, writing dollar amounts, and estimating totals before you check the exact number.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today&rsquo;s Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Place Value &mdash; read, then complete Practice 1</li><li>Reading and Writing Whole Numbers &mdash; read, then complete Practice 2</li><li>Rounding Whole Numbers &mdash; read, then complete Practice 3</li></ol></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Note</strong><p style=\"margin:6px 0 0;\">Practice 1-3 are self-check practice quizzes, not graded &mdash; use them to see what's solid and what needs another look before Day 2, when we start adding, subtracting, multiplying, and dividing whole numbers.</p></div></div>"
+        },
+        {
+          "type": "page",
+          "title": "Place Value — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 1 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 7 &middot; CBO Objective: Identify place value</p><h2>Place Value</h2><p>Whole numbers are made up of the <strong>digits</strong> 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. The number 44 has two digits. The number 23,060 has five digits. The value of each digit is different because of its position in the number. Every position has a <strong>place value</strong>.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0 0 8px;\">Think of place value like money in your wallet: a $1 bill and a $100 bill both show the digit &ldquo;1&rdquo;, but their <em>position</em> (which bill they're printed on) makes them worth completely different amounts. Numbers work the same way &mdash; the digit 3 is worth 3, 30, 300, or 3,000,000 depending purely on which column it sits in.</p><p style=\"margin:0;\">Reading right to left, the columns go: units (ones), tens, hundreds, thousands, ten thousands, hundred thousands, millions &mdash; and the pattern of ones/tens/hundreds repeats inside every new group (thousands, millions, billions).</p></div><p><em>Example:</em> Find the value of 5 in 85,406.</p><p>The digit 5 is in the thousands place. It has a value of 5 thousands, or 5,000.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0;\"><em>Find the value of 7 in 2,573,940.</em><br>Counting from the right: 0 (ones), 4 (tens), 9 (hundreds), 3 (thousands), 7 (ten thousands). The 7 is in the <strong>ten thousands</strong> place, so its value is <strong>70,000</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">Mixing up <em>place</em> and <em>value</em> is the #1 mix-up here: if asked for the <strong>value</strong> of the 5 in 85,406, the answer is <strong>5,000</strong> &mdash; not just &ldquo;5&rdquo; and not &ldquo;thousands.&rdquo; The place is the position's <em>name</em> (thousands); the value is what the digit is actually <em>worth</em> there (5,000). Also remember place values increase as you move right to left, not left to right.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/T5Qf0qSSJFI\" title=\"Math Antics - Place Value\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Place Value</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "quiz",
+          "title": "Practice 1: Place Value",
+          "quiz_type": "practice_quiz",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 1 &middot; Unit 1 Practice</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Practice 1: Place Value</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check &mdash; not graded. Book page 7-8.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">Use the number <strong>985</strong> for questions 1-4, and <strong>1,760</strong> (the number of yards in a mile) for questions 5-10. (Item 1 in the book is done for you as an example: in 985, the digit 9 is in the hundreds place, with a value of 900.)</p></div></div>",
+          "questions": [
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 985, what place is the digit 8 in?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "tens",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 985, what is the value of the digit 8?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "80",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 985, what place is the digit 5 in?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "units",
+                  "weight": 100
+                },
+                {
+                  "text": "ones",
+                  "weight": 100
+                },
+                {
+                  "text": "units or ones",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 985, what is the value of the digit 5?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "5",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what place is the digit 1 in?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "thousands",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what is the value of the digit 1?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "1,000",
+                  "weight": 100
+                },
+                {
+                  "text": "1000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what place is the digit 7 in?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "hundreds",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what is the value of the digit 7?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "700",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what place is the digit 6 in?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "tens",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "There are 1,760 yards in a mile. In 1,760, what is the value of the digit 6?",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "60",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Reading and Writing Whole Numbers — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 1 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 8-9 &middot; CBO Objective: Read and write whole numbers</p><h2>Reading and Writing Whole Numbers</h2><p>Commas make numbers easier to read. Counting from the right, there is a comma after every three places. Large numbers are read in groups of three. At each comma we say the name of the group of digits that are set off by the comma.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0 0 8px;\">Every number is really just a series of 3-digit &ldquo;chunks&rdquo; read one at a time, left to right, each chunk followed by its group name: <strong>...billion, million, thousand,</strong> (and then the last chunk has no name &mdash; it's just the ones/tens/hundreds).</p><p style=\"margin:0;\">So 12,050,006 breaks into three chunks: <strong>12</strong> | <strong>050</strong> | <strong>006</strong> &rarr; &ldquo;twelve <em>million</em>, fifty <em>thousand</em>, six.&rdquo; Notice the middle chunk's leading zero doesn't get read out loud &mdash; &ldquo;fifty,&rdquo; not &ldquo;zero-fifty.&rdquo;</p></div><p><em>Example:</em> 2,043,000 is read: two <strong>million</strong>, forty-three <strong>thousand</strong>.</p><p style=\"color:#003462;font-style:italic;\">Notice how the commas go in the same place whether the number is written in words or figures.</p><p>To write whole numbers from words, watch for places that must be held with zeros.</p><p><em>Example:</em> Write &ldquo;three million, four hundred eight thousand, six hundred&rdquo; as a whole number.</p><p>This number contains no ten thousands, no tens, and no units. Hold these places with zeros: <strong>3,408,600</strong>.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0 0 8px;\"><em>Write &ldquo;eight hundred thousand, forty&rdquo; as a whole number.</em><br>There's nothing in the hundred-thousands' own hundreds/tens/ones (just &ldquo;800&rdquo; thousand), and nothing in the hundreds place of the last chunk &mdash; only tens and ones (&ldquo;40&rdquo;). Answer: <strong>800,040</strong>.</p><p style=\"margin:0;\"><em>Read 12,050,006.</em><br>Answer: <strong>twelve million, fifty thousand, six.</strong></p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">When writing a number FROM words, it's easy to drop a zero-holding place by accident &mdash; e.g. writing 3,48,600 instead of 3,408,600. After you write each chunk, count the digits: every chunk except possibly the very first must have exactly three digits. Also double-check comma placement lines up with your chunks, not with wherever feels natural.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Want a video for this one?</strong><p style=\"margin:6px 0 0;\">This skill is really place value applied to bigger numbers &mdash; if you want a refresher, revisit the Place Value video on the previous page, or check the Khan Academy link on the <strong>Want More Practice?</strong> page at the end of today.</p></div>"
+        },
+        {
+          "type": "quiz",
+          "title": "Practice 2: Reading and Writing Whole Numbers",
+          "quiz_type": "practice_quiz",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 1 &middot; Unit 1 Practice</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Practice 2: Reading and Writing Whole Numbers</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check &mdash; not graded. Book pages 8-10.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">Part A: supply the missing word(s) needed to read each number aloud. Part B: write each number in words or figures as asked.</p></div></div>",
+          "questions": [
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 502 is read “five ___ two.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "hundred",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 4,080 is read “four ___, eighty.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "thousand",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 58,320 is read “fifty-eight ___, three hundred twenty.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "thousand",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 6,019,300 is read “six ___, nineteen thousand, three hundred.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "million",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 6,019,300 is read “six million, nineteen ___, three hundred.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "thousand",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Fill in the missing word: 246,500 is read “two hundred forty-six ___, five hundred.”",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "thousand",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write words to show how to read 3,800.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "three thousand, eight hundred",
+                  "weight": 100
+                },
+                {
+                  "text": "three thousand eight hundred",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write words to show how to read 19,007,200.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "nineteen million, seven thousand, two hundred",
+                  "weight": 100
+                },
+                {
+                  "text": "nineteen million seven thousand two hundred",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “three hundred eight” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "308",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “two hundred sixty-one thousand” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "261,000",
+                  "weight": 100
+                },
+                {
+                  "text": "261000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “ninety thousand, twenty-four” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "90,024",
+                  "weight": 100
+                },
+                {
+                  "text": "90024",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “four million, one hundred seventy thousand” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "4,170,000",
+                  "weight": 100
+                },
+                {
+                  "text": "4170000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “eight hundred four thousand, five hundred” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "804,500",
+                  "weight": 100
+                },
+                {
+                  "text": "804500",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “sixty thousand, three hundred” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "60,300",
+                  "weight": 100
+                },
+                {
+                  "text": "60300",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “eleven million, two hundred seven thousand” as a whole number.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "11,207,000",
+                  "weight": 100
+                },
+                {
+                  "text": "11207000",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Rounding Whole Numbers — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 1 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 10-11 &middot; CBO Objective: Round whole numbers</p><h2>Rounding Whole Numbers</h2><p>Cory&rsquo;s car weighs 2,374 pounds. What is the weight of her car to the nearest 100 pounds?</p><p>To find the weight to the nearest 100 pounds, you must <em>round off</em> 2,374. Rounding makes numbers easier to use when you don&rsquo;t need exact values.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0 0 8px;\">Rounding answers one question: &ldquo;what's the closest, simpler number I could use instead?&rdquo; It matters in real business situations &mdash; a manager quoting &ldquo;about $2,400&rdquo; instead of &ldquo;$2,374.18&rdquo; is rounding on purpose, because the exact cents rarely matter for a quick decision.</p><p style=\"margin:0;\">The whole rule boils down to looking at exactly <strong>one digit</strong> &mdash; the one immediately to the right of the place you're rounding to. That single digit decides whether your target digit stays the same or goes up by 1.</p></div><p>To round a whole number:</p><ol style=\"margin:0 0 10px;padding-left:20px;\"><li>Underline the digit in the place to which you want to round.</li><li>If the digit to the right of the underlined digit is more than 4, add 1 to the underlined digit.</li><li>If the digit to the right of the underlined digit is less than 5, do not change the underlined digit.</li><li>Replace the digits to the right of the underlined digit with zeros.</li></ol><p><em>Example:</em> Round 2,374 to the nearest hundred.</p><p><strong>Step 1.</strong> Underline the digit in the hundreds place, 3: 2,<u>3</u>74<br><strong>Step 2.</strong> The digit to the right of 3 is 7. Add 1 to 3, and replace 7 and 4 with zeros: 2,400</p><p>To the nearest 100 pounds, Cory&rsquo;s car weighs <strong>2,400</strong> pounds.</p><p><em>Example:</em> Round 29,624 to the nearest thousand.</p><p><strong>Step 1.</strong> Underline the digit in the thousands place, 9: 2<u>9</u>,624<br><strong>Step 2.</strong> The digit to the right of 9 is 6. Add 1 to 9. Since 1 + 9 = 10, you must carry 1 over to the ten-thousands column. Replace 6, 2, and 4 with 0s: 30,000</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Third Example</h2><p style=\"margin:0;\"><em>Round 6,382 to the nearest hundred.</em><br>The hundreds digit is 3. The digit to its right is 8 &mdash; more than 4, so round up: 3 becomes 4, and everything after it becomes zero. <strong>6,382 &rarr; 6,400</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">Only look at <strong>one</strong> digit &mdash; the one right after your target. Students sometimes glance at two or three digits and second-guess themselves; ignore everything except that single next digit. Also remember every digit to the right of your target becomes a zero, even if some of them were already going to &ldquo;round down&rdquo; on their own.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/fd-E18EqSVk\" title=\"Math Antics - Rounding\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Rounding</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "quiz",
+          "title": "Practice 3: Rounding Whole Numbers",
+          "quiz_type": "practice_quiz",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 1 &middot; Unit 1 Practice</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Practice 3: Rounding Whole Numbers</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check &mdash; not graded. Book page 11.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0;\">Round each number to the place shown.</p></div></div>",
+          "questions": [
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 38 to the nearest ten.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "40",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 542 to the nearest ten.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "540",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 295 to the nearest ten.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "300",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 5,291 to the nearest ten.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "5,290",
+                  "weight": 100
+                },
+                {
+                  "text": "5290",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 108 to the nearest ten.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "110",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 863 to the nearest hundred.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "900",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 59,848 to the nearest hundred.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "59,800",
+                  "weight": 100
+                },
+                {
+                  "text": "59800",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 4,082 to the nearest hundred.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "4,100",
+                  "weight": 100
+                },
+                {
+                  "text": "4100",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 647 to the nearest hundred.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "600",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 3,954 to the nearest hundred.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "4,000",
+                  "weight": 100
+                },
+                {
+                  "text": "4000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 6,174 to the nearest thousand.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "6,000",
+                  "weight": 100
+                },
+                {
+                  "text": "6000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 39,723 to the nearest thousand.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "40,000",
+                  "weight": 100
+                },
+                {
+                  "text": "40000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 3,279 to the nearest thousand.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "3,000",
+                  "weight": 100
+                },
+                {
+                  "text": "3000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 20,736 to the nearest thousand.",
+              "points_possible": 1,
+              "answers": [
+                {
+                  "text": "21,000",
+                  "weight": 100
+                },
+                {
+                  "text": "21000",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Day 1: Want More Practice?",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 1 &middot; Unit 1</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Want More Practice?</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Optional extra videos and practice for today's skills &mdash; use these if you want more repetition before Day 2.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Place Value</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=T5Qf0qSSJFI\" style=\"color:#003462;font-weight:bold;\">Math Antics - Place Value (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Same video embedded on the Place Value reading, in case you want it full-screen.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic-home/arith-place-value\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Place Value practice</a><br><span style=\"font-size:13px;color:#4B5563;\">Free interactive practice: identifying place value, writing numbers in different forms, and more.</span></li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Reading and Writing Whole Numbers</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic-home/arith-place-value/arith-intro-to-place-value/a/whole-number-place-value-review\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Whole number place value review</a><br><span style=\"font-size:13px;color:#4B5563;\">A short article + practice covering reading and writing large numbers.</span></li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Rounding</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=fd-E18EqSVk\" style=\"color:#003462;font-weight:bold;\">Math Antics - Rounding (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Same video embedded on the Rounding reading.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic-home/arith-place-value/arith-rounding-whole/e/rounding_whole_numbers\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Round whole numbers practice</a><br><span style=\"font-size:13px;color:#4B5563;\">Interactive rounding drills with instant feedback.</span></li></ul></div></div>"
+        }
+      ]
+    },
+    {
+      "name": "Day 2, Unit 1: Whole Numbers (Addition, Subtraction, Multiplication, Division, Review, Quiz, Test)",
+      "position": 3,
+      "items": [
+        {
+          "type": "page",
+          "title": "Day 2 Overview",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1: Whole Numbers</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Day 2 Overview</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">The four operations with whole numbers &mdash; adding, subtracting, multiplying, and dividing with carrying, regrouping, and remainders &mdash; then a full Unit 1 review, quiz, and test.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Learning Objectives Covered Today</h2><ul style=\"margin:0;padding-left:20px;\"><li>Add whole numbers with carrying</li><li>Add more than two numbers</li><li>Subtract whole numbers with regrouping</li><li>Regroup with zeros</li><li>Multiply whole numbers with carrying</li><li>Divide by one digit</li><li>Divide with remainders</li><li>Divide by larger numbers</li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">How Today Works</h2><p style=\"margin:0 0 8px;\">Each topic below is a short reading followed by a printable worksheet &mdash; the book's own practice problems, done on paper with your calculator. These worksheets are <strong>not graded</strong>; check your work against the Answer Key dropdown at the bottom of each one before moving to the next topic.</p><p style=\"margin:0;\">The day ends with the book's own <strong>Whole Numbers Review</strong> (a self-check with a \"which pages to review\" chart built in), then the graded <strong>Unit 1 Quiz</strong> and <strong>Unit 1 Test</strong>.</p></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Today&rsquo;s Tasks</h2><ol style=\"margin:0;padding-left:20px;\"><li>Addition with Carrying &mdash; read, then Worksheet 4</li><li>Addition of More Than Two Numbers &mdash; read, then Worksheet 5</li><li>Subtraction with Regrouping &mdash; read, then Worksheet 6</li><li>Regrouping with Zeros &mdash; read, then Worksheet 7</li><li>Multiplication with Carrying &mdash; read, then Worksheet 8</li><li>Division by One Digit &mdash; read, then Worksheet 9</li><li>Division with Remainders &mdash; read, then Worksheet 10</li><li>Division by Larger Numbers &mdash; read, then Worksheet 11</li><li>Whole Numbers Review (self-check)</li><li>Unit 1 Quiz</li><li>Unit 1 Test</li></ol></div></div>"
+        },
+        {
+          "type": "page",
+          "title": "Addition with Carrying — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 11 &middot; CBO Objective: Add whole numbers with carrying</p><h2>Addition with Carrying</h2><p>At the ABM Assembly plant there are 857 workers on the day-shift and 268 on the night shift. Find the total number of workers at ABM.</p><p>The answer to an addition problem is called the <strong>sum</strong> or <strong>total</strong>. When the sum of the digits in a column is a two-digit number, <em>carry</em> the digit at the left to the next column to the left.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Carrying is just regrouping: if a column adds up to 10 or more, you're saying &ldquo;I have more ones than fit in this column, so I'll trade 10 of them for 1 of the next bigger unit.&rdquo; 15 ones = 1 ten + 5 ones &mdash; write the 5, carry the 1 ten into the tens column and add it in there.</p></div><p><em>Example:</em> 857 + 268 =</p><p><strong>Step 1.</strong> Add the ones. 7 + 8 = 15. Write 5 under the ones column, and carry the 1 to the tens column.<br><strong>Step 2.</strong> Add the tens. 1 + 5 = 6 and 6 + 6 = 12. Write the 2 under the tens and carry the 1 to the hundreds.<br><strong>Step 3.</strong> Add the hundreds. 1 + 8 = 9 and 9 + 2 = 11.</p><p>The total number of workers at ABM is <strong>1,125</strong>.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example (double carry)</h2><p style=\"margin:0;\"><em>456 + 389 =</em><br>Ones: 6 + 9 = 15 &rarr; write 5, carry 1. Tens: 1 + 5 + 8 = 14 &rarr; write 4, carry 1. Hundreds: 1 + 4 + 3 = 8. <strong>Answer: 845</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">The most common slip is forgetting to actually <em>add</em> the carried digit once you move to the next column &mdash; write it small above the column as a reminder. If a column's total needs a 2-digit carry (like 29 &rarr; carry 2, not 1), make sure you carry the full amount, not just &ldquo;1&rdquo; out of habit.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/mAvuom42NyY\" title=\"Math Antics - Multi-Digit Addition\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Multi-Digit Addition</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 4: Addition with Carrying",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 4: Addition with Carrying</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 12-13.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20756/download?download_frd=1&verifier=1bb25bc3-48bf-4f99-a91d-d66c1b835e39\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20757/download?download_frd=1&verifier=51f5fae2-33d3-4e6f-b17d-7d9ebb7548ee\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Addition of More Than Two Numbers — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 14 &middot; CBO Objective: Add more than two numbers</p><h2>Addition of More Than Two Numbers</h2><p>Carlos works in the shipping department of an electrical supply company. For one customer he packed three boxes. One weighed 29 pounds, the second weighed 14 pounds, and the third weighed 7 pounds. Find the total weight of the three boxes.</p><p>To add more than two numbers, find the total for each column. The digits in a column can be added in any order.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Same carrying rule as before &mdash; you're just adding <em>every</em> digit in the column before you carry, instead of only two. It can help to scan for pairs that make 10 first (like spotting 7 + 3) since adding those together first is often faster than working strictly top to bottom.</p></div><p><em>Example:</em> 29 + 14 + 7 =</p><p><strong>Step 1.</strong> Line up the numbers and add the digits in the units column. 9 + 4 = 13. Then 13 + 7 = 20. Write 0 in the units column and carry 2 to the tens.<br><strong>Step 2.</strong> Add the digits in the tens column. 2 + 2 = 4. Then 4 + 1 = 5.</p><p>The total weight of the boxes is <strong>50</strong> pounds.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0;\"><em>148 + 26 + 375 =</em><br>Ones: 8 + 6 + 5 = 19 &rarr; write 9, carry 1. Tens: 1 + 4 + 2 + 7 = 14 &rarr; write 4, carry 1. Hundreds: 1 + 1 + 3 = 5. <strong>Answer: 549</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">With four, five, or more rows in a column, it's easy to lose your place and skip or double-count a digit &mdash; run your finger or pencil tip down the column as you add. And watch column sums of 20+: you may need to carry a 2, not just a 1.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Same skill, same video</strong><p style=\"margin:6px 0 0;\">This is the same carrying skill as the previous page &mdash; if you want to rewatch it, the Multi-Digit Addition video is on the &ldquo;Addition with Carrying&rdquo; reading, or linked again on the Want More Practice? page.</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 5: Addition of More Than Two Numbers",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 5: Addition of More Than Two Numbers</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 14-15.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20758/download?download_frd=1&verifier=d9f2f0c7-799d-41f1-a2cd-7b46ce001504\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20759/download?download_frd=1&verifier=d266e53a-1aa6-4c10-a88c-ff1dc5561ff7\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Subtraction with Regrouping — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 16 &middot; CBO Objective: Subtract whole numbers with regrouping</p><h2>Subtraction with Regrouping</h2><p>Carpenters at the ABM Company have to build 85 packing crates. By Wednesday they had finished 39 crates. How many do they have left?</p><p>The answer to a subtraction problem is called the <strong>difference</strong>. When the bottom number in any column is too large to subtract from the top number, you must <strong>regroup</strong> the top number. You may know this operation as <em>renaming</em> or <em>borrowing</em>.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Borrowing is carrying in reverse: when a column doesn't have enough to subtract, you break open 1 unit from the column to its left and turn it into 10 of the smaller unit. Borrow 1 ten &rarr; it becomes 10 ones added to what's already there. The column you borrowed <em>from</em> goes down by 1.</p></div><p><em>Example:</em> 85 &minus; 39 =</p><p><strong>Step 1.</strong> 9 is too large to subtract from 5. Regroup the top number: take 1 ten from the tens column (8 &minus; 1 = 7) and add it to the units (10 + 5 = 15).<br><strong>Step 2.</strong> Subtract the units. 15 &minus; 9 = 6.<br><strong>Step 3.</strong> Subtract the tens. 7 &minus; 3 = 4.</p><p>The carpenters have <strong>46</strong> crates left to build.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0;\"><em>63 &minus; 28 =</em><br>8 is too big to take from 3, so borrow: 6 tens &rarr; 5 tens, and the 3 ones become 13 ones. 13 &minus; 8 = 5. Then 5 tens &minus; 2 tens = 3. <strong>Answer: 35</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">The classic early-learner error is subtracting the smaller digit from the larger one <em>regardless of which is on top</em> (e.g. doing 9 &minus; 5 instead of borrowing, just because 9 is bigger) &mdash; always check whether the TOP digit is big enough first. And after you borrow from a column, don't forget to actually reduce that column by 1 before you get to it.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/Y6M89-6106I\" title=\"Math Antics - Multi-Digit Subtraction\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Multi-Digit Subtraction</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 6: Subtraction with Regrouping",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 6: Subtraction with Regrouping</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 16-17.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20760/download?download_frd=1&verifier=8f58eac0-768b-48b6-9c29-8e1966853fca\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20761/download?download_frd=1&verifier=92709326-f178-48aa-acaf-113d99047f43\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Regrouping with Zeros — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 18 &middot; CBO Objective: Regroup with zeros</p><h2>Regrouping with Zeros</h2><p>Imani had $904 in her savings account. She withdrew $356 to buy new winter clothes. How much did she have left in her account?</p><p>To regroup with zeros, look at the first digit in the top number that is not zero.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Normally you borrow from the very next column over. But if that column is a <strong>zero</strong>, there's nothing there to borrow &mdash; so you have to reach further left to the first non-zero digit, borrow from it, and then &ldquo;cascade&rdquo; that borrow back down through every zero in between (each zero becomes a 9, except the very last one, which becomes 10 and combines with the ones column).</p></div><p><em>Example:</em> 904 &minus; 356 =</p><p><strong>Step 1.</strong> You cannot subtract 6 from 4. Take 1 hundred from the hundreds column (9 &minus; 1 = 8). You now have 10 tens in the tens column.<br><strong>Step 2.</strong> Take 1 ten from the 10 in the tens column (10 &minus; 1 = 9) and add it to the units (10 + 4 = 14).<br><strong>Step 3.</strong> Subtract the units. 14 &minus; 6 = 8.<br><strong>Step 4.</strong> Subtract the tens. 9 &minus; 5 = 4.<br><strong>Step 5.</strong> Subtract the hundreds. 8 &minus; 3 = 5.</p><p>Imani had <strong>$548</strong> left in her account.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example (single zero)</h2><p style=\"margin:0;\"><em>500 &minus; 247 =</em><br>The tens column is 0, so reach to the hundreds: 5 &rarr; 4, and that 1 hundred becomes 10 tens. Now borrow 1 ten for the ones: 10 tens &rarr; 9 tens, and the ones become 10. 10 &minus; 7 = 3. 9 &minus; 4 = 5. 4 &minus; 2 = 2. <strong>Answer: 253</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">With more than one zero in a row (like 4,000 &minus; 1,256), the cascade has to pass through <em>every</em> zero &mdash; stopping the borrow too early is the #1 error here. Each zero you pass through becomes a 9; only the very last one becomes 10.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Same skill, same video</strong><p style=\"margin:6px 0 0;\">This builds directly on the Multi-Digit Subtraction video from the previous page &mdash; rewatch it if the zero-cascade felt shaky, and try the practice problems on the Want More Practice? page.</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 7: Regrouping with Zeros",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 7: Regrouping with Zeros</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 18-19.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20762/download?download_frd=1&verifier=506102d4-536f-48f0-af07-063eca309935\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20763/download?download_frd=1&verifier=e8158d03-4af9-48ff-9f26-a08900e4e738\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Multiplication with Carrying — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 20 &middot; CBO Objective: Multiply whole numbers with carrying</p><h2>Multiplication with Carrying</h2><p>The shipping department at Ace Electrical sent out 29 crates of motor parts. Each crate weighed 76 pounds. Find the total weight of the shipment.</p><p>The answer to a multiplication problem is called the <em>product</em>. When you multiply two digits, the product is often a two-digit number. You must <strong>carry</strong> the left digit to the next number you are multiplying. Then <strong>add</strong> the digit you carry to the next product.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Multiplying by a 2-digit number is really two smaller multiplications added together, called <strong>partial products</strong>: first multiply by the ones digit, then multiply by the tens digit (writing that second row shifted one place to the left, since you're really multiplying by a number of tens). Add the two partial products for your final answer.</p></div><p><em>Example:</em> 76 &times; 29 =</p><p><strong>Step 1.</strong> 9 &times; 6 = 54. Write 4 in the units column, and carry 5 to the next column.<br><strong>Step 2.</strong> 9 &times; 7 = 63. Add the 5 you carried: 63 + 5 = 68.<br><strong>Step 3.</strong> 2 &times; 6 = 12. Write 2 in the tens column, carry the 1 to the next column.<br><strong>Step 4.</strong> 2 &times; 7 = 14. Add the 1 you carried: 14 + 1 = 15.<br><strong>Step 5.</strong> Add the partial products.</p><p>The total weight of the shipment was <strong>2,204</strong> pounds.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example (with partial products shown)</h2><p style=\"margin:0;\"><em>58 &times; 43 =</em><br>Partial product 1 (58 &times; 3): 174. Partial product 2 (58 &times; 4, shifted one place left because it's really &times;40): 2,320. Add: 174 + 2,320 = <strong>2,494</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">The #1 error is forgetting to shift the second partial product one place to the left (or forgetting its placeholder zero) &mdash; that shift is what makes it &times;40 instead of &times;4. Also watch for carrying mistakes inside a single partial product, same as regular multi-digit multiplication.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/FJ5qLWP3Fqo\" title=\"Math Antics - Multi-Digit Multiplication Pt 1\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Multi-Digit Multiplication Pt 1</em> (Math Antics, YouTube)</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/RVYwunbpMHA\" title=\"Math Antics - Multi-Digit Multiplication Pt 2\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Multi-Digit Multiplication Pt 2</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 8: Multiplication with Carrying",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 8: Multiplication with Carrying</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 20-21.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20764/download?download_frd=1&verifier=680cd24d-2585-4654-b2e3-9faa56592cdb\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20765/download?download_frd=1&verifier=6d0b2b4e-42e0-40ae-84fb-e90833a48187\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Division by One Digit — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 22-23 &middot; CBO Objective: Divide by one digit</p><h2>Division by One Digit</h2><p>Serena has a part-time job at a convenience store. She makes $6 an hour. Last month she made $504. How many hours did she work?</p><p>The answer to a division problem is called the <strong>quotient</strong>. To find a quotient, repeat these four steps until you complete the problem: 1. Divide. 2. Multiply. 3. Subtract and compare. 4. Bring down the next number.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Long division is really a sequence of small &ldquo;how many times does this fit?&rdquo; questions, worked one digit at a time from left to right. Each round follows the same 4-step cycle (Divide &rarr; Multiply &rarr; Subtract &rarr; Bring down) until there are no more digits left to bring down.</p></div><p><em>Example:</em> Divide 6 into 504.</p><p><strong>Step 1.</strong> Divide: 6 goes into 50 eight times. Write 8 above the tens place.<br><strong>Step 2.</strong> Multiply: 8 &times; 6 = 48. Write 48 under 50.<br><strong>Step 3.</strong> Subtract: 50 &minus; 48 = 2. Compare to be sure 2 is less than 6.<br><strong>Step 4.</strong> Bring down the next number: 4.<br><strong>Step 5.</strong> Divide: 6 goes into 24 four times. Write 4 above the units place.<br><strong>Step 6.</strong> Multiply: 4 &times; 6 = 24. Write 24 under 24.<br><strong>Step 7.</strong> Subtract: 24 &minus; 24 = 0. Compare: 0 is less than 6.</p><p>Serena worked <strong>84</strong> hours.</p><p>Writing every step is called <strong>long division</strong>. In <strong>short division</strong> you write only the answer and the number you get by subtracting.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0;\"><em>Divide 4 into 372.</em><br>4 goes into 37 nine times (9&times;4=36, remainder 1). Bring down the 2 &rarr; 12. 4 goes into 12 three times exactly. <strong>Answer: 93</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">Writing the quotient digit above the wrong column is the most common slip &mdash; each digit you write goes directly above the digit you just brought down. And don't skip bringing down the next digit before continuing; that's what tells you when the problem is finished.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/LGqBQrUYua4\" title=\"Math Antics - Long Division\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Long Division</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 9: Division by One Digit",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 9: Division by One Digit</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 22-23.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20766/download?download_frd=1&verifier=ede7cb89-d25f-46c6-a3db-8146d5401bf5\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20767/download?download_frd=1&verifier=575747e1-73ea-4f5f-a788-f3a023e1553b\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Division with Remainders — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 24 &middot; CBO Objective: Divide with remainders</p><h2>Division with Remainders</h2><p>How many buckets, each containing 4 quarts of paint, can Alan fill from a vat that contains 387 quarts of paint?</p><p>If you do not get zero in the last subtraction step of a division problem, you will have a <strong>remainder</strong>.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0 0 8px;\">A remainder is simply whatever's left over that doesn't divide evenly. What you <em>do</em> with a remainder in a real business problem depends on context: if you're asking &ldquo;how many full buckets,&rdquo; you drop the remainder (it's the leftover paint, not another bucket). But if the question were &ldquo;how many buckets do I need to buy to hold ALL the paint,&rdquo; you'd round <em>up</em> even with a remainder, since a partly-full bucket still counts as one you need.</p><p style=\"margin:0;\">In this unit, just report the remainder as-is (written &ldquo;r&rdquo; followed by the leftover number) unless a problem specifically asks you to interpret it.</p></div><p><em>Example:</em> 387 &divide; 4 = 96r3</p><p>Alan can fill 96 buckets. There will be 3 quarts left over.</p><p>If a division problem is written with the &divide; sign, rewrite the problem using the long-division bracket before dividing.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example</h2><p style=\"margin:0;\"><em>260 &divide; 7 =</em><br>7 goes into 26 three times (3&times;7=21, remainder 5). Bring down the 0 &rarr; 50. 7 goes into 50 seven times (7&times;7=49, remainder 1). <strong>Answer: 37r1</strong>.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">Your remainder should always be <strong>smaller</strong> than the number you're dividing by &mdash; if it isn't, that's a sign your last &ldquo;divide&rdquo; step guessed too low and you need to go one higher. And don't forget to write the remainder at all &mdash; &ldquo;96&rdquo; and &ldquo;96r3&rdquo; are different answers.</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Same skill, same video</strong><p style=\"margin:6px 0 0;\">This is the same long-division process from the previous page, just with problems that don't divide evenly &mdash; rewatch the Long Division video there if you need it.</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 10: Division with Remainders",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 10: Division with Remainders</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 24-25.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20768/download?download_frd=1&verifier=9f2a916a-96d6-444c-b134-7d45c2cea3ff\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20769/download?download_frd=1&verifier=0365d412-4f5b-4ed2-a739-2adfafc5ae0a\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Division by Larger Numbers — Reading",
+          "body": "<div style=\"background:#003462;color:white;border-radius:4px;padding:14px 20px;margin:0 0 16px;\"><div style=\"font-size:13px;letter-spacing:0.02em;color:#FFCF01;\">Day 2 &middot; Unit 1 Reading</div></div><p style=\"margin:0 0 10px;color:#003462;font-style:italic;font-size:13px;\">Book pages: 26 &middot; CBO Objective: Divide by larger numbers</p><h2>Division by Larger Numbers</h2><p>Sonny borrowed $2,976. He is paying back $62 a month. How many months will he need to repay the entire loan?</p><p>To divide by two-digit and three-digit numbers, you must <strong>estimate</strong> how many times one number divides into another number. When you estimate, you make a guess.</p><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Breaking It Down</h2><p style=\"margin:0;\">Dividing by a bigger number means you usually can't just &ldquo;know&rdquo; the answer from memorized facts &mdash; you <strong>estimate</strong> (often by looking at just the lead digits), then <strong>check</strong> your estimate by multiplying back out, and <strong>adjust</strong> up or down if it was wrong. This estimate-check-adjust loop is the whole skill; don't expect to get every estimate right on the first try.</p></div><p><em>Example:</em> Divide 2,976 by 62.</p><p><strong>Step 1.</strong> Estimate how many times 62 divides into 297: ask how many times 6 divides into 29 (29 &divide; 6 = 4 plus a remainder). Write 4 above the 7.<br><strong>Step 2.</strong> Multiply: 4 &times; 62 = 248. Write 248 under 297.<br><strong>Step 3.</strong> Subtract: 297 &minus; 248 = 49, and compare: 49 is less than 62.<br><strong>Step 4.</strong> Bring down the next number: 6.<br><strong>Step 5.</strong> Estimate how many times 62 divides into 496: ask how many times 6 goes into 49 (49 &divide; 6 = 8 plus a remainder). Write 8 above the 6.<br><strong>Step 6.</strong> Multiply: 8 &times; 62 = 496. Write 496 under 496.<br><strong>Step 7.</strong> Subtract: 496 &minus; 496 = 0.<br><strong>Step 8.</strong> Check: 48 &times; 62 = 2,976.</p><p>Sonny will need <strong>48</strong> months to repay the loan.</p><p style=\"color:#003462;font-style:italic;\">Sometimes your first estimate will be wrong. Work with a pencil and a good eraser. Decide if your estimate is too small or too large and try again.</p><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">A Second Example (adjusting an estimate)</h2><p style=\"margin:0;\"><em>1,464 &divide; 24 =</em><br>Estimate: 24 into 146 &mdash; try 6 (6&times;24=144, remainder 2, works). Bring down the 4 &rarr; 24. 24 goes into 24 exactly once. <strong>Answer: 61</strong>. (If you'd first guessed 7, 7&times;24=168 is too big &mdash; that's the &ldquo;adjust down&rdquo; moment this skill is all about.)</p></div><div style=\"background:#F5F7FA;border-left:5px solid #FFCF01;border-radius:4px;padding:12px 14px;margin:12px 0;\"><strong style=\"color:#003462;\">Common Mistakes to Avoid</strong><p style=\"margin:6px 0 0;\">Always <strong>verify</strong> an estimate by multiplying it back out before moving on &mdash; if the remainder you get is bigger than the divisor, your estimate was too low and needs to go up by 1 (or more). Don't just accept the first guess without checking.</p></div><div style=\"margin:14px 0;\"><div style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:6px;border:1px solid #CBD5E1;\"><iframe style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" src=\"https://www.youtube.com/embed/HdU_rf7eMTI\" title=\"Math Antics - Long Division with 2-Digit Divisors\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div><p style=\"margin:6px 0 0;font-size:12px;color:#6B7280;\">Video: <em>Math Antics - Long Division with 2-Digit Divisors</em> (Math Antics, YouTube)</p></div>"
+        },
+        {
+          "type": "assignment",
+          "title": "Worksheet 11: Division by Larger Numbers",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Worksheet</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Worksheet 11: Division by Larger Numbers</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check practice &mdash; not graded. Book pages 26-27.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">This worksheet is a clean, printable PDF (typeset from the book's own problems) &mdash; print it, work it on paper with your calculator, then check the Answer Key below before moving on.</p><a href=\"https://adultedventura.instructure.com/files/20770/download?download_frd=1&verifier=cef3f1b3-aab1-4199-a77c-8d5e2a21b3d4\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Worksheet (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20771/download?download_frd=1&verifier=569f3f64-542a-4a7c-b081-431cb46c4a42\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "assignment",
+          "title": "Whole Numbers Review (Self-Paced Practice)",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1 Self-Paced Practice</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Whole Numbers Review</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Self-check &mdash; not graded. Book pages 28-29.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><p style=\"margin:0 0 12px;\">These problems cover everything in Unit 1. Print the PDF, solve each problem, then check your answers against the Answer Key. Revisit any topic's reading page for problems you miss before moving on to the Unit 1 Quiz.</p><a href=\"https://adultedventura.instructure.com/files/20772/download?download_frd=1&verifier=69c12c63-01d9-4d85-ad59-f1cd35a7ba07\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Whole Numbers Review (PDF)</a></div><details style=\"margin-top:14px;\"><summary style=\"cursor:pointer;color:#003462;font-weight:bold;\">Answer Key</summary><div style=\"margin-top:10px;\"><a href=\"https://adultedventura.instructure.com/files/20773/download?download_frd=1&verifier=10533ac8-c0c3-4159-9947-7b11d0281ab7\" style=\"display:inline-block;background:#003462;color:white;padding:8px 14px;border-radius:4px;text-decoration:none;font-size:14px;\">Download Answer Key (PDF)</a></div></details></div>",
+          "points_possible": 0,
+          "submission_types": [
+            "on_paper"
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Unit 1 Quiz",
+          "quiz_type": "assignment",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Unit 1 &middot; Whole Numbers</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Unit 1 Quiz</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">A quick, graded check across all 11 Unit 1 objectives.</div></div></div>",
+          "points_possible": 22,
+          "questions": [
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 4,672, what is the value of the digit 6?",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "600",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “seven hundred fifteen thousand, forty” as a whole number.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "715,040",
+                  "weight": 100
+                },
+                {
+                  "text": "715040",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 6,382 to the nearest hundred.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "6,400",
+                  "weight": 100
+                },
+                {
+                  "text": "6400",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Add: 468 + 275 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "743",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Add: 92 + 148 + 6 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "246",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Subtract: 604 − 268 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "336",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Subtract: 800 − 235 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "565",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Multiply: 58 × 34 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "1,972",
+                  "weight": 100
+                },
+                {
+                  "text": "1972",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide: 8)648 (divide 648 by 8)",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "81",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide 517 by 6 and give the remainder as r___.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "86r1",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide 4,896 by 48.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "102",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "title": "Unit 1 Test",
+          "quiz_type": "assignment",
+          "description": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Unit 1 &middot; Whole Numbers</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Unit 1 Test</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">The comprehensive, graded end-of-unit test covering all 11 Whole Numbers objectives.</div></div></div>",
+          "points_possible": 40,
+          "questions": [
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 39,207, what place is the digit 3 in?",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "ten thousands",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "In the number 39,207, what is the value of the digit 2?",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "200",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write “three million, forty thousand, six hundred” as a whole number.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "3,040,600",
+                  "weight": 100
+                },
+                {
+                  "text": "3040600",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Write words to show how to read 8,050.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "eight thousand, fifty",
+                  "weight": 100
+                },
+                {
+                  "text": "eight thousand fifty",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 74,529 to the nearest thousand.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "75,000",
+                  "weight": 100
+                },
+                {
+                  "text": "75000",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Round 851 to the nearest ten.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "850",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Add: 4,637 + 2,895 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "7,532",
+                  "weight": 100
+                },
+                {
+                  "text": "7532",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Add: 63 + 419 + 8 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "490",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Subtract: 5,004 − 2,168 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "2,836",
+                  "weight": 100
+                },
+                {
+                  "text": "2836",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Subtract: 700 − 356 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "344",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Multiply: 47 × 68 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "3,196",
+                  "weight": 100
+                },
+                {
+                  "text": "3196",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Multiply: 209 × 6 =",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "1,254",
+                  "weight": 100
+                },
+                {
+                  "text": "1254",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide: 7)532 (divide 532 by 7)",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "76",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide 293 by 8 and give the remainder as r___.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "36r5",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Divide 3,588 by 39.",
+              "points_possible": 2,
+              "answers": [
+                {
+                  "text": "92",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "Aisha's truck weighs 4,215 pounds empty. Loaded, it weighs 6,802 pounds. How many pounds of cargo is that?",
+              "points_possible": 3,
+              "answers": [
+                {
+                  "text": "2,587",
+                  "weight": 100
+                },
+                {
+                  "text": "2587",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "A theater seats 640 people. At Friday's show, 89 seats were empty. How many people were at the show?",
+              "points_possible": 3,
+              "answers": [
+                {
+                  "text": "551",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "A caterer orders 18 trays of food at $47 each. What is the total cost?",
+              "points_possible": 3,
+              "answers": [
+                {
+                  "text": "$846",
+                  "weight": 100
+                },
+                {
+                  "text": "846",
+                  "weight": 100
+                }
+              ]
+            },
+            {
+              "question_type": "short_answer_question",
+              "question_text": "A charity raised $9,660 and wants to split it equally among 15 local shelters. How much does each shelter receive?",
+              "points_possible": 3,
+              "answers": [
+                {
+                  "text": "$644",
+                  "weight": 100
+                },
+                {
+                  "text": "644",
+                  "weight": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "title": "Day 2: Want More Practice?",
+          "body": "<div style=\"font-family:Arial,Helvetica,sans-serif;line-height:1.55;color:#1F2937;max-width:920px;margin:0 auto;\"><div style=\"background:#003462;color:white;border-radius:4px;padding:20px 24px;margin:0 0 16px;\"><div style=\"font-size:12px;color:#FFCF01;\">Day 2 &middot; Unit 1</div><h1 style=\"margin:4px 0 4px;font-size:28px;line-height:1.15;color:white;\">Want More Practice?</h1><div style=\"font-size:17px;line-height:1.35;color:#B5E3F0;\">Optional extra videos and practice for today's skills.</div></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Addition &amp; Subtraction</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=mAvuom42NyY\" style=\"color:#003462;font-weight:bold;\">Math Antics - Multi-Digit Addition (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Carrying, explained step by step.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=Y6M89-6106I\" style=\"color:#003462;font-weight:bold;\">Math Antics - Multi-Digit Subtraction (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Regrouping/borrowing, including zeros.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic/addition-subtraction/two_dig_add_sub\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Add and subtract through 1,000,000</a><br><span style=\"font-size:13px;color:#4B5563;\">Practice sets for multi-digit addition and subtraction, including regrouping.</span></li></ul></div><div style=\"border-left:5px solid #B5E3F0;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Multiplication</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=FJ5qLWP3Fqo\" style=\"color:#003462;font-weight:bold;\">Math Antics - Multi-Digit Multiplication Pt 1 (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Single-digit multiplier, with carrying.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=RVYwunbpMHA\" style=\"color:#003462;font-weight:bold;\">Math Antics - Multi-Digit Multiplication Pt 2 (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Two-digit multiplier and partial products.</span></li></ul></div><div style=\"border-left:5px solid #00B7A3;background:#FFFFFF;border-top:1px solid #CBD5E1;border-right:1px solid #CBD5E1;border-bottom:1px solid #CBD5E1;border-radius:4px;padding:16px 18px;margin:14px 0;\"><h2 style=\"font-size:20px;line-height:1.25;margin:0 0 10px;color:#003462;\">Division</h2><ul style=\"margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=LGqBQrUYua4\" style=\"color:#003462;font-weight:bold;\">Math Antics - Long Division (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">The core divide-multiply-subtract-bring down cycle.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.youtube.com/watch?v=HdU_rf7eMTI\" style=\"color:#003462;font-weight:bold;\">Math Antics - Long Division with 2-Digit Divisors (video)</a><br><span style=\"font-size:13px;color:#4B5563;\">Estimating when the divisor has 2+ digits.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic-home/arithmetic/arith-review-multiply-divide\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Multiplication and division</a><br><span style=\"font-size:13px;color:#4B5563;\">General multiply/divide practice hub.</span></li><li style=\"margin-bottom:10px;\"><a href=\"https://www.khanacademy.org/math/arithmetic-home/multiply-divide/mult-digit-div-2/e/division_3\" style=\"color:#003462;font-weight:bold;\">Khan Academy - Division by 2-digits practice</a><br><span style=\"font-size:13px;color:#4B5563;\">Practice dividing by larger numbers, matching Worksheet 11.</span></li></ul></div></div>"
+        }
+      ]
+    }
+  ]
+}

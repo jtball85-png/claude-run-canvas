@@ -24,6 +24,14 @@ import argparse
 import requests
 from dotenv import load_dotenv
 
+# Windows consoles default to cp1252, which can't encode characters like
+# U+2212 (minus sign) or curly quotes that show up in real question/page
+# text -- reconfigure stdout/stderr to UTF-8 (with replacement on anything
+# still unencodable) so a print() never crashes a live push mid-way through.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 load_dotenv()
 
 TOKEN = os.getenv("CANVAS_API_TOKEN")
@@ -412,7 +420,11 @@ def create_quiz(course_id, module_id, item, dry_run=False):
         {"quiz": {
             "title": item["title"],
             "description": item.get("description", ""),
-            "quiz_type": "assignment",
+            # "practice_quiz" is ungraded/self-check (no gradebook column, unlimited
+            # attempts, shows correct answers) -- used for math self-check drills
+            # that shouldn't count toward a grade. Defaults to "assignment" (graded)
+            # to match every prior template's behavior.
+            "quiz_type": item.get("quiz_type", "assignment"),
             "points_possible": item.get("points_possible", 0),
             "published": False
         }},
