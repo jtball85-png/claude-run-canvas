@@ -8,7 +8,7 @@ We are building a set of tools and scripts that allow Canvas LMS admins and inst
 Business and Finance course (6 modules, 29 items) live in sandbox 301. Computer Basics: Windows 11 Edition course (10 chapters, ~55 items — Pages, Files, Assignments, Quizzes) also live in sandbox 301, built chapter-by-chapter from the Labyrinth Learning instructor package and verified against the CBO and official Answer Key. push_course.py now handles Page, Assignment, Discussion, Quiz, and File (real Canvas file upload, 3-step preflight/upload/confirm) item types.
 
 ## Where we left off
-Last commit: f034062 — Add Getting to Know Canvas tour build script for Intro courses (467/451/468)
+Last commit: 5135cda — End of day 2026-09-28 — context and memory updated
 In progress: uncommitted pre-existing work — templates/computer-basics.json modified; untracked scripts, templates (computer-internet-fundamentals, intro-business-administration, microsoft-outlook-2627), push logs, and 37 generated_worksheets PDFs
 Branch: main
 
@@ -77,6 +77,7 @@ Branch: main
 - Use project-context-updater.html on Cowork-heavy days
 
 ## Change log
+- 2026-09-28 — 5135cda End of day 2026-09-28 — context and memory updated — Source: Claude Code
 - 2026-09-28 — f034062 Add Getting to Know Canvas tour build script for Intro courses (467/451/468) — Source: Claude Code
 - 2026-08-19 — Second module-structure pass on Chapter 1, per further feedback: the 24-item all-separate structure was too fragmented. Merged each reading section with its Hands-On exercise into one combined Page (10 combined/reading-only Pages total, down from 19), and moved the PowerPoint File to sit right after the intro/objectives Page at the top instead of near the end. Module is now 17 items. Skill Builder/Additional Skill Builder/Homework/Quiz assignments and the page+objective tagging were untouched — Source: Claude Code
 - 2026-08-19 — Rebuilt Chapter 1's module structure entirely per Josh's feedback: Hands-On exercises weren't showing up as distinct items, Try This at Home wasn't included as homework, the module didn't follow the book's own order, and items didn't cite book pages or CBO objectives. Deleted the old 5-item Chapter 1 module and rebuilt as 24 items — a Page per concept section AND per Hands-On exercise, in book order (pp. 3-30), plus File/Skill Builders/a new combined Homework assignment/Quiz. Every item now opens with its book page range and which CBO objective(s) it supports (confirmed the book's own chapter-opening objectives match the CBO word-for-word for Chapter 1). This is now the template pattern for Chapters 2-10 once their real pages are captured — Source: Claude Code

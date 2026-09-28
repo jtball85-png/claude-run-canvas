@@ -12,6 +12,34 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 
 ## Sessions
 
+## Session — 2026-09-28 (continued, after first wrap-up)
+
+**Focus:** Finishing Intro course rosters; student roster spreadsheet.
+
+**Decisions made:**
+- Jessica Perez (user 1049, SIS 14703897, jessica.perez@adultedventura.edu) enrolled as active student in 467 Bookkeeping — her Canvas account was created after the earlier roster pass (per staff note: Accounting Clerk student, starting 10/6). Bookkeeping cohort is now 7.
+- Argelia Muro (user 1027) now has SIS ID 7298964 and is in 329 Orientation and 467 — the account used earlier is her real one.
+- Student roster workbook kept outside the git repo (C:\Users\jball.VACE\Documents\Intro Program Students 2026-27.xlsx) so student data is never pushed to GitHub. Final columns per Josh: Photo, Name, School Email, Program; tabs "By Program" and "All Students".
+- Personal email and phone dropped from the workbook (Josh: "that's fine").
+
+**Problems solved:**
+- Student photos pulled from Canvas avatar_url (GET /users/:id?include[]=avatar_url, download with auth header). URLs ending in avatar-50.png are the default placeholder, not a photo.
+
+**Approaches discussed:**
+- Personal emails/phones are not stored in Canvas: each student has one account and only the school email as a communication channel. They must come from the enrollment spreadsheet.
+- skills xlsx recalc.py does not run on this Windows machine (LibreOffice needs socket.AF_UNIX).
+
+**Left unresolved:**
+- No Canvas profile photo yet for Argelia Muro, Jessica Perez, Michelle Torres — workbook shows "No photo".
+- Items from the earlier 2026-09-28 entry still open (Mariya read-only access, 468 Welcome page title, teacherless courses after Susan Vinson's deletion, duplicate admin accounts).
+
+**Files changed this session:**
+ project-context.md             |   7 +-
+ project-memory.md              |  39 +++++++-
+ templates/computer-basics.json | 219 +++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 261 insertions(+), 4 deletions(-)
+(no repo files changed after the first wrap-up; computer-basics.json is pre-existing uncommitted work)
+
 ## Session — 2026-09-28
 
 **Focus:** Setting up the 2026-27 pilot Intro courses (467 Bookkeeping, 451 Business Administration, 468 Business & Accounting) for students; Canvas admin cleanup.
