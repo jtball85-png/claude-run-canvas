@@ -113,12 +113,17 @@ def grading_box(cid):
     assignments = get_all(f"/courses/{cid}/assignments")
     kinds = Counter()
     for a in assignments:
-        if a.get("is_quiz_assignment") or "online_quiz" in a.get("submission_types", []):
-            kinds["Quizzes" if "final" not in a["name"].lower() else "Final Assessment"] += 1
-        else:
-            # "Hands-On 1.4-1.6: ..." / "Skill Builders 2.1-2.3" -> "Hands-On" / "Skill Builder"
-            base = re.split(r"\s*\d", a["name"].split(":")[0])[0].strip()
-            kinds[re.sub(r"(Builder)s$", r"\1", base) or a["name"]] += 1
+        # Drop the numbering so items group by type: "Hands-On 1.4-1.6: ..." -> "Hands-On",
+        # "Hands-On OU2-D7–D9: ..." -> "Hands-On", "Chapter 1 Quiz (eLab)" -> "Quiz (eLab)",
+        # "Skill Builders 2.1-2.3" -> "Skill Builder".
+        label = a["name"].split(":")[0]
+        label = re.sub(r"\S*\d\S*|\bChapters?\b|\bDay\b|&|[–—]", " ", label)
+        label = re.sub(r"(Builder)s\b", r"\1", " ".join(label.split()))
+        if "(Self-Paced Practice)" in label:
+            label = "Self-Paced Practice Review"
+        elif a.get("is_quiz_assignment") and not re.search(r"quiz|test|assessment", label, re.I):
+            label = "Quiz"  # one-off quiz titles like "Desktop Features Check"
+        kinds[label or a["name"]] += 1
     total = sum(a.get("points_possible") or 0 for a in assignments)
     rows = "".join(
         f'<tr><td style="border-bottom:1px solid #E5E7EB;padding:8px 10px;">{k}</td>'
@@ -201,10 +206,11 @@ def main():
         set_tabs(cid, split(args.hide_tabs))
         if args.hide_folders:
             hide_folders(cid, split(args.hide_folders))
-        if args.syllabus:
-            set_syllabus(cid, name)
         publish_modules(cid)
         publish_course(cid)
+        # after publishing: unpublished quizzes report 0 points, which would skew the grading total
+        if args.syllabus:
+            set_syllabus(cid, name)
         if not DRY_RUN:
             report(cid)
 
