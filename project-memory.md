@@ -1,5 +1,5 @@
 # Project Memory
-Last updated: 2026-09-28
+Last updated: 2026-10-02
 
 This file captures decisions, reasoning, and session context that
 project-context.md doesn't hold. It is Claude's memory between sessions.
@@ -11,6 +11,35 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 ---
 
 ## Sessions
+
+## Session — 2026-10-02
+
+**Focus:** Add Nicole Hofferbert as teacher; take Josh's classes live (student menu, publish modules, syllabus, prerequisites), starting with 452.
+
+**Decisions made:**
+- Nicole Hofferbert (user 627, Nicole.Hofferbert@adultedventura.edu) added as active Teacher to 467, 451, 468, 452, 454, 455, 456 (Josh).
+- 452, 454, 455 are Josh's classes: syllabus and Welcome page list only Josh as instructor (Josh). Intro courses 467/451/468 list Josh and Mariya — confirmed already correct.
+- Taken live (452 Computer & Internet Fundamentals, 454 Outlook, 455 Word): student menu Home, Modules, Syllabus, Pages, Assignments, Quizzes, Files, Grades, Rubrics; Discussions hidden (no discussions exist); all modules and items published; course image folders (textbook-images, solution-screenshots, images) hidden from Files so only Presentations show — hidden files still render embedded.
+- Syllabus for each class built from the front page boxes (Course At A Glance, Your Instructor, Course Description, Cohort Schedules, Course Map) plus generated How You're Graded table (total points: 452=603, 454=480, 455=595) and What We Expect box.
+- "Solution" screenshots in 452 are intentional "Example of a Completed Submission" images inside Additional Skill Builder assignments — fine for students to see.
+- Prerequisites (Josh): each "Day ..." module requires the previous Day module; Day 1 and Course Overview / How to Use Class Resources open. Every Day-module item has a completion requirement; no sequential order within a day. Pages/Files/ExternalTool = must_view; online assignments and quizzes = must_submit; eLab (external_tool) and no-submission assignments = must_mark_done (13 items in 454) because eLab grade passback to Canvas is unconfirmed.
+- All of the above is in scripts/go_live_course.py (--syllabus, --hide-tabs, --hide-folders, --prerequisites); safe to re-run.
+
+**Problems solved:**
+- Unpublished Classic Quizzes report 0 points_possible — syllabus grading total must be computed after publishing (454 first showed 293, correct is 480). Script now publishes before writing the syllabus.
+- Re-running go_live_course without --hide-tabs re-showed Discussions; set_tabs now auto-hides Discussions when a course has no discussion topics.
+
+**Left unresolved:**
+- 456 Business Math not yet taken live; Josh not yet asked whether it gets prerequisites.
+- Confirm in Student View that Day 2 shows locked in 452/454/455.
+- If eLab passes scores back to Canvas, switch the 10 eLab quiz/test items in 454 from must_mark_done to must_submit.
+- Nicole is a teacher in all 7 courses but not named on any Welcome page/syllabus (Josh: his classes list only him).
+
+**Files changed this session:**
+ scripts/go_live_course.py      |  51 ++++++++++
+ templates/computer-basics.json | 219 +++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 270 insertions(+)
+(diff vs HEAD~1 only; go_live_course.py was created this session across commits 83c15de, dc7f372, 8f72b67. computer-basics.json is pre-existing uncommitted work)
 
 ## Session — 2026-09-28 (continued, after first wrap-up)
 
