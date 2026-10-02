@@ -16,6 +16,9 @@ Optional per course:
                    boxes, plus a How You're Graded table and expectations
   --hide-tabs      hide extra menu items (e.g. discussions when there are none)
   --hide-folders   hide image folders from the Files browser (embeds still work)
+  --prerequisites  each "Day ..." module requires the previous one, and every
+                   item must be completed (view pages/files, submit assignments
+                   and quizzes, Mark as done for eLab/no-submission assignments)
 
 Prints a summary of anything left unpublished afterward.
 
@@ -52,6 +55,9 @@ def send(method, endpoint, payload=None):
 
 
 def set_tabs(cid, extra_hidden=()):
+    extra_hidden = set(extra_hidden)
+    if not get_all(f"/courses/{cid}/discussion_topics"):
+        extra_hidden.add("discussions")  # an empty Discussions page just confuses students
     visible = [t for t in VISIBLE_TABS if t not in extra_hidden]
     tabs = get_all(f"/courses/{cid}/tabs")
     for pos, tab_id in enumerate(visible, start=1):
@@ -170,6 +176,47 @@ def set_syllabus(cid, course_name):
     print("  syllabus written")
 
 
+def completion_type(item, assignments):
+    """What a student must do for a module item to count as complete."""
+    if item["type"] in ("Page", "File", "ExternalTool", "ExternalUrl"):
+        return "must_view"
+    if item["type"] in ("Quiz", "Discussion"):
+        return "must_submit" if item["type"] == "Quiz" else "must_contribute"
+    if item["type"] == "Assignment":
+        types = assignments[item["content_id"]]["submission_types"]
+        # eLab (external_tool) only "submits" if the tool passes a score back, and
+        # "none"/"on_paper" can't be submitted at all -- use the Mark as done button.
+        if any(t.startswith("online_") for t in types):
+            return "must_submit"
+        return "must_mark_done"
+    return None
+
+
+def set_prerequisites(cid):
+    """Every item in a "Day ..." module gets a completion requirement, and each
+    Day module requires the previous one -- students must finish a whole day
+    before the next unlocks. Overview/resource modules stay open."""
+    assignments = {a["id"]: a for a in get_all(f"/courses/{cid}/assignments")}
+    days = [m for m in get_all(f"/courses/{cid}/modules") if m["name"].startswith("Day ")]
+    days.sort(key=lambda m: m["position"])
+    counts = Counter()
+    prev = None
+    for m in days:
+        for item in get_all(f"/courses/{cid}/modules/{m['id']}/items"):
+            req = completion_type(item, assignments)
+            if not req:
+                continue
+            if (item.get("completion_requirement") or {}).get("type") != req:
+                send("PUT", f"/courses/{cid}/modules/{m['id']}/items/{item['id']}",
+                     {"module_item": {"completion_requirement": {"type": req}}})
+            counts[req] += 1
+        send("PUT", f"/courses/{cid}/modules/{m['id']}", {"module": {
+            "prerequisite_module_ids": [prev["id"]] if prev else [],
+            "require_sequential_progress": False}})
+        prev = m
+    print(f"  prerequisites: {len(days)} Day modules chained; requirements {dict(counts)}")
+
+
 def publish_course(cid):
     c = requests.get(f"{BASE_URL}/courses/{cid}", headers=HEADERS).json()
     if c["workflow_state"] != "available":
@@ -197,6 +244,8 @@ def main():
     ap.add_argument("--hide-tabs", default="", help="extra tab ids to hide, e.g. discussions")
     ap.add_argument("--hide-folders", default="", help="folder names to hide from Files, e.g. textbook-images,images")
     ap.add_argument("--syllabus", action="store_true", help="build syllabus from the front page boxes")
+    ap.add_argument("--prerequisites", action="store_true",
+                    help="chain Day modules and require every item to be completed")
     args = ap.parse_args()
     DRY_RUN = args.dry_run
     split = lambda s: {x.strip() for x in s.split(",") if x.strip()}
@@ -211,6 +260,8 @@ def main():
         # after publishing: unpublished quizzes report 0 points, which would skew the grading total
         if args.syllabus:
             set_syllabus(cid, name)
+        if args.prerequisites:
+            set_prerequisites(cid)
         if not DRY_RUN:
             report(cid)
 
