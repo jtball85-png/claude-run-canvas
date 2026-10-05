@@ -1,5 +1,5 @@
 # Project Memory
-Last updated: 2026-10-02
+Last updated: 2026-10-05
 
 This file captures decisions, reasoning, and session context that
 project-context.md doesn't hold. It is Claude's memory between sessions.
@@ -11,6 +11,35 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 ---
 
 ## Sessions
+
+## Session — 2026-10-05
+
+**Focus:** Put Josh's Computer Basics lesson materials in a student-visible folder in course 452 so students can follow along; fix the Day 2 prerequisite in 454.
+
+**Decisions made:**
+- Only the Slides decks (Day 01-09) go to students, not the .md lesson plans — the .md files are teacher-facing (timings, cold-call questions, hours model) (Josh chose "Slides only").
+- Reinforcement 01 Slides deck left out — it is teacher notes only (seating, login troubleshooting).
+- 452 Files > "Daily Lessons" folder, visible to students immediately (Josh).
+- Decks embed the graded Canvas quizzes with correct answers (163 questions; e.g. Desktop Features Check is verbatim). Josh chose to strip them: each quiz run is replaced with "This check is a graded quiz. Take it in Canvas from today's module."
+- One version of each lesson: teacher decks in `Master Business Finance Program/Lesson Planning/Computer Basics/Daily Lesson Plans/` stay the only source. Student copies are built on the fly by scripts/upload_computer_basics_slides.py and exist only in Canvas (uploaded with on_duplicate=overwrite; 452 file ids 21639-21647, folder 3019).
+- Josh asked how he can know his and students' copies are updated correctly → added `--check` (changes nothing): (1) Canvas copy byte-identical to a fresh student copy of each deck (ok / OUT OF DATE / MISSING / HIDDEN / EXTRA); (2) each deck's practice quiz vs. the graded Canvas quiz of the same title (count, points, wording, choices, correct answers → DIFFERENT). Every upload ends with the same report. Routine: Josh says "update the Computer Basics slides in 452" → run upload, show report. If a quiz is DIFFERENT, ask Josh which side is right — decks and Canvas quizzes are maintained separately.
+
+**Problems solved:**
+- 454 Day 2, Chapter 2: Email had no prerequisite and none of its 14 items had completion requirements (likely wiped by the WebSim rebuild of Day 2), so Day 3 could never unlock. Re-ran go_live_course.set_prerequisites(454): Days 1-6 chained, every Day item has a requirement (must_view 38, must_submit 23, must_mark_done 10).
+- `--check` verified against deliberately edited scratch copies (slide text change, flipped correct answer, reworded question) — all three flagged.
+
+**Left unresolved:**
+- Josh to open a Daily Lessons deck in 452 Student View — Canvas rendering of uploaded .html files not yet seen.
+- scripts/upload_computer_basics_slides.py not committed (Josh not asked yet).
+- Rebuilding a Day module's items can wipe its prerequisite/requirements — re-run `go_live_course.py <id> --prerequisites` after any rebuild.
+
+**Files changed this session:**
+ scripts/add_outlook_websim_access_section.py       | 119 ++++++++++
+ scripts/fix_outlook_day2_overview.py               | 109 +++++++++
+ .../replace_outlook_day2_handson_with_websims.py   | 247 +++++++++++++++++++++
+ templates/computer-basics.json                     | 219 ++++++++++++++++++
+ 4 files changed, 694 insertions(+)
+ (uncommitted, new: scripts/upload_computer_basics_slides.py)
 
 ## Session — 2026-10-02
 
