@@ -1,5 +1,5 @@
 # Project Memory
-Last updated: 2026-10-05
+Last updated: 2026-10-06
 
 This file captures decisions, reasoning, and session context that
 project-context.md doesn't hold. It is Claude's memory between sessions.
@@ -11,6 +11,28 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 ---
 
 ## Sessions
+
+## Session — 2026-10-06
+
+**Focus:** Course 452 — quiz attempts, restoring practice quizzes in the Daily Lessons decks, grading submitted assignments.
+
+**Decisions made:**
+- 452: all 15 quizzes set to 2 attempts, scoring keep_highest (Josh). All 76 assignments already allowed unlimited attempts — unchanged. Template/push_course.py don't set allowed_attempts, so a rebuild from template reverts to 1 attempt.
+- 452 Daily Lessons decks now uploaded unchanged WITH embedded interactive quizzes as student practice (Josh: the "take it in Canvas" placeholder confused students). Reverses 2026-10-05 stripping. Practice questions are identical to the graded quizzes — Josh accepted this. upload_computer_basics_slides.py updated (no stripping; --check compares Canvas copy to the raw deck). New file ids 21774-21782.
+- Grading workflow (Josh): Claude drafts scores against each rubric, shows a table (full credit / partial-zero with reasons / borderline calls), posts only after approval with posted_grade + rubric_assessment + short student comment ending "You can resubmit anytime." only when points are off.
+- Hands-On 1.1 (Log In to Windows): any screenshot gets full credit (Josh). Short written answers graded leniently (Jessica Gonzalez 1.3 "protects your accounts" → 2/2).
+
+**Problems solved:**
+- Graded all 49 pending 452 submissions (15 students): 41 full credit, 8 with points off + note — Jessica Gonzalez 1.2 0/3 (pottery photo, wrong file), Natalia Gonzalez 1.2 0/3 (Recycle Bin not moved), Jeremiah Kims 1.4-1.6 3/4, SB 1.1 3.5/5, 1.7-1.8 1.5/3, 2.1-2.2 2/4, 2.6 1.5/3, 2.7-2.10 0/4. All verified in Canvas; 452 has no manual post policy, so grades are visible to students immediately. 0 submissions left needing grading.
+
+**Left unresolved:**
+- Josh to open a Daily Lessons deck in 452 Student View — Canvas rendering of uploaded .html not yet seen.
+- Adding allowed_attempts: 2 to the 452 template so a rebuild keeps it (offered, not answered).
+
+**Files changed this session:**
+ scripts/upload_computer_basics_slides.py | 271 +++++++++++++++++++++++++++++++
+ templates/computer-basics.json           | 219 +++++++++++++++++++++++++
+ 2 files changed, 490 insertions(+)
 
 ## Session — 2026-10-05
 
