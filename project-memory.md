@@ -12,6 +12,25 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 
 ## Sessions
 
+## Session — 2026-10-07 (checkpoint 3)
+
+**Focus:** 452 Daily Lessons decks showed blank boxes for practice quizzes when opened inside Canvas (fine when downloaded).
+
+**Decisions made:**
+- Cause: Canvas file preview runs HTML with JavaScript disabled; slide nav is pure CSS (works), quiz questions were JS-rendered (blank). Fix in scripts/upload_computer_basics_slides.py `student_copy()`: every question pre-rendered as no-JS HTML/CSS — radio inputs + :checked rules give click-for-instant-feedback (green Correct!/red "Not quite — correct answer: X", :has() highlights the right answer); the one short-answer question (Day 1 Desktop Features Check) uses a <details> "Check Answer" reveal. Source decks unchanged; --check compares Canvas copy to student_copy(). Students can now change their answer (old JS version locked after first click).
+- Students use Chrome and Edge (Josh) — both Chromium; tested in Edge.
+
+**Problems solved:**
+- Tested with headless Edge served from a local server sending `Content-Security-Policy: script-src 'none'`: unfixed Day 2 reproduced the 4 blank boxes; fixed version showed all questions, feedback worked, short answer reveal worked; JS-on (downloaded) copy has 14 questions, no duplicates. Edge's --blink-settings=scriptEnabled=false breaks --screenshot; file:// from scratchpad doesn't load — use localhost.
+- Re-uploaded Day 01-09 to 452 (file ids 22522-22530); check ALL GOOD (9 slides, 15 quizzes).
+
+**Left unresolved:**
+- scripts/upload_computer_basics_slides.py change not committed.
+- Josh to confirm in 452 Student View (Day 2 slide 13) — rendering seen only in the local test, not inside Canvas.
+
+**Files changed this session:**
+ scripts/upload_computer_basics_slides.py | 79 +++++++++++++++++++++++++++-----  (uncommitted)
+
 ## Session — 2026-10-07 (checkpoint 2)
 
 **Focus:** Follow-ups on 452 Chapter 1 grading; commit synced .claude tools.
