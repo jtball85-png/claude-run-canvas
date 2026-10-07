@@ -1,6 +1,6 @@
 ---
 name: end-of-day
-description: End of session wrap-up — capture session memory, update project-context.md, and commit both files. Facts and decisions only.
+description: End of session wrap-up — capture session memory, update project-context.md, commit both files, and push to GitHub. Facts and decisions only.
 ---
 
 # End of Day — Session Wrap-Up
@@ -123,10 +123,36 @@ git status
 
 ---
 
-## 6. Done
+## 6. Push to GitHub
+
+Check whether this project has a remote:
+
+```bash
+git remote -v
+```
+
+If there's no remote, tell the user this project isn't connected to GitHub yet — today's work is only saved locally on this machine — and skip to Step 7.
+
+If there is a remote, push:
+
+```bash
+git push
+```
+
+Handle the result:
+
+- **Push succeeds:** continue to Step 7.
+- **Push is rejected because the remote has commits this machine doesn't have** (most likely: work was done from a different computer without pulling here first): STOP. Do not force push. Tell the user the commit succeeded locally but push was rejected, and offer to pull (merge) and push again — don't do it silently, confirm first, since it may touch `project-memory.md`'s Sessions section on both sides.
+- **Push fails because GitHub is unreachable (network/auth):** tell the user the commit succeeded locally but couldn't be pushed — their work is safe on this machine but not backed up yet. Continue to Step 7.
+
+---
+
+## 7. Done
 
 Tell the user:
 
-"Session captured. Both files committed.
+"Session captured. Both files committed[, and pushed to GitHub / — not pushed, see above]."
 
-Tomorrow: type /start-of-day to pick up where we left off."
+Fill in the bracketed part based on what actually happened in Step 6; drop the brackets.
+
+"Tomorrow: type /start-of-day to pick up where we left off."
