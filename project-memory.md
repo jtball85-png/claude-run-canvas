@@ -12,6 +12,18 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 
 ## Sessions
 
+## Session — 2026-10-07 (checkpoint 2)
+
+**Focus:** Follow-ups on 452 Chapter 1 grading; commit synced .claude tools.
+
+**Problems solved:**
+- Ashley Schultz Hands-On 1.4-1.6: Josh had already set 4/4; follow-up comment posted so the old "screenshot missing" note isn't confusing.
+- Jessica Gonzalez Skill Builder 1.1 reviewed: correct (Media Player first in row 1, Clock first in row 2), 5/5 earned on the rubric. Reply posted to her question: "You did it exactly right. Media Player is first and Clock starts the second row. Great job!"
+- .claude tools from project-template committed (2c82781).
+
+**Files changed this session:**
+ 14 files changed, 951 insertions(+), 41 deletions(-)  (.claude agents, commands, skills)
+
 ## Session — 2026-10-07 (checkpoint)
 
 **Focus:** Grade all course 452 Chapter 1 assignments; add template Claude tools to this project.

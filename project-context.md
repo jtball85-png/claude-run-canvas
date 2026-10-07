@@ -8,8 +8,8 @@ We are building a set of tools and scripts that allow Canvas LMS admins and inst
 Business and Finance course (6 modules, 29 items) live in sandbox 301. Computer Basics: Windows 11 Edition course (10 chapters, ~55 items — Pages, Files, Assignments, Quizzes) also live in sandbox 301, built chapter-by-chapter from the Labyrinth Learning instructor package and verified against the CBO and official Answer Key. push_course.py now handles Page, Assignment, Discussion, Quiz, and File (real Canvas file upload, 3-step preflight/upload/confirm) item types.
 
 ## Where we left off
-Last commit: 78e579b — End of day 2026-10-06 — context and memory updated
-In progress: uncommitted — .claude tools from project-template (3 updated commands; new agents, skills, checkpoint/dev-team/sync-tools commands); pre-existing: templates/computer-basics.json modified, untracked scripts, templates, push logs, generated_worksheets PDFs
+Last commit: 2c82781 — Sync .claude tools from project-template: agents, skills, checkpoint/dev-team/sync-tools; updated start/end-of-day and new-project
+In progress: uncommitted pre-existing work — templates/computer-basics.json modified; untracked scripts, templates, push logs, generated_worksheets PDFs
 Branch: main
 
 ## What's next
@@ -77,6 +77,7 @@ Branch: main
 - Use project-context-updater.html on Cowork-heavy days
 
 ## Change log
+- 2026-10-07 — 2c82781 Sync .claude tools from project-template; replies posted to Ashley and Jessica in 452 — Source: Claude Code
 - 2026-10-07 — Graded 54 Chapter 1 submissions in 452; review-page grading workflow; .claude tools synced from project-template (uncommitted) — Source: Claude Code
 - 2026-10-06 — 104a7eb Add upload_computer_basics_slides.py: Day 01-09 decks to 452 Daily Lessons with --check — Source: Claude Code
 - 2026-10-05 — 89fd044 Add WebSim access section and scrub Day 2 email placeholder in Outlook course 454 — Source: Claude Code
