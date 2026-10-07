@@ -1,5 +1,5 @@
 # Project Memory
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 This file captures decisions, reasoning, and session context that
 project-context.md doesn't hold. It is Claude's memory between sessions.
@@ -11,6 +11,30 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 ---
 
 ## Sessions
+
+## Session — 2026-10-07 (checkpoint)
+
+**Focus:** Grade all course 452 Chapter 1 assignments; add template Claude tools to this project.
+
+**Decisions made:**
+- Grading rules (Josh): ALWAYS read submission comments (include[]=submission_comments) and check ALL attempts (submission_history) before drafting. For every points-off submission, build a local HTML review page (scratchpad, opened with `start`, not published — student work): requirements, each attempt's screenshots, rubric posted vs. recommended, student comments, our note, red recommendation box, SpeedGrader link (courses/452/gradebook/speed_grader?assignment_id=X&student_id=Y).
+- Chapter 1 leniency (Josh): Skill Builder 1.1 and Hands-On 1.7-1.8 full credit for all who submitted; Windows 10 students (Natalia Gonzalez) full credit on Start-menu assignments; Arely Menchaca and Yesenia Hernandez Cortez full credit.
+- .claude tools copied from `Claude Projects Templates/project-template/.claude`: agents architect/coder/manager/tester; commands checkpoint, dev-team, sync-tools; skills audit-phase, markitdown, publish-to-github. start-of-day / end-of-day / new-project overwritten with template versions (Josh chose "use template versions"): start-of-day now git pulls, end-of-day now pushes, new-project asks app vs. general first.
+
+**Problems solved:**
+- Graded 54 pending Chapter 1 submissions in 452 (assignments 8386-8395, Day 1-2 modules 2042/2043): 53 full credit, Ashley Schultz Hands-On 1.4-1.6 initially 2/4. All verified in Canvas.
+- Review-page test on Ashley found attempt 1 had the "missing" Calculator-open screenshot. Josh changed her to 4/4 in Canvas; follow-up comment posted ("Found your Calculator screenshot in your first attempt. Full credit, no need to resubmit!").
+- Student comments read: Natalia (Win10, ×4), Manuela Lopez and Michelle Torres (no Clock app), Manuela 1.2 (Chromebook), Jessica Gonzalez on Skill Builder 1.1 asked whether she did it right — unanswered.
+
+**Left unresolved:**
+- .claude tool changes (3 modified commands, new agents/commands/skills) are uncommitted — offered to commit/push, not answered.
+- Jessica Gonzalez's Skill Builder 1.1 comment has no reply.
+
+**Files changed this session:**
+ .claude/commands/end-of-day.md   |  34 +++++-
+ .claude/commands/new-project.md  | 237 +++++++++++++++++++++++++++++++++------
+ .claude/commands/start-of-day.md |  39 ++++++-
+ (uncommitted; plus new .claude/agents/, .claude/skills/, checkpoint.md, dev-team.md, sync-tools.md)
 
 ## Session — 2026-10-06
 
