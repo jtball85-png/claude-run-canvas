@@ -12,6 +12,27 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 
 ## Sessions
 
+## Session — 2026-10-08 (checkpoint 2)
+
+**Focus:** Fix 452 Chapter 2 exercise instructions (Hands-On 2.1-2.2, 2.3, 2.7-2.10) in Canvas, templates, and Day 3 lesson plan/slides.
+
+**Decisions made:**
+- 2.1-2.2: example image replaced with Josh's own snapped File Explorer screenshot, with OneDrive name, colleague names, recent files and a "Cindy Docs" icon blurred (Josh loved the blur, now a standing rule for teacher screenshots). Canvas file 22677 "HO 2.2 Snap Example.png" (hidden textbook-images folder); local copy in Extracted Solutions/Chapter 2. "What to submit" asks for whole screen, File Explorer filling exactly half.
+- 2.3: classroom PCs aren't touchscreens, so submission is now Text Entry with one question only: "Does your computer support touch? (Yes or No)" (Josh dropped the Pen and touch text question). Rubric 461 criterion reworded in place (same ids), still 2 pts. Day 3 Overview says "written answer".
+- 2.7-2.10: amber note added: if Alt+Tab can't be captured, submit a Task View screenshot showing Calculator, Notepad and Paint, plus a comment; full credit either way. Rubric 464 reworded in place to accept Alt+Tab box or Task View.
+
+**Problems solved:**
+- All changes verified in 452; posted grades untouched (rubrics edited in place, not replaced). Both templates (computer-internet-fundamentals.json, computer-basics.json) updated to match. Day 03 Slides, Day 03 Lesson Plan.md and lesson-plan-content.json updated (Master Business Finance Program/Lesson Planning/Computer Basics/Daily Lesson Plans); all 9 decks re-uploaded to 452, check ALL GOOD.
+
+**Left unresolved:**
+- 2.7-2.10 example images (HO 2.7-2.10) don't show the Alt+Tab box or Task View; Josh may send a Task View screenshot (blur before use).
+- Template changes uncommitted: templates/computer-basics.json (also had older uncommitted changes), templates/computer-internet-fundamentals.json (untracked), scripts/upload_computer_basics_slides.py.
+
+**Files changed this session:**
+ scripts/upload_computer_basics_slides.py |  79 +++++- (older, uncommitted)
+ templates/computer-basics.json           | 461 ++++++++++++++++++++++++++++++- (uncommitted)
+ templates/computer-internet-fundamentals.json (untracked)
+
 ## Session — 2026-10-08 (checkpoint)
 
 **Focus:** Grade course 452 assignments through Day 3, Chapter 2 (assignments 8386-8405).
