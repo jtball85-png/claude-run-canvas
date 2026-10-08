@@ -1,5 +1,5 @@
 # Project Memory
-Last updated: 2026-10-07
+Last updated: 2026-10-08
 
 This file captures decisions, reasoning, and session context that
 project-context.md doesn't hold. It is Claude's memory between sessions.
@@ -11,6 +11,26 @@ project-context.md doesn't hold. It is Claude's memory between sessions.
 ---
 
 ## Sessions
+
+## Session — 2026-10-08 (checkpoint)
+
+**Focus:** Grade course 452 assignments through Day 3, Chapter 2 (assignments 8386-8405).
+
+**Decisions made:**
+- Josh: Windows 10 students get full credit where Win10 differs (Argelia 1.4-1.6, Natalia 2.1-2.2, Ashley 2.6); also full credit for Ashley 2.1-2.2 (snapped Chrome, not File Explorer), Rick 2.6 (app list cut off), Jose Skill Builders 2.1-2.3 (screenshot 3 after Show Desktop), Jessica Perez 2.7-2.10 (no Alt+Tab, no comment).
+- Hands-On 2.7-2.10: full credit class-wide. The Snipping Tool closes the Alt+Tab box; 7 students commented on it.
+- Josh asked whether resubmissions are caught. From now on every grading draft gets its own "Resubmissions" section (old score → new), even when empty.
+
+**Problems solved:**
+- Posted 82 pending submissions (15 students), all full credit, no comments; verified all 82 in Canvas; 0 left needing grading through Day 3. No pending resubmissions; the 9 earlier resubmissions were already graded on their latest attempt.
+- Jeremiah Kims Hands-On 2.7-2.10 raised 0/4 → 4/4 (Josh approved), with comment "Updated to full credit. The Snipping Tool can't capture the Alt+Tab box, so no need to resubmit!"
+
+**Left unresolved:**
+- Josh to review the Hands-On 2.7-2.10 instructions next (Alt+Tab can't be captured with the Snipping Tool; options: Task View screenshot or Snipping Tool delay timer).
+- scripts/upload_computer_basics_slides.py and templates/computer-basics.json still uncommitted.
+
+**Files changed this session:**
+ none in the repo (Canvas grading only)
 
 ## Session — 2026-10-07 (checkpoint 3)
 

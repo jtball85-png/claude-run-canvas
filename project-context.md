@@ -1,5 +1,5 @@
 # Project: Claude Run Canvas
-Last updated: 2026-10-07 by Claude Code
+Last updated: 2026-10-08 by Claude Code
 
 ## What this project is
 We are building a set of tools and scripts that allow Canvas LMS admins and instructors at Ventura Adult and Continuing Education to use Claude and the Canvas API to manage, build, and standardize courses. The project is for the admin team (starting with two contributors) and aims to bring consistency across 4–5 programs by creating shared course templates, reducing manual repetitive work, and giving instructors a smarter way to build and maintain their Canvas content.
@@ -8,7 +8,7 @@ We are building a set of tools and scripts that allow Canvas LMS admins and inst
 Business and Finance course (6 modules, 29 items) live in sandbox 301. Computer Basics: Windows 11 Edition course (10 chapters, ~55 items — Pages, Files, Assignments, Quizzes) also live in sandbox 301, built chapter-by-chapter from the Labyrinth Learning instructor package and verified against the CBO and official Answer Key. push_course.py now handles Page, Assignment, Discussion, Quiz, and File (real Canvas file upload, 3-step preflight/upload/confirm) item types.
 
 ## Where we left off
-Last commit: 6adb998 — Checkpoint 2026-10-07 — mid-session save
+Last commit: 486efe8 — Checkpoint 2026-10-07 — mid-session save
 In progress: uncommitted — scripts/upload_computer_basics_slides.py (no-JS practice quizzes for Canvas preview); pre-existing: templates/computer-basics.json modified, untracked scripts, templates, push logs, generated_worksheets PDFs
 Branch: main
 
@@ -77,6 +77,7 @@ Branch: main
 - Use project-context-updater.html on Cowork-heavy days
 
 ## Change log
+- 2026-10-08 — Graded all 452 submissions through Day 3 (82 full credit + Jeremiah 2.7-2.10 raised to 4/4); 2.7-2.10 instructions review next — Source: Claude Code
 - 2026-10-07 — 452 Daily Lessons practice quizzes now render without JavaScript in Canvas preview; re-uploaded Day 01-09 (script change uncommitted) — Source: Claude Code
 - 2026-10-07 — 2c82781 Sync .claude tools from project-template; replies posted to Ashley and Jessica in 452 — Source: Claude Code
 - 2026-10-07 — Graded 54 Chapter 1 submissions in 452; review-page grading workflow; .claude tools synced from project-template (uncommitted) — Source: Claude Code
