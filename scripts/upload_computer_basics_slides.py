@@ -4,17 +4,23 @@ upload_computer_basics_slides.py
 Uploads the Computer Basics daily slide decks (Day 01-09) into a student-visible
 "Daily Lessons" folder in a course's Files so students can follow along in class.
 
-The decks are uploaded exactly as they are in the hub project, including the
-embedded interactive quizzes -- students take every quiz and test in the deck
-as practice (with instant feedback) before the graded Canvas version (Josh,
-2026-10-06: a "take it in Canvas" placeholder confused students). The source
-files are never modified.
+Students take every quiz and test in the deck as practice (with instant
+feedback) before the graded Canvas version (Josh, 2026-10-06: a "take it in
+Canvas" placeholder confused students).
+
+Canvas's file preview runs HTML with JavaScript disabled. Slide navigation is
+pure CSS and works, but the source decks draw quiz questions with JavaScript,
+so in the preview they showed as blank boxes (Josh, 2026-10-07). The uploaded
+copy therefore has every question pre-rendered as plain HTML/CSS: radio buttons
+plus :checked rules give the same click-for-instant-feedback behavior with no
+script, and the one short-answer question uses a <details> "Check answer"
+reveal. The source decks are never modified.
 
 Re-running overwrites the existing copies in the folder (Canvas on_duplicate=overwrite).
 Every upload ends with the same report --check prints.
 
 --check changes nothing. It reports:
-  1. Slides: is each Canvas copy byte-identical to the current deck? (OUT OF DATE = deck edited since the last upload.)
+  1. Slides: is each Canvas copy byte-identical to the student copy built from the current deck? (OUT OF DATE = deck edited since the last upload.)
   2. Quizzes: does each deck's practice quiz match the real graded Canvas quiz
      of the same title (question count, points, question text, answer choices,
      correct answers)? Decks and Canvas quizzes are maintained separately, so
@@ -57,6 +63,58 @@ QUIZ_SLIDE = re.compile(
     + QUIZ_RUN.pattern + ")",
     re.S,
 )
+
+# Injected before </style>: no-JavaScript quiz behavior for the uploaded copy.
+# .sq must be position: relative. Otherwise the hidden absolute radios escape the
+# scrolling slide pane, stretch the page, and clicking an answer scrolls the whole
+# page past the quiz to a blank screen (Josh, 2026-10-12).
+STATIC_QUIZ_CSS = """
+  .sq { display: flex; flex-direction: column; gap: 6px; position: relative; }
+  .sq-in { position: absolute; opacity: 0; pointer-events: none; }
+  .sq-opt { display: block; }
+  .sq-ok, .sq-no { display: none; }
+  .sq-in.c:checked + .sq-opt { border-color: #1E8E5A; background: #E4F5EC; color: #1E8E5A; font-weight: 600; }
+  .sq-in.w:checked + .sq-opt { border-color: #C0392B; background: #FBE7E5; color: #C0392B; }
+  .sq:has(.sq-in.w:checked) .sq-in.c + .sq-opt { border-color: #1E8E5A; background: #E4F5EC; color: #1E8E5A; font-weight: 600; }
+  .sq-in.c:checked ~ .sq-ok, .sq-in.w:checked ~ .sq-no { display: block; }
+  .sq-in:focus-visible + .sq-opt { outline: 2px solid var(--navy); outline-offset: 2px; }
+  .sq-reveal { margin-top: 8px; }
+  .sq-reveal summary { cursor: pointer; display: inline-block; padding: 8px 16px; border-radius: 4px; background: var(--navy); color: white; font-weight: 600; font-size: 14px; }
+"""
+QUESTION = re.compile(
+    r"<div class='quiz-question' id='qq-(\d+)'><script type='application/json' "
+    r"class='quiz-data'>(.*?)</script></div>",
+    re.S,
+)
+
+
+def static_question(n, q):
+    """Renders one quiz-data question as HTML that needs no JavaScript."""
+    esc = html.escape
+    out = [f"<div class='quiz-question' id='qq-{n}'><div class='quiz-question-text'>{esc(q['text'])}</div>"]
+    if q["type"] == "short_answer_question":
+        out.append("<div class='quiz-input-row'><input type='text' placeholder='Type the answer'></div>"
+                   "<details class='sq-reveal'><summary>Check Answer</summary>"
+                   f"<div class='quiz-feedback ok'>Answer: {esc(q['accepted'][0])}</div></details>")
+    else:
+        right = ", ".join(a["text"] for a in q["answers"] if a["correct"])
+        out.append("<div class='sq'>")
+        for i, a in enumerate(q["answers"]):
+            out.append(f"<input type='radio' class='sq-in {'c' if a['correct'] else 'w'}' name='sq-{n}' id='sq-{n}-{i}'>"
+                       f"<label class='quiz-opt sq-opt' for='sq-{n}-{i}'>{esc(a['text'])}</label>")
+        out.append("<div class='quiz-feedback ok sq-ok'>Correct!</div>"
+                   f"<div class='quiz-feedback no sq-no'>Not quite — correct answer: {esc(right)}</div></div>")
+    out.append("</div>")
+    return "".join(out)
+
+
+def student_copy(deck):
+    """The uploaded version: every quiz question pre-rendered without JavaScript."""
+    out, n = QUESTION.subn(lambda m: static_question(m.group(1), json.loads(m.group(2))), deck)
+    out = out.replace("</style>", STATIC_QUIZ_CSS + "</style>", 1)
+    if "class='quiz-data'" in out:
+        raise ValueError("a quiz question was not converted")
+    return out, n
 
 
 def display_name(path):
@@ -125,7 +183,7 @@ def upload(course_id, name, content):
 # ---------------------------------------------------------------------------
 
 def check_slides(course_id, decks):
-    """Compares each Canvas copy to the current deck. Returns problem count."""
+    """Compares each Canvas copy to the student copy of the current deck. Returns problem count."""
     print("\nSLIDES in Files > Daily Lessons (Canvas copy vs. your current deck)")
     folder = find_folder(course_id)
     if not folder:
@@ -145,7 +203,7 @@ def check_slides(course_id, decks):
             print(f"  MISSING   {name}")
             problems += 1
             continue
-        want = read(path).encode("utf-8")
+        want = student_copy(read(path))[0].encode("utf-8")
         got = requests.get(f["url"], headers=HEADERS).content
         if got != want:
             print(f"  OUT OF DATE  {name}  (deck changed since last upload -- re-run without --check)")
@@ -255,14 +313,14 @@ def main():
 
     ensure_folder(args.course, args.dry_run)
     for path in decks:
-        content = read(path)
-        n = len(QUIZ_SLIDE.findall(content))
+        content, q = student_copy(read(path))
+        n = len(QUIZ_SLIDE.findall(read(path)))
         name = display_name(path)
         if args.dry_run:
-            print(f"  [dry-run] {name} ({n} practice quizzes)")
+            print(f"  [dry-run] {name} ({n} practice quizzes, {q} questions)")
             continue
         f = upload(args.course, name, content)
-        print(f"  uploaded {name} ({n} practice quizzes) -> file {f['id']}")
+        print(f"  uploaded {name} ({n} practice quizzes, {q} questions) -> file {f['id']}")
     if not args.dry_run:
         check(args.course, decks)
 
