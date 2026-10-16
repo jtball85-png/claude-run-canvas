@@ -59,7 +59,7 @@ QUIZ_RUN = re.compile(
 )
 # A quiz slide: <h2>Title</h2><div class='body'><p>3 questions &middot; 3 pts</p> + question run
 QUIZ_SLIDE = re.compile(
-    r"<h2>([^<]*)</h2><div class='body'><p>(\d+) questions &middot; ([\d.]+) pts</p>("
+    r"<h2>([^<]*)</h2><div class='body'><p>(\d+) questions? &middot; ([\d.]+) pts</p>("
     + QUIZ_RUN.pattern + ")",
     re.S,
 )
@@ -79,6 +79,8 @@ STATIC_QUIZ_CSS = """
   .sq-in.c:checked ~ .sq-ok, .sq-in.w:checked ~ .sq-no { display: block; }
   .sq-in:focus-visible + .sq-opt { outline: 2px solid var(--navy); outline-offset: 2px; }
   .sq-reveal { margin-top: 8px; }
+  .sq-match { margin-top: 14px; }
+  .sq-prompt { font-weight: 600; color: var(--navy); }
   .sq-reveal summary { cursor: pointer; display: inline-block; padding: 8px 16px; border-radius: 4px; background: var(--navy); color: white; font-weight: 600; font-size: 14px; }
 """
 QUESTION = re.compile(
@@ -91,8 +93,20 @@ QUESTION = re.compile(
 def static_question(n, q):
     """Renders one quiz-data question as HTML that needs no JavaScript."""
     esc = html.escape
-    out = [f"<div class='quiz-question' id='qq-{n}'><div class='quiz-question-text'>{esc(q['text'])}</div>"]
-    if q["type"] == "short_answer_question":
+    text = clean(q["text"]) if "<" in q["text"] else q["text"]
+    out = [f"<div class='quiz-question' id='qq-{n}'><div class='quiz-question-text'>{esc(text)}</div>"]
+    if q["type"] == "matching_question":
+        # One radio row per prompt: pick its match from the shared option list
+        for p, pr in enumerate(q["prompts"]):
+            right = next((o["text"] for o in q["options"] if o["id"] == pr["match_id"]), "")
+            out.append(f"<div class='sq sq-match'><div class='sq-prompt'>{esc(pr['text'])}</div>")
+            for i, o in enumerate(q["options"]):
+                ok = o["id"] == pr["match_id"]
+                out.append(f"<input type='radio' class='sq-in {'c' if ok else 'w'}' name='sq-{n}-{p}' id='sq-{n}-{p}-{i}'>"
+                           f"<label class='quiz-opt sq-opt' for='sq-{n}-{p}-{i}'>{esc(o['text'])}</label>")
+            out.append("<div class='quiz-feedback ok sq-ok'>Correct!</div>"
+                       f"<div class='quiz-feedback no sq-no'>Not quite — correct answer: {esc(right)}</div></div>")
+    elif q["type"] == "short_answer_question":
         out.append("<div class='quiz-input-row'><input type='text' placeholder='Type the answer'></div>"
                    "<details class='sq-reveal'><summary>Check Answer</summary>"
                    f"<div class='quiz-feedback ok'>Answer: {esc(q['accepted'][0])}</div></details>")
@@ -229,6 +243,11 @@ def deck_question(q):
     if q["type"] == "short_answer_question":
         accepted = frozenset(clean(a) for a in q["accepted"])
         return q["type"], clean(q["text"]), accepted, accepted
+    if q["type"] == "matching_question":
+        opts = {o["id"]: clean(o["text"]) for o in q["options"]}
+        choices = tuple(clean(p["text"]) for p in q["prompts"]) + tuple(sorted(opts.values()))
+        correct = frozenset(f"{clean(p['text'])} = {opts.get(p['match_id'], '')}" for p in q["prompts"])
+        return q["type"], clean(q["text"]), choices, correct
     choices = tuple(clean(a["text"]) for a in q["answers"])
     correct = frozenset(clean(a["text"]) for a in q["answers"] if a["correct"])
     return q["type"], clean(q["text"]), choices, correct
@@ -239,6 +258,12 @@ def canvas_question(q):
     if q["question_type"] == "short_answer_question":
         accepted = frozenset(clean(a["text"]) for a in q["answers"])
         return q["question_type"], clean(q["question_text"]), accepted, accepted
+    if q["question_type"] == "matching_question":
+        rights = {clean(a["right"]) for a in q["answers"]}
+        rights |= {clean(x) for x in (q.get("matching_answer_incorrect_matches") or "").splitlines() if x.strip()}
+        choices = tuple(clean(a["left"]) for a in q["answers"]) + tuple(sorted(rights))
+        correct = frozenset(f"{clean(a['left'])} = {clean(a['right'])}" for a in q["answers"])
+        return q["question_type"], clean(q["question_text"]), choices, correct
     choices = tuple(clean(a["text"]) for a in q["answers"])
     correct = frozenset(clean(a["text"]) for a in q["answers"] if float(a.get("weight") or 0) > 0)
     return q["question_type"], clean(q["question_text"]), choices, correct
